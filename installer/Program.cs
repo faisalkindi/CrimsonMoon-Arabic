@@ -16,6 +16,7 @@ namespace CrimsonMoonArabic
 {
     static class Program
     {
+        public const string Version = "0.2.0";
         const string AppId = "4317690";            // Crimson Moon (Steam install dir "Crimson Moon")
         // relative path inside the game folder -> file name inside payload.zip
         static readonly (string dir, string file)[] ModFiles =
@@ -285,6 +286,15 @@ namespace CrimsonMoonArabic
             close.MouseLeave += (s, e) => { close.ForeColor = Ui.Muted; };
             Controls.Add(close);
 
+            var ver = new Label
+            {
+                Text = "v" + Program.Version, Font = new Font("Segoe UI", 9f), ForeColor = Ui.Muted,
+                AutoSize = false, Size = new Size(80, 30), Location = new Point(ClientSize.Width - 92, 14),
+                TextAlign = ContentAlignment.MiddleRight, RightToLeft = RightToLeft.No, BackColor = Color.Transparent
+            };
+            ver.MouseDown += DragStart;
+            Controls.Add(ver);
+
             var logo = new PictureBox
             {
                 Image = Ui.LoadLogo(), SizeMode = PictureBoxSizeMode.Zoom, BackColor = Color.Transparent,
@@ -303,7 +313,7 @@ namespace CrimsonMoonArabic
 
             var tagline = new Label
             {
-                Text = "ترجمة كاملة لكل نصوص اللعبة والحوارات والقصة · خط عربي مدمج",
+                Text = "ترجمة كاملة لكل نصوص اللعبة والحوارات والقصة",
                 Font = Ui.F(9f), ForeColor = Ui.Muted,
                 AutoSize = false, UseCompatibleTextRendering = true, TextAlign = ContentAlignment.MiddleCenter,
                 Size = new Size(ClientSize.Width, 30), Location = new Point(0, 298), BackColor = Color.Transparent
@@ -332,7 +342,7 @@ namespace CrimsonMoonArabic
             btnUninstall = new RoundButton
             {
                 Text = "إزالة اللغة العربية", Font = Ui.F(12f, FontStyle.Bold), Size = new Size(480, 52),
-                Location = new Point((ClientSize.Width - 480) / 2, 514), Base = Color.FromArgb(28, Ui.Gold), Hover = Color.FromArgb(60, Ui.Gold),
+                Location = new Point((ClientSize.Width - 480) / 2, 514), Base = Color.FromArgb(26, 30, 34), Hover = Color.FromArgb(40, 46, 52),
                 Fg = Ui.Gold, Outline = Color.FromArgb(150, Ui.Gold), Radius = 14
             };
             btnUninstall.Click += OnUninstall; Controls.Add(btnUninstall);
@@ -355,8 +365,8 @@ namespace CrimsonMoonArabic
             var kofi = new RoundButton
             {
                 Text = "أعجبك التعريب؟ ادعمني على Ko-fi", Font = Ui.F(10.5f, FontStyle.Bold), Size = new Size(440, 46),
-                Location = new Point((ClientSize.Width - 440) / 2, 676), Base = Color.FromArgb(22, Ui.Gold), Hover = Color.FromArgb(55, Ui.Gold),
-                Fg = Ui.Text, Outline = Color.FromArgb(120, Ui.Gold), Radius = 23
+                Location = new Point((ClientSize.Width - 440) / 2, 676), Base = Color.FromArgb(22, 26, 30), Hover = Color.FromArgb(36, 42, 48),
+                Fg = Ui.Text, Outline = Color.FromArgb(120, Ui.Gold), Radius = 14
             };
             kofi.Click += (s, e) => { try { Process.Start(new ProcessStartInfo("https://ko-fi.com/kindiboy") { UseShellExecute = true }); } catch { } };
             Controls.Add(kofi);
