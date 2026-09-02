@@ -1,37 +1,77 @@
-# Crimson Moon — Arabic Localization
+<p align="center"><a href="https://ko-fi.com/kindiboy"><img src="https://img.shields.io/badge/Ko--fi-%D8%A3%D8%B9%D8%AC%D8%A8%D9%83%20%D8%A7%D9%84%D8%AA%D8%B9%D8%B1%D9%8A%D8%A8%D8%9F%20%D8%A7%D8%AF%D8%B9%D9%85%D9%86%D9%8A%20%D8%B9%D9%84%D9%89%20Ko--fi-ff5f5f?style=for-the-badge&logo=kofi&logoColor=white" alt="Support on Ko-fi"></a></p>
 
-Complete Arabic localization mod for **Crimson Moon** (ProbablyMonsters, Unreal Engine 5, Steam build 1.0.0.160034): every string in `Game.locres` (8,600+ rows), the intro and ending cinematic subtitles, and Arabic glyphs merged into the game's own fonts. Ships as an IoStore patch triple plus two `.srt` files; no original game file is modified.
+<p align="center"><img src="release/media/01_header_1400x400.jpg" alt="Crimson Moon — التعريب العربي الكامل" width="100%"></p>
 
-Player-facing description and install steps: [`release/dist/NEXUS_DESCRIPTION.md`](release/dist/NEXUS_DESCRIPTION.md).
+<h1 align="center">Crimson Moon — التعريب العربي الكامل</h1>
+<p align="center">Complete Arabic localization for <b>Crimson Moon</b> (Steam) · تعريب كامل للعبة</p>
 
-## Layout
+<p align="center">
+  <a href="https://github.com/faisalkindi/CrimsonMoon-Arabic/releases/latest/download/CrimsonMoon_Arabic_Installer.zip"><b>⬇ تحميل المثبّت / Download installer</b></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/faisalkindi/CrimsonMoon-Arabic/releases/latest/download/CrimsonMoon_Arabic_Manual.zip">ملفات التثبيت اليدوي / Manual files</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/faisalkindi/CrimsonMoon-Arabic/releases">كل الإصدارات / All releases</a>
+  &nbsp;·&nbsp;
+  <a href="https://ko-fi.com/kindiboy">☕ Ko-fi</a>
+</p>
 
-| Path | What |
+---
+
+## العربية
+
+**ماذا يعرّب؟** كل نصوص اللعبة (أكثر من 8,600 سطر): القوائم والإعدادات، الحوارات، أوصاف الأسلحة والدروع والبركات، المهام، رسائل التعليم، ملاحظات القصة، وترجمة مشهدي المقدمة والخاتمة.
+
+**المميزات**
+- تُضاف العربية كلغة داخل اللعبة (تظهر باسم «Arabic») ولا تستبدل أي لغة أخرى.
+- خط عربي مدمج في خطوط اللعبة الأصلية، فتبقى الحروف اللاتينية والواجهة كما صمّمها المطوّر.
+- قوائم من اليمين إلى اليسار، شريط تبويبات وخريطة أزرار معكوسة.
+- مصطلحات موحّدة عبر اللعبة كلها (مسرد يضم 190+ مصطلحًا)، مراجعة تحريرية مستقلة، ثم مراجعة دلالية مزدوجة لكل سطر.
+- لا يعدّل أي ملف أصلي من ملفات اللعبة. الإزالة بنقرة واحدة.
+
+**التثبيت (المثبّت)**
+1. أغلق اللعبة.
+2. حمّل `CrimsonMoon_Arabic_Installer.zip` من الرابط أعلاه وفكّ الضغط.
+3. شغّل `Crimson Moon Arabic Installer.exe` — يكتشف مجلد اللعبة من Steam تلقائيًا (أو حدّده يدويًا) — ثم اضغط «تثبيت اللغة العربية».
+4. داخل اللعبة: الإعدادات ← إمكانية الوصول ← تغيير اللغة ← «Arabic» ← تطبيق، ثم أعد تشغيل اللعبة.
+
+**التثبيت اليدوي**: فكّ `CrimsonMoon_Arabic_Manual.zip` داخل مجلد اللعبة (`...\steamapps\common\Crimson Moon\`). يضع ثلاثة ملفات في `CrimsonMoonNG\Content\Paks\` وملفي ترجمة في `CrimsonMoonNG\Content\Movies\`.
+
+**الإزالة**: المثبّت ← «إزالة اللغة العربية»، أو احذف الملفات الخمسة نفسها.
+
+## English
+
+**What it covers.** Every string in the game (8,600+ lines): menus and settings, dialogue, weapon/armor/boon descriptions, quests, tutorials, lore notes, plus the intro and ending cinematic subtitles.
+
+**Features**
+- Arabic appears as its own language in the settings («Arabic»); nothing else is replaced.
+- Arabic glyphs merged into the game's own fonts, so Latin text and UI keep the original design.
+- Right-to-left menus, mirrored tab bar and controller map.
+- Consistent terminology (190+ term glossary), an independent editorial pass, then a dual semantic review of every line.
+- No original game file is modified. One-click uninstall.
+
+**Install (installer)**
+1. Close the game.
+2. Download `CrimsonMoon_Arabic_Installer.zip` above and unzip it.
+3. Run `Crimson Moon Arabic Installer.exe`; it finds the Steam install (or pick the folder), then click the red install button.
+4. In game: Settings → Accessibility → Change Language → «Arabic» → Apply, then restart the game.
+
+**Manual install**: unzip `CrimsonMoon_Arabic_Manual.zip` into the game folder (`...\steamapps\common\Crimson Moon\`). It places three files in `CrimsonMoonNG\Content\Paks\` and two subtitle files in `CrimsonMoonNG\Content\Movies\`.
+
+**Uninstall**: installer → uninstall button, or delete those five files.
+
+## Screenshots
+
+| | |
 |---|---|
-| `PROJECT_STATE.md` | Running log: recon, decisions, every stage with dates |
-| `01_corpus.jsonl` | Tagged source corpus (category, speaker, genders, placeholders, skip flags) |
-| `03_working_draft.jsonl`, `04_final_corpus_v0.2.jsonl` | Merged Arabic corpus with per-row provenance |
-| `04_game_context.md`, `04b_corpus_speaker_notes.md`, `character_cards.yaml` | World, cast, voices, gender evidence |
-| `05_glossary.csv`, `05_glossary_rationale.md` | Frozen terminology (188 terms) and why |
-| `06_arabic_style_guide.md` | Register, gender, punctuation, locked decisions |
-| `07_pilot_findings.md` | Pilot results and rules folded into the pipeline |
-| `translated/` | Stage outputs: `vllm_*` primary, `edit_*`, `verify_*`, `flow_*`, `qa_*`, `review_*`, `cues_*` |
-| `review_findings/` | Dual-pass semantic review findings (A = Opus, B = Sonnet) |
-| `installer/` | .NET 8 WinForms installer source |
-| `release/` | Nexus texts and media |
+| ![Main menu](release/media/02_main_menu_1920x1080.jpg) | ![Controller map](release/media/03_settings_controller_1920x1080.jpg) |
+| ![Save slots](release/media/04_save_slots_1920x1080.jpg) | ![Installer](release/media/05_installer_1920x1080.jpg) |
 
-## Pipeline (numbered scripts)
+## Notes
 
-1. `01_build_corpus.py` tag corpus → `20_apply_cast.py` speaker/addressee genders
-2. `100_build_batches.py` compile context-rich batches → `110_vllm_translate.py` primary draft (local vLLM)
-3. Editorial pass (Sonnet subagents, ~400-row chunks) → `140_diff_verify_prep.py` → verify pass (Opus, ~90-row chunks)
-4. `200_prep_flow_chunks.py` → flow pass (Opus, contiguous scenes/notes)
-5. `210_prep_review_chunks.py` → dual semantic review with seeded control chunk → `220_apply_findings.py`
-6. `50_mechanical_fix.py` deterministic sweep · `40_qa_validate.py` blocking validator · `70_derive_cues.py` subtitle cues
-7. `80_build_locres.py` locres · `90_build_fonts.py` fonts · `build_mod.sh` pack + install
+- Version 0.2 for Steam build 1.0.0.160034. Short UI labels may still be tuned in later releases; report anything clipped or wrong in [Issues](https://github.com/faisalkindi/CrimsonMoon-Arabic/issues).
+- Compatibility: other mods that replace the same fonts or the `ar` locres will conflict.
+- Font: SST Arabic (Samsung), used for non-commercial purposes only.
+- Terminology and the reasoning behind every term: [`05_glossary_rationale.md`](05_glossary_rationale.md).
+- Contributors: see [`PIPELINE.md`](PIPELINE.md) for how the corpus, glossary, fonts and installer are built.
 
-Game files, extracted assets and built binaries are not committed. Rebuild needs the game installed, `repak`, `fontTools`, and the SST Arabic font.
-
-## Font
-
-SST Arabic Medium (Samsung) glyphs are merged into the shipped faces for non-commercial use only.
+<p align="center">تعريب وإعداد: <b>Kindiboy</b></p>
