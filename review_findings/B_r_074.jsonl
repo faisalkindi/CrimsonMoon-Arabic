@@ -1,0 +1,1 @@
+{"id": "ST_YetiSocialMessages|MonsterFriendNotInRegistry_Short", "source_en": "Some friends skipped", "ar_before": "تُخطّي بعض الأصدقاء", "ar_fixed": "تخطّي بعض الأصدقاء", "severity": "minor", "reason": "malformed passive verb form, garbled/ungrammatical short status label", "confidence": "medium"}

@@ -1,0 +1,1 @@
+{"id": "ST_Achievements|ACH_GajovMakeStrong_Title", "source_en": "Gajov Make Strong", "ar_before": "قاجوف يقوّي", "ar_fixed": "قاجوف قويّ الآن", "severity": "minor", "reason": "fluent conjugated verb loses Gajov's telegraphic broken-speech quirk (character card: avoid fluent grammatical prose)", "confidence": "medium"}

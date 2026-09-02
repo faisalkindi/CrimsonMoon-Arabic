@@ -1,0 +1,1 @@
+{"id": "ST_Quests|SQWC_Desc", "source_en": "Investigate the sounds of a crying woman heard outside of St. Uriel's Chapel.", "ar_before": "تحرَّ بكاءَ امرأة سُمع خارج مصلى القديس أورييل.", "ar_fixed": "تحرَّ بكاءَ امرأة سُمع خارج مصلى القديس أوريل.", "severity": "minor", "reason": "name spelling drift; glossary locks St. Uriel = القديس أوريل", "confidence": "high"}

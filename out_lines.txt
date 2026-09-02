@@ -1,0 +1,297 @@
+0 Male ' Dragons? What curse has befallen this city?'
+1 Male 'A demon of the Infernal Legion! Banish this fiend!'
+2 Male "A forest of flesh and bone has consumed the academy. This is the realm's fate should we fail."
+3 Male "A history of torment and suffering are etched into these foundations. If you'd believe it, its only gotten worse."
+4 Male 'A member of the clergy remains in these halls. His blood is tainted. Destroy him.'
+5 Male 'A vial of demon blood. Better off not knowing why or how someone came in possession of it.'
+6 Male "A vile entity lies ahead. Another vessel for sure but there's something different about it."
+7 Male 'According to that text, a cipher piece may dwell here.'
+8 Male 'And another one.'
+9 Male 'Angelic fury is ready!'
+10 Male 'Another cipher fragment. Still no telling what it will reveal yet.'
+11 Male 'Another one of our fallen. Their sword is blessed, retrieve it.'
+12 Male 'Another vessel lies ahead. This one is... inteligent?'
+13 Male 'Back at this accursed place.'
+14 Male 'Bathed in blood and glory!'
+15 Male "Be wary. This rift lead to Infernus. Do not take on this challenge unless you're prepared."
+16 Male 'But my comrades. Those before me and who fight by my side are just like me.'
+17 Male 'Call upon my power!'
+18 Male 'Captain Rendaen is at the Cathedral, make haste!'
+19 Male 'Clear your mind and refocus on our mission. Tap into my insight and I shall direct you towards our goals.'
+20 Male 'Curious about what Mereda might think of all this.'
+21 Male 'Death is not the end.'
+22 Male "Demons rarely indulge in such displays; this cruelty bears the mark of fearful men. Approach sights of interest. I'll seek counsel with the dead and 
+23 Male 'Do not falter.'
+24 Male 'Does power truly corrupt or does it reveal what truly lies wtihin our hearts?'
+25 Male 'Eager to hone our skills our we?'
+26 Male 'Even if the Church has its faults. This cannot be the answer to the plight of humanity.'
+27 Male 'Family against family. This is the horror of collapse.'
+28 Male 'Fend off the Hoard while I repair the veil!'
+29 Male 'Fools, what were the clergy doing studying Infernal Magick?'
+30 Male 'For The Dead Gods cry and the Fallen lords lie.'
+31 Male 'For the Dead gods cry, and the fallen lords lie.'
+32 Male 'Gajov mentioned a Divine Ember was likely to be found here. Explore your surroundings thoroughly.'
+33 Male "Gajov's bound to have found us useful, lets speak with him."
+34 Male 'Gallant may yet have additional tasks for us.'
+35 Male "Get up. There's still need of us."
+36 Male 'Hmm. This is unusual. Mereda might be able to shed light on this.'
+37 Male 'Holy water would most assuredly be found here.'
+38 Male 'How could Solomon have obtained so much influence over this city?'
+39 Male 'How could these fiends have operated here for so long?'
+40 Male 'How did the Archspire obtain the knowledge of these forbidden arts?'
+41 Male 'How? By letting you eradicate humanity?'
+42 Male 'Humanity needs a savior. May as well be me.'
+43 Male 'I am at full strength. My power is yours to wield.'
+44 Male 'I am bound to the Order of the Crimson Moon.'
+45 Male 'I am by your side, always.'
+46 Male 'I am going to enjoy this.'
+47 Male "I am leary to suggest that the Church may be culpable in GIldenarch's fall."
+48 Male 'I believe a cipher piece might be nearby.'
+49 Male 'I can sense something infernal nearby. No demons either, could it be?...'
+50 Male 'I cannot sense our comrades, or the captain. Its as if the life has been sucked from this city.'
+51 Male "I don't suppose Lotte's got anything else for us after all of this?"
+52 Male "I sense a great darkness in this keep. A blackened soul has returned to this realm, a deep well of hatred stirs amidst the halls they've walked."
+53 Male 'I sense something up ahead. Guilt, and deeply rooted shame... investigate it.'
+54 Male 'I will return.'
+55 Male "I'd suspect demon blood would be found here. Something usable at least."
+56 Male "I'm the Soul Torn Beast? Impossible. How can this be? My fate, foretold by the Church? Is this why they feared the Nephilim?"
+57 Male "I've been speaking to myself amidst these haunted streets this entire time. I feel alone."
+58 Male "I've been through worse"
+59 Male 'If Mereda is correct another cipher piece might be found here.'
+60 Male 'Impossible. This Nephilim is dead. Their angel should have protected them.'
+61 Male 'Impossible. This Nephilim is dead. Their angel should have protected them.'
+62 Male 'In the absence of faith, the hopeless are easy prey for predators. This town was a bloodbath even before the invasion.'
+63 Male 'Innocents were experimented on here. Another failure of the Church.'
+64 Male "Is that all you've got!"
+65 Male 'Is this all we are? Beings of circumstance in service to the wills of forces greater?'
+66 Male "It appears Rams-horn is well fortified. They don't want us getting in."
+67 Male "It isn't failure until one gives up."
+68 Male 'It seems some were able to escape the city at least.'
+69 Male 'It seems this story ended well. Lotte would love to hear about this.'
+70 Male 'It will take more than that!'
+71 Male "It's be best to search this area well."
+72 Male "It's time to put a stop to this nightmare."
+73 Male 'Just as expected. Holy Water.'
+74 Male "Let's check in with the Knight Commander."
+75 Male "Let's do this."
+76 Male "Let's see what Mereda's found while we've been busy."
+77 Male 'Little progress had been made on the stones over the last century. That was until recently, they received outside help.'
+78 Male "Lotte's been busy with these postings, lets check in with him."
+79 Male "Luderaeon's Glory is mine!"
+80 Male 'Make your way to the Armory and prepare for your mission.'
+81 Male 'Maybe we should see if Gajov needs anything else after this.'
+82 Male 'Mereda should be done studying that text.'
+83 Male "Mereda sure is sharp. That's all of them. Now lets see what secrets are hidden in that text."
+84 Male "Mereda's been quiet. Knowing her she might be onto something, lets check in."
+85 Male 'More slain Nephilim. He leaves a trail of death in his wake.'
+86 Male 'My grace is ready.'
+87 Male 'Nephilim,  remember my voice. This is your angel speaking. Our orders are to regroup with Knight Captain Rendaen and your comrades within Gildenarch.
+88 Male "Nephilim, a moment. I must confess. Since the Soul Siphon, I've felt part of me slowly merge with you. I can hear your thoughts, feel your emotions, 
+89 Male 'Nephilim, the concentration of Hellgrowth lies at the end of these halls. Beware, something terrible stands its guard.'
+90 Male 'Nephilim, watch out! '
+91 Male 'Nephilim, what was that? Get up!'
+92 Male 'No harm shall come to you.'
+93 Male 'Now is not your time!'
+94 Male 'Now that you are prepared. You may proceed through the portal to begin your mission.'
+95 Male 'Onto the final stone I go.'
+96 Male 'Our foes are many, but we are one.'
+97 Male 'Passing through Elk Grove is a reminder as to why we cannot afford to falter.'
+98 Male 'Perhaps Gallant and I can show the Church there is a better way.'
+99 Male 'Perhaps Gallant has some more challenging work available to us. Speak with him directly.'
+100 Male 'Prayers are offered to Saintess Reliqua in hopes of resolution. We cannot answer them all, but some of these may be suited for our talents.'
+101 Male 'Rise, mighty Nephilim!'
+102 Male 'Seek Gallant Alexander, the Knight Commander of the order.'
+103 Male 'Send the Legion back to Infernus.'
+104 Male 'She mentioned her husband was a guard hauled off by the inquisition. His key may be of use.'
+105 Male "She's fearful of the Church, and won't speak to us. We'll have to prove ourselves trustworthy.\nFind her some food and supplies."
+106 Male 'Shoreditch was for the iredeemable, the worst of man.'
+107 Male 'Should be something of note up ahead.'
+108 Male "Solomon may have a point, but he isn't right in this."
+109 Male 'Someone must take a stand for humanity.'
+110 Male 'Something interesting is nearby.'
+111 Male 'Something unusual is nearby. I wonder.'
+112 Male "Speak with the Merchant as soon as you're able. They're likely to have more work for us."
+113 Male 'Stand vigilant. This is the fiend who has been klling our comrades. '
+114 Male 'Such an obscene amount of wealth, consolidated among the most detached specimens of the city.'
+115 Male 'Take pleasure in the opportunity to slay Valahk-Nor once more!'
+116 Male 'That painting is quite unusual. They bear no semblance to any member of the chapter.'
+117 Male 'That should be all of them.'
+118 Male 'That should buy the veil some more time, for now.'
+119 Male "That's a cipher piece."
+120 Male "That's everything. Best to return to Mereda with haste."
+121 Male "That's one of them. Hmm, grim."
+122 Male "That's one of them. This is quite advanced, can't make out what it reads or how its used."
+123 Male 'The Archspire Chapter was tasked with studying the Abraxas Stones. This explains how the Church knew about them.'
+124 Male 'The Beast is the source? A vessel of sorts.'
+125 Male "The Captain's dead. What is the meaning of all of this?!"
+126 Male "The Cathedral's new inhabitants seek to send a message. Let us respond in kind."
+127 Male 'The Church and Solomon. Two sides of the same coin.'
+128 Male "The Church didn't mention an inquisition in Gildenarch. Did word beyond the chapter fail to reach them?"
+129 Male 'The Church failed the people here of Gildenarch? How is this possible.'
+130 Male 'The Church, the Academy, the ruling class. Every institution failed these people.'
+131 Male 'The Hellgrowth is different here. The wailing is quieter, the souls are blissful. More harmonious.'
+132 Male 'The Infernal await judgement.'
+133 Male "The Spire is wreaking havoc on the fabric of our world. Even if you've defeated foes here before, they're likely to return."
+134 Male 'The Spire still turns and shows no sign of slowing.'
+135 Male "The Spire's influence has weakened over this area. The Hellgrowth is what is expanding it. We must let the Commander know immediately."
+136 Male "The city's gone silent. I fear the worst."
+137 Male "The concentration of soul energy stems from Archbishop's offices, past the Seminary Hold toward the mountain."
+138 Male 'The cries of the dead echo in the void. The moniker “Reborn” repeats amidst tellings of a “heart”. They come from below.'
+139 Male 'The dead walk. Purge them from the realm!'
+140 Male 'The defilement of such holy symbols is a disrespectful display.'
+141 Male "The fiends who dwelled here were acting on someone's behalf. Who would demand such a thing? The demons?"
+142 Male 'The heart is guarded by a dragon. You know what do to do.'
+143 Male 'The light of Paradise is mine to wield!'
+144 Male 'The marks left on us by those that have passed remain tender the longest.'
+145 Male 'The people of this city worshipped something. Someone beyond themselves and this is what it brought them.'
+146 Male 'The streets have shifted but our mission is unchanged. Be vigiliant.'
+147 Male 'The veil is weak here. Keep an eye out for any Hellrfits. '
+148 Male 'There is a deep rooted sense of horror and betrayal. A harrowing tragedy occured here. '
+149 Male 'There is a well of immense soul energy nearby. We should investigate.'
+150 Male "There is no shame in knowing one's limits. "
+151 Male 'There is still need of us.'
+152 Male 'There must be some official Church documentation here.'
+153 Male "There's fight left in you yet."
+154 Male "There's some holy water nearby."
+155 Male "There's still work to be done."
+156 Male "There's that statue again. The same man from the paintings. This was his home."
+157 Male 'These growths radiate soul energy. By the Divine. From humans.'
+158 Male "These should do. Let's return to the survivor and see if she'll finally talk."
+159 Male 'They call you sin. I call you salvation.'
+160 Male 'This city was plagued by the Reborn for some time. Yet the Church let it happen?'
+161 Male 'This device is Angelic in nature. What is it?'
+162 Male 'This ember is... unusual. Perhaps Gajov can investigate it if he trusts us.'
+163 Male "This is a staging ground. The Reborn are not so numerous to go to war with all of Eden. This is the Legion's bidding."
+164 Male 'This is certainly unusual for a chalice. What is with him and strange artifacts?'
+165 Male 'This is our last, make it count.'
+166 Male 'This is the Hall of Valor, where Nephilim are immortalized for their feats and triumphs.'
+167 Male "This is the Merchant's locket. Let's part ways with it as soon as we're able."
+168 Male "This is the ember. Curious how Gajov knew it'd be here, and what were these cultists doing with it?"
+169 Male "This is where Lotte said Aleria's fate could be found."
+170 Male 'This is where Lotte said the chalice was.'
+171 Male 'This is where one of the cipher pieces might be. Best to search the area well.'
+172 Male 'This is where the merchant said they lost their locket. We should search these halls well.'
+173 Male 'This locket is strange. It bears an incredible burden, yet something about it is familiar. Hold onto it. It may be of use later.'
+174 Male 'This manor is haunted. Not by any spirit but a grand darkness.'
+175 Male 'This must the be the Reborn. Their bodies are enhanced by the Hellgrowth.'
+176 Male 'This should do. '
+177 Male 'This strange organic mass must have some connection with the dead.'
+178 Male "This was a bloodbath. Gildenarch's defenses never stood a chance."
+179 Male "Time to search these halls well for anything regarding Lotte's old crew."
+180 Male 'Tread carefully, the source of the infestation draws near.'
+181 Male 'We can leave now. Hurry!'
+182 Male 'We remain unhindered!'
+183 Male 'We should see if he needs anything else from us.'
+184 Male 'We stand once more!'
+185 Male 'We tread these grounds once more. Yet things are different?'
+186 Male "We're walking with ghosts now, tread lightly."
+187 Male "We've assisted Gajov quite a bit. Perhaps he'll have warmed up to us."
+188 Male "We've been here before but it feels... different somehow."
+189 Male "We've got one stone. Time for the next one. "
+190 Male "We've spent some time helping Gajov. Maybe now he'll talk"
+191 Male "We've the rare privilege to tread upon sacred ground. These Archives are known to house some of the faith's most tightly guarded secrets."
+192 Male "We've uncovered a fair amount of information for Mereda. Let's check in with her."
+193 Male 'Were the faithful culpable in all this? Or are they too just like me?'
+194 Male 'What does is Solomon seek to gain from all of this?'
+195 Male 'What is worse. To commit attrocities or to allow them to persist unchallenged.'
+196 Male "What's another challenge?"
+197 Male 'Whether is Solomon or the Church. These injustice cannot persist.'
+198 Male "Who's more of a beast? A king or a priest?"
+199 Male "Wonder what trouble the Merchant's been up to."
+200 Male 'Worth searching this area well for anything of note.'
+201 Male 'Worth taking a look around.'
+202 Male 'Yes it does.'
+203 Male 'Yes, Knight Commander. I understand.'
+204 Male "You cannot control your own servant. What chance do you think you'll have over me?"
+205 Male 'You cannot defeat a Nephilim!'
+206 Male 'You mislead these people. Preyed upon their hopelessness and despair!'
+207 Male "You stand at death's door; our next moves should be calculated."
+208 Male "You're right. This world's order has to change. Someone has to take a stand."
+209 Male 'Your lies will not stay my hand.'
+210 Male "Your soul is gravely wounded. It's a miracle you're not dead."
+211 Solomon '(labored breathing)'
+212 Solomon "(laughs) Well done!  You've banished the first god! But when you have to do it all over again, then we shall see about your... faith."
+213 Solomon 'A willingness to a put an end to this charade you call an age.'
+214 Solomon "After Aegoroth, you're next."
+215 Solomon 'After Gildenarch, we will march upon the capital of Luminar. Every city will contain the seeds for another harvest. After the Infernal Flora has reac
+216 Solomon 'After their victory, the Holy Lineage was formed and started the Lunitarian Church. Once they received Imperial support, they demanded that the Senti
+217 Solomon 'All in due time. Provided you survive what lies ahead.'
+218 Solomon 'All tests can be endured through faith!'
+219 Solomon 'And what do you think he will say?'
+220 Solomon "And yet the Spire still turns, and you must do it all over again. How much longer can you evade death? How many times have you 'resurrected' ?"
+221 Solomon 'Another Nephilim for the slaughter. Turn back if you want to live!'
+222 Solomon "Aren't you getting tired dog?"
+223 Solomon 'Believe not his lies Nephilim. This victory is proof the Divine watches over us!'
+224 Solomon "Blind faith breaks upon the stone of reality. I've seen it many times. Soon you shall see it too"
+225 Solomon "Did Gallant fail to tell you? The fabric of your realm churns with the Spire. A mere consequence of its true purpose. I'd have assumed the Church men
+226 Solomon 'Do not try to stop me. Turn back and overthrow your masters!'
+227 Solomon 'ENOUGH!'
+228 Solomon 'Felwyl! What are you doing?!'
+229 Solomon "Finally. It's dead. One more remains."
+230 Solomon 'For The Dead Gods Cry and the Fallen Lords Lie. Our victory, guided by faith!'
+231 Solomon 'Gallant Alexander, the first Nephilim and slayer of Valahk - Nor. He who helped enslave and murder his own kind and upholds the Lunitarian world orde
+232 Solomon 'Gallant will protect me'
+233 Solomon "Gallant? The same person who helped enslave his people at the behest of the Church? You're being misled"
+234 Solomon "Gildenarch's people revered you, they trusted you and you betrayed them."
+235 Solomon 'Go back to your order. Leave this city.'
+236 Solomon 'He will explain everything!'
+237 Solomon 'Hmm? No prayers this time? No battle cries? Only silence.'
+238 Solomon "I don't understand. Why didn't the Church prepare us for this?"
+239 Solomon "I know the Church's secrets well because I was once a member of the cloth long ago. I was inspired by Saint Uriel the Kind, Saint Aevestus the Savior
+240 Solomon 'In exchange for that knowledge, I demanded funding for the Godsreach Spire civic project. What you see before you is not their creation, but the resu
+241 Solomon 'Is that what the Church is telling you now?'
+242 Solomon 'It is true that my efforts have wrought destruction, but for good reason. To destroy the old and correct history. Any end can justify the means dear 
+243 Solomon 'It takes strength to forge in the face of despair, and only weakness to destroy, Solomon.'
+244 Solomon "Just as I slowly built the spire beneath the Church's noses, I have armed you with the knowledge necessary to earn your freedom. All you must do is t
+245 Solomon "Just as he watched over the people of this city? Hmph. Perhaps he plays favorites? Perhaps he's absent."
+246 Solomon 'Mathias was a tender soul who only wanted to do right by the faith and the city. Unlike that troublesome Archbishop, Mathias heeded my counsel, and I
+247 Solomon "Maybe he will. Maybe he'll just kill you. Ever heard of the Apostate Hunts? What do they do to bad dogs who get off their leashes? Hmm? You don't hav
+248 Solomon 'My faith died on the pyre with my dearest Deliliah. By the time I had reached my hearth in grief, I found crusaders standing over my corpse of my son
+249 Solomon 'Necessary casualties to bring about the change this realm so desperately needs... To right the wrongs of those before you. Do you really want to save
+250 Solomon "Oh, but I'm not the one who's deceived you. I've spoken nothing but truth."
+251 Solomon 'Once the faith was like all others. Another cult in service to another titan vying for lordship over the cosmos. The Lunar Sentinels fought in the Wa
+252 Solomon "Remember Gallant's promise."
+253 Solomon 'Sheep want Shepherds; they don’t care if they’re led to the pastures or the slaughter. They’re not a species worth dying for.'
+254 Solomon 'Silence deceiver! Reveal yourself'
+255 Solomon 'Silence! Your games are nothing to us!'
+256 Solomon 'Silence. You cannot hide behind your deceit forever!'
+257 Solomon "Sound familiar? What I've done is nothing the Church wouldn't do if given the chance"
+258 Solomon 'The Church has no control over my mind and neither do you Solomon.'
+259 Solomon 'The Dead Gods are no different than yours. The victors simply wrote the history books. Another war, another cultural conflict, resulting in a world d
+260 Solomon "The Infernal Legion are my master's children. Cain waged the Rite of Desolation to correct the wrongs of Lunarin and your progenitors. All I seek to 
+261 Solomon "The Nephilim. A bridge between man and divine. The next step in the species yet subdued by weaker... fearful men. It's enough to make one... resentfu
+262 Solomon 'The Reborn were desperate, useful idiots, nothing more. They were Felwyl’s creation; they had marveled at the wonders he could perform with Infernal 
+263 Solomon 'The Reborn were sold on eternal life. I do not deal in lies, Nephilim. I gave them what they wanted. This “Hellgrowth” as you call it, is a form of l
+264 Solomon 'The Suffering of Two Souls. The consequences for the sins of our fathers.'
+265 Solomon "The anger, the fury you feel is your paladin's pain. Simply ask yourself, why?"
+266 Solomon 'The plight of your kind is not unique. The Lunitarian Church has a storied history of subjugation, manipulation, and deceit. Since their founding, th
+267 Solomon 'The same evil which allowed this City to languish. Your Church.'
+268 Solomon 'Then you are potential squandered! A shame that you will die with the rest of this accursed realm!'
+269 Solomon 'These fools had no concept of the forces they were attempting to uncover. The unchecked power of the Dead Gods would have blindly destroyed your real
+270 Solomon 'They needed jobs; I provided them. They wanted wealth? I had plenty to spare. They needed someone to hate, and I told them to look at each other. Onc
+271 Solomon 'They rely so heavily upon you, yet tell you so little.'
+272 Solomon 'This destruction. What evil is behind such a horrific display? '
+273 Solomon 'This is your last chance. Prove that they have no control over you. Turn. Back. Now!!'
+274 Solomon "This isn't right. We should be at the graveyard"
+275 Solomon 'Through my actions. I will show the Church a better way.'
+276 Solomon "We'll see about that."
+277 Solomon 'Welcome back, hound.'
+278 Solomon "What do you think the Church will do to you once they find out you know the truth... Gallant knows. He's even carried it out before."
+279 Solomon 'What was that?'
+280 Solomon 'What will you do with your fire, Nephilim? The more you learn, the more you realize that I am justified in the things I have done.'
+281 Solomon "What's wrong? Not where the Divine was meant to guide you? Maybe Gallant failed to mention how the Spire twists the fabric of your realm. A mere cons
+282 Solomon "What's your point? What makes you any better?"
+283 Solomon 'When I arrived from Nachtendale, I found a city in squalor. The people of GIldenarch needed a savior, and they decided it would be me. I can offer no
+284 Solomon 'Whoever you are. You face the judgment of the Lunitarian Church of Velchoria!'
+285 Solomon "You know something isn't right, yet you blindly follow your orders. Go on, bring that stone back to the Church. Be a good slave! Your orders are to d
+286 Solomon 'You merely deceive yourself to justify your own weakness!'
+287 Solomon 'You misled the people of this city. Preyed upon their hopelessness and despair!'
+288 Solomon 'You see them as monsters; I see them differently, as the true heirs to the Throne your god slumbers upon. If you knew the things I did, you’d lay you
+289 Solomon 'You sound rather exhausted for an angel. Ever wonder why that is?'
+290 Solomon 'You trust Gallant with your life, just as many others have. Learn about the Apostate Hunts, and the role he played in upholding the Crimson Concordat
+291 Solomon 'You will face my Holy Retribution!'
+292 Solomon "You'll heed my warning if you know what's good for you"
+293 Solomon "You're right. The deceit must end and I will start with you"
+294 Solomon "You've suffered much since you've set foot in this city. I wonder how much more you can endure?"
+295 Solomon 'Your trickery will not stay my hand.'
+296 Solomon 'and just like that. You shy away from the truth. An uncomfortable thought, hmm? Angels do not feel. They do not bleed!'

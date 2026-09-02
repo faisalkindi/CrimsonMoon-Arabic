@@ -1,0 +1,202 @@
+0	NPC_Hub_Monk_1	EN: We prayed for E'frae's release. I am told... that is what we did. I am told.	AR: صلينا من أجلِ تحريرِ إفراي. قيلَ لي… هذا ما فعلناه. قيلَ لي.
+1	NPC_Hub_Monk_1	EN: Our lord bleeds over the cursed city. A dire omen to be sure!	AR: سيدُنا ينزفُ فوقَ المدينةِ الملعونة. إنها نذيرُ شؤمٍ مؤكد!
+2	NPC_Hub_Monk_1	EN: The smith is loud. The smith is always loud. The smith likes the noise.	AR: الحدادُ صاخب. الحدادُ صاخبٌ دائمًا. الحدادُ يحبُّ الضجيج.
+3	NPC_Hub_Monk_1	EN: St. Uriel bless you.	AR: ليباركك القديس أورييل.
+4	NPC_Hub_Monk_1	EN: The Faith holds, Nephilim, that all stacked things are eventually unstacked.	AR: تؤكد العقيدة، يا نيفيليم، أن كل ما يُكدّس سيتفكك في نهاية المطاف.
+5	NPC_Hub_Monk_1	EN: They are knitted now, somewhere in the lower chambers. We do not ask how.	AR: لقد غُزلت الآن، في مكان ما في الغرف السفلية. نحن لا نسأل كيف.
+6	NPC_Hub_Monk_1	EN: Stronger again. I had not believed stronger was something one could see across a hall.	AR: أقوى من جديد. لم أكن أؤمن أن "الأقوى" شيء يمكن رؤيته عبر القاعة.
+7	NPC_Hub_Monk_1	EN: The Knight returned safely. I have begun to count the times the Knight returned... different.	AR: عاد الفارس بسلام. لقد بدأتُ في عدّ المرات التي عاد فيها الفارس… متغيراً.
+8	NPC_Hub_Monk_1	EN: I prayed for one of them this morning. I felt watched.	AR: صليتُ لأحدهم هذا الصباح. شعرتُ بأنني مراقب.
+9	NPC_Hub_Monk_1	EN: Two inches, Nephilim. Two.	AR: بوصتان، يا نيفيليم. اثنتان.
+10	NPC_Hub_Monk_1	EN: The War Table is rarely free of you and the Commander these days, Nephilim. The other Knights wait their turn. Some have begun to ask aloud why their turn is taking so long, and I am running out of comfortable answers.	AR: نادراً ما تخلو طاولة الحرب منك ومن القائد هذه الأيام، يا نيفيليم. الفرسان الآخرون ينتظرون دورهم. بدأ البعض يتساءلون بصوت عالٍ عن سبب تأخر دورهم، وبدأت إجاباتِي المريحة تنفد.
+11	NPC_Hub_Monk_1	EN: The candles dim when the Knight passes the south corridor now. They did not used to.	AR: تخفت الشموع حين يمر الفارس عبر الممر الجنوبي الآن. لم يكن الأمر كذلك في السابق.
+12	NPC_Hub_Monk_1	EN: Be careful what you accept from the Merchant, Nephilim. His prices are not, as a rule, written on his receipts, and you have been visiting often enough now that I suspect you have begun to understand this.	AR: كن حذراً مما تقبله من التاجر، يا نيفيليم. فأسعاره، كقاعدة عامة، لا تُدوّن في وصولاته، وقد زرتَه مراتٍ كافيةً حتى أظن أنك بدأت تفهم ذلك.
+13	NPC_Hub_Monk_1	EN: They went out. They did not return whole.	AR: لقد خرجوا. ولم يعودوا كاملين.
+14	NPC_Hub_Monk_1	EN: A man who reads by candlelight is half-blind. A man who reads by moonlight sees what the candle hid.	AR: الرجل الذي يقرأ على ضوء الشموع أعمى نصف العمى. والرجل الذي يقرأ على ضوء القمر يرى ما أخفاه الشمع.
+15	NPC_Hub_Monk_1	EN: The Spire does not lean as it leant yesterday. I am told I am imagining it.	AR: البرج لا يميل كما مال بالأمس. قيل لي إنني أتخيل ذلك.
+16	NPC_Hub_Monk_1	EN: I had not, until this morning, considered my own neck to be the most interesting feature of my person.	AR: لم أكن، حتى هذا الصباح، أعتبر عنقي أكثر سمات شخصي إثارة للاهتمام.
+17	NPC_Hub_Monk_1	EN: Cardinal Mathias is at rest. We are encouraged not to speak of him.	AR: الكاردينال ماثياس في راحة. نُحث على عدم التحدث عنه.
+18	NPC_Hub_Monk_1	EN: It is not heresy for the Librarian to keep heretical books, the Faith holds, if one is keeping them safely.	AR: ليس من الهرطقة أن تحتفظ أمينة المكتبة بكتب هرطقية، كما تؤمن العقيدة، إذا كان المرء يحتفظ بها بأمان.
+19	NPC_Hub_Monk_1	EN: The Knight is back. The bells were rung. I heard the bells.	AR: الفارس عاد. رُنّت الأجراس. سمعتُ الأجراس.
+20	NPC_Hub_Monk_1	EN: Another laid low. The list grows.	AR: سقط آخر. القائمة تطول.
+21	NPC_Hub_Monk_1	EN: The Merchant pays for his keep in souls. We are told this is metaphor. We are told this is metaphor.	AR: يدفع التاجر ثمن بقائه بالأرواح. قيل لنا إن هذا مجاز. قيل لنا إن هذا مجاز.
+22	NPC_Hub_Monk_1	EN: Another night the Sanctus is not the front line. We are grateful.	AR: ليلة أخرى لا يكون فيها "السانكتوس" في الخطوط الأمامية. نحن ممتنون.
+23	NPC_Hub_Monk_1	EN: If the Faith intended my dismemberment by the Knights, Nephilim, the Faith would have informed me.	AR: لو كانت الإيمان تنوي تمزيقي على يد الفرسان، يا نيفيليم، لكان الإيمان قد أخبرني بذلك.
+24	NPC_Hub_Monk_1	EN: Three faiths to keep: in the moon, the order, and the dead.	AR: ثلاث عقائد للحفاظ عليها: في القمر، وفي الجماعة، وفي الموتى.
+25	NPC_Hub_Monk_1	EN: The Knight visits the Librarian often. I am told this is the Order's business and not the Faith's.	AR: يزور الفارس أمينة المكتبة كثيرًا. قيل لنا إن هذا من شؤون الجماعة وليس من شؤون الإيمان.
+26	NPC_Hub_Monk_1	EN: The font was dry at vespers and full by matins. I did not refill it.	AR: كان الينبوع جافًا عند صلاة المساء وممتلئًا عند صلاة الفجر. لم أقم بملئه.
+27	NPC_Hub_Monk_1	EN: Mereda keeps a lamp lit later than any of us. I have wondered what she reads by it.	AR: تترك ميريدا مصباحاً مشتعلاً لفترة أطول من أي منا. لقد تساءلتُ عما تقرأه بجانبه.
+28	NPC_Hub_Monk_1	EN: The Knight buys from the Merchant often. I know what is bought. I do not know what is paid.	AR: يشتري الفارس من التاجر كثيراً. أعرف ما يُشترى. لا أعرف ما يُدفع.
+29	NPC_Hub_Monk_1	EN: The sin I confessed this morning is one I have not yet committed. The Faith encourages this.	AR: الخطيئة التي اعترفتُ بها هذا الصباح هي خطيئة لم أرتكبها بعد. الإيمان يشجع على ذلك.
+30	NPC_Hub_Monk_1	EN: The Faith is to be praised, the Knight has returned. I have praised the Faith. I have praised, also, the Knight.	AR: الإيمان يستحق الثناء، لقد عاد الفارس. لقد ثنيتُ على الإيمان. لقد ثنيتُ، أيضاً، على الفارس.
+31	NPC_Hub_Monk_1	EN: The blood moon. Divine have mercy, is this the end?	AR: قمر الدم. يا إلهي، ارحمنا، أهذه هي النهاية؟
+32	NPC_Hub_Monk_1	EN: The Knight is heavier on the stone than they were last week. The stones know.	AR: الفارس أثقل وزناً على الحجر مما كان عليه الأسبوع الماضي. الحجارة تعلم.
+33	NPC_Hub_Monk_1	EN: I do not call the smith, "brother". I have not been told to.	AR: لا أدعو الحداد بـ "أخي". لم أُؤمر بذلك.
+34	NPC_Hub_Monk_1	EN: Three weeks of sorting. Walk on.	AR: ثلاثة أسابيع من الفرز. واصل المسير.
+35	NPC_Hub_Monk_1	EN: Valahk-Nor frightened children once. He frightens none tonight.	AR: أثار ڤالاك-نور رعب الأطفال ذات مرة. هو لا يرهب أحداً الليلة.
+36	NPC_Hub_Monk_1	EN: Far too many Nephilim have been let out of their coffins for my liking.	AR: أُطلق سراح عددٍ كبير جداً من النيفيليم من توابيتهم، وهذا لا يروق لي.
+37	NPC_Hub_Monk_1	EN: Mereda has the trust of the Order. The Faith holds its peace with the Order.	AR: تتمتع ميريدا بثقة الجماعة. وتصمت العقيدة أمام الجماعة.
+38	NPC_Hub_Monk_1	EN: Three days the Brothers spent ordering those, Nephilim.	AR: قضى الإخوة ثلاثة أيام في ترتيب كل هذا، يا نيفيليم.
+39	NPC_Hub_Monk_1	EN: A stag was at the cloister gate at first light. There has not been a stag in this city in living memory. We came to look. The stag did not stay.	AR: كان هناك أيل عند بوابة الدير عند أول ضوء. لم يظهر أيل في هذه المدينة منذ ذاكرة الأحياء. جئنا لننظر. لم يبقَ الأيل.
+40	NPC_Hub_Monk_1	EN: We see the Knight visits the smith often. The smith is good at his work. For a wolf.	AR: نرى أن الفارس يزور الحداد كثيرًا. الحداد بارع في عمله. بالنسبة لذئب.
+41	NPC_Hub_Monk_1	EN: Gallant brought the wolf-boy home. The Faith was not consulted.	AR: أحضر قالانت صبي الذئب إلى المنزل. لم يتم استشارة الإيمان.
+42	NPC_Hub_Monk_1	EN: I fear the end is near	AR: أخشى أن النهاية قد اقتربت
+43	NPC_Hub_Monk_1	EN: Sometimes the Knight is still in the room after the Knight has left. The brothers do not speak of this.	AR: أحيانًا يظل الفارس في الغرفة بعد أن يغادر الفارس. الإخوة لا يتحدثون عن هذا.
+44	NPC_Hub_Monk_1	EN: Mereda was conscripted. The Faith was generous with the word.	AR: تم تجنيد ميريدا. كان الإيمان سخيًا بالكلمة.
+45	NPC_Hub_Monk_1	EN: The Commander has been in this Order for one hundred and twenty-six years. We have done the arithmetic.	AR: قضى القائد في هذه الجماعة مئة وستة وعشرين عاماً. لقد أجرينا الحسابات.
+46	NPC_Hub_Monk_1	EN: I served as a novice under Gallant's command in the last days of the Crusade.	AR: خدمتُ كمتدرب تحت قيادة قالانت في الأيام الأخيرة من الحملة.
+47	NPC_Hub_Monk_1	EN: The Nephilim came in this morning, and the room... settled. I have not the word.	AR: وصل النيفيليم هذا الصباح، والغرفة… هدأت. لا أجد الكلمة.
+48	NPC_Hub_Monk_1	EN: That Spire gnaws at Eden's veil. Divine protect us.	AR: تلك القمة تنهش حجاب إيدن. فليحمنا الإله.
+49	NPC_Hub_Monk_1	EN: I counted my fingers. I counted them twice.	AR: عددتُ أصابعي. عددتها مرتين.
+50	NPC_Hub_Monk_1	EN: Of course.	AR: بالطبع.
+51	NPC_Hub_Monk_1	EN: I went past the forge at the second hour of the morning. The smith was awake. The forge was cold. He was working anyway.	AR: مررتُ بالحدادة في الساعة الثانية من الصباح. كان الحداد مستيقظاً. كانت الحدادة باردة. ومع ذلك، كان يعمل.
+52	NPC_Hub_Monk_1	EN: The Knight is much in the Commander's company. The Commander treats the Knight as family.	AR: يقضي الفارس وقتاً طويلاً في رفقة القائد. يعامل القائد الفارس كفرد من عائلته.
+53	NPC_Hub_Monk_1	EN: The smith toasted you with his wine last evening, Nephilim.	AR: نخبك الحداد بنبذه في الأمس، يا نيفيليم.
+54	NPC_Hub_Monk_1	EN: By the Divine, mustn't stop until the demons are finished.	AR: بالذات الإلهي، لا يجوز التوقف حتى يتم القضاء على الشياطين.
+55	NPC_Hub_Monk_1	EN: I saw the Nephilim at evening prayer. The Nephilim was not at evening prayer. The Nephilim was, at that hour, abroad.	AR: رأيتُ النيفيليم في صلاة المساء. لم يكن النيفيليم في صلاة المساء. كان النيفيليم، في تلك الساعة، في الخارج.
+56	NPC_Hub_Monk_1	EN: The Angels are Lunarin's children. But WE are Lunarin's hands.	AR: الملائكة هم أبناء لوناران. لكننا نحن أيدي لوناران.
+57	NPC_Hub_Monk_1	EN: Their losses do not go in the public register. They go in another book. I have not been shown the other book.	AR: خسائرهم لا تُسجل في السجل العام. إنها تُسجل في كتاب آخر. لم يُطلعني أحد على ذلك الكتاب.
+58	NPC_Hub_Monk_1	EN: Gallant gives you missions others would refuse, Nephilim. There is a reading of this that flatters you, and another that ought to worry you.	AR: يمنحك قالانت مهاماً قد يرفضها الآخرون، أيها النيفيليم. هناك قراءة لهذا الأمر تداعب غرورك، وأخرى ينبغي أن تقلقك.
+59	NPC_Hub_Monk_1	EN: They came back whole. They did not look whole. Though I do not know the difference.	AR: عادوا كاملين. لم يبدوا كاملين. ومع ذلك، لا أعرف الفرق.
+60	NPC_Hub_Monk_1	EN: My candles burn longer this season. Some of them, the wick gives out before the wax.	AR: شموعي تحترق لفترة أطول هذا الموسم. في بعضها، ينفد الفتيل قبل الشمع.
+61	NPC_Hub_Monk_1	EN: By the silver of his eye, as the silver of his steel.	AR: ببريق عينيه الفضي، كما بريق فوله الفضي.
+62	NPC_Hub_Monk_1	EN: Father of moons!	AR: يا أب الأقمار!
+63	NPC_Hub_Monk_1	EN: For the Dead Gods cry, and the Fallen Lords lie...	AR: للآلهة الميتة صراخ، وللأسياد الساقطين كذب…
+64	NPC_Hub_Monk_1	EN: You will, of course, help me put those back.	AR: سوف تساعدني، بطبيعة الحال، في إعادتهم إلى مكانهم.
+65	NPC_Hub_Monk_1	EN: We who scorn the Dragon's Light embrace the Holy Moonlight.	AR: نحن الذين نحتقر ضوء التنين، نعانق ضوء القمر المقدس.
+66	NPC_Hub_Monk_1	EN: Two of the dead are gone now. There were three. There is one.	AR: اثنان من الموتى رحلا الآن. كان هناك ثلاثة. بقي واحد.
+67	NPC_Hub_Monk_1	EN: The Faith permits silence. The Faith does not permit absence. Find the line between.	AR: الإيمان يسمح بالصمت. الإيمان لا يسمح بالغياب. جِد الخط الفاصل بينهما.
+68	NPC_Hub_Monk_1	EN: Pray as if Lunarin can hear you. Speak as if your brother can.	AR: صلِّ كأن لوناران يسمعك. تحدث كأن أخاك يسمعك.
+69	NPC_Hub_Monk_1	EN: Aegoroth's stone is undone. The Faith has its silence. I cannot find the comfort in it.	AR: حجر إيقوروث قد فُكّ. وللإيمان صمته. ولا أجد في ذلك سكينة.
+70	NPC_Hub_Monk_1	EN: Three days. Three days of sorting. The fourth day I was to rest.	AR: ثلاثة أيام. ثلاثة أيام من الفرز. وفي اليوم الرابع كان عليّ أن أرتاح.
+71	NPC_Hub_Monk_1	EN: Something walked past the door that night. I did not look. I have not opened that door since.	AR: شيءٌ ما مرّ بجانب الباب في تلك الليلة. لم أنظر. ولم أفتح ذلك الباب منذ ذلك الحين.
+72	NPC_Hub_Monk_1	EN: We've many Nephilim and shan't dare breed anymore.	AR: لدينا الكثير من النيفيليم، ولن نجرؤ على إنجاب المزيد.
+73	NPC_Hub_Monk_1	EN: Lunarin watches. Lunarin keeps. Lunarin remembers.	AR: لوناران يراقب. لوناران يحفظ. لوناران يتذكر.
+74	NPC_Hub_Monk_1	EN: The work is not done. The work has not been done before. The work will be done.	AR: العمل لم ينتهِ. العمل لم يُنجز من قبل. العمل سينجز.
+75	NPC_Hub_Monk_1	EN: Felwyl is dead. The library where he taught smells of him still. The brothers will not enter that wing.	AR: فِلويل ميت. لا تزال رائحته تفوح في المكتبة حيث كان يدرس. لن يدخل الإخوة ذلك الجناح.
+76	NPC_Hub_Monk_1	EN: I crossed the Merchant's path at vigil last night. I will just say this. Be wary.	AR: تقاطعت طريقي مع التاجر أثناء السهر ليلة أمس. سأقول هذا فحسب. كن حذراً.
+77	NPC_Hub_Monk_1	EN: Three were the wall. I had not understood, until tonight, that they were the wall.	AR: كانوا الثلاثة هم الجدار. لم أدرك، حتى الليلة، أنهم كانوا الجدار.
+78	NPC_Hub_Monk_1	EN: For the Dead Gods cry, and the Fallen Lords lie.	AR: فالآلهة الميتة تصرخ، والآلهة الساقطة ترقد.
+79	NPC_Hub_Monk_1	EN: The Commander knelt in chapel last Sunday. He knelt for an hour, though he did not pray.	AR: جثا القائد في المصلى الأحد الماضي. جثا لساعة كاملة، رغم أنه لم يصلِّ.
+80	NPC_Hub_Monk_1	EN: Lunarin, The Divine himself, sits upon the Throne.	AR: لوناران، الإله نفسه، يجلس على العرش.
+81	NPC_Hub_Monk_1	EN: The rite of conscription was invoked on the smith by the Knight Commander. The Faith holds the rite is for the dying. The smith is, technically, dying. He has been dying for some years.	AR: استدعى قائد الفرسان طقس التجنيد على الحداد. تؤمن العقيدة بأن الطقس مخصص للمحتضرين. والحداد، من الناحية التقنية، يحتضر. لقد ظل يحتضر لسنوات.
+82	NPC_Hub_Monk_1	EN: It is sin to fear the Knights, of course. I observe the sin and let it sit.	AR: من الخطأ أن تخشى الفرسان، بطبيعة الحال. أراقب هذا الخطأ وأتركه يسكن.
+83	NPC_Hub_Monk_1	EN: Some of the brothers say the Commander has begun to speak of you as kin, Nephilim. Some of the brothers are gossips.	AR: يقول بعض الإخوة إن القائد بدأ يتحدث عنك كقريب، أيها النيفيليم. بعض الإخوة يميلون إلى القيل والقال.
+84	NPC_Hub_Monk_1	EN: The Knight asked the Commander for counsel three times this week. The Commander gave counsel. The counsel was sound. I find I am not surprised by this.	AR: طلب الفارس المشورة من القائد ثلاث مرات هذا الأسبوع. أعطى القائد المشورة. كانت المشورة سديدة. أجد أنني لست متفاجئاً بهذا.
+85	NPC_Hub_Monk_1	EN: When the moon is red, the prayers must be louder. So we are taught.	AR: عندما يكون القمر أحمر، يجب أن تكون الصلوات أعلى صوتاً. هكذا تعلمنا.
+86	NPC_Hub_Monk_1	EN: The stones welcome them.	AR: الأحجار ترحب بهم.
+87	NPC_Hub_Monk_1	EN: The half-bloods take communion separately. I am told this is for our comfort.	AR: يتناول أشباه الدماء القربان بشكل منفصل. قيل لي إن هذا من أجل راحتنا.
+88	NPC_Hub_Monk_1	EN: The Dry Rot King is freed. Freed to where, I am not told. I fear to ask.	AR: لقد أُطلق سراح ملك العفن الجاف. لم يُخبرني إلى أين أُطلق سراحه. أخشى أن أسأل.
+89	NPC_Hub_Monk_1	EN: Gajov bit a Crusader once. He bit several. We are told he stopped biting. We are told.	AR: عض قاجوف أحد الصليبيين ذات مرة. عض عدداً منهم. قيل لنا إنه كف عن العض. قيل لنا.
+90	NPC_Hub_Monk_1	EN: Forgive my candles, that I have lit too few of them.	AR: اعذر شموعي، فقد أشعلتُ عدداً قليلاً منها.
+91	NPC_Hub_Monk_1	EN: The bells rang for the Knight's return. They rang once more after. No one rang the second peal.	AR: رنّت الأجراس لعودة الفارس. رنّت مرة أخرى بعد ذلك. لم يقرع أحدُ الرنة الثانية.
+92	NPC_Hub_Monk_1	EN: A hand's breadth, Nephilim. A hand's breadth.	AR: عرض كفٍّ، يا نيفيليم. عرض كفٍّ.
+93	NPC_Hub_Monk_1	EN: Beautiful.	AR: جميل.
+94	NPC_Hub_Monk_1	EN: I cannot remember the name of the brother who walked beside me at evening prayer last week. He had a name. I know it not now.	AR: لا أستطيع تذكر اسم الأخ الذي سار بجانبي في صلاة المساء الأسبوع الماضي. كان له اسم. لا أعرفه الآن.
+95	NPC_Hub_Monk_1	EN: If you must look at the moon, block it with your palm. The Faith permits this.	AR: إن كان لزاماً عليك النظر إلى القمر، فاحجبه بكفك. الإيمان يسمح بذلك.
+96	NPC_Hub_Monk_1	EN: Karsivites do not worship Lunarin. The smith is Karsivite.	AR: الكارسيفيون لا يعبدون لوناران. الحداد كارسيفي.
+97	NPC_Hub_Monk_1	EN: Gallant led the Apostate Hunts. We do not speak of the Apostate Hunts.	AR: قاد قالانت صيد المرتدين. نحن لا نتحدث عن صيد المرتدين.
+98	NPC_Librarian	EN: I just hope you weren't too late...	AR: آملُ فقط أنك لم تتأخر كثيراً…
+99	NPC_Librarian	EN: You found it! Quick, quick give it here. Ahh, The Lost Epistles of the Grey Prophet. Hmm. No this won't change the war. But look, a misprint on the cover. Very rare. Very rare, indeed. Hmm? Something stuck in the pages. Here, get rid of it for me, will you?	AR: لقد وجدته! بسرعة، أعطني إياه. آه، "رسائل النبي الرمادي المفقودة". همم. لا، هذا لن يغير مجرى الحرب. ولكن انظر، خطأ مطبعي على الغلاف. نادر جداً. نادر جداً، حقاً. همم؟ ثمة شيء عالق بين الصفحات. هاك، أزِله عني، أتريد ذلك؟
+100	NPC_Librarian	EN: Are you doing that on purpose?	AR: أتعمدُ فعل ذلك؟
+101	NPC_Librarian	EN: Mathias... so this is what became of our great cardinal. I remember him a true servant of the church. To think... a vampire. This one may not be so easy, knight. Prepare for the challenge ahead.	AR: ماثياس… إذن هذا ما آل إليه حال كاردينالنا العظيم. أذكرُه كخادمٍ مخلصٍ للكنيسة. أن نصدق… أنه مصاص دماء. قد لا يكون هذا الأمرُ بهذه السهولة، أيها الفارس. استعد للتحدي القادم.
+102	NPC_Librarian	EN: The old gods of Gildenarch...	AR: آلهة قريمهاڤن القديمة…
+103	NPC_Librarian	EN: Could it be? A book I've never seen before?!	AR: أيمكن أن يكون هذا حقيقياً؟ كتابٌ لم أره من قبل؟!
+104	NPC_Librarian	EN: Here to read?	AR: أأنت هنا للقراءة؟
+105	NPC_Librarian	EN: Hurry along.	AR: أسرع في خطاك.
+106	NPC_Librarian	EN: Welcome home, child.	AR: مرحباً بك في الديار، يا بني.
+107	NPC_Librarian	EN: These writings concern the Angels.	AR: هذه المخطوطات تتعلق بالملائكة.
+108	NPC_Librarian	EN: Good show. Taught those books a lesson did we?	AR: أحسنت صنعاً. ألم نلقن تلك الكتب درساً جيداً؟
+109	NPC_Librarian	EN: Nephilim.	AR: نيفيليم.
+110	NPC_Librarian	EN: Find any new scrolls?	AR: هل عثرتَ على أيّ لفائف جديدة؟
+111	NPC_Librarian	EN: Grimhaven was once the city's industrial heart. I wonder what secrets are buried beneath the steel mill.	AR: كانت قريمهاڤن ذات يوم القلب الصناعي للمدينة. أتساءل أيّ أسرارٍ دُفنت تحت مصنع الصلب.
+112	NPC_Librarian	EN: Oh.	AR: أوه.
+113	NPC_Librarian	EN: And what's concerning are the words about what's still to come.	AR: وما يثير القلق هو تلك الكلمات حول ما سيأتي في المستقبل.
+114	NPC_Librarian	EN: He has a habit of seeing potential where others see trouble. 	AR: اعتادَ أن يرى الإمكانات حيث يرى الآخرون المتاعب.
+115	NPC_Librarian	EN: The Church funded the Godsreach Spire by request of Solomon.	AR: مولت الكنيسة برج قودزريتش بناءً على طلب سولومون.
+116	NPC_Librarian	EN: Yes, just like the old days--the true war is yet to begin.	AR: أجل، تماماً كما في الأيام الخوالي؛ فالحرب الحقيقية لم تبدأ بعد.
+117	NPC_Librarian	EN: There you are.	AR: ها أنت ذا.
+118	NPC_Librarian	EN: Knight, listen to this:	AR: أيها الفارس، أنصت إلى هذا:
+119	NPC_Librarian	EN: Should you find any old notes or records of the past, bring them here.	AR: إن عثرت على أي ملاحظات قديمة أو سجلات من الماضي، فاحملها إليّ هنا.
+120	NPC_Librarian	EN: How goes the war?	AR: كيف تجري الأمور في الحرب؟
+121	NPC_Librarian	EN: In the lost realm of Akyreon, a sibling species to the Angels took material form.	AR: في عالم أكيريون المفقود، اتخذت فصيلة شقيقة للملائكة شكلاً مادياً.
+122	NPC_Librarian	EN: Felled by Lunarin in the War of the Gods.	AR: سقط بِيَد لوناران في حرب الآلهة.
+123	NPC_Librarian	EN: The Chronicles of Gallant the Brave. A tired old tome.	AR: "سجلات قالانت الشجاع". مجلد قديم متهالك.
+124	NPC_Librarian	EN: You again.	AR: أنت مجددًا.
+125	NPC_Librarian	EN: Here for a book?	AR: أأنت هنا من أجل كتاب؟
+126	NPC_Librarian	EN: Welcome back, knight.	AR: يسعدني رؤيتك مجددًا، أيها الفارس.
+127	NPC_Librarian	EN: Well done dear. Its good to know there's at least someone we can trust in these halls. Those monks have been getting bolder over the years. Anyways take this for your trouble.	AR: أحسنت يا عزيزي. من الجيد معرفة أن هناك على الأقل شخصًا واحدًا يمكننا الوثوق به في هذه الأروقة. لقد بات أولئك الرهبان أكثر جسارة بمرور السنين. على أية حال، خذ هذا جزاءً لجهودك.
+128	NPC_Librarian	EN: Ramshorn Keep was once a bastion of Gildenarch.	AR: كان حصن رامزهورن في يوم من الأيام معقلاً لمدينة قيلدنارك.
+129	NPC_Librarian	EN: Not gods, but servants of something called "The Throne."	AR: لم يكونوا آلهة، بل كانوا عبيداً لكيان يُدعى "العرش".
+130	NPC_Librarian	EN: Their descendants are the demons we face today.	AR: ونسلهم هم الشياطين الذين نواجههم اليوم.
+131	NPC_Librarian	EN: Begone.	AR: انصرف من هنا.
+132	NPC_Librarian	EN: Find the pieces, knight. And bring them to me.	AR: جِد القطع يا فارس، وأحضرها إليّ.
+133	NPC_Librarian	EN: Knight I have of you. Its a delicate matter.  It seems Gajov's supply of blood has gone missing. The Church is unwilling to help so I am forced to send word in search of donors.	AR: يا فارس، لديّ أمرٌ بخصوصك. إنه أمرٌ دقيق؛ يبدو أن إمدادات الدم الخاصة بـ قاجوف قد فُقدت. وبما أن الكنيسة ترفض المساعدة، فقد أُجبرتُ على إرسال خبرٍ للبحث عن متبرعين.
+134	NPC_Librarian	EN: What am I reading? You're curious for a Nephilim. 'Tis a story about the Infernal Legion. Myth mainly. Truth be told, little is known about Cain's forces. This reads: "an army of undead, demons, and vampires washed the streets with a river of blood." Bit melodramatic if you ask me. As I recall Cain lost that war. Yes, his little "Rite of Desolation". Pft.	AR: ماذا أقرأ؟ أنت فضولي بشكل يثير الدهشة بالنسبة لنيفيليم. إنها قصة عن الفيلق الجهنّمي. أسطورة في الغالب. والحقيقة هي أن القليل مما يُعرف عن قوى كاين. تقول السطور: "جيش من الموتى الأحياء والشياطين ومصاصي الدماء غسل الشوارع بنهر من الدماء". فيها مبالغة درامية إن سألتني. على ما أذكر، خسر كاين تلك الحرب. نعم، "طقس الخراب" الصغير الخاص به. هه.
+135	NPC_Librarian	EN: You again.	AR: أنت مجددًا.
+136	NPC_Librarian	EN: It seems the Dry Rot King was not always the creature you encountered.	AR: يبدو أن ملك العفن الجاف لم يكن دائمًا ذلك المخلوق الذي واجهته.
+137	NPC_Librarian	EN: This land is full of secrets, written in fading hands. Should you find any old notes or records of the past, bring them here. 
+I'll help you make sense of the words.	AR: هذه الأرض تفيض بالأسرار، كُتبت بأيدٍ تلاشت مع الزمن. إن عثرتَ على أي ملاحظات قديمة أو سجلات من الماضي، فاحملها إليّ. 
+سأعينك على فك رموز تلك الكلمات.
+138	NPC_Librarian	EN: The Crimson Concordat ensured neither would ever rule unchecked.	AR: لقد ضمن الميثاق القرمزي ألا يحكم أي منهما دون رقابة.
+139	NPC_Librarian	EN: I really must get a ladder for these top shelves.	AR: لا بد لي من إحضار سلم للوصول إلى هذه الرفوف العلوية.
+140	NPC_Librarian	EN: E'frae was once worshipped as the Lord of the Wild.	AR: كان إفراي يُعبد ذات يوم كـ "سيد البرية".
+141	NPC_Librarian	EN: They tend the crimson flowers. Fertilize with the dead.	AR: إنهم يرعون الزهور القرمزية، ويغذونها بالجثث.
+142	NPC_Librarian	EN: These notes you found, they speak of a cult.	AR: هذه الملحوظات التي عثرتَ عليها، تتحدث عن طائفة.
+143	NPC_Librarian	EN: Lunarin put an end to that, and made him what he is now.	AR: لقد وضع لوناران حداً لذلك، وجعله ما هو عليه الآن.
+144	NPC_Librarian	EN: As is often the story, the victors became the religion.	AR: وكما هو حال القصص دوماً، فإن المنتصرين هم من فرضوا دينهم.
+145	NPC_Librarian	EN: Hail.	AR: تحية.
+146	NPC_Librarian	EN: Ah, you are quite good at fetching books.	AR: آه، يبدو أنك بارعٌ حقاً في جلب الكتب.
+147	NPC_Librarian	EN: Puzzling.	AR: أمرٌ محير.
+148	NPC_Librarian	EN: Off with you.	AR: انصرف الآن.
+149	NPC_Librarian	EN: I'll help you make sense of the words.	AR: سأعينك على فك رموز هذه الكلمات.
+150	NPC_Librarian	EN: Farewell for now.	AR: وداعاً في الوقت الحالي.
+151	NPC_Librarian	EN: I believe this text is a stricken record from the Lunitarian Canon.	AR: أعتقد أن هذا النص هو سجلٌ محذوف من قانون لونيتاري.
+152	NPC_Librarian	EN: You brute.	AR: أيها الهمجي.
+153	NPC_Librarian	EN: I see another Abraxas Stone has entered our collection.	AR: أرى أن حجراً آخر من أحجار أبراكساس قد انضم إلى مجموعتنا.
+154	NPC_Librarian	EN: There is much to unpack here, Nephilim.	AR: ثمة الكثير لفك شفرته هنا، يا نيفيليم.
+155	NPC_Librarian	EN: Farewell, knight.	AR: وداعاً، أيها الفارس.
+156	NPC_Librarian	EN: Come forward, knight.	AR: تقدم للأمام، أيها الفارس.
+157	NPC_Librarian	EN: Hmmm.	AR: هممم.
+158	NPC_Librarian	EN: A catalyst for a new age.	AR: محفز لعصر جديد.
+159	NPC_Librarian	EN: Ah, lost notes on the founding of the Order of the Crimson Moon.	AR: آه، ملاحظات مفقودة حول تأسيس جماعة القمر القرمزي.
+160	NPC_Librarian	EN: Where have you been, knight?	AR: أين كنتَ، أيها الفارس؟
+161	NPC_Librarian	EN: This land is full of secrets.	AR: هذه الأرضُ تفيضُ بالأسرار.
+162	NPC_Librarian	EN: But it reads nonsense!	AR: لكنها تبدو هراءً!
+163	NPC_Librarian	EN: The cipher! You found it.	AR: الشفرة! لقد وجدتها.
+164	NPC_Librarian	EN: I can't read with you watching.	AR: لا يمكنني القراءة وأنت تراقبني.
+165	NPC_Librarian	EN: No. I believe that figure, Nephilim, was you.	AR: كلا. أظن أن ذلك الكائن، النيفيليم، كان أنت.
+166	NPC_Librarian	EN: What is it?	AR: ما الأمر؟
+167	NPC_Librarian	EN: I fear one day you'll need it.	AR: أخشى أنك ستحتاج إليه يوماً ما.
+168	NPC_Librarian	EN: Here, take this.	AR: خذ هذا.
+169	NPC_Librarian	EN: Now where did I leave that... hmm...	AR: أين وضعتُ ذلك… همم…
+170	NPC_Librarian	EN: Knight.	AR: أيها الفارس.
+171	NPC_Librarian	EN: In truth, he was a disciple of Cain.	AR: في الحقيقة، كان تلميذًا لكاين.
+172	NPC_Librarian	EN: Ah... scrolls from the Southern Ward. The oldest quarter of Gildeus, settled long ago along the Aemar River. It was there the Church first arrived, claiming to spread the Lunitarian word... Though these records suggest their purpose may have been... something more.	AR: آه… لفائف من الحي الجنوبي. أقدم أحياء جيلديوس، التي استوطنت منذ أمد بعيد على طول نهر أيمار. هناك وصلت الكنيسة أول مرة، زاعمةً نشر كلمة اللونيتاري… رغم أن هذه السجلات تشير إلى أن غرضهم قد يكون… شيئًا آخر.
+173	NPC_Librarian	EN: A request for you, child.	AR: لديّ طلب لك، أيها الصغير.
+174	NPC_Librarian	EN: Sadly, the surviving pages offer little more.	AR: للأسف، لا تقدم الصفحات المتبقية سوى القليل.
+175	NPC_Librarian	EN: I wonder if they knew what they were truly building.	AR: أتساءل عما إذا كانوا يدركون حقًا ما كانوا يبنونه.
+176	NPC_Librarian	EN: Nephilim, you're here.	AR: أيها النيفيليم، لقد وصلت.
+177	NPC_Librarian	EN: If there's nothing else, I have books to read.	AR: إن لم يكن هناك شيء آخر، فلدي كتبٌ عليّ قراءتها.
+178	NPC_Librarian	EN: I've been waiting, Nephilim.	AR: كنتُ بانتظارك، أيها النيفيليم.
+179	NPC_Librarian	EN: Approach, child.	AR: اقترب، يا بني.
+180	NPC_Librarian	EN: Nephilim, here for another story?	AR: أيها النيفيليم، أأتيتَ من أجل قصةٍ أخرى؟
+181	NPC_Librarian	EN: Welcome, child.	AR: أهلاً بك، يا بني.
+182	NPC_Librarian	EN: And so the key was split for three.	AR: وهكذا، قُسِّمت المفتاحُ بين ثلاثة.
+183	NPC_Librarian	EN: News from the field?	AR: أثمة أخبارٌ من الميدان؟
+184	NPC_Librarian	EN: The Order was his answer to that injustice.	AR: كانت الجماعةُ هي ردّته على ذلك الظلم.
+185	NPC_Librarian	EN: I knew you'd return.	AR: كنتُ أعلمُ أنك ستعود.
+186	NPC_Librarian	EN: Those are tomes, not a sparing dummy!	AR: هذه مجلداتٌ، وليست دميةً للتدريب!
+187	NPC_Librarian	EN: Approach.	AR: اقترب.
+188	NPC_Librarian	EN: Have you ever heard the story of your coffin? Belonged to Valkiel, one of the earliest Nephilim. Died almost immediately. Couldn't let a perfectly good coffin go to waste, so now its yours.	AR: هل سمعت يوماً قصة تابوتك هذا؟ لقد كان ملكاً لـ "فالكيل"، أحد أوائل النيفيليم. فارق الحياة فوراً تقريباً. ولم يكن بوسعنا ترك تابوتٍ سليمٍ كهذا يذهب سدى، لذا فهو لك الآن.
+189	NPC_Librarian	EN: Solomon's Gala marked the beginning of the Hellgrowth's outbreak.	AR: كانت حفلة "سولومون" هي إيذاناً ببدء تفشي النماء الجهنّمي.
+190	NPC_Librarian	EN: These records predate the modern Church.	AR: هذه السجلات تسبق الكنيسة الحديثة.
+191	NPC_Librarian	EN: Again this cult comes up in the notes.	AR: تظهر هذه الطائفة مجددًا في الملاحظات.
+192	NPC_Librarian	EN: What troubles you?	AR: ما الذي يؤرقك؟
+193	NPC_Librarian	EN: Hail child.	AR: تحية لك يا طفل.
+194	NPC_Librarian	EN: You're back.	AR: لقد عدت.
+195	NPC_Librarian	EN: You may go.	AR: يمكنك الذهاب.
+196	NPC_Librarian	EN: Hail.	AR: تحية لك.
+197	NPC_Librarian	EN: Put those back when you're done, dear.	AR: أعد تلك الأشياء إلى مكانها حين تنتهي، يا عزيزي.
+198	NPC_Librarian	EN: I've been reading our little book.	AR: كنتُ أقرأ كتابنا الصغير.
+199	NPC_Librarian	EN: The text reads:	AR: ينص النص على ما يلي:

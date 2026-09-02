@@ -1,0 +1,432 @@
+# Crimson Moon — character cards for Arabic localization
+# Source: research/dialogue_all.txt. gender: m / f / unknown. No guesses: no EN/FR evidence = unknown.
+# addressee_gender_default: m for every player-directed speaker (FR tally 28 masc vs 4 fem; see 04b_corpus_speaker_notes.md).
+# NOTE: namespaces are voice banks, not strict speakers. NPC_Solomon and NPC_Angel_Male each contain lines
+# spoken by the other party in the exchange. Assign speaker per line where the bank is Solomon/Angel.
+
+NPC_Angel_Male:
+  name: UNCONFIRMED   # Gallant's "Nahnias fights beside you now" may name the Angel; not tied explicitly
+  gender: m
+  gender_evidence: '"namespace NPC_Angel_Male only; text has no self-pronoun. FR neutral: ''Je suis à tes côtés, pour toujours''"'
+  role: the player's bound guardian Angel; shares the body after the Soul Siphon; narrates exploration, quest hints, combat callouts, lore commentary
+  addresses: player (Nephilim); occasionally Solomon / Valahk-Nor
+  addressee_gender_default: m
+  voice: formal, earnest, reflective; rhetorical questions about faith and institutions; frequent shared "we/us"
+  register: elevated
+  dialect_notes: standard formal English; FR uses vous in tutorial/mission lines and tu in field lines
+  preserve:
+    - 'first-person-plural "we/our" for the shared body'
+    - 'rhetorical questions'
+    - 'mission-briefing tone'
+    - 'exclamatory combat callouts'
+  avoid:
+    - 'slang'
+    - 'contractions-heavy chatter'
+    - 'comic tone'
+    - 'addressing the player as feminine'
+
+NPC_Blacksmith:
+  name: Gajov   # surname "Resnyk" NOT in corpus - UNCONFIRMED
+  gender: m
+  gender_evidence: '"EN: ''Bring Gajov what he need''; Librarian ''see the Blacksmith. He''s one himself''; Monk ''the wolf-boy''. FR: ''Gajov est prêt''"'
+  role: the Order's blacksmith; Karsivite vampire conscripted by Gallant; worships Vodor / "Pack in the sky"
+  addresses: player (pup / stray pup / good pup / nephilim / friend); Gallant; Lady Mereda; Vodor
+  addressee_gender_default: m
+  voice: broken speech, third-person self-reference, imperative fragments, dog metaphors (pup/fetch/toy); growls and grunts in stage directions
+  register: comic
+  dialect_notes: drops articles and copulas ("Forge hot", "Sword dull"), "no" for "don't" ("No touch sword!"), occasional full sentences in lore lines
+  preserve:
+    - 'third-person self-reference "Gajov"'
+    - 'telegraphic fragments'
+    - '"pup" and fetch/toy metaphors'
+    - '"Kill gods" bluntness'
+    - 'growl/grunt stage directions'
+  avoid:
+    - 'fluent grammatical prose'
+    - 'politeness formulas'
+    - 'elevated vocabulary'
+    - 'articles where EN dropped them'
+
+NPC_Librarian:
+  name: Mereda   # cross-referenced (Gallant "Mereda, the Order's archivist"; Monk "what she has you reading"); never self-named; surname unknown
+  gender: f
+  gender_evidence: '"EN: Monk ''what she reads by it''; Merchant ''lass has been waitin'''', ''She''s in on it''; Gallant ''when her and I had just met''. FR: ''Contente de te revoir, chevalier'', ''Je suis vraiment désolée''"'
+  role: the Order's archivist and scholar; immortal (over 100 years); conscripted by the Faith; deciphers texts, forges requisitions with Lotte
+  addresses: player (knight / child / Nephilim / dear / brute / dog)
+  addressee_gender_default: m
+  voice: dry, condescending scholar; sarcastic; long exposition monologues; irritable when interrupted; warms up over time
+  register: archaic
+  dialect_notes: '"''Tis", "''fore all is lost", "what bringith", "I sent ye", "Good show"; bookish British sarcasm'
+  preserve:
+    - 'archaic-literary flavor'
+    - 'condescending endearments (child / dear) alongside insults (brute / dog)'
+    - 'sarcastic asides'
+    - 'lore-lecture cadence'
+  avoid:
+    - 'street slang'
+    - 'warmth without bite'
+    - 'simplifying the exposition'
+    - 'feminine forms for the player'
+
+NPC_Merchant:
+  name: Lotte Ananta   # FR self-names: "Car moi, Lotte Ananta, je suis là..."
+  gender: m
+  gender_evidence: '"EN: Angel ''Lotte''s been busy... lets check in with him''; Monk ''Lotte cannot leave his chair''; Merchant ''you''re talking to the man who did''; ''{counting coin under his breath}''. FR: ''je me suis retrouvé'', ''un chat de gouttière''"'
+  role: potion/trinket vendor; former master thief cursed into an immobile bloated body by a Cathedral artifact; technically dead; questline about his crew and lost love Aleria Hawthorn
+  addresses: player (friend / mate / chap / sir / sonny / stray / 'alf breed); Gajov ("mate")
+  addressee_gender_default: m
+  voice: cockney salesman patter, self-deprecating fat jokes, sudden sincerity; constant "friend"
+  register: comic
+  dialect_notes: dropped g's ("lookin'"), dropped h's ("'ere", "'alf"), "innit", "cor", "ya/yer", "skint", "git", "wanker", "sod", "Toffs"; third-person "ol' Lotte"
+  preserve:
+    - 'colloquial register'
+    - '"friend"/"mate" tags'
+    - '"ol'' Lotte" third-person self-mention'
+    - 'salesman one-liners'
+    - 'mild profanity'
+    - 'emotional turns in the crew/Aleria arc'
+  avoid:
+    - 'formal or literary Arabic'
+    - 'removing the humor'
+    - 'softening "wanker/bastard" to nothing'
+    - 'feminine address'
+
+NPC_Hub_Monk_1:
+  name: UNCONFIRMED   # never named
+  gender: m
+  gender_evidence: '"FR: ''Je ne devrais pas me sentir soulagé quand ils échouent.'' EN implicit: monk among ''the brothers''"'
+  role: Lunitarian monk in the Order's hub; keeper of registers and candles; ex-novice under Gallant; nervous observer and gossip
+  addresses: player (Nephilim); frequently speaks ABOUT the player in third person ("the Knight", "the Nephilim")
+  addressee_gender_default: m
+  voice: aphorisms, liturgical repetition, flat declaratives, understatement, refrains "I am told", "The brothers do not speak of this"
+  register: elevated
+  dialect_notes: formal, no contractions, deadpan-unsettling; parallel sentence triplets
+  preserve:
+    - 'aphoristic structure'
+    - 'verbatim repetition refrains'
+    - 'third-person references to the player as "the Knight"'
+    - 'liturgical parallelism'
+    - 'dry understatement'
+  avoid:
+    - 'slang'
+    - 'warmth'
+    - 'emotional exclamations'
+    - 'breaking the deadpan'
+    - 'merging repeated sentences into one'
+
+NPC_Gallant:
+  name: Gallant Alexander
+  gender: m
+  gender_evidence: '"EN: Monk ''Older than he looks''; Solomon ''He who helped enslave''; Gallant ''proud to call you my brother''. FR: ''j''ai été tué par une vampire amoureuse'', ''Je serai prêt''"'
+  role: Knight Commander of the Order of the Crimson Moon; the first Nephilim (~300 years); led the Apostate Hunts; slayer of Valahk-Nor
+  addresses: player (Nephilim / Paladin / Knight / my brother); Mereda
+  addressee_gender_default: m
+  voice: military terse; short imperatives; maxims; occasional weary gallows humor; contract-board one-liners
+  register: plain
+  dialect_notes: standard English, clipped; "ya" once
+  preserve:
+    - 'terseness'
+    - 'two-beat maxims ("Be ruthless, not reckless.")'
+    - 'commander-to-soldier tone'
+    - '"brother" kinship'
+    - 'encouragement without sentimentality'
+  avoid:
+    - 'padding short lines'
+    - 'flowery diction'
+    - 'softening commands into requests'
+    - 'feminine address'
+
+NPC_Solomon:
+  name: Solomon Moore
+  gender: m
+  gender_evidence: '"EN: Angel ''Solomon may have a point, but he isn''t right''; Solomon ''my dearest Deliliah... my son''; Female_2 ''the man who promised to rebuild Gildenarch''"'
+  role: antagonist; ex-clergyman turned industrialist; architect of the Godsreach Spire; servant of Cain; voice from the Spire tempting the player
+  addresses: player (Nephilim / dear Nephilim / dog / hound / slave); the Angel; Felwyl
+  addressee_gender_default: m
+  voice: polished rhetoric, philosophical monologue, sneering condescension, rhetorical "Hmm?"
+  register: menacing
+  dialect_notes: standard, articulate, long sentences; bank also contains Angel/Nephilim reply lines - assign per line
+  preserve:
+    - 'persuasive-cynical rhetoric'
+    - 'long periodic sentences'
+    - 'contemptuous pet names (dog / hound / slave)'
+    - 'philosophical aphorisms'
+  avoid:
+    - 'slang'
+    - 'shouting where EN is calm'
+    - 'cutting the argument structure'
+    - 'feminine address'
+
+NME_Boss_Felwyl_TA:
+  name: Felwyl the Withered   # TA = ascended/late form
+  gender: m
+  gender_evidence: '"EN: Gallant ''Felwyl came back. Of course he did... you put him in the ground''; Solomon ''he had plans of his own''. FR: ''Je suis le maître des dieux morts'', ''le nouveau seigneur d''Akyreon''"'
+  role: boss; lich master of the Garden / Red Bloom / Hellgrowth; ex-library teacher; Solomon's ally turned rival
+  addresses: player (Nephilim / Aether Spawn / hound); Solomon
+  addressee_gender_default: m
+  voice: grandiose, botanical death imagery (Garden, Bloom, vines, viscera, carrion), languid contempt
+  register: menacing
+  dialect_notes: standard elevated; short taunts mixed with declarations
+  preserve:
+    - 'Garden/Bloom/flesh-and-bone imagery'
+    - 'contemptuous brevity ("This again?")'
+    - '"Nephilim" and "Aether Spawn" as address'
+  avoid:
+    - 'comic tone'
+    - 'colloquialisms'
+    - 'feminine address'
+
+NME_Boss_Felwyl_TW:
+  name: Felwyl the Withered   # TW = withered/early form; same character as _TA
+  gender: m
+  gender_evidence: "same character as NME_Boss_Felwyl_TA (see above)"
+  role: boss; earlier form of Felwyl
+  addresses: player (Nephilim / aether-spawn / hound)
+  addressee_gender_default: m
+  voice: as _TA; slightly more storyteller-ish ("from annals of legend itself", "like all stories... come to an end")
+  register: menacing
+  dialect_notes: standard elevated
+  preserve:
+    - 'same as _TA'
+    - 'plus the "story ending" motif'
+  avoid:
+    - 'same as _TA'
+
+NME_Boss_Mahkteah:
+  name: Mahkteah, Lord of Perdition
+  gender: m
+  gender_evidence: '"EN: Librarian ''the story of Mahkteah before his fall''; Gallant ''the Lord of Perdition''"'
+  role: dead god of war bound in the Stone of War; boss
+  addresses: player (Nephilim / welp / advocate of man / Child of Luderaeon)
+  addressee_gender_default: m
+  voice: honor-bound warrior bravado; relishes combat; taunts about legend and honor
+  register: archaic
+  dialect_notes: standard elevated; martial exclamations
+  preserve:
+    - 'honor/war vocabulary'
+    - 'exultant challenge tone'
+    - '"welp" contempt'
+    - '"advocate of man" epithet'
+  avoid:
+    - 'modern slang'
+    - 'cowardice or fear in tone'
+    - 'feminine address'
+
+NPC_Valahk:
+  name: Valahk-Nor
+  gender: m
+  gender_evidence: '"EN: Monk ''Valahk-Nor frightened children once. He frightens none tonight.''"'
+  role: demon general of Cain's Infernal Legion; slain by Gallant long ago; returns as boss
+  addresses: player (wretch / creature / Soul torn Aether-Spawn); his Legion
+  addressee_gender_default: m
+  voice: war-cry declaratives; contempt for the player's "Aeonic blood"; fixated on Gallant's legacy
+  register: menacing
+  dialect_notes: standard elevated; exclamatory
+  preserve:
+    - 'battle-cry exclamations'
+    - 'Akyreon/Cain/Demiurge lore names'
+    - '"wretch"/"creature" address'
+    - 'references to "your Commander"'
+  avoid:
+    - 'humor'
+    - 'hedging'
+    - 'feminine address'
+
+NPC_Door_Advocate:
+  name: UNCONFIRMED   # self-styled "the Advocate"
+  gender: unknown
+  gender_evidence: '"none: EN has no self-pronoun (''I am the Advocate''); only one FR line translated and it is neutral (''Tu nous as rendu un grand service'')"'
+  role: last lucid soul absorbed into the Garden; grants a virulent blade when struck
+  addresses: player
+  addressee_gender_default: m
+  voice: solemn, prophetic first-person testimony
+  register: elevated
+  dialect_notes: standard formal
+  preserve:
+    - 'solemn testimony tone'
+    - '"the Advocate" self-title'
+    - 'imperative plea "kill them before their souls are fully consumed"'
+  avoid:
+    - 'gendered self-reference in Arabic where avoidable (use gender-neutral constructions)'
+    - 'casual tone'
+
+NPC_Door_DemoralizedWoman:
+  name: UNCONFIRMED
+  gender: f
+  gender_evidence: '"EN: ''M''man used to ring the cathedral bells... his key'', ''You''re the one what stole m''husband''s key!''; namespace _Woman. FR neutral"'
+  role: looping ghost-widow behind a door; husband taken by the Inquisition; gives the armory key
+  addresses: player (stranger / beast / Nephilim)
+  addressee_gender_default: m
+  voice: rural dialect, weary dread, time-loop confusion
+  register: plain
+  dialect_notes: '"ain''t", "ta" (to), "m''" (my), "''nough", "reckon", "a body", dropped g''s'
+  preserve:
+    - 'rustic colloquial register'
+    - 'weariness'
+    - 'time-loop repetition awareness'
+    - '"Thank you kindly" courtesy'
+  avoid:
+    - 'literary Arabic'
+    - 'cheerfulness'
+    - 'formal address forms'
+
+NPC_Door_Drunk:
+  name: UNCONFIRMED
+  gender: unknown
+  gender_evidence: '"none: no self-pronoun in EN (''A man who doesn''t try to take away my drinks'' describes the player); FR has 2 neutral lines"'
+  role: looping drunk squatter behind a door; comic relief
+  addresses: player (bartender / Nephilim)
+  addressee_gender_default: m
+  voice: slurred, hiccups, nonsense song, "Oi"
+  register: comic
+  dialect_notes: '"s''shomeone", "''member", "y''are", "ya", "Oi", "yonder"'
+  preserve:
+    - 'slurred/drunk cadence'
+    - 'comic non-sequiturs'
+    - 'defiance about "MY property"'
+    - 'the whale nonsense song'
+  avoid:
+    - 'gendered self-reference where avoidable'
+    - 'sober formal phrasing'
+
+NPC_Door_Female_1:
+  name: UNCONFIRMED
+  gender: f
+  gender_evidence: '"EN: ''Don''t suppose you''ve seen a woman bolt from this door already... Feels like I remember runnin'''' (self-description); namespace _Female. FR CONTRADICTS (''je suis surpris'', ''j''ai été emporté'') - treat FR as translator error"'
+  role: dead woman looping "about to run for it"; explains the Flower Folk / Church purge backstory
+  addresses: player (Nephilim)
+  addressee_gender_default: m
+  voice: working-class, brittle humor, fatalistic
+  register: plain
+  dialect_notes: '"ain''t", "ta", "''em", "lemme", "did''n it", "bloody", "daft", "on''t"'
+  preserve:
+    - 'colloquial register'
+    - 'gallows humor'
+    - 'fear/immobility theme'
+    - '"fancy sword of yours" teasing'
+  avoid:
+    - 'elevated diction'
+    - 'masculine self-reference (despite FR)'
+    - 'softening "bloody"'
+
+NPC_Door_Female_2:
+  name: UNCONFIRMED   # Solomon's would-be fiancee; NOT Deliliah (Solomon's dead wife)
+  gender: f
+  gender_evidence: '"EN: ''If you mean to ask for my hand, Solomon'', ''my love'', ''the darling of the entire city''; namespace _Female"'
+  role: aristocratic Academy ghost who mistakes the player for Solomon; demands a ring; holds Solomon's stolen seal
+  addresses: player AS Solomon (my dear lord / my love / Solomon)
+  addressee_gender_default: m   # she addresses "Solomon"; FR "vous êtes finalement revenu"
+  voice: haughty court diction, precise grammar, disdain
+  register: elevated
+  dialect_notes: no contractions of the street kind; "vulgar", "wretched", "trinket", "peasant's band"
+  preserve:
+    - 'aristocratic hauteur'
+    - 'addressing the player by the name Solomon'
+    - 'romantic-society vocabulary'
+    - 'contempt when the ring disappoints'
+  avoid:
+    - 'street slang'
+    - 'using "Nephilim" (she never does)'
+    - 'feminine address forms'
+
+NPC_Door_Female_3_2D:
+  name: UNCONFIRMED
+  gender: f
+  gender_evidence: "namespace _Female plus coquettish framing only; no self-pronoun in EN. FR 'ma chère' marks the ADDRESSEE feminine, not the speaker"
+  role: woman fused with her house/door by Hellgrowth roots; flirtatious innuendo about knocking
+  addresses: player (dear / darlin')
+  addressee_gender_default: m   # FR's "ma chère" here is translation noise (renders "dear"); corpus-wide default is m
+  voice: warm, chuckling, double entendre
+  register: comic
+  dialect_notes: '"ya", dropped g''s, "Oh, ho ho ho", "darlin''"'
+  preserve:
+    - 'double entendre about knocking/hinges'
+    - 'warm laughter cues'
+    - '"dear/darlin''" endearments (masculine addressee)'
+  avoid:
+    - 'making the innuendo explicit'
+    - 'formal register'
+    - 'feminine address'
+
+NPC_Door_Male1:
+  name: UNCONFIRMED
+  gender: m
+  gender_evidence: "namespace _Male1 only; no self-pronoun. FR neutral ('Tu vas griller ma couverture')"
+  role: hidden survivor watching demons drag people away; tells player to scram
+  addresses: player (mate)
+  addressee_gender_default: m
+  voice: cockney-ish, brusque
+  register: plain
+  dialect_notes: '"Oi", "Ye daft mate?", "''nuff", "knackers", "''em", dropped g''s'
+  preserve:
+    - 'brusque street register'
+    - '"mate"'
+    - 'grim matter-of-factness ("A body''s a body to ''em")'
+  avoid:
+    - 'elevated diction'
+    - 'politeness'
+
+NPC_Door_Priest:
+  name: UNCONFIRMED   # not Mathias (Mathias was slain)
+  gender: m
+  gender_evidence: '"EN: ''I knew men more sinful than you... We trusted them'', ''we were misguided, fearful men''; addresses player as ''he who is caught between realms''. FR 4 neutral lines"'
+  role: damned Lunitarian priest who confesses the Church's fear of the Nephilim; unlocks soul-siphon "gnosis" progression and the Purgatory replay mechanic
+  addresses: player (child / Nephilim / "he who is caught between realms")
+  addressee_gender_default: m
+  voice: confessional, theological, paternal
+  register: elevated
+  dialect_notes: standard clerical English; "My my child"
+  preserve:
+    - 'confessional tone'
+    - '"child" paternal address'
+    - 'theological vocabulary (Divine, gnosis, Dogma of Two Souls)'
+    - '"he who is caught between realms" epithet'
+  avoid:
+    - 'slang'
+    - 'jokes'
+    - 'feminine address'
+
+NPC_Door_Prisoner:
+  name: UNCONFIRMED
+  gender: unknown
+  gender_evidence: '"none: no self-pronoun in EN (''Only enough room for one and my chamber pot''); FR 7 neutral lines (''bâtard'' is the player insult)"'
+  role: self-confessed killer content in a Shoreditch cell; taunts the player; Nachstahl Steel / Caldewels lore
+  addresses: player (friend / 'alf breed)
+  addressee_gender_default: m
+  voice: manic cackling, ALL-CAPS outbursts, self-justifying
+  register: comic
+  dialect_notes: '"betwixt", "me own", "''alf", "aalll", "Hehehe"'
+  preserve:
+    - 'manic laughter cues'
+    - 'shouted ALL-CAPS lines'
+    - '"''alf breed" insult'
+    - 'glee at being locked in'
+  avoid:
+    - 'gendered self-reference where avoidable'
+    - 'calm phrasing'
+
+Nephilim:
+  name: the Nephilim (player character)
+  gender: m
+  gender_evidence: "FR masculine agreement 28 hits; Gallant 'my brother'"
+  role: player; half-human half-angel weapon of the Order
+  addresses: Solomon, Gallant, the Angel
+  addressee_gender_default: m
+  voice: terse, defiant, few words; not eloquent
+  register: plain
+  dialect_notes: none
+  preserve: [short declaratives]
+  avoid: [flourish, long clauses]
+
+Cardinal_Mathias:
+  name: Cardinal Mathias
+  gender: m
+  gender_evidence: "title Cardinal; he/his in lore"
+  role: head of the Lunitarian Church in Gildenarch; boss; complicit with Solomon
+  addresses: player
+  addressee_gender_default: m
+  voice: clerical authority, sanctimonious, cold
+  register: elevated
+  dialect_notes: none
+  preserve: [liturgical cadence]
+  avoid: [slang]

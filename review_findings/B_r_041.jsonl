@@ -1,0 +1,1 @@
+{"id": "|0745624D48325D0A5141ABB1C18C6D95", "source_en": "Ring of Death Ward", "ar_before": "خاتم وقاية الموت", "ar_fixed": "خاتم الوقاية من الموت", "severity": "minor", "reason": "idafa reads as 'death's protection'; needs من for 'protection from death'", "confidence": "medium"}

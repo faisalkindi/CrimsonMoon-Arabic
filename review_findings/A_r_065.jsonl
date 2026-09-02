@@ -1,0 +1,5 @@
+{"id": "|FECF028F4DE67BD633E4A2AB361CB2BD", "source_en": "Clear", "ar_before": "واضح", "ar_fixed": "شفاف", "severity": "critical", "reason": "subtitle background option: Clear means transparent", "confidence": "high"}
+{"id": "|F88B0D9C4FAD731C3BBBCB865D11D684", "source_en": "Emergent Quests", "ar_before": "مهام طارئة", "ar_fixed": "مهام ناشئة", "severity": "critical", "reason": "طارئة means emergency; emergent is ناشئة", "confidence": "high"}
+{"id": "|FDFDA5A64CDF0736593C359F60D704AC", "source_en": "Solo", "ar_before": "منفرد", "ar_fixed": "فردي", "severity": "minor", "reason": "sibling filter row renders Solo as فردي", "confidence": "medium"}
+{"id": "|F49ABF6B4F9643A1E8A6119B910E8691", "source_en": "Guardian", "ar_before": "الحارس", "ar_fixed": "الوصي", "severity": "minor", "reason": "الحارس is glossary-locked for the boss The Warden", "confidence": "medium"}
+{"id": "|F9F9AE1D452E87D466692CA5F6F43128", "source_en": "Code Expired", "ar_before": "انتهت صلاحية الكود", "ar_fixed": "انتهت صلاحية الرمز", "severity": "minor", "reason": "code rendered الرمز in all other rows", "confidence": "high"}

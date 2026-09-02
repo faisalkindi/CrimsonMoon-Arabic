@@ -1,0 +1,925 @@
+#0 [NPC_Valahk|dialogue] AD686233422596EECC471E95468B79B8
+EN: You live and die for a lie.
+FR: Tu vis et tu meurs pour un mensonge.
+AR: تحيا وتموت من أجل كذبة.
+
+#1 [NPC_Valahk|dialogue] AFBB079B4D2CACB5A9CC999C6CAC7F5B
+EN: Your blood is an abomination of the Astral tide.
+FR: Ton sang est une abomination issue de la marée astrale.
+AR: دمك رجسٌ من مدّ الأثير.
+
+#2 [NPC_Valahk|dialogue] CE41054042B4D7D5BD52EA9D3F30FB94
+EN: Cain’s Will be done!
+FR: Que la volonté de Caïn soit faite !
+AR: لتُنفذ إرادة قابيل!
+
+#3 [NPC_Valahk|dialogue] E867A07F4405DD0C52A2179C0C61E903
+EN: Your Aeonic blood cannot protect you forever.
+FR: Ton sang éonique ne pourra pas te protéger éternellement.
+AR: دمك الأيوني لن يحميك للأبد.
+
+#4 [NPC_Valahk|dialogue] E888FBB041068845D02263A9317FC5B2
+EN: My Legion! On me!
+FR: Ma légion ! À moi !
+AR: فيلقي! التفّوا حولي!
+
+#5 [NPC_Valahk|dialogue] F31D91C44A2778A1464D05836A91AE87
+EN: I am your doom!
+FR: Je causerai ta perte !
+AR: أنا هلاكك!
+
+#6 [NPC_Valahk|dialogue] F32EB3C1477ABDCF0100A6BC2305166C
+EN: You will die on your knees!
+FR: Tu mourras à genoux !
+AR: ستموتُ جاثياً على ركبتيك!
+
+#7 [NPC_Valahk|dialogue] F5D3989442B12FD327FD5E875E47AF22
+EN: I’ve filled mounds with the corpses of greater men!
+FR: J’ai empilé les cadavres d’hommes plus grands que toi !
+AR: لقد رصفتُ تلالاً من جثثِ رجالٍ أعظمَ منك!
+
+#8 [NPC_Valahk|dialogue] FBAD1279428D670E397178B22486F191
+EN: Where is your Commander?! You mock his legacy!
+FR: Où est ton commandeur ?! Tu bafoues son héritage !
+AR: أين قائدُك؟! إنك تستهزئُ بإرثه!
+
+#9 [Nephilim|dialogue] 143A15C04B6962BB754C9DBF169BEA0B
+EN: You're right. This world's order has to change. Someone has to take a stand.
+AR: أنت على حق. لا بدّ أن يتغير نظام هذا العالم. ولا بدّ لأحد أن يقف.
+
+#10 [Nephilim|dialogue] 25FD93024D857BB9D80B6398A5FCBEE4
+EN: Yes, Knight Commander. I understand.
+FR: Oui, chevalier commandeur. Je comprends.
+AR: نعم يا قائد الفرسان. فهمت.
+
+#11 [Nephilim|dialogue] 8A282819472EA2CAFFCAC8BF1D06B5D2
+EN: I'm the Soul Torn Beast? Impossible. How can this be? My fate, foretold by the Church? Is this why they feared the Nephilim?
+AR: أنا وحش الروح الممزق؟ محال. كيف؟ قدري تنبأت به الكنيسة؟ ألهذا خافوا النيفيليم؟
+
+#12 [Nephilim|dialogue] 9D4154174A0F400B541A998C88AC06FF
+EN: Humanity needs a savior. May as well be me.
+FR: L'humanité a besoin d'un sauveur. Autant que ce soit moi.
+AR: البشرية تحتاج مخلّصاً. فليكن أنا.
+
+#13 [Nephilim|dialogue] 326CADD342456C2767C87AB4E21A2C2C
+EN: Gallant will protect me
+FR: Gallant me protégera.
+AR: قالانت سيحميني.
+
+#14 [Nephilim|dialogue] 6539B226462D43EB4EE4F1B0735231B0
+EN: The Church has no control over my mind and neither do you Solomon.
+FR: L'Église n'a aucune emprise sur mon esprit et toi non plus, Solomon.
+AR: لا سلطان للكنيسة على عقلي. ولا لك يا سولومون.
+
+#15 [Nephilim|dialogue] DA61302B4F9E8EEB621EA99A706F2E97
+EN: This isn't right. We should be at the graveyard
+FR: Ce n’est pas normal. Nous devrions être au cimetière.
+AR: هذا ليس صواباً. مكاننا المقبرة.
+
+#16 [None|lore] AALS_1_BodyText
+EN: In the hunt for Aegoroth, Eye of the Abyss, I grow closer. A resident from the Inn claims to have come across a most peculiar people. Just three days journey from here. To hear him say it, during his travels in the Armaea Hills he came across a small wooden structure, what he thought was a church. Upon closer inspection, he found the building empty.  
+  
+ Being a storm coming, he decided to shelter for the night. It must have been the lightning that saved him--for he awoke startled by the flash and in that wisp of light, he found men standing all around him, spread about in a fanning circle, all watching him sleep, all with empty hollows where there should be eyes. 
+  
+ Just like that, the light passed and he was left in the dark. And when the next flash came-they were gone. It is said that devout followers relinquish their eyes to Aegoroth for just a glimpse of his flesh. Lunacy. Fanatics. Obviously. But still, a fantastic opportunity for a firsthand interview! They must know more about the lost legends of this fabled creature than any.   
+  
+ I shall begin my journey tomorrow.  
+FR: La traque d’Aegoroth, l’Œil de l’abîme, se poursuit et je me rapproche de mon but. Un client de l’auberge affirme avoir rencontré un peuple des plus singuliers. À seulement trois jours de marche d’ici. À l’entendre, lors de ses pérégrinations dans les collines d’Armaéa, il serait tombé sur une petite construction en bois, qu’il a prise pour une église. En y regardant de plus près, il s’est aperçu que le bâtiment  
+ était vide. 
+  
+ Comme un orage approchait, il a décidé de s’y abriter pour la nuit. Ce sont sans doute les éclairs qui l’ont sauvé. Il s’est réveillé en sursaut, surpris par l’un deux, et dans  
+ cette lueur fugace, il a vu des hommes debout tout autour de lui, disposés en cercle,  
+ tous en train de le regarder dormir, avec des cavités vides à la place des yeux. 
+  
+ L’instant suivant, il se retrouvait à nouveau dans l’obscurité. Et lorsqu’un autre éclair a ensuite jailli, ils avaient disparu. On raconte que les fidèles dévoués offrent leurs yeux à Aegoroth pour avoir ne serait-ce qu’un aperçu de sa chair. Des fous. Des fanatiques. Évidemment. Mais tout de même, c’est l’occasion rêvée d’obtenir un entretien ! Ces gens doivent en savoir plus que quiconque sur les légendes perdues relatives à cette créature mythique. 
+  
+ Je commencerai mon voyage demain.  
+AR: في رحلة مطاردة إيقوروث، عين الهاوية، أقترب أكثر. يدعي أحد نزلاء النزل أنه صادف قوماً في غاية الغرابة. على بعد ثلاثة أيام فقط من هنا. وبحسب قوله، فخلال رحلاته في تلال أرميا، عثر على هيكل خشبي صغير، ظن أنه كنيسة. وعند فحص المبنى عن كثب، وجده خالياً.  
+  
+ ولما أقبلت عاصفة، آثر أن يبيت فيه. لا بد أن البرق هو ما أنقذه، فقد استيقظ فجأة على ومضة الضوء، وفي ذلك الخيط من النور، وجد رجالاً يقفون حوله، منتشرين في حلقة متسعة، كلهم يرقب نومه، وفي محاجرهم فراغٌ حيث ينبغي أن تكون العيون.  
+  
+ وهكذا، مر الضوء وتركه في الظلام. وعندما جاءت الومضة التالية، اختفوا. يقال إن الأتباع الورعين يتخلون عن أعينهم لإيقوروث مقابل لمحة واحدة من جسده. جنون. تعصّب. بلا ريب. ولكن مع ذلك، هي فرصة رائعة لإجراء مقابلة مباشرة! ولا بد أنهم أعلم الناس بأساطير هذا المخلوق الضائعة.  
+  
+ سأبدأ رحلتي غداً.
+
+#17 [None|lore] AALS_1_Subhead
+EN: Missing Scholar’s Notes 
+FR: Notes de l’érudit disparu
+AR: ملاحظات عالم مفقود
+
+#18 [None|lore] AALS_1_Title
+EN: The Hunt for Aegoroth 
+FR: La traque d’Aegoroth
+AR: صيد إيقوروث
+
+#19 [None|lore] AALS_2_BodyText
+EN: The first question one must ask when inquiring on the true inception point of knowledge, is  
+ the question of dreams. Where do they come from? Are they merely our internal  
+ hallucinations by sleep? Or is it a thread dripping through the ether, providing knowledge  
+ from the other side? From some one or some thing on the other side of the veil.  
+ I have been with the Aegorothians for a fortnight and they have me questioning my  
+ preconceptions.   
+ Lunatics, maybe. But these men and women willingly gave their eyes to their god. Plucked  
+ one by one as grapes for the Eye of the Abyss. And not a single one claims that they cannot  
+ see.  
+ They say it started with dreams. Dreams of knowledge. Dreams of sight. In these dreams,  
+ they see impossible things and eventually, Aegoroth himself. They describe large,  
+ magnificent wings and many, many eyes. Blue irises. And brown. Every kind.  
+ Could it be that all this time true knowledge came from the other side traveling through our  
+ dreams. Forbidden knowledge from a gracious god.   
+ And if it is true, I wonder, will he visit me?  
+FR: La première question qu’il faut se poser lorsqu’on s’interroge sur le véritable point de départ de la connaissance, c’est celle des rêves. D’où viennent-ils ? S’agit-il simplement d’hallucinations internes provoquées par le sommeil ? Ou bien est-ce un fil qui s’écoule à travers l’éther, apportant des connaissances  
+ provenant de l’autre côté ? De quelqu’un ou de quelque chose de l’autre côté du voile.  
+ Je suis avec les Aegorothiens depuis une quinzaine de jours et ils m’amènent à remettre en question mes idées préconçues.  
+ Ils sont peut-être fous, mais ces hommes et ces femmes ont volontairement offert leurs yeux à leur dieu. Ils les ont arrachés  
+ un à un comme des raisins pour l’Œil de l’abîme. Et pas un seul d’entre eux ne dit ne plus pouvoir voir.  
+ Ils disent que tout a commencé par des rêves. Des rêves de savoir. Des rêves de vision. Dans ces rêves,  
+ ils voient des choses impossibles et, finalement, Aegoroth lui-même. Ils décrivent de grandes, magnifiques ailes et de très nombreux yeux. Des iris bleus. Et marron. De toutes sortes.  
+ Se pourrait-il que, depuis toujours, le véritable savoir vienne de l’autre côté, voyageant à travers nos  
+ rêves ? Des connaissances interdites, offertes par un dieu miséricordieux.  
+ Et si c’est vrai, je me demande : viendra-t-il à moi ?
+AR: السؤال الأول الذي يجب طرحه عند التساؤل عن نقطة المنشأ الحقيقية للمعرفة هو  
+ سؤال الأحلام. من أين تأتي؟ أهي مجرد  
+ هلوساتٍ يولّدها النوم؟ أم أنها خيط يقطر عبر الأثير، مانحاً المعرفة  
+ من الجانب الآخر؟ من شخص أو شيء ما خلف الحجاب.  
+ قضيت أسبوعين بين الإيقوروثيين، فزعزعوا  
+ تصوراتي المسبقة.  
+ ربما هم مجانين. لكن هؤلاء الرجال والنساء قدموا أعينهم طواعية لإلههم. تُقطف  
+ واحدةً إثر أخرى كالعنب من أجل عين الهاوية. وما منهم أحد يزعم أنه لا يقوى على  
+ الرؤية.  
+ يقولون إن الأمر بدأ بالأحلام. أحلام المعرفة. أحلام البصيرة. في هذه الأحلام،  
+ يرون أشياء مستحيلة، وفي النهاية، يرون إيقوروث نفسه. يصفونه بأجنحة كبيرة  
+ وعظيمة، وعيون كثيرة جداً. قزحيات زرقاء، وبنية. من كل نوع.  
+ أتُرى المعرفة الحقيقية كانت طوال هذا الوقت تأتينا من الجانب الآخر عبر  
+ أحلامنا؟ معرفة محظورة من إله كريم.  
+ وإذا كان ذلك صحيحاً، أتساءل، هل سيزورني؟
+
+#20 [None|lore] AALS_2_SubHead
+EN: Missing Scholar’s Notes 
+FR: Notes de l’érudit disparu
+AR: ملاحظات عالم مفقود
+
+#21 [None|lore] AALS_2_Title
+EN: Dreams of Aegoroth
+FR: Rêves d’Aegoroth
+AR: أحلام إيقوروث
+
+#22 [None|lore] AALS_3_BodyText
+EN: I write this letter with my last eye, trembling in the wrist with excitement, barely able to wait  
+ to pluck the final gift from its cavity and fling it happily into the maw of my God.   
+ I write to say he came to me he came to me it’s true! All of it. He is real. Dreams are dreams  
+ of knowledge and wine. What is an eye to give when all an eye can see is the material realm  
+ and it is only in the dream that knowledge can be seen.  
+ One does not need eyes to see. One merely needs dreams.   
+ I am ready my lord  
+ I leave this note so that others may find the way  
+ Let us dream 
+FR: J’écris cette lettre en me servant de mon dernier œil, le poignet tremblant d’excitation, impatient  
+ d’arracher la dernière offrande à sa cavité et de la jeter joyeusement dans la gueule de mon dieu.  
+ J’écris pour dire qu’il est venu à moi, il est venu à moi, c’est vrai ! Tout l’est. Il est réel. Les rêves sont des rêves de savoir et de vin. Que peut offrir un œil quand tout ce qu’il peut voir, c’est le monde matériel et que ce n’est que dans le rêve que le savoir peut être perçu ?  
+ Nous n’avons pas besoin d’yeux pour voir. Il suffit de rêver.  
+ Je suis prêt, mon seigneur.  
+ Je laisse cette note pour que d’autres puissent trouver le chemin.  
+ Rêvons
+AR: أكتب هذه الرسالة بآخر عين لي، ومعصمي يرتجف حماساً، وبالكاد أستطيع الانتظار  
+ لانتزاع الهبة الأخيرة من تجويفها وقذفها بسعادة في فم إلهي.  
+ أكتب لأقول إنه أتى إليّ، لقد أتى إليّ، هذا حقيقي! كل شيء. إنه حقيقي. الأحلام هي أحلام  
+ المعرفة والنبيذ. وما قيمة عينٍ تُبذل وكل ما تراه العين هو العالم المادي  
+ ولا يمكن رؤية المعرفة إلا في الحلم.  
+ لا يحتاج المرء إلى أعين ليرى. يحتاج المرء فقط إلى الأحلام.  
+ أنا مستعد يا سيدي  
+ أترك هذه المذكرة لكي يجد الآخرون الطريق  
+ لنحلم
+
+#23 [None|lore] AALS_3_Subhead
+EN: Missing Scholar’s Notes 
+FR: Notes de l’érudit disparu
+AR: ملاحظات عالم مفقود
+
+#24 [None|lore] AALS_3_Title
+EN: Aegoroth, I Am Ready
+FR: Aegoroth, je suis prêt
+AR: إيقوروث، أنا مستعد
+
+#25 [None|lore] ACLS_10_BodyText
+EN: Mathias.  
+  
+ I implore you to heed my warnings about these heretics. No longer can we stand idly while these “Reborn” further lead your flock astray. While I can appreciate your reservations during these dire times, the Archbishop entrusted you with the well-being of Gildenarch’s faithful. The city needs no less than an inquisition to rout these iconoclasts. We have an opportunity to stamp out this madness before it spreads throughout Velchoria, a failure to stain the chapter for generations I'm sure.  
+  
+ I know you have what it takes to save the souls of Gildenarch’s people. Do not let our efforts in her restoration be for naught. 
+  
+ Faithfully yours, S M
+FR: Mathias.  
+  
+ Je vous implore de prêter attention à mes avertissements à propos de ces hérétiques. Nous ne pouvons plus rester les bras croisés pendant que ces « Nés à nouveau » égarent encore plus votre troupeau. Bien que je comprenne vos réserves en ces temps difficiles, l’archevêque vous a confié le bien-être des fidèles de Gildenarch. La ville a besoin d’une inquisition, pour que ces iconoclastes prennent la fuite. Nous avons l’occasion d’éradiquer cette folie avant qu’elle ne se propage à travers Velchoria – un échec entacherait le Chapitre pendant des générations, j’en suis sûr.  
+  
+ Je sais que vous avez les qualités requises pour sauver les âmes du peuple de Gildenarch. Ne laissez pas les efforts que nous consacrons à sa restauration être vains. 
+  
+ Fidèlement vôtre, SM
+AR: ماثياس.  
+  
+ أرجوك، أصغِ إلى تحذيراتي بشأن هؤلاء المرتدين. لم يعد بإمكاننا الوقوف مكتوفي الأيدي بينما يمعن هؤلاء "المولودون من جديد" في تضليل رعيّتك. ورغم تفهمي لترددك في هذه الأوقات العصيبة، إلا أن رئيس الأساقفة ائتمنك على سلامة مؤمني قيلدنارك. لا تحتاج المدينة إلى أقل من محاكم التفتيش لاستئصال هؤلاء المارقين. لدينا فرصة للقضاء على هذا الجنون قبل أن ينتشر في ڤلتشوريا، وأنا واثق من أن الفشل في ذلك سيلطخ سمعة المجمع لأجيال.  
+  
+ أعلم أنك تملك ما يلزم لإنقاذ أرواح شعب قيلدنارك. لا تدع جهودنا في إعادة إعمارها تذهب سدى.  
+  
+ المخلص لك، س م
+
+#26 [None|lore] ACLS_10_SubHead
+EN: Wrinkled letter.
+FR: Lettre froissée.
+AR: رسالة مجعدة.
+
+#27 [None|lore] ACLS_10_Title
+EN: The Murders.
+FR: Les meurtres.
+AR: جرائم القتل
+
+#28 [None|lore] ACLS_1_BodyText
+EN: I cannot forgive myself for my failure. My cowardice, my weakness, will forever be my greatest shame. 
+  
+ I heard the commotion in the cathedral as the good cardinal called upon the clergy. He was taken aback and sounded as if he were under attack. I ran to his aid, but upon my arrival, I found the clergy gorging themselves upon his blood… I did not save him, I let him die. 
+  
+ I write this confession to no one but my lord.. Lunarin, forgive me, forgive us all for trespasses against your will. Only through your moonlight can we find our ways back home.
+FR: Je ne peux pas me pardonner mon échec. Ma lâcheté et ma faiblesse resteront à jamais ma plus grande honte. 
+  
+ J’ai entendu le tumulte dans la cathédrale alors que le bon cardinal appelait le clergé. Il était abasourdi, comme si quelqu’un l’attaquait. J’ai volé à son secours, mais à mon arrivée, j’ai trouvé les membres du clergé en train de se gaver de son sang... Je ne l’ai pas sauvé. Je l’ai laissé mourir. 
+  
+ J’écris cette confession à l’unique attention de mon seigneur... Lunarin, pardonne-moi. Pardonne-nous nos offenses contre ta volonté. Ce n’est qu’à la lueur de ta lune que nous pourrons retrouver le chemin de notre foyer.
+AR: لا أغفر لنفسي إخفاقي. جبني وضعفي سيظلان للأبد أكبر عار لي. 
+  
+ سمعت الضجيج في الكاتدرائية بينما كان الكاردينال الطيب يستدعي رجال الدين. لقد بدا مذهولاً وكأنه يتعرض لهجوم. ركضت لنجدته، ولكن عند وصولي، وجدت رجال الدين يلتهمون دمه… لم أنقذه، لقد تركته يموت. 
+  
+ لا أكتب هذا الاعتراف إلا لسيدي… يا لوناران، اغفر لي، واغفر لنا جميعاً على التعدي على إرادتك. فبنور قمرك وحده نهتدي إلى ديارنا.
+
+#29 [None|lore] ACLS_1_SubHead
+EN: Torn journal page.
+FR: Page de journal déchirée.
+AR: صفحة ممزقة من مذكرات.
+
+#30 [None|lore] ACLS_1_Title
+EN: What have I done?
+FR: Qu’est-ce que j’ai fait ?
+AR: ماذا فعلت؟
+
+#31 [None|lore] ACLS_2_BodyText
+EN: Dear Archbishop Dorion, I’ve written to you to follow up on our discussion at Felwyl’s dinner last evening. I was intrigued by your comments regarding the nature of Soul Energy and practices from the age of the Coil. I’d like to invite you to Nachtstahl Steel Mill’s celebration for the company’s seasonal haul this week, so we might have some time to discuss the topic further. There may be potential to learn how Nachtstahl and the Archspire Chapter’s relationship can mature and be better fostered, perhaps by assisting with civic projects for the city? 
+  
+ I am eagerly awaiting your response. SM 
+ 
+FR: Cher archevêque Dorion, je vous écris suite à notre discussion lors du dîner donné par Felwyl hier soir. J’ai été intrigué par vos commentaires concernant la nature de l’énergie animique et les pratiques de l’époque de la Spirale. Je voudrais vous inviter à la fête organisée cette semaine par l’aciérie Nachtstahl pour présenter ses produits saisonniers, afin que nous ayons un peu de temps pour discuter davantage du sujet. Il pourrait être intéressant d’explorer la façon dont les relations entre Nachtstahl et le Chapitre de l’Archspire pourraient mûrir et être mieux entretenues, par exemple en participant à des projets municipaux. 
+  
+ J’attends votre réponse avec impatience. SM
+AR: عزيزي رئيس الأساقفة دوريون، أكتب إليك عوداً على نقاشنا خلال عشاء فِلويل مساء أمس. لقد أثارت تعليقاتك حول طبيعة طاقة الروح وممارسات عصر الطوق اهتمامي. أود دعوتك لحفل مصنع ناختشتال للصلب بمناسبة حصاد الشركة الموسمي هذا الأسبوع، لنتفرغ لمناقشة الأمر أعمق. ولعلنا نتبيّن كيف تنضج العلاقة بين ناختشتال ومجمع أرشسباير وتُرعى خير رعاية، ربما من خلال المساعدة في المشاريع المدنية للمدينة؟ 
+  
+ أنتظر ردك بفارغ الصبر. SM 
+ 
+
+#32 [None|lore] ACLS_2_Title
+EN: The Dinner.
+FR: Le dîner.
+AR: العشاء.
+
+#33 [None|lore] ACLS_3_BodyText
+EN: Siron, excuse my apparent lack of enthusiasm for our esteemed philanthropist at the gathering last evening. 
+  
+ Mathias better know what he’s doing involving that mogul from Nachtendale in Lunitarian affairs. The Holy Lineage entrusted the Archspire to not only study the ‘Artifacts’ but also keep them away from prying eyes. 
+  
+ However, I must concede that the arcanists have made tremendous progress relative to our stagnancy over the last century, and pressure from The Holy Lineage to see results has been mounting. 
+  
+ The mogul assures us that his work will yield promising results, and the Archspire will take full credit for what is to come. A deal too good to be true, if you ask me. I hope to be pleasantly surprised.
+FR: Siron, excusez mon apparent manque d’enthousiasme envers notre estimé philanthrope lors de la réunion d’hier soir. 
+  
+ Mathias a intérêt à savoir ce qu’il fait en impliquant ce magnat de Nachtendale dans les affaires lunitériennes. La Lignée sacrée a chargé l’Archspire non seulement d’étudier des artéfacts, mais aussi de les tenir à l’écart des regards indiscrets. 
+  
+ Cependant, je dois admettre que les arcanistes ont fait d’énormes progrès comparé à notre stagnation au cours du siècle dernier, et la pression exercée par la Lignée sacrée, qui exige des résultats, ne cesse de croître. 
+  
+ Le magnat nous assure que son travail donnera des résultats prometteurs, et que l’Archspire pourra s’attribuer tout le mérite de ce qui suivra. Ce marché est trop beau pour être vrai, si vous voulez mon avis. J’espère être agréablement surpris.
+AR: سيرون، اعذر فتور حماسي البادي تجاه محسننا الموقّر في اجتماع أمس. 
+  
+ حريٌّ بماثياس أن يعي ما يفعل إذ يقحم ذلك المتنفذ من ناختنديل في شؤون اللونيتاري. لقد ائتمنت السلالة المقدّسة أرشسباير ليس فقط لدراسة "الآثار" بل وأيضاً لإبقائها بعيداً عن الأعين المتطفلة. 
+  
+ ومع ذلك، يجب أن أعترف بأن السحرة قد أحرزوا تقدماً هائلاً مقارنة بركودنا خلال القرن الماضي، والضغط من السلالة المقدّسة لرؤية نتائج ملموسة في تزايد. 
+  
+ يؤكد لنا المتنفذ أن عمله سيثمر نتائج واعدة، وستنسب أرشسباير كامل الفضل لما سيأتي. صفقةٌ أحلى من أن تُصدَّق، إن سألتني. وعسى أن تفاجئني بخير.
+
+#34 [None|lore] ACLS_3_SubHead
+EN: Letter.
+FR: Lettre.
+AR: رسالة.
+
+#35 [None|lore] ACLS_3_Title
+EN: What is he thinking?
+FR: À quoi joue-t-il ?
+AR: بماذا يفكر؟
+
+#36 [None|lore] ACLS_4_BodyText
+EN: Truly, I couldn't be more impressed with our recent discoveries on the science of Soul Energy. Solomon's methods, albeit heretical, have yielded promising results that had previously taken us centuries to even scratch the surface of. I believe we're on the cusp of something great, and the Archspire's mission will have finally been fulfilled after all of this time. 
+  
+ The Saints frown upon me, and The Holy Lineage couldn't possibly understand. Is it sin if its in service to future of our faith? 
+  
+ They wanted results. They will have them.
+FR: En toute honnêteté, je suis très impressionné par nos récentes découvertes scientifiques concernant l’énergie animique. Les méthodes de Solomon, bien qu’hérétiques, ont donné des résultats prometteurs, qui dépassent de loin ce que nous avons mis des siècles à obtenir. Je crois que nous sommes à l’aube de quelque chose de grand, et que la mission de l’Archspire sera enfin accomplie après tout ce temps. 
+  
+ Les saints me voient d’un mauvais œil, et la Lignée sacrée ne pourrait pas comprendre. Est-ce un péché si c’est au service de l’avenir de notre foi ? 
+  
+ Ils voulaient des résultats. Ils en auront.
+AR: حقاً، لم تبهرني اكتشافات كاكتشافاتنا الأخيرة حول علم طاقة الروح. إن أساليب سولومون، رغم كونها هرطقية، قد أثمرت نتائج واعدة، كنا نستغرق قروناً لنخدش سطحها. أعتقد أننا على أعتاب شيء عظيم، وأن مهمة أرشسباير ستتحقق أخيراً بعد كل هذا الوقت. 
+  
+ يعبس في وجهي القديسون، والسلالة المقدّسة لا يمكنها فهم ذلك. هل هي خطيئة إذا كانت في خدمة مستقبل إيماننا؟ 
+  
+ أرادوا نتائج. وستكون لهم.
+
+#37 [None|lore] ACLS_4_SubHead
+EN: Page from Mathias' Journal
+FR: Page du journal de Mathias
+AR: صفحة من يوميات ماثياس
+
+#38 [None|lore] ACLS_4_Title
+EN: Progress at what cost?
+FR: Avancer à quel prix ?
+AR: التقدم بأي ثمن؟
+
+#39 [None|lore] ACLS_5_BodyText
+EN: Upon deliberation, the chapter's Finance Council has decided to grant Moore's request for the funding of the Godsreach Spire civic project. 
+  
+ 4,000,000 Drakes shall be granted in total, and split over two phases of the project upon completion of the milestones outlined during the hearing. 
+  
+ - Vicariate Administrative Consultant, Sergio Von Kulkan.
+FR: Après délibération, le Conseil des finances du Chapitre a décidé d’accéder à la demande de Moore concernant le financement du projet municipal intitulé « Flèche de Godsreach ». 
+  
+ Une somme totale de 4 000 000 draques sera octroyée, répartie sur les deux phases du projet une fois que les étapes définies lors de l'audience auront été atteintes. 
+  
+ - Consultant administratif du vicariat, Sergio Von Kulkan.
+AR: بعد المداولة، قرر المجلس المالي للمجمع الموافقة على طلب مور لتمويل المشروع المدني لبرج قودزريتش. 
+  
+ يُمنح 4,000,000 دريكس إجمالاً، موزّعة على مرحلتين من المشروع عند بلوغ المراحل المحددة في جلسة الاستماع. 
+  
+ - مستشار إداري للنيابة، سيرجيو فون كولكان.
+
+#40 [None|lore] ACLS_5_SubHead
+EN: Godsreach Spire Funding
+FR: Financement de la Flèche de Godsreach
+AR: تمويل برج قودزريتش
+
+#41 [None|lore] ACLS_5_Title
+EN: Document.
+AR: وثيقة.
+
+#42 [None|lore] ACLS_6_BodyText
+EN: Mathias.  
+  
+ I implore you to heed my warnings about these heretics. No longer can we stand idly while these “Reborn” further lead your flock astray. While I can appreciate your reservations during these dire times, the Archbishop entrusted you with the well-being of Gildenarch’s faithful. The city needs no less than an inquisition to rout these iconoclasts. We have an opportunity to stamp out this madness before it spreads throughout Velchoria, a failure to stain the chapter for generations I'm sure.  
+  
+ I know you have what it takes to save the souls of Gildenarch’s people. Do not let our efforts in her restoration be for naught. 
+  
+ Faithfully yours, S M
+FR: Mathias.  
+  
+ Je vous implore de prêter attention à mes avertissements à propos de ces hérétiques. Nous ne pouvons plus rester les bras croisés pendant que ces « Nés à nouveau » égarent encore plus votre troupeau. Bien que je comprenne vos réserves en ces temps difficiles, l’archevêque vous a confié le bien-être des fidèles de Gildenarch. La ville a besoin d’une inquisition, pour que ces iconoclastes prennent la fuite. Nous avons l’occasion d’éradiquer cette folie avant qu’elle ne se propage à travers Velchoria – un échec entacherait le Chapitre pendant des générations, j’en suis sûr.  
+  
+ Je sais que vous avez les qualités requises pour sauver les âmes du peuple de Gildenarch. Ne laissez pas les efforts que nous consacrons à sa restauration être vains. 
+  
+ Fidèlement vôtre, SM
+AR: ماثياس.  
+  
+ أرجوك، أصغِ إلى تحذيراتي بشأن هؤلاء المرتدين. لم يعد بإمكاننا الوقوف مكتوفي الأيدي بينما يمعن هؤلاء "المولودون من جديد" في تضليل رعيّتك. ورغم تفهمي لترددك في هذه الأوقات العصيبة، إلا أن رئيس الأساقفة ائتمنك على سلامة مؤمني قيلدنارك. لا تحتاج المدينة إلى أقل من محاكم التفتيش لاستئصال هؤلاء المارقين. لدينا فرصة للقضاء على هذا الجنون قبل أن ينتشر في ڤلتشوريا، وأنا واثق من أن الفشل في ذلك سيلطخ سمعة المجمع لأجيال.  
+  
+ أعلم أنك تملك ما يلزم لإنقاذ أرواح شعب قيلدنارك. لا تدع جهودنا في إعادة إعمارها تذهب سدى.  
+  
+ المخلص لك، س م
+
+#43 [None|lore] ACLS_6_SubHead
+EN: Letter.
+FR: Lettre.
+AR: رسالة.
+
+#44 [None|lore] ACLS_6_Title
+EN: You must act.
+FR: Vous devez agir.
+AR: يجب عليك التحرك.
+
+#45 [None|lore] ACLS_7_BodyText
+EN: Our lord's Gala in Elk Grove Academy is tonight. We must prepare to cleanse the mortal filth from these halls. Leave no survivors. 
+  
+ Ensure every member of Clan Moore and their ferals are at their stations, we strike an hour before the "unveiling" of the Spire. 
+  
+ - Elanore and the "nurse" have the Healing House 
+  
+ - Cyron and the guards will take the dorms 
+  
+ - Theodis and Merric will oversee the Seminary Hold 
+  
+ Cain's wrath guide your hands  my brothers and sisters. 
+FR: Le gala donné par notre seigneur à l’académie d’Elk Grove a lieu ce soir. Nous devons nous préparer à purifier ces couloirs souillés par les mortels. Ne laissez aucun survivant. 
+  
+ Assurez-vous que chaque membre du clan Moore et ses sauvages sont à leur poste. Nous frapperons une heure avant « l’inauguration » de la Flèche. 
+  
+ - Elanore et « l’infirmière » s’occupent de la clinique. 
+  
+ - Cyron et les gardes prendront les dortoirs. 
+  
+ - Theodis et Merric superviseront le séminaire. 
+  
+ Que la colère de Caïn guide vos mains, mes frères et sœurs.
+AR: حفلُ سيدنا في أكاديمية إلك قروڤ الليلة. يجب أن نستعد لتطهير هذه القاعات من دنس الفانين. لا تتركوا أحداً على قيد الحياة. 
+  
+ ليكن كل فرد من عشيرة مور ومتوحّشيهم في موضعه، سنشن الهجوم قبل ساعة من "كشف" البرج. 
+  
+ - إيلانور و"الممرضة" في منزل الشفاء 
+  
+ - سايرون والحراس سيتولون السكن الجامعي 
+  
+ - ثيوديس وميريك سيشرفان على معقل المعهد 
+  
+ فلتهدِ غضبةُ قابيل أيديكم يا إخوتي وأخواتي.
+
+#46 [None|lore] ACLS_7_SubHead
+EN: Hastily written note.
+FR: Note écrite à la hâte.
+AR: ملاحظة كُتبت على عجل.
+
+#47 [None|lore] ACLS_7_Title
+EN: Final instructions.
+FR: Instructions finales.
+AR: التعليمات النهائية.
+
+#48 [None|lore] ACLS_8_BodyText
+EN: It is done. The humans have been erradicated. We'll take the tunnels the Spire and meet our Lord in the Ritual Chamber.  
+  
+ Tonight, Eden dies.
+FR: C’est fait. Les humains ont été éradiqués. Nous allons prendre les tunnels, la Flèche, et nous retrouverons notre seigneur dans la chambre rituelle.  
+  
+ Ce soir, Éden meurt.
+AR: تمّ الأمر. أُبيد البشر. نسلك الأنفاق إلى البرج، ونلقى سيدنا في غرفة الطقوس.  
+  
+ الليلة، تموت إيدن.
+
+#49 [None|lore] ACLS_8_SubHead
+EN: Hastily written note.
+FR: Note écrite à la hâte.
+AR: ملاحظة كُتبت على عجل.
+
+#50 [None|lore] ACLS_8_Title
+EN: We Depart.
+FR: Nous partons.
+AR: نحن ننطلق.
+
+#51 [None|lore] ACLS_9_BodyTextv
+EN: I am unable to rest easy with this talk of Infernal Magick circulating among the others. We know this is forbidden, and yes I am aware of the Chapter's mission but The Holy Lineage would not condone this. I'd rather be disciplined for my failures than my misdeeds. 
+  
+ For a man hold dominion over his soul alone, no matter the circumstances and  thus I will not follow the others down this unholy path. My best hope to sneak away from the city in the morning and make haste to Illuminar.  
+  
+ Lunarin forgive us for sins.
+FR: Je ne suis pas tranquille avec cette histoire de magie infernale qui circulerait parmi les autres. Nous savons que c’est interdit, et oui, je connais la mission du Chapitre, mais la Lignée sacrée ne cautionnerait pas cela. Je préfère être sanctionné pour mes échecs plutôt que pour mes méfaits. 
+  
+ Car un homme est seul maître de son âme, quelles que soient les circonstances, et donc je ne suivrai pas les autres sur ce chemin impie. Mon meilleur espoir est de m’éclipser de la ville demain matin et de me hâter de rejoindre Illuminar.  
+  
+ Lunarin, pardonne-nous nos péchés.
+AR: لا يهنأ لي بال والحديث عن السحر الجهنّمي يدور بين الآخرين. نحن نعلم أن هذا محظور، ونعم، أنا على دراية بمهمة المجمع، لكن السلالة المقدّسة لن تسمح بهذا. ولأن أُعاقب على تقصيري خيرٌ من أن أُعاقب على آثامي. 
+  
+ فالمرء وحده يملك السيطرة على روحه، مهما كانت الظروف، ولذا لن أتبع الآخرين في هذا المسار غير المقدس. وأملي أن أتسلل من المدينة صباحاً وأُسرع إلى لومينار. 
+  
+ يا لوناران، اغفر لنا خطايانا.
+
+#52 [None|lore] ACLS_9_SubHead
+EN: Diary Entry.
+FR: Entrée de journal.
+AR: مدخل في المذكرات.
+
+#53 [None|lore] ACLS_9_Title
+EN: I cannot do this.
+FR: Je ne peux pas faire ça.
+AR: لا يمكنني فعل هذا.
+
+#54 [None|lore] ALLS_1_Body
+EN: At last we have results! It’s taken much longer and more bodies…than I’d have liked, but the ritual has yielded results! Father Renault was successful in performing Attenuation of Hora this night. He channeled the High Angel Apothos, and we got our answers, without incinerating the magician this time. 
+  
+ My suspicions were correct. There is more to the angels than the faith wants us to believe. These are no mere servants of Lunarin; they’re higher dimensional beings serving some other cause I’ve yet to decipher.  
+ I asked the possessed Renault, “From where do you hail, and what is the nature of your being, spirit?” 
+  
+ “A place and a state of being 
+  
+ Higher than the stars and behind the dark. 
+  
+ He who hath fallen upward unperished know this 
+  
+ We are the light that cast your shadows as well as your god’s.  
+  
+ The powers you seek to touch are not meant for you. Desist.” 
+ 
+FR: Nous avons enfin des résultats ! Cela a pris beaucoup plus de temps et de corps... que je ne l’aurais souhaité, mais le rituel a porté ses fruits ! Le père Renault a réussi à accomplir l’Atténuation de Hora cette nuit. Il a invoqué le grand ange Apothos, et nous avons obtenu nos réponses, sans incinérer le magicien cette fois. 
+  
+ Mes soupçons étaient fondés. Les anges recèlent bien plus que ce que la foi veut nous faire croire. Ce ne sont pas de simples serviteurs de Lunarin, mais des êtres d’une dimension supérieure servant une autre cause que je n’ai pas encore déterminée.  
+ J’ai demandé au Renault possédé : « D’où viens-tu, et quelle est la nature de ton être, esprit ? » 
+  
+ « Un lieu et un état d’être 
+  
+ Plus élevés que les étoiles et au-delà de l’obscurité. 
+  
+ Celui qui est tombé vers le haut sans périr le sait. 
+  
+ Nous sommes la lumière qui projette vos ombres ainsi que celle de votre dieu.  
+  
+ Les pouvoirs que vous cherchez à faire vôtres ne vous sont pas destinés. Renoncez-y. »
+AR: أخيرًا حصلنا على النتائج! طال الأمر وكلّف جثثًا أكثر… مما وددت، لكن الطقس قد أتى بثماره! نجح الأب رينو في أداء "تخفيف هورا" هذه الليلة. لقد استدعى الملاك العالي أبوثوس، وحصلنا على إجاباتنا، دون أن نحرق الساحر هذه المرة. 
+  
+ كانت شكوكي في محلها. في الملائكة أكثر مما تريد العقيدة أن نصدقه. هؤلاء ليسوا مجرد خدم للوناران؛ بل كائنات من أبعاد أعلى، تخدم غاية أخرى لم أفك شفرتها بعد. 
+ سألت رينو المسكون: "من أين أتيت، وما هي طبيعة كيانك أيها الروح؟" 
+  
+ "مكان وحالة وجودية 
+  
+ أعلى من النجوم وخلف الظلام. 
+  
+ من سقط للأعلى دون أن يفنى يعرف هذا 
+  
+ نحن الضوء الذي ألقى بظلالك وكذلك ظل إلهك. 
+  
+ القوى التي تسعى للمسها ليست لك. كف عن ذلك." 
+ 
+
+#55 [None|lore] ALLS_1_Subhead
+EN: Ritual notes
+FR: Notes rituelles
+AR: ملاحظات الطقوس
+
+#56 [None|lore] ALLS_1_Title
+EN: H A A
+FR: Le Grand Ange Apothos
+AR: هـ أ أ
+
+#57 [None|lore] ALLS_2_Body
+EN: I must now take my leave of Gildenarch. When the Archspire finds Renault’s smoldering corpse, I will most certainly be hanged. 
+  
+ I was, however, successful. Just as before, Renault successfully completed the ritual, but Apothos was none too pleased. I did not inform Renault that I would try to bind the Angel once it had taken over him; I knew he wouldn’t have agreed, but I was too close to let anything get in my way. Too many have died for me to get answers already. 
+  
+ Once I bound the Angel, I commanded Apothos to tell me why the Divine is silent.  
+  
+ Aothos Spoke: 
+  
+ “Afflicted by the malady of eternity 
+  
+ What is taken must one day be returned. 
+  
+ In time, the Throne will Coil its Lord  
+  
+ And the Serpent will reawaken.” 
+  
+ They do not serve the Divine. They serve the Throne itself. This faith-shattering revelation must not be lost. What we are told is a lie; the Divine hasn’t turned his back on us for our sins… he is dying.. Does The Holy Lineage know this?  
+ 
+FR: Je dois prendre congé de Gildenarch sur-le-champ. Quand l’Archspire trouvera le cadavre fumant de Renault, je serai très certainement pendu. 
+  
+ J’ai malgré tout réussi. Comme les fois précédentes, Renault a réussi à accomplir le rituel, mais Apothos n’était guère ravi. Je n’ai pas dit à Renault que j’essaierais de ligoter l’ange une fois qu’il aurait pris possession de lui. Je savais qu’il n’aurait pas accepté, mais j’étais trop proche pour laisser quoi que ce soit m’arrêter. Trop de gens sont morts pour que je puisse avoir des réponses. 
+  
+ Une fois l’ange attaché, j’ai ordonné à Apothos de me dire pourquoi le Divin est silencieux.  
+  
+ Aothos a parlé : 
+  
+ « Affligé par la maladie de l’éternité, 
+  
+ Ce qui est pris doit un jour être rendu. 
+  
+ En temps voulu, le Trône s’enroulera autour de son seigneur,  
+  
+ Et le Serpent se réveillera. » 
+  
+ Ils ne servent pas le Divin. Ils servent le Trône. Cette révélation qui ébranle la foi ne doit pas être perdue. Ce qu’on nous dit est un mensonge. Le Divin ne nous a pas tourné le dos à cause de nos péchés... Il est en train de mourir... La Lignée sacrée le sait-elle ?
+AR: يجب أن أغادر قيلدنارك الآن. عندما يجد أرشسباير جثة رينو المتفحمة، سأُشنق لا محالة. 
+  
+ ومع ذلك، فقد نجحت. تماماً كما في المرات السابقة، أتمّ رينو الطقوس بنجاح، لكن أبوثوس لم يكن راضياً أبداً. لم أخبر رينو أنني سأحاول تقييد الملاك بمجرد سيطرته عليه؛ كنت أعلم أنه لن يوافق، لكني كنت أقرب من أن أدع شيئاً يعترض طريقي. فقد مات كثيرون بالفعل حتى أبلغ الأجوبة. 
+  
+ بمجرد أن قيدت الملاك، أمرت أبوثوس بإخباري عن سبب صمت الإله. 
+  
+ تحدث أبوثوس: 
+  
+ "مُصاب بمرض الأبدية 
+  
+ ما أُخذ يجب أن يُعاد يوماً ما. 
+  
+ وفي حينه يلتفّ العرش على سيده  
+  
+ وستستيقظ الأفعى." 
+  
+ إنهم لا يخدمون الإله. إنهم يخدمون العرش نفسه. لا يجوز أن يضيع كشفٌ يهدم الإيمان هكذا. ما قيل لنا هو كذبة؛ الإله لم يدر ظهره لنا بسبب خطايانا… إنه يموت. هل تعرف السلالة المقدّسة هذا؟  
+ 
+
+#58 [None|lore] ALLS_2_Subhead
+EN: Ritual Notes
+FR: Notes rituelles
+AR: ملاحظات الطقوس
+
+#59 [None|lore] ALLS_2_Title
+EN: I must take my leave
+FR: Je dois prendre congé
+AR: يجب أن أغادر
+
+#60 [None|lore] ALLS_3_Body
+EN: A theory so bizarre it may at least hold a glimmer of truth. Allegedly, one of the Archspire’s Scribes was detained for suggesting a shared lineage between the Angels and the Demons. Now such a claim deserves little more than mockery and wouldn’t have aroused a bit of suspicion, but why punish him over mere, albeit absurd, speculation?  
+  
+ Silencing a man does more to draw attention than his own words… 
+  
+  
+ The Scribe’s disciplinary action has kept me from a night’s rest for some time. I pored over the literature on Angels and couldn’t find anything to corroborate his theories. However, something I’ve read before caught my attention. 
+  
+ In the 6th passage of chapter 43 on Sergio’s Metaphysics of Being, something stuck out to me given the context of the scribe’s claims. 
+  
+ “Those who stood by the Divine maintained their formless purity and those who did not, crystallized into form. 
+  
+ The nature of the heavens could not allow for Finite to taint the perfect Infinite. 
+  
+ So those who abdicated their connection to Divinity fled to a lower form.” 
+  
+ Consensus holds that this passage refers specifically to man’s progenitors, but what if it wasn’t speaking of us? 
+ 
+FR: Voici une théorie si bizarre qu’elle pourrait au moins contenir une lueur de vérité. Apparemment, un des scribes de l’Archspire aurait été enfermé pour avoir laissé entendre que les anges et les démons partageaient une même lignée. Une telle affirmation mérite à peine plus que des moqueries et n’aurait pas dû susciter le moindre soupçon, mais pourquoi le punir pour de simples spéculations, aussi absurdes soient-elles ?  
+  
+ Faire taire un homme attire plus l’attention que ses mots... 
+  
+  
+ La sanction disciplinaire infligée au scribe m’empêche de dormir depuis un certain temps. J’ai épluché la littérature sur les anges et je n’ai rien trouvé qui corrobore ses théories. Cependant, quelque chose que j’avais déjà lu avant a attiré mon attention. 
+  
+ Dans le sixième passage du chapitre 43 sur la métaphysique de l’être de Sergio, quelque chose m’a frappé, compte tenu des affirmations du scribe. 
+  
+ « Ceux qui se tenaient aux côtés du Divin conservaient leur pureté sans forme et ceux qui ne le faisaient pas se cristallisaient en une forme. 
+  
+ La nature des cieux ne pouvait permettre au Fini de souiller l’Infini parfait. 
+  
+ Ainsi, ceux qui renonçaient à leur lien avec la divinité se réfugiaient dans une forme inférieure. » 
+  
+ Le consensus veut que ce passage fasse spécifiquement référence aux ancêtres de l’homme, mais, et si ce n’était pas de nous dont il est question ? 
+ 
+AR: نظرية غريبة للغاية لدرجة أنها قد تحمل بصيصاً من الحقيقة على الأقل. يُزعم أن أحد كتاب أرشسباير قد اعتُقل لاقتراحه وجود أصل مشترك بين الملائكة والشياطين. ودعوى كهذه لا تستحق غير السخرية، وما كانت لتثير ريبة؛ فلمَ يُعاقَب على تخمين، وإن كان سخيفاً؟  
+  
+ إسكات رجل يجذب الانتباه أكثر من كلماته… 
+  
+  
+ حرمني تأديبُ الكاتب النومَ ليالي عدة. لقد عكفت على دراسة الأدبيات حول الملائكة ولم أجد شيئاً يؤكد نظرياته. ومع ذلك، لفت انتباهي شيء قرأته من قبل. 
+  
+ في المقطع السادس من الفصل 43 في كتاب "ميتافيزيقيا الوجود" لسيرجيو، برز لي شيء ما بالنظر إلى سياق ادعاءات الكاتب. 
+  
+ "أولئك الذين وقفوا بجانب الإله حافظوا على نقائهم غير المتجسد، وأولئك الذين لم يفعلوا، تبلوروا في شكل مادي. 
+  
+ طبيعة السماوات لا يمكن أن تسمح للمحدود بتدنيس اللانهائي الكامل. 
+  
+ لذا، أولئك الذين تخلوا عن صلتهم بالألوهية هربوا إلى شكل أدنى." 
+  
+ يجري الإجماع على أن المقطع يعني أسلاف البشر، ولكن ماذا لو لم يكن يتحدث عنا؟ 
+ 
+
+#61 [None|lore] ALLS_3_Subhead
+EN: Private journal entry
+FR: Entrée de journal privé
+AR: مدخل يوميات خاصة
+
+#62 [None|lore] ALLS_3_Title
+EN: Might he have a point?
+FR: Aurait-il raison ?
+AR: هل يمكن أن يكون محقاً؟
+
+#63 [None|lore] ConfessionBodyText
+EN: I cannot forgive myself for my failure. My cowardice, my weakness, will forever be my greatest shame. 
+  
+ I heard the commotion in the cathedral as the good cardinal called upon the clergy. He was taken aback and sounded as if he were under attack. I ran to his aid, but upon my arrival, I found the clergy gorging themselves upon his blood… I did not save him, I let him die. 
+  
+ I write this confession to no one but my lord.. Lunarin, forgive me, forgive us all for trespasses against your will. Only through your moonlight can we find our ways back home.
+FR: Je ne peux pas me pardonner mon échec. Ma lâcheté et ma faiblesse resteront à jamais ma plus grande honte. 
+  
+ J’ai entendu le tumulte dans la cathédrale alors que le bon cardinal appelait le clergé. Il était abasourdi, comme si quelqu’un l’attaquait. J’ai volé à son secours, mais à mon arrivée, j’ai trouvé les membres du clergé en train de se gaver de son sang... Je ne l’ai pas sauvé. Je l’ai laissé mourir. 
+  
+ J’écris cette confession à l’unique attention de mon seigneur... Lunarin, pardonne-moi. Pardonne-nous nos offenses contre ta volonté. Ce n’est qu’à la lueur de ta lune que nous pourrons retrouver le chemin de notre foyer.
+AR: لا أغفر لنفسي إخفاقي. جبني وضعفي سيظلان للأبد أكبر عار لي. 
+  
+ سمعت الضجيج في الكاتدرائية بينما كان الكاردينال الطيب يستدعي رجال الدين. لقد بدا مذهولاً وكأنه يتعرض لهجوم. ركضت لنجدته، ولكن عند وصولي، وجدت رجال الدين يلتهمون دمه… لم أنقذه، لقد تركته يموت. 
+  
+ لا أكتب هذا الاعتراف إلا لسيدي… يا لوناران، اغفر لي، واغفر لنا جميعاً على التعدي على إرادتك. فبنور قمرك وحده نهتدي إلى ديارنا.
+
+#64 [None|lore] ConfessionSubHead
+EN: Hastily scrawled note
+FR: Note griffonnée à la hâte
+AR: ملاحظة خُطت على عجل
+
+#65 [None|lore] ConfessionTitle
+EN: Confession
+AR: اعتراف
+
+#66 [None|lore] Correspondence
+EN: Correspondence
+FR: Correspondance
+AR: مراسلات
+
+#67 [None|lore] CorrespondenceArtifactBodyText
+EN: Siron, excuse my apparent lack of enthusiasm for our esteemed philanthropist at the gathering last evening. 
+  
+ Mathias better know what he’s doing involving that mogul from Nachtendale in Lunitarian affairs. The Holy Lineage entrusted the Archspire to not only study the ‘Artifacts’ but also keep them away from prying eyes. 
+  
+ However, I must concede that the arcanists have made tremendous progress relative to our stagnancy over the last century, and pressure from The Holy Lineage to see results has been mounting. 
+  
+ The mogul assures us that his work will yield promising results, and the Archspire will take full credit for what is to come. A deal too good to be true, if you ask me. I hope to be pleasantly surprised.
+FR: Siron, excusez mon apparent manque d’enthousiasme envers notre estimé philanthrope lors de la réunion d’hier soir. 
+  
+ Mathias a intérêt à savoir ce qu’il fait en impliquant ce magnat de Nachtendale dans les affaires lunitériennes. La Lignée sacrée a chargé l’Archspire non seulement d’étudier des artéfacts, mais aussi de les tenir à l’écart des regards indiscrets. 
+  
+ Cependant, je dois admettre que les arcanistes ont fait d’énormes progrès comparé à notre stagnation au cours du siècle dernier, et la pression exercée par la Lignée sacrée, qui exige des résultats, ne cesse de croître. 
+  
+ Le magnat nous assure que son travail donnera des résultats prometteurs, et que l’Archspire pourra s’attribuer tout le mérite de ce qui suivra. Ce marché est trop beau pour être vrai, si vous voulez mon avis. J’espère être agréablement surpris.
+AR: سيرون، اعذر فتور حماسي البادي تجاه محسننا الموقّر في اجتماع أمس. 
+  
+ حريٌّ بماثياس أن يعي ما يفعل إذ يقحم ذلك المتنفذ من ناختنديل في شؤون اللونيتاري. لقد ائتمنت السلالة المقدّسة أرشسباير ليس فقط لدراسة "الآثار" بل وأيضاً لإبقائها بعيداً عن الأعين المتطفلة. 
+  
+ ومع ذلك، يجب أن أعترف بأن السحرة قد أحرزوا تقدماً هائلاً مقارنة بركودنا خلال القرن الماضي، والضغط من السلالة المقدّسة لرؤية نتائج ملموسة في تزايد. 
+  
+ يؤكد لنا المتنفذ أن عمله سيثمر نتائج واعدة، وستنسب أرشسباير كامل الفضل لما سيأتي. صفقةٌ أحلى من أن تُصدَّق، إن سألتني. وعسى أن تفاجئني بخير.
+
+#68 [None|lore] CorrespondenceArtifactSubHead
+EN: Correspondance from Bishop Aaron to Scribe Siron.
+FR: Lettre de l’évêque Aaron au scribe Siron.
+AR: مراسلة من الأسقف آرون إلى الكاتب سيرون.
+
+#69 [None|lore] CorrespondenceMathias1BodyText
+EN: Truly, I couldn't be more impressed with our recent discoveries on the science of Soul Energy. Solomon's methods, albeit heretical, have yielded promising results that had previously taken us centuries to even scratch the surface of. I believe we're on the cusp of something great, and the Archspire's mission will have finally been fulfilled after all of this time. 
+  
+ The Saints frown upon me, and The Holy Lineage couldn't possibly understand. Is it sin if its in service to future of our faith? 
+  
+ They wanted results. They will have them.
+FR: En toute honnêteté, je suis très impressionné par nos récentes découvertes scientifiques concernant l’énergie animique. Les méthodes de Solomon, bien qu’hérétiques, ont donné des résultats prometteurs, qui dépassent de loin ce que nous avons mis des siècles à obtenir. Je crois que nous sommes à l’aube de quelque chose de grand, et que la mission de l’Archspire sera enfin accomplie après tout ce temps. 
+  
+ Les saints me voient d’un mauvais œil, et la Lignée sacrée ne pourrait pas comprendre. Est-ce un péché si c’est au service de l’avenir de notre foi ? 
+  
+ Ils voulaient des résultats. Ils en auront.
+AR: حقاً، لم تبهرني اكتشافات كاكتشافاتنا الأخيرة حول علم طاقة الروح. إن أساليب سولومون، رغم كونها هرطقية، قد أثمرت نتائج واعدة، كنا نستغرق قروناً لنخدش سطحها. أعتقد أننا على أعتاب شيء عظيم، وأن مهمة أرشسباير ستتحقق أخيراً بعد كل هذا الوقت. 
+  
+ يعبس في وجهي القديسون، والسلالة المقدّسة لا يمكنها فهم ذلك. هل هي خطيئة إذا كانت في خدمة مستقبل إيماننا؟ 
+  
+ أرادوا نتائج. وستكون لهم.
+
+#70 [None|lore] CorrespondenceMathias1Title
+EN: Notes on Soul Binding
+FR: Notes sur la liaison animique
+AR: ملاحظات حول ربط الأرواح
+
+#71 [None|lore] CorrespondenceMathias2BodyText
+EN: Divine have mercy. Solomon was always bold, but bringing Infernal Flora to the Archspire certainly proved his point. 
+  
+ The Reborn are cultivating this Hellgrowth in our city. I've been a fool to harbor reservations about swift action on the Arch Bishop's behalf. We must act now; this city must be cleansed at any cost. 
+  
+ Aldus will be anointed as my Inquisitor, he has the stomach to do what must be done.
+FR: Que les divinités aient pitié. Solomon a toujours été audacieux, mais le fait d’avoir introduit la flore infernale à l’Archspire a clairement prouvé qu’il avait raison. 
+  
+ Les Nés à nouveau cultivent ce chancre chtonien dans notre ville. J’ai été stupide de me montrer réticent à agir rapidement au nom de l’archevêque. Nous devons intervenir tout de suite. Cette ville doit être purifiée à tout prix. 
+  
+ Aldus sera désigné comme mon Inquisiteur. Il a le courage de faire ce qui doit être fait.
+AR: رحماك أيها الإله. كان سولومون جريئاً دائماً، لكن جلبه النباتات الجهنّمية إلى أرشسباير أثبت حجته. 
+  
+ المولودون من جديد يزرعون هذا النماء الجهنّمي في مدينتنا. وأحمقُ أنا إذ ترددت في التعجيل بالأمر نيابة عن رئيس الأساقفة. يجب أن نتحرك الآن؛ يجب تطهير هذه المدينة بأي ثمن. 
+  
+ يُمسح ألدوس مفتّشاً لي، فله من الجَلَد ما يكفي لما يجب فعله.
+
+#72 [None|lore] CorrespondenceMathias2Title
+EN: My Lamentation
+FR: Mes lamentations
+AR: رثائي
+
+#73 [None|lore] CorrespondenceSolomon1BodyText
+EN: Mathias.  
+  
+ I implore you to heed my warnings about these heretics. No longer can we stand idly while these “Reborn” further lead your flock astray. While I can appreciate your reservations during these dire times, the Archbishop entrusted you with the well-being of Gildenarch’s faithful. The city needs no less than an inquisition to rout these iconoclasts. We have an opportunity to stamp out this madness before it spreads throughout Velchoria, a failure to stain the chapter for generations I'm sure.  
+  
+ I know you have what it takes to save the souls of Gildenarch’s people. Do not let our efforts in her restoration be for naught. 
+  
+ Faithfully yours, S M
+FR: Mathias.  
+  
+ Je vous implore de prêter attention à mes avertissements à propos de ces hérétiques. Nous ne pouvons plus rester les bras croisés pendant que ces « Nés à nouveau » égarent encore plus votre troupeau. Bien que je comprenne vos réserves en ces temps difficiles, l’archevêque vous a confié le bien-être des fidèles de Gildenarch. La ville a besoin d’une inquisition, pour que ces iconoclastes prennent la fuite. Nous avons l’occasion d’éradiquer cette folie avant qu’elle ne se propage à travers Velchoria – un échec entacherait le Chapitre pendant des générations, j’en suis sûr.  
+  
+ Je sais que vous avez les qualités requises pour sauver les âmes du peuple de Gildenarch. Ne laissez pas les efforts que nous consacrons à sa restauration être vains. 
+  
+ Fidèlement vôtre, SM
+AR: ماثياس.  
+  
+ أرجوك، أصغِ إلى تحذيراتي بشأن هؤلاء المرتدين. لم يعد بإمكاننا الوقوف مكتوفي الأيدي بينما يمعن هؤلاء "المولودون من جديد" في تضليل رعيّتك. ورغم تفهمي لترددك في هذه الأوقات العصيبة، إلا أن رئيس الأساقفة ائتمنك على سلامة مؤمني قيلدنارك. لا تحتاج المدينة إلى أقل من محاكم التفتيش لاستئصال هؤلاء المارقين. لدينا فرصة للقضاء على هذا الجنون قبل أن ينتشر في ڤلتشوريا، وأنا واثق من أن الفشل في ذلك سيلطخ سمعة المجمع لأجيال.  
+  
+ أعلم أنك تملك ما يلزم لإنقاذ أرواح شعب قيلدنارك. لا تدع جهودنا في إعادة إعمارها تذهب سدى.  
+  
+ المخلص لك، س م
+
+#74 [None|lore] CorrespondenceSolomon1SubHead
+EN: From Solomon to Mathias
+FR: De Solomon à Mathias
+AR: من سولومون إلى ماثياس
+
+#75 [None|lore] CorrespondenceSolomon1Title
+EN: Correspondence
+FR: Correspondance
+AR: مراسلات
+
+#76 [None|lore] CorrespondenceSolomon2BodyText
+EN: My Dear Cardinal Mathias.  
+  
+ I am saddened to hear of the Archbishop’s diagnosis. At my disposal are the finest healers in all of Eden, and I will do everything in my power to ensure he is taken care of. It is the least I can do for the hospitality shown to me by the chapter since my arrival in Gildenarch. 
+  
+ In light of this news, I am delighted to learn that he has entrusted you with leading the chapter in his absence. I couldn’t think of anyone better for the job. Do not hesitate to call upon the aid of those around you, myself included. 
+  
+ Your friend, S M.
+FR: Mon cher Cardinal Mathias,  
+  
+ Je suis attristé d’apprendre le diagnostic de l’archevêque. Les meilleurs guérisseurs de tout Éden sont à ma disposition, et je ferai tout ce qui est en mon pouvoir pour m’assurer qu’on s’occupe bien de lui. C’est le moins que je puisse faire en remerciement de l’hospitalité dont le Chapitre a fait preuve à mon égard depuis mon arrivée à Gildenarch. 
+  
+ À la lumière de cette nouvelle, je suis ravi d’apprendre qu’il vous a confié la direction du chapitre en son absence. Je ne pouvais imaginer personne de mieux pour ce poste. N’hésitez pas à solliciter l’aide de votre entourage, moi y compris. 
+  
+ Votre ami, SM
+AR: عزيزي الكاردينال ماثياس.  
+  
+ يُحزنني ما بلغني من تشخيص رئيس الأساقفة. وتحت تصرفي أمهر المعالجين في إيدن كلها، وسأبذل وسعي في رعايته. هذا أقل ما يمكنني فعله مقابل حسن الضيافة الذي أظهره المجمع لي منذ وصولي إلى قيلدنارك.  
+  
+ في ضوء هذه الأخبار، يسعدني أن أعلم أنه استأمنك على قيادة المجمع في غيابه. وما أعرف من هو أجدر منك بها. لا تتردد في طلب المساعدة من المحيطين بك، وأنا من بينهم.  
+  
+ صديقك، س م.
+
+#77 [None|lore] CorrespondenceSolomon2Title
+EN: Correspondence
+FR: Correspondance
+AR: مراسلات
+
+#78 [None|lore] CorrespondenceVampires1BodyText
+EN: Our lord's Gala in Elk Grove Academy is tonight. We must prepare to cleanse the mortal filth from these halls. Leave no survivors. 
+  
+ Ensure every member of Clan Moore are at their stations, we strike an hour before the "unveiling" of the Spire. 
+  
+ Cain's wrath guide your hands  my brothers and sisters. 
+FR: Le gala donné par notre seigneur à l’académie d’Elk Grove a lieu ce soir. Nous devons nous préparer à purifier ces couloirs souillés par les mortels. Ne laissez aucun survivant. 
+  
+ Assurez-vous que chaque membre du Clan Moore est à son poste. Nous frapperons une heure avant « l’inauguration » de la Flèche. 
+  
+ Que la colère de Caïn guide vos mains, mes frères et sœurs.
+AR: حفلُ سيدنا في أكاديمية إلك قروڤ الليلة. يجب أن نستعد لتطهير هذه القاعات من دنس الفانين. لا تتركوا أحداً على قيد الحياة. 
+  
+ ليكن كل فرد من عشيرة مور في موضعه، سنشن الهجوم قبل ساعة من "كشف" البرج. 
+  
+ فلتهدِ غضبةُ قابيل أيديكم يا إخوتي وأخواتي.
+
+#79 [None|lore] CorrespondenceVampires1Title
+EN: Correspondence
+FR: Correspondance
+AR: مراسلات
+
+#80 [None|lore] CorrespondenceVampires2BodyText
+EN: Cyras, pardon the sudden interuptions but you'll be needed this evening. We've converted some of the clergy to our cause, and their transformations are tonight. Our lord has commanded we keep them locked down here until they've survived their transformations. 
+  
+ We need bodies for their feral phases, and they cannot come from the cult. The clergy must remain uncontaminated by the Hellgrowth for the time being.
+FR: Cyras, pardonnez mes interruptions soudaines, mais nous aurons besoin de vous ce soir. Nous avons converti certains membres du clergé à notre cause, et leur transformation a lieu ce soir. Notre seigneur a ordonné que nous les gardions enfermés ici jusqu’à ce qu’ils aient survécu à celle-ci. 
+  
+ Nous avons besoin de corps pour leurs phases sauvages, et ils ne peuvent pas provenir de la secte. Le clergé ne doit pas être contaminé par le chancre chtonien pour l’instant.
+AR: سيراس، اعذر المقاطعة المفاجئة، فنحن بحاجة إليك هذا المساء. استملنا بعض رجال الدين إلى قضيتنا، وتحوّلهم الليلة. وأمر سيدنا أن يُحبسوا هنا حتى ينجوا من التحول. 
+  
+ نحتاج إلى أجساد لمراحلهم الوحشية، ولا يمكن أن تأتي من الطائفة. يجب أن يظل رجال الدين غير ملوثين بالنماء الجهنّمي في الوقت الحالي.
+
+#81 [None|lore] CorrespondenceVampires2Title
+EN: Correspondence
+FR: Correspondance
+AR: مراسلات
+
+#82 [None|lore] CorrespondenceVampires3BodyText
+EN: You'll be pleased to know that the Chapter's desperation has been of great value to our endeavors. Lunitarian sanctions on magick have stifled their research into the Abraxas Stones, allowing us to become a valuable asset in obtaining results.
+FR: Vous serez heureux d’apprendre que le désespoir du Chapitre a été d’une grande utilité pour nos efforts. Les sanctions lunitériennes contre la magie ont freiné ses recherches sur les pierres d’Abraxas, faisant de nous un atout précieux pour obtenir des résultats.
+AR: يسرّك أن تعلم أن يأس المجمع خدم مساعينا خير خدمة. فقد خنقت العقوبات اللونيتارية على السحر أبحاثهم في أحجار أبراكساس، حتى صرنا نحن مفتاح النتائج.
+
+#83 [None|lore] CorrespondenceVampires3Title
+EN: Correspondence
+FR: Correspondance
+AR: مراسلات
+
+#84 [None|lore] Cult1BodyText
+EN: “Unholy, is this veiled realm, the Shattered Coil. Prison for our shattered souls, entombed in calcified eons which rain upon a dying world. Let us traverse the Garden, and return to the dawn before the wyrm forged our shackles.”
+FR: « Impie est ce royaume voilé, la Spirale brisée. Une prison pour nos âmes cassées, ensevelies dans des éons calcifiés qui s’abattent sur un monde mourant. Traversons le Jardin, et revenons à l’aube avant que le wyrm ne forge nos chaînes. »
+AR: «دَنِسٌ هذا العالمُ المحجوب، الطوق المحطم. سجنٌ لأرواحنا المحطمة، مدفونةً في دهورٍ متكلسة تهطل على عالمٍ يحتضر. فلنعبر الحديقة، ونعُد إلى الفجر قبل أن يصوغ التنين أصفادنا.»
+
+#85 [None|lore] Cult1SubHead
+EN: Wrinkled letter, clutched in a severed hand.
+FR: Lettre froissée, tenue par une main coupée
+AR: رسالة مجعدة، ممسوكة بيد مقطوعة.
+
+#86 [None|lore] Cult1Title
+EN: The Vibrant Heresy
+FR: L’hérésie vibrante
+AR: الهرطقة النابضة
+
+#87 [None|lore] Cult2BodyText
+EN: Find us beneath the roses 
+  
+ Join us in the Garden whose weeds reach beyond the coil’s remains…
+FR: Retrouvez-nous sous les roses 
+  
+ Rejoignez-nous dans le Jardin dont les mauvaises herbes s’étendent au-delà des vestiges de la Spirale...
+AR: ابحثوا عنا تحت الورود 
+  
+ انضموا إلينا في الحديقة التي تمتد أعشابها الضارة إلى ما وراء بقايا الطوق…
+
+#88 [None|lore] Cult2SubHead
+EN: Crumpled handwritten note
+FR: Note manuscrite froissée
+AR: ملاحظة مكتوبة بخط اليد ومجعدة
+
+#89 [None|lore] Cult2Title
+EN: To those who are weary
+FR: À ceux qui sont las
+AR: إلى من أضناهم التعب
+

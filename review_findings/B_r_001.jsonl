@@ -1,0 +1,1 @@
+{"id": "Verbals/VC_VerbalsNPC_Angel_Male|162020A843C973892BAC729331DD6C73", "source_en": "This is where Lotte said the chalice was.", "ar_before": "هنا قال لوتّه إن الكأس موجود.", "ar_fixed": "هنا قال لوتّه إن الكأس موجودة.", "severity": "minor", "reason": "gender agreement: الكأس is feminine, needs موجودة", "confidence": "medium"}

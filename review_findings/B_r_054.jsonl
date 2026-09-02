@@ -1,0 +1,1 @@
+{"id": "|829CED0B4BF11E0B93CB04ADC1F14E3B", "source_en": "Close", "ar_before": "إغلاق", "ar_fixed": "قريب", "severity": "critical", "reason": "FR \"Proche\"=near/distance value, not the Close verb; wrong sense", "confidence": "high"}

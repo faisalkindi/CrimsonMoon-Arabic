@@ -1,0 +1,3 @@
+Full Arabic localization of Crimson Moon — every line translated in context of the game's lore, tone and speakers (8,600+ strings, intro/ending cinematic subtitles included), a 190+ term hand-approved glossary, Arabic merged into the game's own fonts, native RTL menus and a one-click installer.
+
+‫تعريب عربي كامل لـ Crimson Moon — كل سطر مترجم بوعي بعالم اللعبة وأجوائها ومتحدثيها (أكثر من 8,600 سطر مع ترجمة المشاهد السينمائية)، مسرد موحّد لأكثر من 190 مصطلحًا، خط عربي مدمج في خطوط اللعبة، وقوائم من اليمين إلى اليسار، ومثبّت بنقرة واحدة.‬

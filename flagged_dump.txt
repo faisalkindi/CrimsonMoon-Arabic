@@ -1,0 +1,95 @@
+flagged: 18
+---
+|DB13CD9548AEE60E863D3191A3229FF8
+EN: {Player Name}
+AR: {Player Name}
+issues: ['untranslated_or_should_skip']
+---
+|DB6E3A53454933126C2F1C87CB7C770A
+EN: {Quality} {Category} 
+AR: {Category} {Quality}
+issues: ['placeholder_mismatch', 'untranslated_or_should_skip']
+---
+|DBE0CD204451C65F9E4EC694C18276FD
+EN: Epic+ drop rate increased!
+AR: زيادة معدل الحصول على العناصر الملحمية وما فوقها!
+issues: ['too_long_for_ui']
+---
+|DC5527C5448D22C5523F7D94A6782274
+EN: <Header>Angel Ascension</>
+AR: <Header>الصعود الملائكي</>
+issues: ['glossary:Angel=الملاك']
+---
+|E3915EBD4334A253B34078B98D5F15AB
+EN: Bounty Quest: Feral Vampires
+AR: مهمة مكافأة: مصاصو الدماء المتوحشون
+issues: ['glossary:Feral=متوحّش']
+---
+|E9A6661546C34FA554DEA59E755E5BB5
+EN: {Map Name}
+AR: {Map Name}
+issues: ['untranslated_or_should_skip']
+---
+|EC6262B1438E97E8A27D22A5202269C7
+EN: {Min}:{Seconds}
+AR: {Min}:{Seconds}
+issues: ['untranslated_or_should_skip']
+---
+|ECE552534A6C214EB47AD29BEAC58E17
+EN: Sunder Angel Unlocked!
+AR: تم فتح ساندر أنجيل!
+issues: ['glossary:Angel=الملاك']
+---
+|EE2D8F814F79931155C3868C3C846F71
+EN: {ButtonText}
+AR: {ButtonText} {نص الزر}
+issues: ['placeholder_mismatch']
+---
+|F1F599DD4749C2D3A94D2693FA2E6518
+EN: Bounty Board
+AR: لوحة المكافآت
+issues: ['glossary:Bounty=مكافأة']
+---
+|F1F78E2043E668CCC4F18F9640465C45
+EN: {ButtonText}
+AR: {ButtonText} {نص الزر}
+issues: ['placeholder_mismatch']
+---
+|F34E9EC843B8ED9A63873090D762213A
+EN: [GA_PlayerParrying] - AchievementsSubsystem not Found
+AR: [GA_PlayerParrying] - AchievementsSubsystem not Found
+issues: ['untranslated_or_should_skip']
+---
+|F587A28149345D60A600FA8AC154F9FB
+EN: Angel Ascension
+AR: الصعود الملائكي
+issues: ['glossary:Angel=الملاك']
+---
+|F7BDE33B488B277F1BA7AE909AAE6C0F
+EN: {ButtonText}
+AR: {ButtonText} {نص الزر}
+issues: ['placeholder_mismatch']
+---
+|FEDAC1A5499F871EE8AE999CE38ECEEC
+EN: Maecenas quis rhoncus odio. Aliquam.
+AR: Maecenas quis rhoncus odio. Aliquam.
+issues: ['untranslated_or_should_skip']
+---
+ST_BossDefeatScreens|Tyrigon
+EN: Tyrigon 
+AR: تيريكون
+issues: ['glossary:Tyrigon=تيريقون']
+---
+ST_DialogBoxStrings|QuitGameBody
+EN: Are you sure? 
+
+Your Run progress, souls, and equipment will be saved. The current mission progress will be lost. The game will exit. 
+AR: هل أنت متأكد؟ 
+
+سيتم حفظ تقدم جولتك، والأرواح، والمعدات. سيتم فقدان تقدم المهمة الحالية. سيتم إغلاق اللعبة.
+issues: ['glossary:Run=جولة']
+---
+ST_InventoryScreens|BoonsDescription
+EN: View and inspect your currently acquired Boon effects
+AR: استعرض وافحص تأثيرات البركات التي حصلت عليها حاليًا
+issues: ['glossary:Boon=بركة']

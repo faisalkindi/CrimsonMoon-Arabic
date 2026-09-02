@@ -1,0 +1,195 @@
+source_term,type,should_translate,approved_ar,status,notes
+Nephilim,race,decide,نيفيليم,approved,player race; transliteration proposed; Qur'anic echo issue
+Angel,mechanic,translate,الملاك,approved,bonded spirit
+Angelic Sigil,mechanic,translate,الختم الملائكي,approved,
+Angelic Grace,mechanic,translate,النعمة الملائكية,approved,transform meter
+Angel Ascension,mechanic,translate,الصعود الملائكي,approved,transformation
+Angel Sense,mechanic,translate,حاسة الملاك,approved,
+Lunarin,deity,transliterate,لوناران,approved,the Church's god
+Lunitarian,faction,transliterate,لونيتاري,approved,root
+Lunitarian Church,faction,translate,الكنيسة اللونيتارية,approved,root + Church
+The Divine,deity,translate,الإله,approved,
+Divine Throne,place,translate,العرش الإلهي,approved,
+Holy Lineage,faction,translate,السلالة المقدّسة,approved,ruling body of Church
+Archspire,place,decide,أرشسباير,approved,FR kept Archspire
+Archspire Cathedral,place,decide,كاتدرائية أرشسباير,approved,
+Gildenarch,place,transliterate,قيلدنارك,approved,the city
+Southern Ward,place,translate,الحي الجنوبي,approved,
+Grimhaven,place,transliterate,قريمهاڤن,approved,
+Gilded Ward,place,translate,الحي المذهّب,approved,
+Forsaken Streets,place,translate,الشوارع المهجورة,approved,
+Ramshorn Keep,place,decide,حصن رامزهورن,approved,FR chateau de Ramshorn
+Shoreditch Prison,place,decide,سجن شورديتش,approved,transliterate Shoreditch + translate Prison
+Elk Grove Academy,place,decide,أكاديمية إلك قروڤ,approved,
+Moore Manor,place,decide,قصر مور,approved,
+Godsreach Spire,place,decide,برج قودزريتش,approved,FR Fleche de Godsreach
+Sanctus Clypeus,place,transliterate,سانكتوس كليبيوس,approved,Latin; Order hall
+Transmitorium,mechanic,decide,غرفة الترسيخ,approved,Faisal 2026-09-02
+War Table,mechanic,translate,طاولة الحرب,approved,mission select
+Excursion,mechanic,translate,جولة,approved,a run
+Abraxas Stone,story,decide,حجر أبراكساس,approved,Abraxas transliterate; also wizard Abraxas Godsbane
+Dead Gods,story,translate,الآلهة الميتة,approved,
+Dry Rot King,boss,translate,ملك العفن الجاف,approved,
+E'frae,boss,transliterate,إفراي,approved,Dry Rot King's name
+Lord of Perdition,boss,translate,سيّد الهلاك,approved,
+Mahkteah,boss,transliterate,ماكتيا,approved,
+Mahkten,faction,transliterate,ماكتن,approved,his people
+Eye of the Abyss,boss,translate,عين الهاوية,approved,
+Aegoroth,boss,transliterate,إيقوروث,approved,
+The Warden,boss,translate,الحارس,approved,
+Flesh-Wrought Egregore,boss,decide,الإيقريقور المصاغ من اللحم,approved,Egregore? | Faisal 2026-09-02
+Tyrigon,boss,transliterate,تيريقون,approved,dragon
+Valahk-Nor,boss,transliterate,ڤالاك-نور,approved,normalize hyphen; General
+Felwyl,boss,transliterate,فِلويل,approved,spelling drift Fewyl/Felwil
+The Withered,epithet,translate,الذابل,approved,
+The Ascended,epithet,translate,الصاعد,approved,
+Infernal Legion,faction,translate,الفيلق الجهنّمي,approved,
+Hellgrowth,story,translate,النماء الجهنّمي,approved,
+Infernal Flora,story,translate,النباتات الجهنّمية,approved,Faisal 2026-09-02
+Red Bloom,story,translate,الإزهار الأحمر,approved,
+Red Gift,story,translate,الهبة الحمراء,approved,
+The Garden,story,translate,الحديقة,approved,cult concept
+The Reborn,faction,translate,المولودون من جديد,approved,Hellgrowth cult
+Shepherds,faction,translate,الرعاة,approved,cult name for demons
+Crimson Concordat,story,translate,الميثاق القرمزي,approved,
+Order of the Crimson Moon,faction,translate,جماعة القمر القرمزي,approved,
+Knights of the Crimson Moon,faction,translate,فرسان القمر القرمزي,approved,
+Divine Oath,rank,translate,العهد الإلهي,approved,
+Moonlight Oath,rank,translate,عهد ضوء القمر,approved,
+Midnight Oath,rank,translate,عهد منتصف الليل,approved,
+Crimson Oath,rank,translate,العهد القرمزي,approved,
+Keeper's Oath,rank,translate,عهد الحافظ,approved,
+Apostate,faction,translate,المرتد,approved,
+Apostate Hunts,story,translate,صيد المرتدين,approved,
+Specters,faction,translate,الأشباح,approved,assassins
+Crusader,faction,translate,الصليبي,approved,Faisal 2026-09-02
+Covenant Cleric,faction,translate,كاهن الميثاق,approved,Faisal 2026-09-02
+Inquisition,faction,translate,محاكم التفتيش,approved,
+Inquisitor,faction,translate,المفتّش,approved,
+Pyresworn,faction,decide,قسم المحرقة,approved,Faisal 2026-09-02
+Cardinal,title,translate,الكاردينال,approved,
+Archbishop,title,translate,رئيس الأساقفة,approved,
+Bishop,title,translate,الأسقف,approved,
+Scribe,title,translate,الكاتب,approved,
+Prefect,title,translate,أمين العقيدة,approved,Faisal 2026-09-02
+The Veil,story,translate,الحجاب,approved,barrier between realms
+The Coil,story,decide,الطوق,approved,Faisal 2026-09-02
+Demiurge,story,translate,الديميورج,approved,Faisal 2026-09-02
+Eden,place,decide,إيدن,approved,the world; religious weight
+Luderaeon,place,transliterate,لوديرايون,approved,angel realm; normalize Ludereon
+Akyreon,place,transliterate,أكيريون,approved,demon realm; Iridaeon variant
+Infernus,place,translate,الجحيم,approved,Faisal 2026-09-02
+Purgatory,place,translate,المطهر,approved,
+Celestial Mountains,place,translate,الجبال السماوية,approved,
+Rite of Desolation,story,translate,طقس الخراب,approved,
+Great Reconstruction,story,translate,إعادة الإعمار الكبرى,approved,
+War of the Gods,story,translate,حرب الآلهة,approved,
+The Sundering,story,translate,التمزّق,approved,Faisal 2026-09-02
+Sentinels,faction,translate,الرقباء,approved,
+Velchoria,place,transliterate,ڤلتشوريا,approved,
+Velchorian Empire,place,decide,الإمبراطورية الڤلتشورية,approved,
+Luminar,place,transliterate,لومينار,approved,capital
+Karsiv,place,transliterate,كارسيف,approved,
+Karsivite Orthodoxy,faction,decide,الأرثوذكسية الكارسيفية,approved,Faisal 2026-09-02
+Armaea,place,transliterate,أرميا,approved,
+Belwayne,place,transliterate,بيلواين,approved,
+Litinstang,place,transliterate,ليتنستانق,approved,
+Nachtendale,place,transliterate,ناختنديل,approved,
+Saedrys,place,transliterate,سايدريس,approved,
+Caragus,place,transliterate,كاراقوس,approved,
+Treveyan,place,transliterate,تريڤيان,approved,
+Rot Kin,faction,translate,أهل العفن,approved,
+Saedric,faction,decide,سايدريسي,approved,Faisal 2026-09-02
+Cain,character,decide,قابيل,approved,vampire progenitor | Faisal 2026-09-02
+Cain's Covenant,story,translate,ميثاق قابيل,approved,Faisal 2026-09-02
+Clan Moore,faction,transliterate,عشيرة مور,approved,
+Telvaught,faction,transliterate,تلڤوت,approved,
+Feral,state,translate,متوحّش,approved,vampire/Nephilim
+Death Knights,enemy,translate,فرسان الموت,approved,
+Nac-Fei,enemy,transliterate,ناك-فاي,approved,
+Knight Terrors,enemy,translate,فرسان الرعب,approved,Faisal 2026-09-02
+Demon Brutes,enemy,translate,وحوش الشياطين,approved,Faisal 2026-09-02
+Imps,enemy,translate,العفاريت,approved,
+Undead Captains,enemy,translate,قادة الموتى الأحياء,approved,
+Cultists,enemy,translate,أتباع الطائفة,approved,
+Feral Vampires,enemy,translate,مصاصو الدماء المتوحشون,approved,
+Soul Energy,mechanic,translate,طاقة الروح,approved,
+Drakes,mechanic,transliterate,دريكس,approved,currency
+Holy Phases,story,translate,الأطوار المقدّسة,approved,liturgy
+Blood Moon,story,translate,القمر الدموي,approved,
+St. Uriel,character,decide,القديس أوريل,approved,Faisal 2026-09-02
+St. Enoch,character,decide,القديس أخنوخ,approved,Faisal 2026-09-02
+Maedrael,character,transliterate,مايدرايل,approved,Archangel
+Apothos,character,transliterate,أبوثوس,approved,
+Azrael,character,decide,عزرائيل,approved,Faisal 2026-09-02
+Gallow's Wraith,epithet,translate,شبح المشنقة,approved,Gallant's epithet
+Lore Scrolls,item,translate,لفائف المعرفة,approved,
+Legendary Scraps,item,translate,قصاصات أسطورية,approved,
+Crescent Tags,item,translate,شارات الهلال,approved,
+Divine Ember,item,translate,الجمرة الإلهية,approved,
+Revenant Crown,item,translate,تاج العائد,approved,
+Cipher Fragment,item,translate,شظية الشيفرة,approved,
+Nachtstahl,place,transliterate,ناختشتال,approved,
+Weapon Art,mechanic,translate,فنّ السلاح,approved,
+Boon,mechanic,translate,بركة,approved,
+Trinket,mechanic,translate,حِلية,approved,
+Blueprint,mechanic,translate,مخطط,approved,
+Mana,mechanic,translate,المانا,approved,
+Stamina,mechanic,translate,التحمّل,approved,Faisal 2026-09-02
+Skulls,mechanic,translate,جماجم,approved,difficulty tier
+Hellrift,mechanic,translate,صدع الجحيم,approved,
+Nexus Gate,mechanic,translate,بوابة النكسس,approved,
+Purify,mechanic,translate,تطهير,approved,
+Loadout,mechanic,translate,التجهيزات,approved,
+Bounty,mechanic,translate,مكافأة,approved,
+Gallant,character,transliterate,قالانت,approved,"Gallant Alexander, Knight Commander; hard G = ق"
+Knight Commander,title,translate,قائد الفرسان,approved,
+Solomon Moore,character,transliterate,سولومون مور,approved,
+Cardinal Mathias,character,transliterate,الكاردينال ماثياس,approved,+ translate Cardinal
+Mereda,character,transliterate,ميريدا,approved,"Librarian, f"
+Lotte Ananta,character,transliterate,لوتّه أنانتا,approved,"Merchant, m"
+Gajov,character,transliterate,قاجوف,approved,"Blacksmith, m"
+Nahnias,character,transliterate,ناهنياس,approved,possibly the Angel
+Lesandra,character,transliterate,ليساندرا,approved,
+Anya,character,transliterate,آنيا,approved,
+Selandris,character,transliterate,سيلاندريس,approved,
+Alonious,character,transliterate,ألونيوس,approved,Emperor
+Ciaran Telvaught,character,transliterate,كيران تلڤوت,approved,
+Irvine Gaertner,character,transliterate,إرڤين قارتنر,approved,
+Bishop Aaron,character,decide,الأسقف هارون,approved,Faisal 2026-09-02
+Siron,character,transliterate,سيرون,approved,
+the Order,faction,translate,الجماعة,approved,short form of Order of the Crimson Moon; NOT النظام/التنظيم/الأمر
+Sigil,mechanic,translate,ختم,approved,NOT رمز
+Run,mechanic,translate,جولة,approved,as a mission attempt
+Chapter,faction,translate,مجمع,approved,"ecclesiastical body, NOT فصل"
+Solomon,character,transliterate,سولومون,approved,
+Mathias,character,transliterate,ماثياس,approved,
+Lotte,character,transliterate,لوتّه,approved,male merchant
+Abraxas,story,transliterate,أبراكساس,approved,
+Block,mechanic,decide,صدّ,approved,defensive hold; must differ from Parry; proposal صدّ | Faisal 2026-09-02
+Parry,mechanic,decide,ردّ,approved,timed deflect; must differ from Block; proposal تصدٍّ | Faisal 2026-09-02
+Dodge,mechanic,decide,مراوغة,approved,proposal مراوغة (editor unified to this) | Faisal 2026-09-02
+Paladin,mechanic,decide,فارس مقدّس,approved,proposal بالادين (transliterate) vs فارس مقدّس | Faisal 2026-09-02
+Execute,mechanic,decide,إجهاز,approved,finisher on staggered enemy; LOCKED in style guide
+Physical Damage,mechanic,decide,الضرر الجسدي,approved,editors unified to الضرر الجسدي | Faisal 2026-09-02
+Marked,mechanic,decide,موسوم,approved,status; editors unified to موسوم | Faisal 2026-09-02
+HUD,mechanic,decide,واجهة العرض,approved,editors unified to واجهة العرض | Faisal 2026-09-02
+Lives,mechanic,decide,الحيوات,approved,unified to الحيوات (not أرواح = Souls) | Faisal 2026-09-02
+Advocate,character,decide,الداعية,approved,Door_Advocate cult NPC; draft المحامي (lawyer) wrong sense; proposal الداعية / المُناصر | Faisal 2026-09-02
+Lunar Sentinel,faction,translate,الرقيب القمري,approved,editor locked الرقيب القمري (not اللوني) | Faisal 2026-09-02
+Verdigris,item,translate,الزنجاري,approved,editor الزنجاري | Faisal 2026-09-02
+Undead Brutes,enemy,translate,وحوش الموتى الأحياء,approved,editors وحوش الموتى الأحياء | Faisal 2026-09-02
+Church,faction,translate,الكنيسة,approved,the Lunitarian Church as institution; NEVER الجماعة (reserved for the Order)
+the Spire,place,translate,البرج,approved,ambient/Solomon's spire; Archspire and Godsreach Spire are separate approved terms
+District,decide,decide,المنطقة,approved,MQPE objectives; must differ from Ward=الحي; verifier used المنطقة | Faisal 2026-09-02
+Flesh-Wrought,decide,decide,المصاغ,approved,المصاغ vs المصنوع split across quest/war-table rows | Faisal 2026-09-02
+Egregore,decide,decide,الإيقريقور,approved,transliteration must use ق: إيقريقور (drafts have إيغريغور) | Faisal 2026-09-02
+Knight Captain,title,translate,نقيب الفرسان,approved,distinct from Knight Commander=قائد الفرسان (flow agent flagged collision)
+Riposte,mechanic,translate,الهجوم المرتد,approved,flow-06 unified
+Endurance,mechanic,translate,الجَلَد,approved,distinct from Stamina=التحمّل (flow-06)
+Heretic,faction,translate,الهرطوقي,approved,distinct from Apostate=المرتد; Heresy=الهرطقة | sweep 2026-09-02
+Heresy,story,translate,الهرطقة,approved, | sweep 2026-09-02
+Clear,mechanic,translate,إخلاء,approved,clear an area/enemies; NOT تطهير (Purify) | sweep 2026-09-02
+Cleanse,mechanic,translate,إزالة,approved,remove status effects; NOT تطهير | sweep 2026-09-02
+Purge,mechanic,translate,استئصال,approved,purge Hellgrowth; NOT تطهير | sweep 2026-09-02
+Scrap,item,translate,قصاصة,approved,plural قصاصات; matches Legendary Scraps | sweep 2026-09-02

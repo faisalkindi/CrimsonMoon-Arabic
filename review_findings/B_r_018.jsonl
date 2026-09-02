@@ -1,0 +1,1 @@
+{"id": "ST_LoreNotes|EALS_3_BodyText", "source_en": "Marvenne has no family abroad.", "ar_before": "مارفين ليس لديها عائلة في الخارج.", "ar_fixed": "مارفين ليست لديها عائلة في الخارج.", "severity": "minor", "reason": "gender agreement: Marvenne is female (see character notes), needs ليست not ليس", "confidence": "medium"}

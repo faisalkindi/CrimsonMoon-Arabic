@@ -1,0 +1,1 @@
+{"id": "ST_Objectives|SQWC_Objective_1_Full", "source_en": "Investigate the noises outside of St.Uriel's Chapel.", "ar_before": "استقصِ الأصوات خارج مصلى القديس أورييل.", "ar_fixed": "استقصِ الأصوات خارج مصلى القديس أوريل.", "severity": "minor", "reason": "name spelling drift; glossary locks St. Uriel = القديس أوريل", "confidence": "high"}

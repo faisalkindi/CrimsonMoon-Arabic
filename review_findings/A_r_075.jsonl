@@ -1,0 +1,1 @@
+{"id": "ST_Achievements|ACH_FirstDeathOfMany_Title", "source_en": "First Death of Many", "ar_before": "أولى موتات كثيرة", "ar_fixed": "أولى ميتات كثيرة", "severity": "minor", "reason": "موتات is not a standard plural; ميتات is", "confidence": "medium"}

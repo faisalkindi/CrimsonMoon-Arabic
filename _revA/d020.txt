@@ -1,0 +1,1215 @@
+#0 [None|lore] ProphecyDescription
+EN: A leather bound journal detailing a broken translation of the "Last Will and Testament of the Sentinels".  
+  
+ The original text is absent; instead, the pages are choked with the frantic, multi colored ink of words mapped to strange symbols and sacred geometry. Margins once reserved for academic cross references disolve into indescipherable palimpsests and gemoetric doodles that warp the longer you stare. The words near the end stand out to you "Then shall come the Soul Torn Beast."
+FR: Un journal relié en cuir contenant une traduction incomplète des « Dernières volontés et du testament des sentinelles ».  
+  
+ Le texte original est absent. Les pages sont remplies d’une écriture frénétique, à l’encre multicolore, composée de mots associés à des symboles étranges et à une géométrie sacrée. Les marges autrefois réservées aux références académiques se dissolvent en palimpsestes indéchiffrables et en gribouillis géométriques à mesure qu’on les fixe. Les mots vers la fin attirent votre attention : « Alors viendra la Bête à l’âme déchirée. »
+AR: يوميات مجلدة بالجلد تحتوي على ترجمة ناقصة لـ "الوصية الأخيرة للرقباء".  
+  
+ النص الأصلي غائب؛ وعوضاً عنه تختنق الصفحات بحبر محموم متعدد الألوان، كلماتٍ رُدّت إلى رموز غريبة وهندسة مقدسة. والهوامش التي كانت للمراجع الأكاديمية ذابت إلى طبقات كتابة متراكمة لا تُقرأ وخرابيش هندسية تتشوه كلما أمعنت النظر فيها لفترة أطول. تبرز الكلمات القريبة من النهاية: «حينئذٍ يأتي وحش الروح الممزق.»
+
+#1 [None|lore] ProphecyTitle
+EN: Prophecy
+FR: Prophétie
+AR: نبوءة
+
+#2 [None|lore] RCLS_1_Body
+EN: Lunarin is the Dragon! The Demiurge lives once more through the Church. A Millenia of Lies befell man after the Imperial Conversion.  
+  
+ I have good news, brothers and sisters. Though our forefathers were deceived by the Lunitarians, there yet remains another way to freedom! Freedom from this earth, from suffering and pain, just as we were before the Demiurge ensared our souls in the Coil! The Initiated know the truth about Lost Akyreon, the realm of Aeons Given Flesh, who’ve been scorned by Archons of the Throne. Their unjust persecution is the fate of man should we continue to unwittingly serve the Dragon.  
+  
+ The Church calls them Demons; we shall call them Shepherds! The Shepherds have given us a gift.  
+  
+ Tonight we must accept their offering and partake in the powers of the realm beyond this accursed veil. 
+ 
+FR: Lunarin est le dragon ! Le Démiurge vit à nouveau à travers l’Église. Un millénaire de mensonges s’est abattu sur l’humanité après la Conversion impériale.  
+  
+ J’ai une bonne nouvelle, mes frères et sœurs. Bien que nos ancêtres aient été trompés par les Lunitériens, il reste encore une autre voie vers la liberté ! La liberté loin de cette terre, loin de la souffrance et de la douleur, telle que nous la connaissions avant que le Démiurge n’enferme nos âmes dans la Spirale ! Les initiés connaissent la vérité sur l’Akyreon perdu, le royaume des éons incarnés, qui ont été méprisés par les archontes du Trône. Leur persécution injuste est le sort qui attend l’humanité si nous continuons à servir le dragon sans le savoir.  
+  
+ L’Église les appelle « démons ». Nous les appellerons « bergers » ! Les bergers nous ont fait un don.  
+  
+ Ce soir, nous devons accepter leur offrande et prendre part aux pouvoirs du royaume qui s’étend au-delà de ce voile maudit.
+AR: لوناران هو التنين! الديميورج يعيش مرة أخرى من خلال الكنيسة. وحلّ بالبشر ألف عام من الكذب بعد التحول الإمبراطوري.  
+  
+ لدي أخبار سارة، إخوتي وأخواتي. خدع اللونيتاريون أسلافنا، ومع ذلك بقي طريق آخر إلى الحرية! الحرية من هذه الأرض، من المعاناة والألم، تماماً كما كنا قبل أن يحاصر الديميورج أرواحنا في الطوق! يعرف المطلعون الحقيقة حول أكيريون المفقود، عالم الأحقاب المتجسدة، الذين نبذهم أركون العرش. إن اضطهادهم الجائر هو مصير البشر إذا استمررنا في خدمة التنين دون وعي.  
+  
+ الكنيسة تسميهم شياطين؛ ونحن سنسميهم الرعاة! وقد منحنا الرعاة هبة.  
+  
+ الليلة يجب أن نقبل عطيّتهم ونشارك في قوى العالم وراء هذا الحجاب الملعون.  
+ 
+
+#3 [None|lore] RCLS_1_Subhead
+EN: Crumpled Note
+FR: Note froissée
+AR: ملاحظة مجعدة
+
+#4 [None|lore] RCLS_1_Title
+EN: Cultist's Ravings
+FR: Délires d’un adepte
+AR: هذيان الطائفة
+
+#5 [None|lore] RCLS_2_Body
+EN: Forgive my hesitancy towards Felwyl’s spiritual claims; he was always an odd one. His interest in the occult, though not inherently a problem itself, does concern me. I knew a practitioner once, a woman named Mereda. She was an alumna of Elk Grove back in the day, and she, too, was a magician. A lovely woman whom I’d trust dearly, but I’ll always remember what she told me: “never trust a demon”. I know damn well what Felwyl’s been up to, and I’m sure that Solomon figure has something to do with it. The Flora Felwyl has been presenting to his students is not of this world; he’s obtained it from some unholy means, and I’d rather not be involved with it. Don’t bother getting the Archspire involved; their leniency towards the Aristocracy is what’s keeping this bloated pig's corpse of a city alive.
+FR: Pardonnez mon scepticisme face aux prétentions spirituelles de Felwyl. Il a toujours été un peu étrange. Son intérêt pour l’occulte, bien que ce ne soit pas un problème en soi, m’inquiète. J’ai connu une praticienne autrefois, une femme nommée Mereda. C’était une ancienne élève d’Elk Grove à l’époque, et elle aussi était magicienne. C’était une femme charmante en qui j’avais une grande confiance, mais je me souviendrai toujours de ce qu’elle m’a dit : « Ne faites jamais confiance à un démon. » Je sais très bien ce que Felwyl mijote, et je suis sûr que ce Solomon y est pour quelque chose. La flore que Felwyl présente à ses élèves n’est pas de ce monde. Il l’a obtenue par des moyens impies, et je préfère ne pas m’en mêler. Ne vous embêtez pas à demander à l’Archspire d’intervenir ; son indulgence envers l’aristocratie est ce qui maintient en vie cette ville cadavérique.
+AR: اعذر ترددي تجاه ادعاءات فِلويل الروحانية؛ كان دائماً غريب الأطوار. اهتمامه بالعلوم الخفية، رغم أنه ليس مشكلة في حد ذاته، يثير قلقي. عرفت ساحرةً يوماً، امرأة تدعى ميريدا. كانت من خريجات أكاديمية إلك قروڤ في الماضي، وكانت هي أيضاً ساحرة. امرأة رائعة كنت أثق بها بشدة، لكنني سأتذكر دائماً ما أخبرتني به: "لا تثق أبداً بشيطان". أعلم جيداً ما كان يفعله فِلويل، وأنا متأكد من أن شخصية سولومون لها علاقة بذلك. إن النباتات التي يعرضها فِلويل على طلابه ليست من هذا العالم؛ لقد حصل عليها بوسائل غير مقدسة، وأفضل ألا أكون متورطاً بها. لا تكلف نفسك عناء إشراك أرشسباير؛ فتساهلهم مع الأرستقراطية هو ما يبقي جثة هذه المدينة المتضخمة على قيد الحياة.
+
+#6 [None|lore] RCLS_2_Subhead
+EN: Letter
+FR: Lettre
+AR: رسالة
+
+#7 [None|lore] RCLS_2_Title
+EN: Stay Away From Him.
+FR: Tenez-vous loin de lui
+AR: ابتعد عنه.
+
+#8 [None|lore] RCLS_3_Body
+EN: Natalia, please turn back. Do not go inside the house! Mother and Father are not well; they’ve gone mad! They locked us inside and beat us to near death before forcing Erin to eat something against his will. I watched him convulse violently on the ground before they tried to do the same to me. I stabbed Father and barely escaped with my life. Please, if you find this, meet me in the forest outside of the castle town; we have to leave tonight; the city’s gone mad.
+FR: Natalia, tu dois faire demi-tour. N’entre surtout pas dans notre maison ! Mère et Père ne vont pas bien. Ils sont devenus fous ! Ils nous ont enfermés à l’intérieur et nous ont battus presque à mort avant de forcer Erin à manger quelque chose. Je l’ai vu convulser violemment au sol avant qu’ils n’essaient de faire de même avec moi. J’ai poignardé Père et j’ai réussi à m’échapper de justesse. Si tu trouves ce message, rejoins-moi dans la forêt, devant la ville fortifiée. Nous devons partir ce soir. La ville est devenue folle.
+AR: ناتاليا، أرجوكِ عودي أدراجكِ. لا تدخلي المنزل! أمي وأبي ليسا بخير؛ لقد جنّا! حبسانا في الداخل وضرباناً حتى كدنا نموت، ثم أرغما إيرين على ابتلاع شيء رغم أنفه. شاهدته يتشنج بعنف على الأرض قبل أن يحاولوا فعل الشيء نفسه معي. طعنتُ أبي، ونجوتُ بأعجوبة. أرجوكِ، إذا وجدتِ هذه الرسالة، قابليني في الغابة خارج بلدة القلعة؛ يجب أن نغادر الليلة؛ لقد جنت المدينة.
+
+#9 [None|lore] RCLS_3_Subhead
+EN: Hastily written note
+FR: Note écrite à la hâte
+AR: ملاحظة كُتبت على عجل
+
+#10 [None|lore] RCLS_3_Title
+EN: Do not trust mother and father!
+FR: Ne fais pas confiance à maman et à papa !
+AR: لا تثقي بأمنا وأبينا!
+
+#11 [None|lore] RKLS_10_BodyText
+EN: Lord Felwyl, 
+ Sincerest apologies my Lord, as I know you are very busy. Very busy, indeed. But I write to bring to your attention matters at Ramshorn Keep. 
+ We, your humble servants, and in your own words, chosen ones, The Reborn, are being woefully mistreated by these… new arrivals.  
+ Ever since we opened the gate to the other side and welcomed them in, they’ve been regretfully barbaric. 
+ No language. No manners. They’ve even killed some of our brothers. 
+ My Lord, I do not believe they even share our cause of a fully unified soul. A united Red Bloom. 
+ I know that a patrician such as yourself would never stand for this. If only you knew.  
+ So I have written merely to bring this matter to your attention. 
+ Your Servant, 
+ Calum
+FR: Seigneur Felwyl, 
+ Je vous présente mes plus sincères excuses, mon seigneur, car je sais que vous êtes très occupé. Vraiment très occupé. Mais je vous écris pour vous informer de certaines choses qui se passent au château de Ramshorn. 
+ Nous, vos humbles serviteurs, et selon vos propres mots, les élus, les Nés à nouveau, sommes terriblement maltraités par ces... nouveaux arrivants.  
+ Depuis que nous avons ouvert le portail qui donne sur l’autre côté et que nous les avons accueillis, ils se sont malheureusement comportés en barbares. 
+ Ils ne parlent pas, n’ont aucun savoir-vivre et ont même tué certains de nos frères. 
+ Mon seigneur, je crois même qu’ils n’ont que faire de notre cause – notre quête d’une âme pleinement unie, d’une fleur rouge unie. 
+ Je sais qu’un patricien tel que vous ne tolérerait jamais cela. Si seulement vous saviez.  
+ Je vous ai donc écrit uniquement pour attirer votre attention sur cette affaire. 
+ Votre Serviteur, 
+ Calum
+AR: اللورد فِلويل، 
+ أقدم اعتذاري الخالص يا مولاي، فأنا أعلم أنك مشغول للغاية. مشغول للغاية بالفعل. لكنني أكتب إليك لألفت انتباهك إلى أمور في حصن رامزهورن. 
+ نحن، خدمك المتواضعون، وبكلماتك أنت، المختارون، المولودون من جديد، نتعرض لسوء معاملة مؤسفة من قبل هؤلاء… الوافدين الجدد. 
+ ومنذ فتحنا البوابة إلى الجانب الآخر ورحبنا بهم، وهم برابرة يبعثون على الأسى. 
+ لا لغة. لا أخلاق. حتى أنهم قتلوا بعضاً من إخوتنا. 
+ يا مولاي، لا أعتقد أنهم يشاركوننا حتى قضيتنا المتمثلة في روح موحدة بالكامل. إزهار أحمر موحد. 
+ أعلم أن شريفاً مثلك لا يقبل بهذا أبداً. لو تعلم فقط. 
+ لذا كتبت لألفت انتباهك إلى هذا الأمر فحسب. 
+ خادمك، 
+ كالوم
+
+#12 [None|lore] RKLS_10_SubHead
+EN: Sealed Letter
+FR: Lettre scellée
+AR: رسالة مختومة
+
+#13 [None|lore] RKLS_10_Title
+EN: Lord Felwyl
+FR: Seigneur Felwyl
+AR: اللورد فِلويل
+
+#14 [None|lore] RKLS_1_BodyText
+EN: I have a strange paralysis. Like I don’t know where to start.  
+ It tingles really as it takes control. The red veins outlining the pace of my heart, the quickening of my pulse.  
+ My master calls to me. 
+ From the other side.  
+ Where he awaits a door. 
+ The door is ours door to build. The door is my task. 
+ Under the guidance of Lord Felwyl we shall build 
+ a door of many hands, intertwined, all outstretched together in welcoming.  
+ Hands of the working folk. Hands of the non-believers. Hands of the unwilling. 
+ One taste of the bloom and they move together, molding and forming into one, bodies becoming a single, purified organism, and their hands reach, reaching, stretching and ripping and breaking together in unison, to welcome your second coming, my Lord.  
+ Together as one. 
+ They reach from the red bloom. 
+ Yes. That’s it.  
+ I know exactly where to start.  
+ Thank you master.  
+ You shall have your door soon. 
+FR: Je suis en proie à une paralysie étrange. Comme si je ne savais pas par où commencer.  
+ Ça picote vraiment à mesure que ça prend le dessus. Les veines rouges qui soulignent le rythme de mon cœur, l’accélération de mon pouls.  
+ Mon maître m’appelle. 
+ De l’autre côté.  
+ Où il attend une porte. 
+ C’est à nous de construire cette porte. Cette porte est ma tâche. 
+ Sous la direction du seigneur Felwyl, nous construirons 
+ une porte constituée de nombreuses mains entrelacées, toutes tendues ensemble en signe d’accueil.  
+ Les mains des travailleurs. Les mains des non-croyants. Les mains des réticents. 
+ Dès qu’ils goûtent à la fleur, ils se mettent à bouger ensemble, se modelant et formant un tout, leurs corps devenant un seul organisme purifié, et leurs mains se tendent, s’étirent, se déchirent et se brisent à l’unisson, pour accueillir votre seconde venue, mon seigneur.  
+ Ensemble comme un seul être. 
+ Elles se tendent depuis la fleur rouge. 
+ Oui. C’est ça.  
+ Je sais exactement par où commencer.  
+ Merci, maître.  
+ Vous aurez bientôt votre porte.
+AR: أشعر بشلل غريب. كأنني لا أعرف من أين أبدأ.  
+ يسري فيه نمل خفيف وهو يستولي عليّ. العروق الحمراء التي ترسم إيقاع قلبي، وتسارع نبضاتي.  
+ سيدي يناديني.  
+ من الجانب الآخر.  
+ حيث ينتظر باباً.  
+ الباب بابنا نبنيه. والباب مهمتي.  
+ تحت إرشاد سيد فِلويل، سنبني  
+ باباً من أيدٍ كثيرة، متشابكة، كلها ممدودة معاً للترحيب.  
+ أيدي العمال. أيدي غير المؤمنين. أيدٍ غير راغبة.  
+ بمجرد تذوق الإزهار، يتحركون معاً، يتشكلون وينصهرون في كيان واحد، أجساد تصير كائناً واحداً منقّى، وأيديهم تمتد، وتصل، وتتطاول، وتمزق وتكسر معاً في انسجام، للترحيب بعودتك الثانية، يا سيدي.  
+ معاً ككيان واحد.  
+ يمدون أيديهم من الإزهار الأحمر.  
+ نعم. هذا هو.  
+ أعرف تماماً من أين أبدأ.  
+ شكراً لك يا سيدي.  
+ سيكون لك بابك قريباً.
+
+#15 [None|lore] RKLS_1_SubHead
+EN: Scrawled in a trembling hand
+FR: Griffonné d’une main tremblante
+AR: كُتبت بيدٍ مرتجفة
+
+#16 [None|lore] RKLS_1_Title
+EN: Ceremony Preparations
+FR: Préparatifs de la cérémonie
+AR: تحضيرات المراسم
+
+#17 [None|lore] RKLS_2_BodyText
+EN: I heard ‘em again. Yelling and screaming from the Keep. No doubt drunk as usual. I never liked the City Guard, not sure they even care bout keeping us folk safe. Just pushing us ‘round every chance they get. But ever since the new Cap’n it’s… different. 
+  
+ I never seen ‘em like this. There’s something off with ‘em now. The lot of ‘em. Something vacant. Something empty. Something… red. And those screams, is it celebratin’? Or somethin else entirely.
+FR: Je les ai encore entendus. Des cris et des hurlements provenant du château. Sans doute le fait d’ivrognes, comme d’habitude. Je n’ai jamais aimé la garde de la ville. Je ne suis même pas sûr que ses hommes se soucient de notre sécurité. Ils nous malmènent à la moindre occasion. Mais depuis que le nouveau capitaine est arrivé, c’est... différent. 
+  
+ Je ne les avais jamais vus comme ça. Il y a quelque chose qui cloche chez eux. Chez chacun d’eux. Quelque chose de vide. Quelque chose d’absent. Quelque chose... de rouge. Et ces cris... est-ce qu’ils font la fête ? Ou est-ce tout autre chose ?
+AR: سمعتهم مرة أخرى. يصرخون ويصيحون من القلعة. لا شك أنهم سكارى كالعادة. ما أحببت حرس المدينة قط، ولا أظنهم يعنيهم أمن أمثالنا. بل يتسلّطون علينا في كل فرصة تسنح لهم. لكن منذ جاء القائد الجديد، صار الأمر… مختلفاً. 
+  
+ لم أرهم هكذا من قبل. هناك شيء غريب فيهم الآن. جميعهم. شيء فارغ. شيء خاوٍ. شيء… أحمر. وتلك الصرخات، أهذا احتفال؟ أم شيء آخر تماماً.
+
+#18 [None|lore] RKLS_2_SubHead
+EN: Commoner's note
+FR: Note de roturier
+AR: ملاحظة عامي
+
+#19 [None|lore] RKLS_2_Title
+EN: Garrison Rumor
+FR: Rumeur concernant la garnison
+AR: إشاعة الحامية
+
+#20 [None|lore] RKLS_3_BodyText
+EN: I hate staying home when you’re out. 
+ It’s to punish you, me choosing not to go. 
+ But why then do I feel the one punished?  
+ Instead of sleeping I sit awake laying and dreaming.  
+ Dreaming you would choose me instead of the drink. 
+ Oh Charles, if only you knew how much I loathe waiting and worrying about you in those damned streets.  
+ Even drunk, I still feel comforted when you lay asleep beside me.  
+ Please hurry home my love so I can feel a moment of comfort in this cruel world.  
+ Dearest, 
+ Tabitha
+FR: Je déteste rester à la maison quand tu n’es pas là. 
+ C’est pour te punir que je choisis de ne pas t’accompagner. 
+ Mais alors, pourquoi ai-je l’impression que c’est moi qui suis punie ?  
+ Au lieu de dormir, je reste éveillée, allongée, à rêver.  
+ Je rêve que tu me choisisses moi plutôt que l’alcool. 
+ Oh Charles, si seulement tu savais à quel point je déteste t’attendre et m’inquiéter pour toi, arpentant ces maudites rues.  
+ Je me sens réconfortée quand tu dors à côté de moi, même ivre.  
+ Dépêche-toi de rentrer à la maison, mon amour, pour que je puisse connaître un moment de réconfort dans ce monde cruel.  
+ Ta chérie, 
+ Tabitha
+AR: أكره البقاء في المنزل عندما تكون في الخارج. 
+ اخترت ألا أذهب لأعاقبك. 
+ ولكن لماذا أشعر حينها أنني أنا المعاقبة؟  
+ وبدل النوم أستلقي ساهرة أحلم.  
+ أحلم بأنك ستختارني بدلاً من الشراب. 
+ أوه تشارلز، لو علمت فقط كم أكره الانتظار والقلق عليك في تلك الشوارع الملعونة.  
+ حتى وأنت مخمور، لا أزال أشعر بالراحة عندما تستلقي نائماً بجانبي.  
+ أرجوك عد إلى المنزل بسرعة يا حبيبي حتى أتمكن من الشعور بلحظة من الراحة في هذا العالم القاسي.  
+ عزيزي، 
+ تابيثا
+
+#21 [None|lore] RKLS_3_Title
+EN: Folded Letter
+FR: Lettre pliée
+AR: رسالة مطوية
+
+#22 [None|lore] RKLS_4_BodyText
+EN: Tabitha,  
+  
+ I hope this letter finds you well  
+ For it may be my last 
+ You were right my dear 
+ Nothing comes without its price 
+ Those bastards did something to the drink 
+ It squirms inside me 
+  
+ It speaks. 
+  
+ I can hear everything it says. 
+ I can see everything it wants. 
+ All I want is to come home to you my dear 
+ But what it wants-- 
+ Yes. Maybe I should. 
+  
+ Yes, of course. I should come home to you straight away. 
+ This warmth, this growth, I must share it with you. 
+ I shall fill your heart with love. The love you have always asked me for. 
+ And through the scarlet embrace of the red bloom, we shall be together forever. 
+ Tabitha, my dear. I shall be home soon. 
+  
+ Forever yours,  
+ Charles
+FR: Tabitha,  
+  
+ J’espère que cette lettre te trouvera en forme,  
+ Car ce sera peut-être la dernière. 
+ Tu avais raison, mon amour. 
+ Rien n’est gratuit. 
+ Ces ordures ont mis quelque chose dans mon verre. 
+ Cette chose frétille en moi. 
+  
+ Elle parle. 
+  
+ J’entends tout ce qu’elle dit. 
+ Je vois tout ce qu’elle veut. 
+ Tout ce que je veux, c’est te rejoindre à la maison, ma chérie. 
+ Mais ce qu’elle veut, elle... 
+ Oui. Peut-être que je devrais faire ça. 
+  
+ Oui, bien sûr. Je devrais te rejoindre tout de suite. 
+ Cette chaleur, cet épanouissement... Je dois les partager avec toi. 
+ Je remplirai ton cœur d’amour. L’amour que tu m’as toujours demandé. 
+ Et à travers l’étreinte écarlate de la fleur rouge, nous serons ensemble pour toujours. 
+ Tabitha, ma chérie. Je serai bientôt à la maison. 
+  
+ À toi pour toujours,  
+ Charles
+AR: تابيثا،  
+  
+ آمل أن تجدكِ هذه الرسالة بخير  
+ فقد تكون هذه رسالتي الأخيرة  
+ لقد كنتِ على حق يا عزيزتي  
+ لا شيء يأتي دون ثمن  
+ فعل أولئك الأوغاد شيئاً بالمشروب  
+ إنه يتلوى بداخلي  
+  
+ إنه يتحدث.  
+  
+ أستطيع سماع كل ما يقوله.  
+ أستطيع رؤية كل ما يريده.  
+ كل ما أريده هو العودة إلى منزلكِ يا عزيزتي  
+ ولكن ما يريده هو--  
+ نعم. ربما يجب عليّ ذلك.  
+  
+ نعم، بالطبع. يجب أن أعود إليكِ فوراً.  
+ هذا الدفء، هذا النمو، يجب أن أشاركه معكِ.  
+ سأملأ قلبكِ بالحب. الحب الذي طالبتِني به دائماً.  
+ وفي العناق القرمزي للإزهار الأحمر، نكون معاً للأبد.  
+ تابيثا، عزيزتي. سأعود إلى المنزل قريباً.  
+  
+ مخلصكِ للأبد،  
+ تشارلز
+
+#23 [None|lore] RKLS_4_SubHead
+EN: Crumpled letter
+FR: Lettre froissée
+AR: رسالة مجعدة
+
+#24 [None|lore] RKLS_4_Title
+EN: Dear Tabitha
+FR: Chère Tabitha
+AR: عزيزتي تابيثا
+
+#25 [None|lore] RKLS_5_BodyText
+EN: Sending 8 persons 
+ 3 Men  
+ 5 Women 
+ 2 Men uninfected 
+ 1 partially infected 
+ 3 Women fully uninfected 
+ 1 Woman fully lost to Hellgrowth 
+  
+ Additionally, 3 children 
+ All fully uninfected, per request of General Valahk-Nor
+FR: Envoi de 8 personnes : 
+ 3 hommes  
+ 5 femmes 
+  
+ 2 hommes non infectés 
+ 1 partiellement infecté 
+ 3 femmes totalement non infectées 
+ 1 femme complètement contaminée par le chancre chtonien 
+  
+ Il y a aussi 3 enfants. 
+ Tous sont totalement non infectés, tel que l’a demandé le général Valahk-Nor.
+AR: إرسال 8 أشخاص 
+ 3 رجال  
+ 5 نساء 
+ 2 من الرجال غير مصابين 
+ 1 مصاب جزئياً 
+ 3 نساء غير مصابات تماماً 
+ 1 امرأة فُقدت تماماً بسبب النماء الجهنّمي 
+  
+ بالإضافة إلى ذلك، 3 أطفال 
+ جميعهم غير مصابين تماماً، بناءً على طلب الجنرال ڤالاك-نور
+
+#26 [None|lore] RKLS_5_SubHead
+EN: Ledger
+FR: Registre
+AR: سجل
+
+#27 [None|lore] RKLS_5_Title
+EN: Prisoner Transport to Shoreditch Prison
+FR: Transport des prisonniers vers la prison de Shoreditch
+AR: نقل السجناء إلى سجن شورديتش
+
+#28 [None|lore] RKLS_6_BodyText
+EN: I thought they was just takin’ the ones got sick at the tavern. 
+ Piling ‘em in the streets. 
+ Building somethin’. 
+ But that weres just the start. 
+ When the tavern sick was gone, they started knocking. 
+ Knock, knock knocking. 
+ Door to door they went. Always knocking. 
+ I watched ‘em take Helene. 
+ Sweet Helene, think she was seventeen this year. 
+ Knock, knock knocking. 
+ Watched her from me window, crouching dirt on me knees, as she swung her door open, eyes wide with relief. 
+ The city guard, she thought. 
+ But they weren’t right. Red veins like ivy crawled all up and down ‘em. 
+ Knock, Knock knocking. 
+ They took her screaming. 
+ Thank gods never looked my way, but she screamed hell. 
+  
+ Two days later, she returned. 
+ Knock, knock knocking on my door. 
+ She won’t leave, won’t stop. 
+ Just keep knock knock knocking. 
+  
+ She knows I’m in here. Knows I did nothing but watch. 
+ Poor Helene. Of all of ‘em, why’d you have to come 
+ Knock, knock knocking. 
+ I think it’s time I just let you in
+FR: Je croyais qu’ils venaient juste chercher ceux qui sont tombés malades à la taverne. 
+ Pour les entasser dans la rue. 
+ Et construire quelque chose. 
+ Mais c’était que le début. 
+ Quand ils ont eu fini de s’occuper de ceux de la taverne, ils ont commencé à toquer. 
+ Toc, toc-toc-toc. 
+ Ils allaient de porte en porte. Chaque fois, ils toquaient. 
+ Je les ai vus emmener Hélène. 
+ Douce Hélène, je crois qu’elle a eu dix-sept ans cette année. 
+ Toc, toc-toc-toc. 
+ Je l’ai vue depuis ma fenêtre, agenouillée dans la poussière, quand elle a ouvert brusquement sa porte, les yeux écarquillés de soulagement. 
+ La garde de la ville, qu’elle s’est dit. 
+ Mais ils étaient pas comme d’habitude. Des veines rouges parcouraient leur corps, comme du lierre. 
+ Toc, toc-toc. 
+ Elle hurlait quand ils l’ont emmenée. 
+ Dieu merci, elle a pas regardé dans ma direction, mais elle hurlait comme une damnée. 
+  
+ Deux jours plus tard, elle est revenue. 
+ Toc, toc-toc-toc à ma porte. 
+ Elle veut pas partir, ni s’arrêter. 
+ Elle continue juste à toquer. Toc-toc. 
+  
+ Elle sait que je suis là. Elle sait que j’ai rien fait d’autre que regarder. 
+ Pauvre Hélène. Pourquoi faut-il que ce soit toi, là, devant ma porte ? 
+ Toc, toc-toc-toc. 
+ Je crois qu’il est temps de te laisser entrer.
+AR: ظننتُ أنهم كانوا يأخذون فقط أولئك الذين مرضوا في الحانة. 
+ يجمعونهم في الشوارع. 
+ يبنون شيئاً ما. 
+ لكن تلك كانت مجرد البداية. 
+ ولما فرغوا من مرضى الحانة، بدأوا يطرقون. 
+ طرق، طرق، طرق. 
+ طرقوا من باب إلى باب. كانوا يطرقون دائماً. 
+ رأيتهم يأخذون هيلين. 
+ هيلين الجميلة، أظن أنها بلغت السابعة عشرة هذا العام. 
+ طرق، طرق، طرق. 
+ راقبتها من نافذتي، وأنا جاثية على ركبتيّ في التراب، وهي تفتح بابها، وعيناها متسعتان من الارتياح. 
+ ظنت أنهم حرس المدينة. 
+ لكنهم لم يكونوا طبيعيين. عروق حمراء كاللبلاب زحفت على أجسادهم صعوداً وهبوطاً. 
+ طرق، طرق، طرق. 
+ أخذوها وهي تصرخ. 
+ شكراً للآلهة أنهم لم ينظروا نحوي، لكنها صرخت صرخة جحيم. 
+  
+ بعد يومين، عادت. 
+ طرق، طرق، طرق على بابي. 
+ لا ترحل، ولا تكفّ. 
+ تستمر فقط في طرق، طرق، طرق. 
+  
+ هي تعلم أنني هنا بالداخل. تعلم أنني لم أفعل شيئاً سوى المشاهدة. 
+ مسكينة هيلين. من بين كل هؤلاء، لماذا كان عليكِ أن تأتي 
+ طرق، طرق، طرق. 
+ أظن أن الوقت قد حان لأسمح لكِ بالدخول
+
+#29 [None|lore] RKLS_6_SubHead
+EN: Final entry
+FR: Dernière entrée
+AR: المدخل الأخير
+
+#30 [None|lore] RKLS_6_Title
+EN: Lesandra's Diary
+FR: Journal intime de Lesandra
+AR: مذكرات ليساندرا
+
+#31 [None|lore] RKLS_7_BodyText
+EN: I was but a boy yesterday, when I accepted the Red Gift. The crowd stirred as the Prophet Felwyl spoke. His voice of honey, his words of promise and unification. The Eternal Garden awaits us all. A coming salvation that will unite all souls in perfect harmony. It was beautiful. It was…forever. 
+  
+ After the sermon, we queued and waited to accept his gift. It twilled and squirmed in my hand. Bitter on the tongue. But warm in the chest. I can already feel the transformation coming, teaching me that even a lord must kneel, and in kneeling, learn to serve.
+FR: Je n’étais qu’un garçon hier, quand j’ai accepté le don rouge. 
+ La foule était agitée pendant que le prophète Felwyl parlait. Sa voix douce, son discours fait de promesses et d’unification. 
+ Le Jardin éternel nous attend tous. Un salut prochain qui unira toutes les âmes dans une harmonie parfaite.  
+ C’était magnifique. C’était... pour toujours. 
+ Après le sermon, nous avons fait la queue et attendu pour recevoir son don.  
+ Il frétillait et se tortillait dans ma main. Amer sur la langue. Mais chaud dans la poitrine.  
+ Je sens déjà la transformation s’opérer, m’enseignant que même un seigneur doit s’agenouiller, et qu’en s’agenouillant, il apprend à servir.
+AR: كنتُ مجرد صبي بالأمس، حين قبلتُ الهبة الحمراء. تحركت الجموع بينما كان النبي فِلويل يتحدث. كان صوته كالعسل، وكلماته وعوداً ووحدة. الحديقة الأبدية تنتظرنا جميعاً. خلاصٌ آتٍ سيجمع كل الأرواح في تناغم تام. كان الأمر جميلاً. كان… للأبد. 
+  
+ بعد العظة، اصطففنا وانتظرنا لقبول هبته. كانت تلتوي وتتحرك في يدي. مرّة على اللسان، لكنها دافئة في الصدر. يمكنني بالفعل الشعور بالتحول يقترب، ليعلمني أن حتى السيد يجب أن يركع، وفي الركوع، يتعلم الخدمة.
+
+#32 [None|lore] RKLS_7_SubHead
+EN: Diary excerpt
+FR: Extrait de journal intime
+AR: مقتطف من المذكرات
+
+#33 [None|lore] RKLS_7_Title
+EN: First Communion
+FR: Première communion
+AR: القربان الأول
+
+#34 [None|lore] RKLS_8_BodyText
+EN: 3rd Day of Harvest, Morning Watch 
+ All quiet upon the tower. Dardin relieved on time, stores accounted for.  
+  
+ 4th Day of Harvest, Evening Watch 
+ Captain did not return from his rounds.  
+ A search was sent but found no sign of him.  
+ By nightfall, a new captain arrived bearing seal and orders and took command without delay. 
+  
+ 5th Day of Harvest, Midday Watch 
+ Routine watch. Nothing to report. 
+  
+ 6th Day of Harvest, Evening Watch 
+ Some of the men are not themselves.  
+ They speak little and stare off as if listening to something else.  
+  
+ 7th Day of Harvest 
+ Dragon seen from the east
+FR: 3e jour de la récolte, garde du matin 
+ Tout est calme du côté de la tour. Dardin a pris la relève à l’heure prévue, les provisions ont été vérifiées.  
+  
+ 4e jour de la récolte, garde du soir 
+ Le capitaine n’est pas revenu de sa ronde.  
+ Des hommes sont partis à sa recherche, mais n’ont trouvé aucun signe de lui.  
+ À la tombée de la nuit, un nouveau capitaine est arrivé, avec un sceau et des ordres, et a pris le commandement sur-le-champ. 
+  
+ 5e jour de la récolte, garde de midi 
+ La routine. Rien à signaler. 
+  
+ 6e jour de la récolte, garde du soir 
+ Certains hommes ne sont pas dans leur assiette.  
+ Ils parlent peu et regardent dans le vide, comme s’ils écoutaient autre chose.  
+  
+ 7e jour de la récolte 
+ Un dragon a été aperçu à l’est.
+AR: اليوم الثالث من الحصاد، حراسة الصباح 
+ كل شيء هادئ عند البرج. تسلّم داردين المناوبة في وقتها، والمخازن مجرودة. 
+  
+ اليوم الرابع من الحصاد، حراسة المساء 
+ لم يعد القائد من جولته. 
+ أُرسلت فرقة بحث لكنها لم تجد له أي أثر. 
+ مع حلول الليل، وصل قائد جديد يحمل الختم والأوامر وتولى القيادة دون تأخير. 
+  
+ اليوم الخامس من الحصاد، حراسة الظهيرة 
+ حراسة روتينية. لا يوجد ما يُبلغ عنه. 
+  
+ اليوم السادس من الحصاد، حراسة المساء 
+ بعض الرجال ليسوا على طبيعتهم. 
+ يتحدثون قليلاً ويحدقون في الفراغ وكأنهم يستمعون لشيء آخر. 
+  
+ اليوم السابع من الحصاد 
+ شوهد تنين من الشرق
+
+#35 [None|lore] RKLS_8_SubHead
+EN: Fragment of a guard's record
+FR: Extrait du journal d’un garde
+AR: جزء من سجل حارس
+
+#36 [None|lore] RKLS_8_Title
+EN: Watch Log of Ramshorn Keep
+FR: Journal de surveillance du château de Ramshorn
+AR: سجل مراقبة حصن رامزهورن
+
+#37 [None|lore] RKLS_9_BodyText
+EN: By the grace of Lord Solomon Moore, 
+ You are warmly invited to the Ram's Head Tavern this eve 
+ To celebrate the anointment of the new General 
+ The finest libations shall be freely given 
+ Come, partake, and rejoice
+FR: Par la grâce du seigneur Solomon Moore, 
+ Vous êtes cordialement invité à la taverne de la Tête de bélier ce soir. 
+ Pour célébrer la nomination du nouveau général. 
+ Les meilleurs breuvages seront servis à volonté. 
+ Venez participer à la fête et vous amuser !
+AR: بنعمة اللورد سولومون مور، 
+ أنتم مدعوون بحفاوة إلى حانة رأس الكبش هذا المساء 
+ للاحتفال بتنصيب الجنرال الجديد 
+ ستُقدم أفضل المشروبات مجانًا 
+ تعالوا، شاركوا، واحتفلوا
+
+#38 [None|lore] RKLS_9_SubHead
+EN: Filigreed invitation
+FR: Invitation filigranée
+AR: دعوة مزخرفة
+
+#39 [None|lore] RKLS_9_Title
+EN: Notice of Celebration
+FR: Avis de célébration
+AR: إشعار بالاحتفال
+
+#40 [None|lore] SPLS_10_BodyText
+EN: They told me I was here for killing my brother. I was. I would do it again, and the priest wept, and I laughed, and they put me in the dark for it.  
+  
+ The dark was the kindest thing that ever happened to me.  
+  
+ In the dark something began to grow in my chest. I do not mean the bloom — that came later. I mean a knowing. A quiet. The first quiet I have ever had. They feed me bread that tastes of rot, and it tastes of welcome.  
+  
+ The Sister came today and asked if I was ready. I said yes. She kissed my mouth and left a seed inside.  
+  
+ I am being chosen. I have never been chosen for anything before.
+FR: Ils m’ont dit que j’étais là pour avoir tué mon frère. C’est vrai. Je le referais sans hésiter. Le prêtre a pleuré, j’ai ri, et ils m’ont enfermé dans le noir pour ça.  
+  
+ L’obscurité a été la meilleure chose qui me soit jamais arrivée.  
+  
+ Dans le noir, quelque chose a commencé à pousser dans ma poitrine. Je ne parle pas de la fleur – ça, c’est venu plus tard. Je parle d’un savoir. D’un apaisement. Le premier apaisement que j’aie jamais connu. On me donne du pain qui a le goût de la pourriture, et ce goût me sied.  
+  
+ La sœur est venue aujourd’hui et m’a demandé si j’étais prêt. J’ai répondu que oui. Elle m’a embrassé sur la bouche et y a déposé une graine.  
+  
+ J’ai été choisi. Je n’avais jamais été choisi pour quoi que ce soit auparavant.
+AR: أخبروني أنني هنا بسبب قتلي لأخي. وهذا صحيح. وسأفعلها مجددًا. بكى الكاهن، وضحكتُ أنا، فحبسوني في الظلام. 
+  
+ كان الظلام ألطف شيء حدث لي على الإطلاق. 
+  
+ في الظلام، بدأ شيء ما ينمو في صدري. لا أعني الإزهار — فذاك جاء لاحقًا. أقصد إدراكًا. سكونًا. أول سكون أشعر به على الإطلاق. يطعمونني خبزًا طعمه عفن، وهو عندي طعم الترحيب. 
+  
+ جاءت الأخت اليوم وسألتني إن كنت مستعدًا. قلت نعم. قبلت فمي وتركت بذرة في الداخل. 
+  
+ أنا أُختار. لم أُختر لأي شيء من قبل.
+
+#41 [None|lore] SPLS_10_SubHead
+EN: Found in cell B-19. No body recovered.
+FR: Trouvé dans la cellule B-19. Aucun corps n’a été retrouvé
+AR: عُثر عليها في الزنزانة B-19. لم يتم العثور على جثة.
+
+#42 [None|lore] SPLS_10_Title
+EN: Diary of the Willing
+FR: Journal de l’enthousiaste
+AR: مذكرات المتطوعين
+
+#43 [None|lore] SPLS_1_BodyText
+EN: Day 12 of the Reaping Moon. Three new "physicians" admitted under the Master's seal. None spoke. None signed.  
+  
+ Day 19. Locks on D Block changed without my hand on the order. The new Sister told me the lock was always so.  
+  
+ Day 26. The locks were not always so.  
+  
+ Day 31. Forty-one prisoners "transferred to the lower." I have keys to every door in this keep. I do not know where the lower is.  
+  
+ Day 34. Heard a man calling my name through the floor of my own quarters. He named the dog I had as a boy. I do not know that man and I do not know that floor.  
+  
+ Day 36. I am leaving tomorrow. I am writing this in case. 
+FR: 12e jour de la lune de la moisson. Trois nouveaux « médecins » admis sous le sceau du maître. Aucun n’a parlé. Aucun n’a signé.  
+  
+ 19e jour. Les serrures du bloc D ont changé sans que j’en aie donné l’ordre. La nouvelle sœur m’a dit que les serrures sont toujours les mêmes qu’avant.  
+  
+ 26e jour. Les serrures ne sont pas les mêmes qu’avant.  
+  
+ 31e jour. Quarante et un prisonniers « transférés au niveau inférieur ». J’ai les clés de toutes les portes de ce donjon. Je ne sais pas où se trouve ce niveau inférieur.  
+  
+ 34e jour. J’ai entendu un homme m’appeler par mon nom à travers le plancher de mes quartiers. Il a cité le nom du chien que j’avais quand j’étais enfant. Je ne connais pas cet homme et je ne sais pas ce qu’il y a sous mon plancher.  
+  
+ 36e jour. Je pars demain. J’écris ceci au cas où.
+AR: اليوم 12 من قمر الحصاد. قُبل ثلاثة «أطباء» جدد بختم السيد. لم يتحدث أحد منهم. لم يوقع أحد.  
+  
+ اليوم 19. تغيرت أقفال عنبر د دون أمر مني. أخبرتني الأخت الجديدة أن الأقفال كانت هكذا دائمًا.  
+  
+ اليوم 26. لم تكن الأقفال هكذا دائمًا.  
+  
+ اليوم 31. «نُقل» واحد وأربعون سجينًا إلى «الأسفل». أملك مفاتيح لكل باب في هذه القلعة. لا أعرف أين هو "الأسفل".  
+  
+ اليوم 34. سمعتُ رجلًا ينادي اسمي عبر أرضية غرفتي الخاصة. ذكر اسم الكلب الذي كان لدي في صغري. لا أعرف ذلك الرجل ولا أعرف تلك الأرضية.  
+  
+ اليوم 36. سأغادر غدًا. أكتب هذا من باب الاحتياط.
+
+#44 [None|lore] SPLS_1_SubHead
+EN: Pages 47-49, ink fading
+FR: Pages 47-49, encre défraîchie
+AR: الصفحات 47-49، الحبر باهت
+
+#45 [None|lore] SPLS_1_Title
+EN: Logbook of the Lower Gate
+FR: Journal de la porte inférieure
+AR: سجل البوابة السفلية
+
+#46 [None|lore] SPLS_2_BodyText
+EN: Quarterly intake, Block C - 47 souls, billed.  
+  
+ Quarterly intake, Block D - 102 souls, billed at half.  
+  
+ Quarterly intake, Lower - 213 souls, billed at zero. Per new owner's instruction.  
+  
+ Block C executions - 4, standard.  
+  
+ Block D executions -none reported. Reporting frame revised.  
+  
+ Lower - n/a.  
+  
+ Bread, salted meat, gruel - reduced 60%. Lower does not require.  
+  
+ Lye, sailcloth, lime - increased 400%, all to Lower.  
+  
+ Sacramental wine - increased 800%, per Felwyl's request.  
+  
+ I have asked twice why the Lower does not eat. I am told not to ask. I have asked why it needs so much lime. I am told not to ask.  
+  
+ This is my last entry. Find your own clerk.
+FR: Admissions trimestrielles, bloc C - 47 personnes, facturées.  
+  
+ Admissions trimestrielles, bloc D - 102 personnes, facturées à moitié.  
+  
+ Admissions trimestrielles, niveau inférieur - 213 personnes, facturées à zéro. Conformément aux instructions du nouveau propriétaire.  
+  
+ Exécutions au bloc C - 4, standard.  
+  
+ Exécutions au bloc D - aucune signalée. Cadre d’établissement des rapports révisé.  
+  
+ Niveau inférieur - non applicable.  
+  
+ Pain, viande salée, bouillie - réduction de 60 %. Inutiles au niveau inférieur.  
+  
+ Soude, toile à voile, chaux - augmentation de 400 %, le tout destiné au niveau inférieur.  
+  
+ Vin sacramentel - augmentation de 800 %, à la demande de Felwyl.  
+  
+ J’ai demandé deux fois pourquoi personne ne mange au niveau inférieur. On m’a répondu de ne pas poser de questions. J’ai demandé pourquoi ce niveau avait besoin d’autant de chaux. On m’a répondu de ne pas poser de questions.  
+  
+ C’est la dernière entrée que je rédige. Trouvez votre propre commis.
+AR: الوارد الربع سنوي، القسم ج - 47 روحاً، مفوتر.  
+  
+ الوارد الربع سنوي، القسم د - 102 روحاً، مفوتر بنصف القيمة.  
+  
+ الوارد الربع سنوي، القسم السفلي - 213 روحاً، مفوتر بصفر. بناءً على تعليمات المالك الجديد.  
+  
+ إعدامات القسم ج - 4، قياسية.  
+  
+ إعدامات القسم د - لا شيء مبلّغ عنه. عُدّل إطار التقارير.  
+  
+ القسم السفلي - غير متاح.  
+  
+ خبز، لحم مملح، عصيدة - خُفضت بنسبة 60%. القسم السفلي لا يتطلبها.  
+  
+ القِلي، قماش الشراع، الجير - زِيدت بنسبة 400%، كلها للقسم السفلي.  
+  
+ نبيذ القربان - زِيد بنسبة 800%، بناءً على طلب فِلويل.  
+  
+ سألت مرتين لماذا لا يأكل القسم السفلي. قيل لي لا تسأل. سألت لماذا يحتاجون إلى الكثير من الجير. قيل لي لا تسأل.  
+  
+ هذا هو مدخلي الأخير. ابحث عن كاتب حسابات خاص بك.
+
+#47 [None|lore] SPLS_2_SubHead
+EN: Final ledger before transfer of title
+AR: السجل النهائي قبل نقل الملكية
+
+#48 [None|lore] SPLS_2_Title
+EN: House Cadwell Audit, Q4
+FR: Audit de la maison Cadwell, quatrième trimestre
+AR: تدقيق منزل كالدويل، الربع الرابع
+
+#49 [None|lore] SPLS_3_BodyText
+EN: [First layer, careful hand]  
+  
+ I have been in this box six years under the Caldwells. I miss my wife. I miss bread.  
+  
+   
+ [Second layer, over the first]  
+  
+ Eleven years. New owners. They forgot me. The slot opens but no face comes. Food still arrives. I do not ask.  
+  
+   
+  
+ [Third layer, scrawled large]  
+  
+ Nineteen years. I hear the keep eat itself. Screams that aren't screams. Singing in the wrong throats. A great wet thing dragged past my door and licked the slot. I licked back.  
+  
+   
+  
+ [Below, in a child's hand]  
+  
+ The man in the wall is my friend now. He says when they come for me I should knock three times. He says he'll let me in.
+FR: [Première couche, écriture soignée]  
+  
+ Je suis enfermé là-dedans depuis six ans, sous la direction des Caldwell. Ma femme me manque. Le pain me manque.  
+  
+  
+  
+ [Deuxième couche, par-dessus la première] 
+  
+ Onze ans. Nouveaux propriétaires. Ils m’ont oublié. La fente s’ouvre, mais aucun visage n’apparaît. La nourriture continue d’arriver. Je ne pose pas de questions. 
+  
+  
+  
+ [Troisième couche, écrit en gros] 
+  
+ Dix-neuf ans. J’entends le donjon s’auto-dévorer. Des cris qui ne sont pas des cris. Des chants provenant des mauvaises gorges. Une chose énorme et humide est passée devant ma porte en rampant et a léché la fente. Je l’ai léchée en retour. 
+  
+  
+  
+ [En dessous, écriture d’enfant] 
+  
+ L’homme dans le mur est mon ami désormais. Il dit que quand ils viendront me chercher, je devrai frapper trois fois. Il dit qu’il me laissera entrer.
+AR: [الطبقة الأولى، خط يد دقيق]  
+  
+ لقد كنتُ في هذا الصندوق لست سنوات تحت إمرة عائلة كالدويل. أفتقد زوجتي. أفتقد الخبز.  
+  
+   
+ [الطبقة الثانية، فوق الأولى]  
+  
+ أحد عشر عاماً. أصحاب جدد. لقد نسوني. الفتحة تفتح ولكن لا وجه يظهر. الطعام لا يزال يصل. أنا لا أطلب.  
+  
+   
+  
+ [الطبقة الثالثة، مكتوبة بخط كبير]  
+  
+ تسعة عشر عاماً. أسمع القلعة وهي تأكل نفسها. صرخات ليست صرخات. غناء في حناجر خاطئة. شيء رطب ضخم مرّ بجانب بابي ولعق الفتحة. لعقتها بالمقابل.  
+  
+   
+  
+ [في الأسفل، بخط طفل]  
+  
+ الرجل الذي في الجدار هو صديقي الآن. يقول إنه عندما يأتون من أجلي يجب أن أطرق ثلاث مرات. يقول إنه سيسمح لي بالدخول.
+
+#50 [None|lore] SPLS_3_SubHead
+EN: Scratched in three layers of plaster
+FR: Gravé dans trois couches de plâtre
+AR: محفورة في ثلاث طبقات من الجص
+
+#51 [None|lore] SPLS_3_Title
+EN: Marks on the Solitary Wall
+FR: Marques sur le mur de l’isolement
+AR: علامات على جدار العزلة
+
+#52 [None|lore] SPLS_4_BodyText
+EN: Solomon —  
+  
+ You ask if I have the stomach. I have eaten venison while a poacher hung dripping from my rafters, keeping time with the strings. I do not lack stomach.  
+  
+ The keep is yours. Take it down to the sea-stones if it pleases you. The lower wards too — I'm told the air there is rich, and that the men who survive long enough develop a most remarkable patience.  
+  
+ You offer me red, and long red years to drink it. I accept. I would have signed for the offer alone, without the keep — but you are a man of style, and I shall not deprive you of the pleasure of payment.  
+  
+ I'll be at the Aemar after the second course. Have something young ready. The first hunger, I'm told, is a memorable thing.  
+  
+ — H. Caldwell
+FR: Solomon,  
+  
+ Vous voulez savoir si j’ai du cran. J’ai déjà mangé du chevreuil pendant qu’un braconnier pendait à mes poutres, les gouttes de son sang marquant le rythme des cordes en s’écrasant au sol. Je ne manque pas de cran.  
+  
+ Le donjon est à vous. Démolissez-le si cela vous chante. Les niveaux inférieurs aussi. On m’a dit que l’air y est riche, et que les hommes qui y survivent assez longtemps développent une patience des plus remarquables.  
+  
+ Vous m’offrez du rouge, et de longues années rouges pour le boire. J’accepte. J’aurais signé rien que pour l’offre, sans le donjon, mais vous êtes un homme raffiné, et je ne vous priverai pas du plaisir de payer.  
+  
+ Je serai à l’Aemar après le deuxième plat. Préparez quelque chose de jeune. La première faim, m’a-t-on dit, est mémorable.  
+  
+ - H. Caldwell
+AR: سولومون —  
+  
+ تسألني إن كنت أملك الجرأة. أكلتُ لحم الغزال وصيادٌ متدلٍّ من عوارضي، وقطرات دمه تضبط الإيقاع مع الأوتار. أنا لا أفتقر للجرأة.  
+  
+ الحصن لك. خذه إلى أحجار البحر إن رغبت في ذلك. والأجنحة السفلية أيضاً — قيل لي إن الهواء هناك غني، وأن من يبقى هناك حياً طويلاً يكتسب صبراً عجيباً.  
+  
+ تعرض عليّ القرمز، وسنوات طويلة من القرمز لأشربه. أقبل. كنت سأوقع على العرض وحده، دون الحصن — لكنك رجل ذو أسلوب، ولن أحرمك من متعة الدفع.  
+  
+ سأكون في "إيمار" بعد الطبق الثاني. أعدّ لي شيئاً غضّاً. قيل لي إن الجوع الأول هو شيء لا يُنسى.  
+  
+ — هـ. كالدويل
+
+#53 [None|lore] SPLS_4_SubHead
+EN: Letter, sealed but never sent
+FR: Lettre scellée mais jamais envoyée
+AR: رسالة مختومة لم تُرسل أبداً
+
+#54 [None|lore] SPLS_4_Title
+EN: A Trade in Earnest
+FR: Un échange sérieux
+AR: تبادل جاد
+
+#55 [None|lore] SPLS_5_BodyText
+EN: Day 1 — Subject seventeen takes the seed without protest. Felwyl says the willing ones bloom truest. She hummed while I cut her.  
+  
+ Day 4 — First budding at the sternum. Lovely color. She asked if it would hurt the child. I had not known there was a child. Felwyl was delighted.  
+  
+ Day 9 — The child took the bloom faster than the mother. They share a stem now. Two faces, one root. They sing in turns.  
+  
+ Day 14 — She is not she anymore, and she is not unhappy. When I touch the petals at her throat she leans into the hand. We have made something gentle. Something terribly, terribly gentle.  
+  
+ The Garden grows. I grow with it.
+FR: 1er jour - Le sujet dix-sept prend la graine sans protester. Felwyl dit que ceux qui sont consentants s’épanouissent mieux que les autres. Elle fredonnait pendant que je l’incisais.  
+  
+ 4e jour - Premier bourgeonnement au niveau du sternum. Belle couleur. Elle a demandé si cela ferait du mal à l’enfant. Je ne savais pas qu’il y avait un enfant. Felwyl était ravi.  
+  
+ 9e jour - L’enfant s’épanouit plus vite que la mère. Ils partagent une tige, désormais. Deux visages, une seule racine. Ils chantent à tour de rôle.  
+  
+ 14e jour - Elle n’est plus celle qu’elle était, et elle n’en est pas malheureuse. Quand je touche les pétales à sa gorge, elle se penche vers ma main. Nous avons créé quelque chose de doux. Quelque chose de terriblement, terriblement doux.  
+  
+ Le Jardin grandit. Je grandis avec lui.
+AR: اليوم 1 — تأخذ الخاضعة رقم 17 البذرة دون اعتراض. يقول فِلويل إن الراغبين يزهرون أصدق إزهار. كانت تهمهم بينما كنت أقطعها.  
+  
+ اليوم 4 — أول برعم عند عظمة القص. لون جميل. سألتني إن كان سيؤلم الطفل. لم أكن أعلم بوجود طفل. ابتهج فِلويل.  
+  
+ اليوم 9 — أخذ الطفل الإزهار أسرع من الأم. يشتركان في ساق واحدة الآن. وجهان، وجذر واحد. يغنيان بالتبادل.  
+  
+ اليوم 14 — لم تعد هي نفسها، وهي ليست تعيسة. عندما ألمس البتلات عند حلقها، تميل نحو يدي. صنعنا شيئاً لطيفاً. شيئاً لطيفاً بشكل مرعب، مرعب للغاية.  
+  
+ الحديقة تنمو. وأنا أنمو معها.
+
+#56 [None|lore] SPLS_5_SubHead
+EN: Bloomwatcher's private journal, third volume
+FR: Journal privé du superviseur de la floraison, 3e volume
+AR: المذكرات الخاصة لمراقب الإزهار، المجلد الثالث
+
+#57 [None|lore] SPLS_5_Title
+EN: Notes on Subject Seventeen
+FR: Notes sur le sujet dix-sept
+AR: ملاحظات عن الخاضعة رقم 17
+
+#58 [None|lore] SPLS_6_BodyText
+EN: …and in the seventh measure, name him by his slaughters. Speak first the Last Kingdoms. Speak then Armaea, then the bone-fields beneath. He answers to grief, not to power — never beg, only remind —  
+  
+ [Apprentice hand, smaller, in the margin]  
+  
+ Master says do not look at the eastern wall while reading aloud. I looked. I did not see eyes there. I did not. I will not write what I did not see.  
+  
+ …and feed the floor before he comes. The floor must drink first or it will drink him, and he will not forgive that twice. Salt the joints. Salt the joints. Salt the —  
+  
+ [The page ends. The next sheet is missing. Bile has dried in the shape of a long handprint across the seal.]
+FR: … et à la septième mesure, nomme-le par ses massacres. Parle d’abord des Derniers royaumes. Parle ensuite d’Armaée, puis des champs d’ossements qui se trouvent en dessous. Il réagit au chagrin, pas au pouvoir – ne supplie jamais, contente-toi de rappeler... 
+  
+ [Écrit en plus petit par un apprenti, dans la marge]  
+  
+ Le maître dit de ne pas regarder le mur à l’est en lisant à voix haute. Je l’ai regardé. Je n’ai pas vu d’yeux dessus. Pas un seul. Je n’écrirai pas ce que je n’ai pas vu.  
+  
+ … et nourris le sol avant qu’il arrive. Le sol doit boire d’abord, ou il le boira, lui, et il ne pardonnera pas ça deux fois. Sale les joints. Sale les joints. Sale les...  
+  
+ [La page se termine. La feuille suivante est manquante. De la bile a séché en formant une longue empreinte de main sur le sceau.]
+AR: …وفي المقياس السابع، سمّه بمذابحه. قل أولاً عن الممالك الأخيرة. ثم قل عن أرميا، ثم عن حقول العظام في الأسفل. يستجيب للحزن، لا للقوة — لا تتوسل أبداً، فقط ذكّره —  
+  
+ [يد متدرب، أصغر، في الهامش]  
+  
+ يقول المعلم لا تنظر إلى الجدار الشرقي أثناء القراءة بصوت عالٍ. نظرتُ. لم أرَ عيوناً هناك. لم أرَ. لن أكتب ما لم أره.  
+  
+ …وأطعم الأرض قبل وصوله. يجب أن تشرب الأرض أولاً وإلا ستشربه، ولن يغفر ذلك مرتين. ملّح المفاصل. ملّح المفاصل. ملّح الـ —  
+  
+ [تنتهي الصفحة. الورقة التالية مفقودة. جفّت العصارة على شكل بصمة يد طويلة عبر الختم.]
+
+#59 [None|lore] SPLS_6_SubHead
+EN: Two hands, one corrected by the other
+FR: Deux écritures, l’une corrigée par l’autre
+AR: يدان، أحدهما يصحح الأخرى
+
+#60 [None|lore] SPLS_6_Title
+EN: Torn Page, Found in a Pool of Bile
+FR: Page déchirée, trouvée dans une mare de bile
+AR: صفحة ممزقة، وُجدت في بركة من الصفراء
+
+#61 [None|lore] SPLS_7_BodyText
+EN: William Crowlich — Murder x2 — Arms (2), Legs (2), Spine: ✓ all  
+  
+ Vktor Hall — Heresy — Tongue, Eyes (2): ✓ / Heart: spoiled  
+  
+ Kai L'espara — ""Witnessing"" — Eyes (2), Tongue: ✓ / breathed nine days, useful  
+  
+ Jozef Muir’sea  — Questioning the Chapter — Hands (2), Eyes (2): ✓ / face: ✓ separately  
+  
+ Carey Jon — Drunkenness — Larynx, Tongue: ✓ / kept screaming. Beautiful.  
+  
+ Theos Cosma — None recorded — All viable: ✓ ✓ ✓ / a generous man  
+  
+ The boy from Cell 14 — — Heart: ✓ / a small one. Felwyl pleased.  
+  
+   
+  
+ [Different hand]  
+  
+ More children. He wants more children. 
+FR: William Crowlich — Meurtre x2 — Bras (2), jambes (2), colonne vertébrale : tous ✓  
+  
+ Vktor Hall — Hérésie — Langue, yeux (2) : ✓ / Cœur : abîmé  
+  
+ Kai L’espara — « témoin » — Yeux (2), langue : ✓ / A respiré neuf jours, utile  
+  
+ Jozef Muir’sea — Remise en cause du Chapitre — Mains (2), yeux (2) : ✓ / Visage : ✓ séparément  
+  
+ Carey Jon — Ivresse — Larynx, langue : ✓ / N’a pas arrêté de crier. Magnifique.  
+  
+ Theos Cosma — Rien d’enregistré — Tout est viable : ✓ ✓ ✓ / Un homme généreux  
+  
+ Le garçon de la cellule 14 — — Cœur : ✓ / Petit. Felwyl était content. 
+  
+  
+  
+ [Écriture différente] 
+  
+ Plus d’enfants. Il veut plus d’enfants.
+AR: ويليام كروليك — قتل x2 — الذراعان (2)، الساقان (2)، العمود الفقري: ✓ الكل  
+  
+ فيكتور هول — هرطقة — اللسان، العينان (2): ✓ / القلب: تالف  
+  
+ كاي ليسبارا — "شاهد" — العينان (2)، اللسان: ✓ / تنفس لمدة تسعة أيام، مفيد  
+  
+ جوزيف ميرسيا — استجواب المجمع — اليدان (2)، العينان (2): ✓ / الوجه: ✓ بشكل منفصل  
+  
+ كاري جون — سُكر — الحنجرة، اللسان: ✓ / استمر في الصراخ. جميل.  
+  
+ ثيوس كوسما — لا شيء مسجل — كل الأجزاء صالحة: ✓ ✓ ✓ / رجل كريم  
+  
+ الفتى من الزنزانة 14 — — القلب: ✓ / صغير الحجم. فِلويل راضٍ.  
+  
+   
+  
+ [بخط مختلف]  
+  
+ أطفال أكثر. إنه يريد أطفالاً أكثر.
+
+#62 [None|lore] SPLS_7_SubHead
+EN: For the Project. Several hands.
+FR: Pour le projet. Plusieurs écritures
+AR: من أجل المشروع. أيدٍ متعددة.
+
+#63 [None|lore] SPLS_7_Title
+EN: Stock List, Lower Theatre
+FR: Inventaire, théâtre inférieur
+AR: قائمة المخزون، المسرح السفلي
+
+#64 [None|lore] SPLS_8_BodyText
+EN: Mon — Meat shipment is wrong. Wrong shape. Wrong color. Not asking what.  
+  
+ Tue — Salt cellar half empty. Someone is taking salt down to the lower. Two stone of salt does not season prisoners.  
+  
+ Wed — Heard them again last night. Below the cold room. Like a choir, but the wrong number of voices for the throats I know are down there.  
+  
+ Thu — Fish boy gone. Said he was going down to fetch the morning's haul. Did not come up. Was told not to replace him.  
+  
+ Fri — Cooking for forty. Feeding twelve. Where is the food going. I will not ask. I will not ask. I will not ask. 
+FR: Lun - La viande livrée n’est pas la bonne. Pas de la bonne forme. Pas de la bonne couleur. Je ne demande pas ce que c’est.  
+  
+ Mar — La cave à sel est à moitié vide. Quelqu’un emporte du sel au niveau inférieur. Deux pierres de sel, c’est insuffisant pour les besoins des prisonniers.  
+  
+ Mer — Je les ai encore entendus hier soir. Sous la chambre froide. On dirait une chorale, mais le nombre de voix ne correspond pas au nombre de bouches que je sais être là-dessous.  
+  
+ Jeu — Le garçon chargé du poisson a disparu. Il a dit qu’il descendait chercher les prises du matin. Il n’est pas remonté. On m’a dit de ne pas le remplacer.  
+  
+ Ven — Je cuisine pour quarante personnes. J’en nourris douze. Où va la nourriture ? Je ne poserai pas la question. Je ne poserai pas la question. Je ne poserai pas la question.
+AR: الاثنين — شحنة اللحم خاطئة. شكلها خاطئ. لونها خاطئ. ولن أسأل عمّا هي.  
+  
+ الثلاثاء — وعاء الملح نصف فارغ. شخص ما يأخذ الملح إلى الأسفل. حجران من الملح لا يكفيان لتتبيل السجناء.  
+  
+ الأربعاء — سمعتهم مجددًا الليلة الماضية. تحت الغرفة الباردة. كأنهم جوقة، لكن عدد الأصوات لا يتوافق مع عدد الحناجر التي أعرف أنها هناك.  
+  
+ الخميس — فتى السمك اختفى. قال إنه نازل ليحضر صيد الصباح. لم يصعد. وقيل لي ألا أستبدله.  
+  
+ الجمعة — أطبخ لأربعين. أطعم اثني عشر. إلى أين يذهب الطعام. لن أسأل. لن أسأل. لن أسأل.
+
+#65 [None|lore] SPLS_8_SubHead
+EN: Daily complaints, scratched in chalk
+FR: Plaintes quotidiennes, inscrites à la craie
+AR: شكاوى يومية، محفورة بالطباشير
+
+#66 [None|lore] SPLS_8_Title
+EN: Kitchen Slate, Below Stairs
+FR: Ardoise de cuisine, sous l’escalier
+AR: لوحة المطبخ، أسفل الدرج
+
+#67 [None|lore] SPLS_9_BodyText
+EN: Tomas, my love —  
+  
+ Your last reached me Tuesday. I've read it three times. The hand wasn't yours. I know your hand — eight years of it. The loops don't crowd like that, and you have never once spelt my name with the second N.  
+  
+ Tell me you wrote it. Tell me your wrist is hurt and one of the kinder ones wrote for you. Tell me anything and I'll believe it, only write back in your own hand.  
+  
+ I went to the gates yesterday with bread. The new Sister wouldn't take it. No visitors to the lower wards, she said. She wouldn't look at me.  
+  
+ Lily asks for you every night. Write me. Write me in your own hand and I'll burn this.  
+  
+ — Your Anya  
+  
+ [Stamped:] Return: addressee deceased / transferred / unaccounted. Strike from rolls.
+FR: Tomas, mon amour,  
+  
+ Ton dernier courrier m’est parvenu mardi. Je l’ai lu trois fois. Ce n’était pas ton écriture. Je la connais bien, après huit ans à te lire. Tes boucles ne sont pas aussi serrées et tu n’as jamais écrit mon nom avec un deuxième N.  
+  
+ Dis-moi que c’est toi qui l’as écrit. Dis-moi que tu t’es blessé au poignet et qu’une des sœurs parmi les plus gentilles l’a écrit pour toi. Dis-moi n’importe quoi et je te croirai, mais réponds-moi de ta propre main.  
+  
+ Je suis allée aux portes hier avec du pain. La nouvelle sœur n’a pas voulu le prendre. « Pas de visiteurs aux niveaux inférieurs », a-t-elle dit. Elle n’osait pas me regarder en face.  
+  
+ Lily demande de tes nouvelles chaque soir. Écris-moi. Écris-moi de ta propre main et je brûlerai cette lettre.  
+  
+ - Ton Anya 
+  
+ [Tampon :] Retour : destinataire décédé / transféré / introuvable. À rayer des registres.
+AR: توماس، حبيبي —  
+  
+ وصلتني رسالتك الأخيرة يوم الثلاثاء. قرأتها ثلاث مرات. لم يكن هذا خطّ يدك. أعرف خطك — ثماني سنوات من قراءته. الحلقات لا تتقارب بهذا الشكل، ولم تكتب اسمي أبدًا بحرف N الثاني.  
+  
+ أخبرني أنك أنت من كتبها. أخبرني أن معصمك مصاب وأن أحد اللطفاء كتبها نيابة عنك. قل لي أي شيء وسأصدقه، فقط اكتب لي بخط يدك.  
+  
+ ذهبتُ إلى البوابات بالأمس ومعي الخبز. رفضت الأخت الجديدة أخذه. قالت إنه لا يُسمح بالزوار في الأقسام السفلية. لم تنظر إليّ حتى.  
+  
+ تسأل ليلي عنك كل ليلة. اكتب لي. اكتب لي بخط يدك وسأحرق هذه الرسالة.  
+  
+ — آنياك  
+  
+ [ختم:] العودة: المتلقي متوفى / نُقل / مفقود. يُشطب من السجلات.
+
+#68 [None|lore] SPLS_9_SubHead
+EN: Returned to sender. Bloodstained, unopened.
+FR: Retourné à l’expéditrice. Taché de sang, non ouvert
+AR: أُعيدت إلى المرسل. ملطخة بالدماء، غير مفتوحة.
+
+#69 [None|lore] SPLS_9_Title
+EN: Anya
+AR: آنيا
+
+#70 [None|lore] SQCL_1_Body
+EN: Alright, Toby, if you’re reading this, then you’ve gotten the key I slipped ya in the meal. You’ve a tight window of time to open your cell, sneak into the Warden’s office, and grab the keys for Magda and Hux. I’ll be waiting by the battlements for as long as I can, but if you don’t make it in time, find me in the Castle Town outside of Ramshorn.  
+  
+ We’re going to make it out of here, I promise!
+FR: Bon, Toby, si tu lis ça, c’est que tu as trouvé la clé que j’ai glissée dans ton repas. Tu as très peu de temps pour ouvrir ta cellule, te faufiler dans le bureau du gardien et prendre les clés de Magda et Hux. Je vous attendrai près des remparts aussi longtemps que possible, mais si vous n’arrivez pas à temps, venez me retrouver dans la ville fortifiée près de Ramshorn.  
+  
+ On va sortir d’ici, je te le promets !
+AR: حسنًا يا توبي، إذا كنت تقرأ هذا، فهذا يعني أنك حصلت على المفتاح الذي وضعته لك في الوجبة. أمامك وقت ضيق لتفتح زنزانتك، والتسلل إلى مكتب الحارس، وأخذ مفاتيح ماجدا وهكس. سأنتظرك عند الأسوار لأطول فترة ممكنة، ولكن إذا لم تتمكن من الوصول في الوقت المناسب، فابحث عني في بلدة القلعة خارج رامزهورن.  
+  
+ سوف نخرج من هنا، أعدك بذلك!
+
+#71 [None|lore] SQCL_1_SubHead
+EN: Note written on soiled rags
+FR: Note écrite sur des chiffons souillés
+AR: ملاحظة مكتوبة على أسمال متسخة
+
+#72 [None|lore] SQCL_1_Title
+EN: Remeber the plan
+FR: Souviens-toi du plan
+AR: تذكر الخطة
+
+#73 [None|lore] SQCL_2_Body
+EN: Toby, Hux, Magda, if any of you find this, I made it past Ramshorn, but the whole place has gone to hell. That madness we saw in Shoredtich has shaken up the town too. Folks been out here slaughtering each other its a mad house. Truth be told its been a cakewalk to escape with all of the commotion, but its too dangerous for me to stay.  
+  
+ I’m going to scale the mountains outside Ramshorn and catch the first ship to Armaea. Screw Lotte, he can bloat and rot wherever the hell the Lunitarians took him. If any of you find this, please seek me out in Nachtendale or Belwayne; wherever we can get far away from Velchoria is where we’ll set up shop.  
+ 
+FR: Toby, Hux, Magda, si l’un de vous trouve ce message, sachez que j’ai réussi à passer Ramshorn, mais l’endroit est devenu un enfer. Cette folie qu’on a vue à Shoredtich a aussi secoué la ville. Les gens s’entretuent, tout le monde est devenu fou. À vrai dire, ça a été un jeu d’enfant de m’échapper avec tout ce remue-ménage, mais c’est trop dangereux pour moi de rester.  
+  
+ Je vais escalader les montagnes près de Ramshorn et prendre le premier navire pour Armaée. Au diable Lotte. Qu’il pourrisse là où les Lunitériens l’ont emmené. Si l’un d’entre vous trouve ce message, venez me retrouver à Nachtendale ou à Belwayne. On installera notre boutique le plus loin possible de Velchoria.  
+ 
+AR: توبي، هكس، ماجدا، إذا وجد أحدكم هذه الرسالة، فقد تجاوزتُ رامزهورن، لكن المكان بأكمله قد تحول إلى جحيم. ذلك الجنون الذي رأيناه في سجن شورديتش قد هزّ المدينة أيضًا. الناس هنا يذبح بعضهم بعضًا، والمكان جُنّ. وصراحةً، كان الهروب هيّنًا وسط الفوضى، لكن البقاء هنا خطر جدًا عليّ.  
+  
+ سأتسلق الجبال خارج رامزهورن وألحق بأول سفينة متجهة إلى أرميا. وليذهب لوتّه إلى الجحيم، فلينتفخ ويتعفن في أي مكان أخذه إليه اللونيتاريون. إذا وجد أحدكم هذه الرسالة، فابحثوا عني في ناختنديل أو بيلواين؛ أينما استطعنا الابتعاد عن ڤلتشوريا سنقيم هناك.  
+ 
+
+#74 [None|lore] SQCL_2_SubHead
+EN: Note on a torn rag
+FR: Note sur un chiffon déchiré
+AR: ملاحظة على قطعة قماش ممزقة
+
+#75 [None|lore] SQCL_2_Title
+EN: GET OUT
+FR: SORS
+AR: اخرج
+
+#76 [None|lore] SurvivorCorrespondence1BodyText
+EN: Lilian, it is vital that you stay put, do not leave the house. It's only gotten worse after the Crusaders have shown up. Anyone they suspect to have been so much as in contact with the cult is a target for the Inquisition.
+FR: Lilian, il est vital que tu restes où tu es, ne quitte pas la maison. La situation n’a fait qu’empirer depuis l’arrivée des croisés. Toute personne qu'ils soupçonnent d'avoir ne serait-ce qu'été en contact avec la secte est dans le collimateur de l'Inquisition.
+AR: ليليان، من الضروري أن تبقي في مكانك، لا تغادري المنزل. لقد ساءت الأمور أكثر منذ وصول الصليبيين. وكل من يشتبهون في أنه مسّ الطائفة ولو من بعيد صار هدفًا لمحاكم التفتيش.
+
+#77 [None|lore] SurvivorCorrespondence1SubHead
+EN: Worn Bloody Note
+FR: Note abîmée et ensanglantée
+AR: ملاحظة ملطخة بالدماء وباهتة
+
+#78 [None|lore] SurvivorCorrespondence1Title
+EN: Stay inside
+FR: Reste à l’intérieur
+AR: ابقَ في الداخل
+
+#79 [None|lore] SurvivorCorrespondence2BodyText
+EN: I don't know how I survived whatever occurred last night. I still feel sick, as if my soul was almost ripped out of my body. The others weren't so lucky, or maybe they were? 
+  
+ When I look out the window, I don't see knights turning over homes anymore, but in their stead are monsters. The walking dead and horned monstrosities prowl the blood-soaked streets. I have to get out of here. My survival will not be in vain.
+FR: Je ne sais pas comment j’ai survécu à ce qui s’est passé la nuit dernière. Je me sens toujours mal, comme si mon âme avait failli être arrachée de mon corps. Les autres n’ont pas eu cette chance, ou peut-être que si ? 
+  
+ Quand je regarde par la fenêtre, je ne vois plus de chevaliers fouiller des maisons, mais des monstres ont pris leur place. Les morts-vivants et les monstruosités cornues rôdent dans les rues ensanglantées. Je dois sortir d’ici. Ma survie ne sera pas vaine.
+AR: لا أعرف كيف نجوت مما حدث ليلة أمس. ما زال بي سقم، كأن روحي كادت تُنتزع من جسدي. لم يحالف الحظ غيري، أو لعله حالفهم؟ 
+  
+ عندما أنظر من النافذة، لم أعد أرى فرساناً يقلبون البيوت، بل وحوشاً مكانهم. الموتى السائرون والمسوخ ذات القرون يتجولون في الشوارع الملطخة بالدماء. يجب أن أخرج من هنا. لن يذهب بقائي سدى.
+
+#80 [None|lore] SurvivorCorrespondence2SubHead
+EN: Worn Bloody Note
+FR: Note abîmée et ensanglantée
+AR: رُقعة بالية ملطّخة بالدماء
+
+#81 [None|lore] SurvivorCorrespondence2Title
+EN: What happened?
+FR: Que s’est-il passé ?
+AR: ماذا حدث؟
+
+#82 [None|lore] SurvivorCorrespondence3BodyText
+EN: This is the sixth time those nutters have come knocking on my door at odd hours. The gall to proselytize such absurdities to Divine fearin' folk in Gildenarch of all places.  Not that the Archspire cares much anymore, unless it hurts their coffers. 
+  
+ Divine take 'em all. Them cultists and the Archspire cloth as well.
+FR: C’est la sixième fois que ces fous frappent à ma porte à des heures indues. Quel culot de prêcher de telles absurdités à des gens craignant le Divin, à Gildenarch qui plus est. Non pas que l’Archspire se soucie encore vraiment de ces choses-là, sauf si cela nuit à ses coffres. 
+  
+ Que le Divin les emporte tous. Ces adeptes, mais aussi le clergé de l’Archspire.
+AR: سادس مرة يطرق فيها هؤلاء المجانين بابي في ساعات لا يُطرق فيها باب. أيّ وقاحة أن يبشّروا بترّهاتهم بين قوم يخشون الإله، وفي قيلدنارك بالذات! وما أرشسباير بمكترثة بعد اليوم، إلا أن تُمَسَّ خزائنها. 
+  
+ ليأخذهم الإله جميعًا؛ هم وأثواب أرشسباير معهم.
+
+#83 [None|lore] SurvivorCorrespondence3SubHead
+EN: Letter
+FR: Lettre
+AR: رسالة
+
+#84 [None|lore] SurvivorCorrespondence3Title
+EN: Divine Take'em!
+FR: Divin, emporte-les !
+AR: ليأخذهم الإله!
+
+#85 [None|lore] SurvivorCorrespondence4BodyText
+EN: Witness the examples of those who'd blaspheme against the Divine!
+FR: Voilà ce qui arrive à ceux qui blasphèment contre le Divin !
+AR: دونكم عبرةَ من جدَّف في حقّ الإله!
+
+#86 [None|lore] SurvivorCorrespondence4SubHead
+EN: Letter nailed to the tree
+FR: Note clouée à l’arbre
+AR: رسالة مثبتة على الشجرة
+
+#87 [None|lore] SurvivorCorrespondence4Title
+EN: HERETICS!
+FR: HÉRÉTIQUES !
+AR: أيها الهراطقة!
+
+#88 [None|lore] TOLS_1_Subhead
+EN: Torn copy of the Crimson Concordat
+FR: Exemplaire déchiré du Concordat pourpre
+AR: نسخة ممزقة من الميثاق القرمزي
+
+#89 [None|lore] TOLS_1_Title
+EN: The Crimson Concordat
+FR: Le Concordat pourpre
+AR: الميثاق القرمزي
+

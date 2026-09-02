@@ -1,0 +1,51 @@
+[
+ {
+  "batch": 1,
+  "group": "dialogue__NPC_Angel_Male",
+  "speaker": "NPC_Angel_Male",
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 2,
+  "group": "dialogue__NPC_Angel_Male",
+  "speaker": "NPC_Angel_Male",
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 3,
+  "group": "dialogue__NPC_Angel_Male",
+  "speaker": "NPC_Angel_Male",
+  "register": "elevated",
+  "rows": 60
+ },
+ {
+  "batch": 4,
+  "group": "dialogue__NPC_Angel_Male",
+  "speaker": "NPC_Angel_Male",
+  "register": "elevated",
+  "rows": 34
+ },
+ {
+  "batch": 5,
+  "group": "dialogue__NPC_Solomon",
+  "speaker": "NPC_Solomon",
+  "register": "menacing",
+  "rows": 60
+ },
+ {
+  "batch": 6,
+  "group": "dialogue__NPC_Solomon",
+  "speaker": "NPC_Solomon",
+  "register": "menacing",
+  "rows": 16
+ },
+ {
+  "batch": 7,
+  "group": "dialogue__Nephilim",
+  "speaker": "Nephilim",
+  "register": "plain",
+  "rows": 7
+ }
+]

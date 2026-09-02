@@ -1,0 +1,1 @@
+{"id": "ST_Blueprints|Shield", "source_en": "Shield", "ar_before": "درع", "ar_fixed": "ترس", "severity": "critical", "reason": "Shield label collides with درع used for armor and cuirass", "confidence": "medium"}

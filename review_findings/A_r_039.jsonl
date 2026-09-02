@@ -1,0 +1,3 @@
+{"id": "ST_Boons|ResoundingCharge", "source_en": "Resounding Charge", "ar_before": "الهجوم المدوّي", "ar_fixed": "الاندفاع المدوّي", "severity": "minor", "reason": "Other Charge boons use اندفاع; this describes a Sprint Attack", "confidence": "medium"}
+{"id": "ST_Boons|SanguineCharge", "source_en": "Sanguine Charge", "ar_before": "الهجوم الدموي", "ar_fixed": "الاندفاع الدموي", "severity": "minor", "reason": "Other Charge boons use اندفاع; this describes a Sprint Attack", "confidence": "medium"}
+{"id": "ST_Boons|DeathWard", "source_en": "Death Ward", "ar_before": "وقاية الموت", "ar_fixed": "الوقاية من الموت", "severity": "minor", "reason": "Reads as protection belonging to death, not against it", "confidence": "medium"}

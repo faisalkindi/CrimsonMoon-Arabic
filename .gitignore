@@ -1,0 +1,40 @@
+# game files and anything derived directly from them
+extract/
+font_build/
+build/ar_mod/Engine/
+build/ar_mod/CrimsonMoonNG/Content/UI/
+build/marker/
+build/*.pak
+build/*.ucas
+build/*.utoc
+research/*.txt
+research/*.jsonl
+
+# intermediate pipeline chunks (regenerable from scripts + translated/)
+batches/
+edit_chunks/
+flow_chunks/
+review_chunks/
+verify_chunks/
+*_draft.jsonl
+*_draft_fixed.jsonl
+*_final.jsonl
+*_final_fixed.jsonl
+03_working_draft_fixed.jsonl
+pilot_*.jsonl
+conformance_todo.jsonl
+sweep_todo.jsonl
+apply_b6a_04.py
+
+# installer build outputs (exe ships via GitHub Releases / Nexus)
+installer/bin/
+installer/obj/
+installer/publish/
+installer/payload.zip
+release/dist/*.exe
+release/dist/*.zip
+release/dist/manual/
+
+# local
+__pycache__/
+*.log

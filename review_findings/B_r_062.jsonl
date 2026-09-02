@@ -1,0 +1,1 @@
+{"id": "|DA9E589349046BD693E020941D720513", "source_en": "AI Cleared", "ar_before": "تم التطهير بواسطة الذكاء الاصطناعي", "ar_fixed": "تم الإنهاء بواسطة الذكاء الاصطناعي", "severity": "minor", "reason": "'Cleared' (completed) rendered as 'purified', conflating with the distinct Purify mechanic", "confidence": "medium"}

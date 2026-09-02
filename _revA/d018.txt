@@ -1,0 +1,1309 @@
+#0 [None|lore] Cult3BodyText
+EN: Dear Mathias 
+  
+  We’ve followed Moore's lead on the cult, and what we’ve found is quite troubling. Not only do they espouse a myriad of heresies, but their doctrine is indeed every bit as dangerous as suspected. Their talk of gardens and flora is no mere romantic drivel, but appears to be a quite literal worship of some hazardous form of life, if we could even call it that.  
+  
+ We’ll provide the clergy with a full debriefing this evening, and we’re convinced our findings will provide the necessary proof to take action.
+FR: Cher Mathias, 
+  
+ Nous avons suivi la piste de Moore concernant la secte, et ce que nous avons découvert est assez inquiétant. Non seulement elle prône une myriade d’hérésies, mais sa doctrine est en outre aussi dangereuse que nous le soupçonnions. Ses discours sur les jardins et la flore ne sont pas de simples balivernes romantiques, mais s’inscrivent dans un véritable culte voué à une forme de vie néfaste, si tant est qu’on puisse l’appeler ainsi.  
+  
+ Nous ferons un compte rendu complet au clergé ce soir, et nous sommes convaincus que nos conclusions apporteront les preuves nécessaires pour agir.
+AR: عزيزي ماثياس 
+  
+  لقد تتبعنا أثر مور بخصوص الطائفة، وما وجدناه مقلق للغاية. لا يعتنقون ضروباً من الهرطقة فحسب، بل عقيدتهم خطيرة بقدر ما ظننا تماماً. حديثهم عن الحدائق والنباتات ليس مجرد هراء رومانسي، بل يبدو أنه عبادة حرفية لشكل خطير من أشكال الحياة، إن كان يمكننا تسميته كذلك.  
+  
+ سنوافي رجال الدين بتقرير كامل هذا المساء، ونحن على ثقة أن ما وجدناه يقيم الحجة للتحرك.
+
+#1 [None|lore] Cult3SubHead
+EN: For the eyes of Cardianl Mathias only.
+FR: À l’attention exclusive du cardinal Mathias
+AR: لعيون الكاردينال ماثياس فقط.
+
+#2 [None|lore] Cult3Title
+EN: Urgent Notice
+FR: Avis urgent
+AR: إشعار عاجل
+
+#3 [None|lore] DLLS_1_Body
+EN: Like myself, the Akyrians who occupy these halls show a callous disregard for human life, but something interesting occurred when the initiates brought me another prisoner last evening. It was a devout man from the Archspire, one of the faith’s most loyal Solomon couldn’t seduce. I had little intention of infecting him; he’d sooner make finer biomass for the flora. Then came “the jailer,” one of the first to cross into our realm here in Shoreditch. As I requested, he brought me more vials of the growth hormone derived from the Warden. As he turned to leave, he saw the man Lunar Crescent hanging from his neck. Before I could ask that he be left alone, the Jailer shoved his fingers into his eyes and tore his head from his shoulders.  
+  
+ I swear, Solomon sure knows how to pick his company. I’ll have my adepts handle any requisitions from here on out. 
+ 
+FR: Comme moi, les Akyriens qui occupent cet endroit font preuve d’un mépris cruel envers la vie humaine, mais quelque chose d’intéressant s’est produit lorsque les initiés m’ont amené un autre prisonnier hier soir. C’était un dévot de l’Archspire, l’un des croyants les plus fidèles que Solomon n’avait pu séduire. Je n’avais pas l’intention de l’infecter ; il ferait plutôt un excellent engrais pour la flore. Puis est arrivé « le geôlier », l’un des premiers à avoir pénétré dans notre royaume ici, à Shoreditch. Comme je le lui avais demandé, il m’apportait plus de fioles de l’hormone de croissance extraite du Gardien. Alors qu’il se retournait pour partir, il a vu l’homme, un croissant de lune pendant à son cou. Avant que je puisse demander qu’on le laisse tranquille, le geôlier lui avait enfoncé les doigts dans les yeux et arraché la tête.  
+  
+ Je vous jure, Solomon sait vraiment choisir ses compagnons. Je vais charger mes adeptes de s’occuper de toutes mes requêtes, dorénavant.
+AR: الأكيريون الذين يشغلون هذه القاعات يستخفون بحياة البشر استخفافًا قاسيًا، مثلي تمامًا، لكن حدث شيء مثير للاهتمام عندما أحضر لي المبتدئون سجينًا آخر مساء أمس. كان رجلًا متدينًا من أرشسباير، أحد أكثر أتباع العقيدة إخلاصًا، ولم يستطع سولومون إغواءه. ولم أنوِ أن أعديه؛ فهو كتلةٌ حيوية أجود للنباتات. ثم جاء "السجان"، أحد أوائل الذين عبروا إلى عالمنا هنا في سجن شورديتش. وكما طلبت، أحضر لي المزيد من القوارير التي تحتوي على هرمون النمو المشتق من الحارس. وبينما استدار ليغادر، رأى قلادة الهلال القمري حول عنق الرجل. وقبل أن أطلب تركه وشأنه، غرز السجان أصابعه في عينيه، ثم انتزع رأسه من كتفيه.  
+  
+ أقسم، سولومون يعرف حقًا كيف يختار رفاقه. سأجعل أتباعي يتولون أي طلبات من الآن فصاعدًا.  
+ 
+
+#4 [None|lore] DLLS_1_Subhead
+EN: Notes
+AR: ملاحظات
+
+#5 [None|lore] DLLS_1_Title
+EN: Their Disdain
+FR: Leur mépris
+AR: ازدراؤهم
+
+#6 [None|lore] DLLS_2_Body
+EN: A theory so bizarre it may at least hold a glimmer of truth. Allegedly, one of the Archspire’s Scribes was detained for suggesting a shared lineage between the Angels and the Demons. Now such a claim deserves little more than mockery and wouldn’t have aroused a bit of suspicion, but why punish him over mere, albeit absurd, speculation?  
+  
+ Silencing a man does more to draw attention than his own words… 
+ 
+FR: Voici une théorie si bizarre qu’elle pourrait au moins contenir une lueur de vérité. Apparemment, un des scribes de l’Archspire aurait été enfermé pour avoir laissé entendre que les anges et les démons partageaient une même lignée. Une telle affirmation mérite à peine plus que des moqueries et n’aurait pas dû susciter le moindre soupçon, mais pourquoi le punir pour de simples spéculations, aussi absurdes soient-elles ?  
+  
+ Faire taire un homme attire plus l’attention que ses mots...
+AR: نظرية غريبة للغاية لدرجة أنها قد تحمل بصيصاً من الحقيقة على الأقل. يُزعم أن أحد كتاب أرشسباير قد اعتُقل لاقتراحه وجود أصل مشترك بين الملائكة والشياطين. ودعوى كهذه لا تستحق غير السخرية، وما كانت لتثير ريبة؛ فلمَ يُعاقَب على تخمين، وإن كان سخيفاً؟  
+  
+ إسكات رجل يجذب الانتباه أكثر من كلماته… 
+ 
+
+#7 [None|lore] DLLS_2_Subhead
+EN: Journal Entry
+FR: Entrée de journal
+AR: مدخل في المذكرات
+
+#8 [None|lore] DLLS_2_Title
+EN: Why Silence him?
+FR: Pourquoi le faire taire ?
+AR: لماذا نُسكته؟
+
+#9 [None|lore] DLLS_3_Body
+EN:  
+ The Scribe’s disciplinary action has kept me from a night’s rest for some time. I pored over the literature on Angels and couldn’t find anything to corroborate his theories. However, something I’ve read before caught my attention. 
+  
+ In the 6th passage of chapter 43 on Sergio’s Metaphysics of Being, something stuck out to me given the context of the scribe’s claims. 
+  
+ “Those who stood by the Divine maintained their formless purity and those who did not, crystallized into abominable transience. 
+  
+ The nature of the heavens could not allow for the Finite to taint the perfect Infinite. 
+  
+ So it was those who abdicated their connection to Divinity fled to a lower form.” 
+  
+ Consensus holds that this passage refers specifically to man’s progenitors, but what if it wasn’t refering to us? 
+ 
+FR: La sanction disciplinaire infligée au scribe m’empêche de dormir depuis un certain temps. J’ai épluché la littérature sur les anges et je n’ai rien trouvé qui corrobore ses théories. Cependant, quelque chose que j’avais déjà lu avant a attiré mon attention. 
+  
+ Dans le sixième passage du chapitre 43 sur la métaphysique de l’être de Sergio, quelque chose m’a frappé, compte tenu des affirmations du scribe. 
+  
+ « Ceux qui se tenaient aux côtés du Divin conservaient leur pureté sans forme et ceux qui ne le faisaient pas se cristallisaient pour former d’éphémères abominations. 
+  
+ La nature des cieux ne pouvait permettre au Fini de souiller l’Infini parfait. 
+  
+ Ainsi, ceux qui renonçaient à leur lien avec la divinité se réfugiaient dans une forme inférieure. » 
+  
+ Le consensus veut que ce passage fasse spécifiquement référence aux ancêtres de l’homme, mais, et si ce n’était pas de nous dont il est question ? 
+ 
+AR:  
+ حرمني تأديبُ الكاتب النومَ ليالي عدة. لقد عكفتُ على دراسة الأدبيات المتعلقة بالملائكة ولم أجد شيئاً يؤيد نظرياته. ومع ذلك، لفت انتباهي شيء قرأته من قبل. 
+  
+ في المقطع السادس من الفصل 43 حول "ميتافيزيقيا الوجود" لسيرجيو، برز لي شيء ما بالنظر إلى سياق ادعاءات الكاتب. 
+  
+ "أولئك الذين وقفوا بجانب الإله حافظوا على نقائهم غير المتجسد، أما الذين لم يفعلوا، فقد تبلوروا في زوالٍ مقيت. 
+  
+ طبيعة السماوات لا يمكن أن تسمح للمحدود بتدنيس اللانهائي الكامل. 
+  
+ لذا، فإن أولئك الذين تخلوا عن صلتهم بالألوهية هربوا إلى شكل أدنى." 
+  
+ يجري الإجماع على أن المقطع يعني أسلاف البشر، ولكن ماذا لو لم يكن يشير إلينا؟ 
+ 
+
+#10 [None|lore] DLLS_3_Subhead
+EN: Journal Entry
+FR: Entrée de journal
+AR: مدخل في المذكرات
+
+#11 [None|lore] DLLS_3_Title
+EN: I cannot Rest
+FR: Je ne trouve plus le sommeil
+AR: لا أستطيع النوم
+
+#12 [None|lore] DRLS_1_BodyText
+EN: The Dry Rot King, his people called it before the name was the last word any of them could still speak. 
+  
+ The Saedrics were his people: keepers of the old groves, who counted their years in harvests rather than kings. When their god began to rot in the dark, something of him reached back through the roots and into them. They did not die. They dried. 
+ Now they are the Rot Kin, and they tend the forest the way grief tends a grave. The stone was never a prison so much as a wound stitched shut. It holds a god, but it does not heal him and it does not silence him. The wardens who guard it report the same thing across centuries,the longer he is kept, the less of E'frae remains, and the more of the rot answers in his place. 
+  
+ Where his influence reaches, the land does not burn or drown. It simply gives up. Leaves brown on a windless day. Timber crumbles though no rain has touched it. Animals lie down and do not rise again. It is not death, exactly, death is an ending, this is a slow forgetting of how to be alive.
+FR: Le Roi de la pourriture brune, tel que les siens l’appelaient avant que ce nom devienne les derniers mots qu’ils pouvaient encore prononcer. 
+  
+ Les Saedriques étaient son peuple – gardiens des anciens bosquets, ils comptaient les années en récoltes plutôt qu’en règnes. Quand leur dieu commença à pourrir dans l’obscurité, une partie de lui remonta à travers les racines et pénétra en eux. Ils ne moururent pas. Ils se desséchèrent. 
+ Maintenant, ils sont les Pourris, et ils s’occupent de la forêt comme le chagrin entretient une tombe. La pierre n’a jamais été une prison, mais plutôt une blessure recousue. Elle renferme un dieu, mais elle ne le guérit pas et ne le fait pas taire. Ses gardiens rapportent la même chose à travers les siècles : plus on le retient, moins il reste d’E’frae, et plus la pourriture répond à sa place. 
+  
+ Là où son influence s’étend, la terre ne brûle ni ne se noie. Elle abandonne, tout simplement. Les feuilles brunissent les jours sans vent. Le bois s’effrite sans que la pluie ne le touche. Les animaux s’allongent et ne se relèvent pas. Ce n’est pas exactement la mort. La mort est une fin. Là, les choses oublient lentement comment vivre.
+AR: ملك العفن الجاف، هكذا كان قومه يلقبونه قبل أن يصبح هذا الاسم آخر كلمة استطاع أي منهم نطقها. 
+  
+ كان السادريكيون هم قومه: حراس الغابات القديمة، الذين كانوا يحسبون سنواتهم بالمحاصيل لا بالملوك. وعندما بدأ إلههم بالتعفن في الظلام، وصل شيء منه عبر الجذور وإليهم. لم يموتوا، بل جفوا. 
+ الآن هم "أهل العفن"، ويعتنون بالغابة كما يعتني الحزن بالقبر. لم يكن الحجر سجنًا بقدر ما كان جرحًا مخيطًا. إنه يحبس إلهًا، لكنه لا يشفيه ولا يسكت صوته. يبلغ الحراس الذين يحرسونه عن الشيء نفسه عبر القرون: كلما طالت مدة احتجازه، قلّ ما تبقى من "إفراي"، وزاد ما يجيب العفنُ به مكانه. 
+  
+ حيث يصل تأثيره، لا تحترق الأرض ولا تغرق، بل تستسلم ببساطة. تذبل الأوراق في يوم بلا رياح. يتفتت الخشب رغم عدم لمسه بالمطر. تربض الحيوانات فلا تنهض. ليس هذا موتًا بالضبط، فالموت نهاية، أما هذا فنسيانٌ بطيء لكيف تكون حياً.
+
+#13 [None|lore] DRLS_1_SubHead
+EN: Hisotical passage
+FR: Passage historique
+AR: مقطع تاريخي
+
+#14 [None|lore] DRLS_1_Title
+EN: Dry Rot King
+FR: Roi de la pourriture brune
+AR: ملك العفن الجاف
+
+#15 [None|lore] DRLS_2_BodyText
+EN: What a cruel and undeserved fate, oh beautiful E’frae. Whose green ran through the earth, whose voice was whispered among the wind, and whose love gave rise to life every spring. 
+  
+  I mourn your loss, great father of the wild, but I cannot join you in the Rot. I will journey far from these lands to the region of Western Armaea. Far from the Church’s clutches, I will plant your seed and tend to it as your wisdom tended to my soul. 
+  
+ The Saedric memory will live on even in this darkened age. Farewell, my father; I will carry you with me in all things I do. 
+ 
+FR: Quel destin cruel et immérité, ô bel E’frae. Toi dont la verdure parcourait la terre, dont la voix murmurait dans le vent, et dont l’amour donnait naissance à la vie chaque printemps. 
+  
+ Je pleure ta perte, glorieux père de la nature, mais je ne peux pas te rejoindre dans la pourriture. Je vais partir loin de ces terres, en Armaée occidentale. Loin des griffes de l’Église, je planterai ta semence et j’en prendrai soin, comme ta sagesse a pris soin de mon âme. 
+  
+ La mémoire saedrique continuera de vivre malgré cette époque sombre. Adieu, mon père. Je te porterai en moi dans tout ce que je ferai.
+AR: يا له من قدر قاسٍ وغير مستحق، يا إيفراي الجميل. أنت الذي جرت خضرته في الأرض، وهمس صوته في الريح، وأنبت حبه الحياة كل ربيع. 
+  
+ أرثي فقدانك، يا أب البرية العظيم، لكنني لا أستطيع الانضمام إليك في التعفن. سأرحل بعيداً عن هذه الأراضي إلى منطقة أرميا الغربية. بعيداً عن قبضة الكنيسة، سأزرع بذرتك وأرعاها كما رعت حكمتك روحي. 
+  
+ ستبقى الذكرى السايدرية حية حتى في هذا العصر المظلم. وداعاً يا أبي؛ سأحملك معي في كل ما أفعله. 
+ 
+
+#16 [None|lore] DRLS_2_SubHead
+EN: Prayer
+FR: Prière
+AR: صلاة
+
+#17 [None|lore] DRLS_2_Title
+EN: The Saedric Memory
+FR: La mémoire saedrique
+AR: الذكرى السايدرية
+
+#18 [None|lore] DRLS_3_BodyText
+EN: The Inquisition brought in someone interesting this last night. They were indeed a heretic but not of the Reborn, no this was a man who practiced the old ways. He claims to commune with the god E'frae. Though worth noting he claims this is NOT the Lord of the Wild from the Island of Saedrys but instead his corpse he so zealously called "The Dry Rot King". He claims this entity slumbers deep beneath Gildenarch, total nonsense but heresy none the less. We will let the Inquisitor decide his fate.
+FR: L’Inquisition a amené quelqu’un d’intéressant la nuit dernière. C’était bien un hérétique, mais pas un des Nés à nouveau. Non, c’était un homme versé dans les anciennes croyances. Il affirme communier avec le dieu E’frae. Il est toutefois important de noter qu’il dit qu’il ne s’agit PAS du Seigneur de la nature de l’île de Saedrys, mais plutôt de son cadavre, qu’il appelle avec beaucoup de zèle « Roi de la pourriture brune ». Il prétend que cette entité sommeille profondément sous Gildenarch,ce qui est totalement absurde mais relève tout de même de l’hérésie. Nous allons laisser l’inquisiteur décider de son sort.
+AR: أحضرت محاكم التفتيش شخصاً مثيراً للاهتمام ليلة أمس. لقد كان بالفعل مرتدّاً، لكنه لم يكن من "المولودين من جديد"، بل كان رجلاً يمارس الطقوس القديمة. يزعم أنه يتواصل مع الإله إفراي. ومع ذلك، تجدر الإشارة إلى أنه يدعي أن هذا ليس "سيد البرية" من جزيرة سايدريس، بل هو جثته التي كان يناديها بحماس "ملك العفن الجاف". يزعم أن هذا الكيان يغط في نوم عميق تحت أرض قيلدنارك، وهو هراء مطلق، لكنه يظل هرطقة. سنترك للمفتّش تحديد مصيره.
+
+#19 [None|lore] DRLS_3_SubHead
+EN: Note
+AR: ملاحظة
+
+#20 [None|lore] DRLS_3_Title
+EN: An unusual heretic.
+FR: Un hérétique inhabituel
+AR: مهرطقٌ غير عادي.
+
+#21 [None|lore] EALS_10_SubHead
+EN: A father's letter.
+FR: La lettre d’un père
+AR: رسالة من أب.
+
+#22 [None|lore] EALS_10_Title
+EN: Consider This Letter Unsent
+FR: Considérez cette lettre comme n’ayant pas été envoyée
+AR: اعتبر هذه الرسالة غير مرسلة
+
+#23 [None|lore] EALS_1_BodyText
+EN: Greetings, upon the Eve of the New Moon. 
+  
+ By the Grace of the Lunitarian Faith, the Industry of Gildenarch's Finest Hands, and the Generosity of Lord Solomon Moore — Your Presence is Requested at the Celebration of the Completion of the Godsreach Spire, that noble Edifice raised in the sight of Heaven, that the City might at last raise her Glass to a Future Earned. 
+  
+ The Programme: 
+ Drinks at Sundown. Dinner in the Oratory Hall. Address by His Eminence, Cardinal Mathias. A Word from our Honored Patron. 
+  
+ The evening shall conclude with a Procession to the Threshold of the Spire, where the Doors shall open to those Benefactors, Fellows, Ministers, Patrons, and Distinguished Families of the Ward who have given so much to a City that has, at last, given itself back. 
+  
+ Black tie. Crimson sash. The carriage at the Eighth Bell. 
+  
+ R.S.V.P. before the moon turns. 
+ The Doors close from within. 
+ 
+FR: Salutations, à la veille de la nouvelle lune. 
+  
+ Par la grâce de la foi lunitérienne, et grâce au savoir-faire des meilleurs ouvriers de Gildenarch ainsi qu’à la générosité du seigneur Solomon Moore, votre présence est sollicitée à la célébration de l’achèvement de la Flèche de Godsreach, ce noble édifice érigé sous le regard du Ciel, afin que la cité puisse enfin lever son verre à un avenir mérité. 
+  
+ Au programme : 
+ Apéritif au coucher du soleil. Dîner dans la salle de l’oratoire. Allocution de Son Éminence, le cardinal Mathias. Un mot de notre illustre mécène. 
+  
+ La soirée se terminera par une procession jusqu’au seuil de la Flèche, où les portes s’ouvriront à ces bienfaiteurs, compagnons, ministres, mécènes et familles distinguées de l’arrondissement qui ont tant donné à une ville qui leur rend enfin la pareille. 
+  
+ Cravate noire. Écharpe pourpre. La calèche au huitième coup de cloche. 
+  
+ Réponse souhaitée avant que la lune ne change de phase. 
+ Les portes se ferment de l’intérieur.
+AR: تحية طيبة، عشية القمر الجديد. 
+  
+ بنعمة العقيدة اللونيتارية، وبصناعة أمهر أيدي قيلدنارك، وبكرم اللورد سولومون مور — يُطلب حضوركم في احتفال إتمام برج قودزريتش، ذلك الصرح النبيل الذي شُيّد أمام أعين السماء، لكي ترفع المدينة أخيراً كأساً لمستقبلٍ استحقته. 
+  
+ البرنامج: 
+ مشروبات عند الغروب. عشاء في قاعة الصلاة. كلمة من صاحب النيافة، الكاردينال ماثياس. كلمة من راعينا الموقر. 
+  
+ ستُختتم الأمسية بموكب إلى عتبة البرج، حيث ستُفتح الأبواب للمحسنين، والزملاء، والوزراء، والداعمين، والعائلات الموقرة في الحي الذين قدموا الكثير لمدينة أعادت أخيراً بناء نفسها. 
+  
+ زي رسمي أسود. وشاح قرمزي. العربة عند الجرس الثامن. 
+  
+ يرجى تأكيد الحضور قبل تحول القمر. 
+ الأبواب تُغلق من الداخل. 
+ 
+
+#24 [None|lore] EALS_1_SubHead
+EN: An engraved invitation.
+FR: Une invitation gravée
+AR: دعوة منقوشة
+
+#25 [None|lore] EALS_1_Title
+EN: The Spire Gala
+FR: Le gala de la Flèche
+AR: حفل البرج
+
+#26 [None|lore] EALS_2_BodyText
+EN: My dear Wensleigh, 
+  
+ Two candles, and the second already crooked. You will forgive the haste. I write quickly because this evening, when it comes, will be very long. 
+  
+ You are a rare student. I do not say this to flatter you. I say it because the saying has become rare. Most who pass through my hall admire the lantern, and the pleasing circle of light it permits them. You have always been of a different garden, most content at the edges of the light. 
+  
+ I will speak briefly tonight. The Cardinal will speak longer. Our Patron will speak last, and the wine will be very fine, and you will be bored, and that is right and good. 
+  
+ After the toasts — when the older guests find the air heavy and retire to their carriages — find me. There is a smaller gathering for the few who have taken the trouble to look further. I have argued for your inclusion. The argument was not difficult. It rarely is, with you. 
+  
+ Wear something you can move in. Pin nothing to your collar that you would mourn. 
+  
+ Yours, in faith and in the better light to come, 
+  F. 
+ 
+FR: Mon cher Wensleigh, 
+  
+ Deux bougies, et la seconde est déjà de travers. Vous pardonnerez ma précipitation. J’écris vite parce que cette soirée, quand elle viendra, sera très longue. 
+  
+ Vous êtes un élève exceptionnel. Je ne dis pas cela pour vous flatter. Je le dis parce que les éléments comme vous se font rares. La plupart de ceux qui passent par mon couloir admirent la lanterne, et le cercle lumineux agréable qu’elle leur offre. Vous avez toujours été différent, plus à l’aise aux confins de la lumière. 
+  
+ Je parlerai brièvement ce soir. Le cardinal parlera plus longtemps. Notre mécène, lui, parlera en dernier, et le vin sera très bon, et vous vous ennuierez. C’est très bien ainsi. 
+  
+ Après les toasts, quand les invités plus âgés trouveront l’atmosphère pesante et se retireront dans leurs calèches – venez me trouver. Il y aura un rassemblement plus petit pour les rares personnes qui ont pris la peine de chercher plus loin. J’ai plaidé pour votre inclusion. Convaincre les autres n’a pas été difficile. Ça l’est rarement, avec vous. 
+  
+ Portez des vêtements qui vous permettent de vous mouvoir librement. N’épinglez rien à votre col que vous regretteriez de perdre. 
+  
+ Bien à vous, dans la foi et dans la lumière meilleure à venir, 
+ F
+AR: عزيزي وينسلي، 
+  
+ شمعتان، والثانية مائلة بالفعل. أرجو أن تعذرني على العجلة. أكتب بسرعة لأن هذه الأمسية، حين تحين، ستكون طويلة جداً. 
+  
+ أنت طالب نادر. ولا أقولها مجاملةً، بل لأن القول نفسه صار نادراً. معظم من يمرون عبر ردهتي يعجبون بالمصباح، وبالدائرة المبهجة من الضوء التي يمنحهم إياها. أما أنت، فكنت دائماً من نوع مختلف، راضياً بالبقاء عند حواف الضوء. 
+  
+ سأتحدث باختصار الليلة. سيتحدث الكاردينال لفترة أطول. ويتحدث راعينا أخيراً، وسيكون النبيذ فاخراً جداً، وستملّ أنت، وذلك صوابٌ وخير. 
+  
+ بعد نخب الشراب — عندما يجد الضيوف الأكبر سناً أن الهواء أصبح ثقيلاً وينسحبون إلى عرباتهم — ابحث عني. هناك تجمع أصغر للقلة الذين تكبّدوا عناء البحث عن المزيد. حاججتُ لضمّك. ولم تكن حجةً عسيرة؛ ونادراً ما تكون، معك. 
+  
+ ارتدِ شيئاً يمكنك التحرك فيه. لا تضع أي دبوس على ياقة قميصك قد تندم على فقدانه. 
+  
+ المخلص لك، بالإيمان وبالنور الأفضل القادم، 
+  ف. 
+ 
+
+#27 [None|lore] EALS_2_SubHead
+EN: A wrinkled letter.
+FR: Une lettre froissée
+AR: رسالة مجعدة.
+
+#28 [None|lore] EALS_2_Title
+EN: From Master Felwyl
+FR: De la part de maître Felwyl
+AR: من المعلم فِلويل
+
+#29 [None|lore] EALS_3_BodyText
+EN: Asher, 
+  
+ The bolt on my study door is a brass thing of poor manufacture, three-pin tumbler, replaced in the autumn of '02 by Greaves, who did the work for a guinea and complained the entire afternoon. I mention it because tonight I am grateful for it, which is more consideration than the bolt has ever earned. 
+  
+ Three chairs at the Fellow's Council are empty now. Marvenne. Hollis. Old Korbel. 
+  
+ Marvenne told me last spring she had had words with Master Felwyl over his revised Eveirington reading list. He was, she said, unwilling to entertain disagreement. Two months later — sabbatical. The other two had complaints in similar weather, and now the registry tells me they are abroad. 
+  
+ Marvenne has no family abroad. 
+  
+ One other thing, and you may laugh. I have served at Elk Grove forty-one years. I know how the chapel candles burn. They have been burning low. Low when no one is in the hall. Low when the windows are shut. 
+  
+ I am not imagining it. 
+  
+ I will see you at the Gala. Do not approach me first. I will find you near the orchestra, between the second movement and the third, when no one is listening because everyone is listening. 
+  
+ Yours, 
+  H. 
+ 
+FR: Asher, 
+  
+ Le verrou de la porte de mon bureau est un objet en laiton de mauvaise facture, à trois goupilles, remplacé à l’automne 1002 par Greaves, qui a fait le travail pour une bouchée de pain et s’est plaint tout l’après-midi. Je mentionne cela parce que ce soir, je suis bien content que ce verrou soit là, ce qui est plus de considération qu’il ne lui a jamais été témoigné. 
+  
+ Trois sièges au conseil des Compagnons sont désormais vacants. Marvenne. Hollis. Le vieux Korbel. 
+  
+ Marvenne m’a raconté au printemps dernier qu’elle s’était disputée avec maître Felwyl au sujet de sa liste de lectures révisée pour Eveirington. Il était, m’a-t-elle dit, peu enclin à accepter la moindre divergence d’opinions. Deux mois plus tard... un congé sabbatique. Les deux autres ont formulé des plaintes similaires, et le registre m’indique désormais qu’ils sont à l’étranger. 
+  
+ Marvenne n’a pas de famille à l’étranger. 
+  
+ Encore une chose, et vous pouvez rire. Cela fait quarante et un ans que je sers à Elk Grove. Je sais comment les bougies de la chapelle brûlent. Ces derniers temps, elles brûlent faiblement. Faiblement quand personne n’est dans le hall. Faiblement quand les fenêtres sont fermées. 
+  
+ Ce n’est pas mon imagination. 
+  
+ Je vous verrai au gala. Ne venez pas me voir. Je vous retrouverai près de l’orchestre, entre le deuxième et le troisième mouvement, quand personne n’écoute parce que tout le monde écoute. 
+  
+ Bien à vous, 
+ H
+AR: آشر، 
+  
+ مزلاجُ باب مكتبي نحاسٌ رديء الصنع، بأسطوانة من ثلاثة دبابيس، استبدلها غريفز في خريف عام 02، حيث أنجز العمل مقابل غينيا واحدة وتذمر طوال فترة بعد الظهر. أذكر ذلك لأنني ممتن له الليلة، وهو تقدير أكثر مما استحقه القفل يوماً. 
+  
+ ثلاثةُ كراسٍ في مجلس الزملاء فارغة الآن. مارفين، هوليس، وكوربل العجوز. 
+  
+ أخبرتني مارفين في الربيع الماضي أنها جادلت السيد فِلويل حول قائمة قراءات إيفيرينغتون المنقحة. وقالت إنه كان غير مستعد لسماع أي اعتراض. بعد شهرين — تفرّغ. وللآخرَين شكاوى في مثل ذلك الجو، والآن يخبرني السجل بأنهما في الخارج. 
+  
+ مارفين ليس لديها عائلة في الخارج. 
+  
+ شيء آخر، وقد تضحك على ذلك. لقد خدمت في إلك غروف لمدة واحد وأربعين عاماً. أعرف كيف تحترق شموع الكنيسة. صارت تخبو. تخبو ولا أحد في القاعة. تخبو والنوافذ مغلقة. 
+  
+ أنا لا أتخيل ذلك. 
+  
+ سأراك في الحفل. لا تقترب مني أولاً. سأجدك بالقرب من الأوركسترا، بين الحركة الثانية والثالثة، عندما لا يستمع أحد لأن الجميع يستمعون. 
+  
+ المخلص، 
+  ه. 
+ 
+
+#30 [None|lore] EALS_3_SubHead
+EN: A confidential memo
+FR: Une note confidentielle
+AR: مذكرة سرية
+
+#31 [None|lore] EALS_3_Title
+EN: Three Empty Chairs
+FR: Trois sièges vides
+AR: ثلاثة كراسٍ فارغة
+
+#32 [None|lore] EALS_4_BodyText
+EN: Tuesday. Botanical Studies, third hour. Eight of us, two missing — Wynn says it's the cough going around, but I never met anyone who liked Wynn enough to tell her where they actually were. 
+  
+ Master Felwyl brought a new specimen today. He carried it himself, which he never does. A small thing in a glass dome. Pale pink, with red veins. He said the name in old Lunitarian and I didn't catch it. I'll ask Cora. Cora always remembers. 
+  
+ He let us each look. Up close it pulses, very softly, like it is breathing. Master Felwyl said this was not breathing. He said it was simply sap. He smiled when he said it. 
+  
+ It is a little ugly. The stem is too white. But the flower is, I must admit, the loveliest thing I have ever seen. When I smelled it, my mouth watered, which is silly. I keep thinking about it. I keep thinking about it the way I would think about a boy. 
+  
+ Then the bell, and we filed out, and I forgot to copy the diagram from the board. 
+  
+ Oh — the Gala is on the Eve. Father bought me a sash. I look very serious in it. He laughed. I was offended, then I laughed. 
+  
+ I'll write of the party after. 
+ 
+FR: Mardi. Études botaniques, troisième heure. Nous sommes huit, il y a deux absents – Wynn dit que c’est à cause de la toux qui circule, mais je n’ai jamais rencontré quelqu’un qui aime assez Wynn pour lui dire où ils étaient réellement. 
+  
+ Maître Felwyl a amené un nouveau spécimen aujourd’hui. Il l’a porté lui-même, ce qu’il ne fait jamais. Une petite chose dans un dôme de verre. Rose pâle, avec des veines rouges. Il a prononcé son nom en lunitérien ancien et je n’ai pas compris. Je demanderai à Cora. Cora se souvient toujours de tout. 
+  
+ Il nous a tous laissés l’observer. De près, il palpite, tout doucement, comme s’il respirait. Maître Felwyl a dit que ce n’était pas de la respiration. Il a dit que c’était simplement de la sève. Il a souri en le disant. 
+  
+ Le spécimen est plutôt laid. La tige est trop blanche. Mais la fleur est, je dois l’admettre, la plus belle chose que j’aie jamais vue. Quand je l’ai sentie, j’en ai eu l’eau à la bouche, ce qui est ridicule. J’y pense sans cesse. Je n’arrête pas d’y penser, comme je penserais à un garçon. 
+  
+ Puis la cloche a sonné, nous sommes sortis, et j’ai oublié de recopier le schéma qu’il y avait au tableau. 
+  
+ Oh... le gala a lieu demain. Papa m’a acheté une ceinture. J’ai l’air très sérieuse quand je la porte. Il a ri. Je me suis vexée, puis j’ai ri moi aussi. 
+  
+ J’écrirai à propos de la fête après.
+AR: الثلاثاء. دراسات نباتية، الساعة الثالثة. نحن ثمانية، اثنان غائبان — تقول وِن إن السبب هو السعال المنتشر، لكني ما عرفت أحداً يحب وِن حتى يخبرها أين كانا حقاً. 
+  
+ أحضر الأستاذ فِلويل عينة جديدة اليوم. حملها بنفسه، وهو لا يفعل قط. شيء صغير داخل قبة زجاجية. وردي باهت، مع عروق حمراء. نطق اسمها باللونيتارية القديمة فلم ألتقطه. سأسأل كورا. كورا تتذكر دائماً. 
+  
+ أتاح لكلٍّ منا أن ينظر. عن قرب، تنبض بهدوء شديد، وكأنها تتنفس. قال الأستاذ فِلويل إن هذا ليس تنفساً. قال إنه مجرد عصارة. ابتسم عندما قال ذلك. 
+  
+ إنها قبيحة قليلاً. الساق بيضاء أكثر من اللازم. لكن الزهرة، يجب أن أعترف، هي أجمل شيء رأيته في حياتي. عندما شممتها، سال لعابي، وهو أمر سخيف. لا أزال أفكر فيها. لا أزال أفكر فيها بالطريقة التي أفكر بها في فتى. 
+  
+ ثم رنّ الجرس، فخرجنا صفاً، ونسيت نقل المخطط عن السبورة. 
+  
+ أوه — الحفلة في عشية القمر الجديد. اشترى لي والدي وشاحاً. أبدو جادةً جداً فيه. ضحك. شعرت بالإهانة، ثم ضحكت. 
+  
+ سأكتب عن الحفلة لاحقاً. 
+ 
+
+#33 [None|lore] EALS_4_SubHead
+EN: A student's notebook page
+FR: Page d’un cahier d’élève
+AR: صفحة من دفتر طالبة.
+
+#34 [None|lore] EALS_4_Title
+EN: Tuesday's Class
+FR: Cours de mardi
+AR: حصة الثلاثاء
+
+#35 [None|lore] EALS_5_BodyText
+EN: Monday. Fitting at Madame Auvern's at the Sixth Bell. Tea at Reverence Hall. The Devereaux woman is wearing crimson, of course she is, the woman has the imagination of a banker's wife. Sash for me, then; one cannot match. 
+  
+ Tuesday. The Cathedral Auxiliary, then dinner at the Haedriks. Edmund pleads his nerves and will not come. He has pled his nerves three weeks running. I am beginning to suspect his nerves know of nothing other than pleading. 
+  
+ Wednesday. Sat for my portrait. The painter remarked that the moon has been very red of late, and asked if I had noticed. I said the moon is not noticed if one is properly dressed. 
+  
+ Thursday. Lunch with Vivienne. She said two of her staff have given notice without explanation. I gave her mine. I have a girl from Pontoon Town who is grateful and quiet and has not yet had the chance to learn how to leave. 
+  
+ Friday. Confession. I lied about the usual things. Father Olm seemed distracted. I asked after his health. He said he had been sleeping poorly, and that the chapel candles were burning low. 
+  
+ The Eve. The Spire. Crimson sash. Eighth Bell. Carriage at the door. 
+  
+ I am told one must, on these occasions, smile. 
+ 
+FR: Lundi. Essayage chez madame Auvern au sixième coup de cloche. Thé au Hall de la révérence. La Devereaux est en pourpre. Quelle surprise... Elle a l’imagination d’une femme de banquier. Dans ce cas, pour moi, ce sera une ceinture. Je tiens à sortir du lot. 
+  
+ Mardi. L’auxiliaire de la cathédrale, puis dîner chez les Haedrik. Edmund invoque ses nerfs et ne veut pas venir. Cela fait trois semaines de suite qu’il les invoque. Je commence à soupçonner que ses nerfs ne lui servent qu’à cela. 
+  
+ Mercredi. J’ai posé pour mon portrait. Le peintre a dit que la lune était très rouge ces derniers temps, et m’a demandé si j’avais remarqué. J’ai dit que personne ne prête attention à la lune lorsqu’on est bien habillée. 
+  
+ Jeudi. Déjeuner avec Vivienne. Elle a dit que deux de ses collaborateurs avaient donné leur démission sans explication. Je lui ai donné la mienne. J’ai une fille qui vient de la ville de Pontoon. Elle est reconnaissante, discrète et n’a pas encore eu l’occasion d’apprendre à partir. 
+  
+ Vendredi. Confession. J’ai menti sur les choses habituelles. Le père Olm semblait distrait. Je lui ai demandé comment il allait. Il a répondu qu’il dormait mal, et que les bougies de la chapelle brûlaient faiblement. 
+  
+ La veille. La Flèche. Ceinture pourpre. Huitième coup de cloche. Voiture à la porte. 
+  
+ On m’a dit qu’il fallait, dans ces occasions, sourire.
+AR: الاثنين. القياس عند مدام أوفيرن عند رنة الجرس السادسة. شاي في قاعة ريفيرنس. ترتدي سيدة ديفيرو القرمزي، وبالطبع ترتدي، فخيالها لا يتعدى خيال زوجة مصرفي. وشاحٌ لي إذن؛ فلا يصح التطابق. 
+  
+ الثلاثاء. الهيئة المعاونة للكاتدرائية، ثم العشاء عند آل هيدريكس. إدموند يتذرع بضعف أعصابه ويرفض المجيء. لقد تذرع بذلك لثلاثة أسابيع متتالية. بدأت أشك في أن أعصابه لا تعرف شيئاً سوى التذرع. 
+  
+ الأربعاء. جلستُ لرسم صورتي. لاحظ الرسام أن القمر كان أحمر جداً مؤخراً، وسألني إن كنت قد لاحظت ذلك. قلت إن القمر لا يُلاحظ إذا كان المرء يرتدي ملابس لائقة. 
+  
+ الخميس. غداء مع فيفيان. قالت إن اثنين من موظفيها قدما استقالتهما دون تفسير. قدمتُ أنا استقالتي. لدي فتاة من بلدة بونتون ممتنة وهادئة ولم تتاح لها الفرصة بعد لتعلم كيفية الرحيل. 
+  
+ الجمعة. الاعتراف. كذبت بشأن الأمور المعتادة. بدا الأب أولم مشتتاً. سألت عن صحته. قال إن نومه ساء، وإن شموع الكنيسة تخبو. 
+  
+ ليلة الحدث. البرج. الوشاح القرمزي. رنة الجرس الثامنة. العربة عند الباب. 
+  
+ قيل لي إنه يجب، في هذه المناسبات، أن أبتسم. 
+ 
+
+#36 [None|lore] EALS_5_SubHead
+EN: A society datebook.
+FR: Un agenda mondain
+AR: مفكرة مواعيد اجتماعية.
+
+#37 [None|lore] EALS_5_Title
+EN: The Week of the Spire
+FR: La semaine de la Flèche
+AR: أسبوع البرج
+
+#38 [None|lore] EALS_6_SubHead
+EN: A letter from the cellar master.
+FR: Une lettre du caviste
+AR: رسالة من سيد القبو.
+
+#39 [None|lore] EALS_6_Title
+EN: Reply to Mr. Calder
+FR: Réponse à M. Calder
+AR: رد على السيد كالدر
+
+#40 [None|lore] EALS_7_BodyText
+EN: Halvern Room, half past the Tenth Bell. Knock twice, then once. Five of them — Devereaux, Halhurst, Old Pellaby, Tannig, Anderson. 
+  
+ Be brief. Be brief. Be brief. 
+  
+ Open with the joke about Halhurst's clocks. Clocks paid by the hour. Wait for the laugh. If they do not laugh, turn serious abruptly. 
+  
+ Then: the Church is exhausted... Sold its last seat three hundred years ago... No new pews... Nothing it could offer me would be enough even if it still had something to offer. 
+  
+ Then: Mr. Moore is the only ledger in the city large enough to carry what is coming. Not flattery. "This is merely Mathematics." 
+  
+ Then: buy in now, or be bought later. The wise man does not need this said twice. (say this out loud so they think of themselves wise) 
+  
+ The Veil... PAUSE HERE... The Veil is a wall between two rooms. One side has stopped paying its rent. The other side has been keeping the books for a thousand years. The rent is owed. The reopening is not a question. It is a date. 
+  
+ Tell them: my name is on the contract. 
+  
+ Tell them: I am not selling. I am inviting. 
+  
+ On Halhurst's daughter — only speak of her if he raises her name first. Then: She is well thought of by Master Felwyl. Let it sit. 
+  
+ Close. Slowly. We are not buyers. We are founders. We are the seed of the next House. 
+  
+ Smile. They will think it modesty. 
+ — B. C. 
+ 
+FR: Salle Halvern, au dixième coup de cloche et demi. Frappe deux fois, puis une. Ils sont cinq : Devereaux, Halhurst, le vieux Pellaby, Tannig et Anderson. 
+  
+ Sois bref. Sois bref. Sois bref. 
+  
+ Commence par la blague sur les horloges de Halhurst. Les horloges payées à l’heure. Attends qu’ils rient. S’ils ne rient pas, devient sérieux brusquement. 
+  
+ Puis : l’Église est épuisée... Elle a vendu son dernier siège il y a trois cents ans... Pas de nouveaux bancs... Rien de ce qu’elle pourrait m’offrir ne serait suffisant, même si elle avait encore quelque chose à offrir. 
+  
+ Puis : M. Moore est la seule personne de la ville dont le registre comptable est assez grand pour supporter ce qui va arriver. Ce n’est pas de la flatterie. « Ce ne sont que des mathématiques. » 
+  
+ Puis : achetez maintenant, ou vous serez achetés plus tard. Le sage n’a pas besoin qu’on lui dise deux fois. (Dis-le à voix haute pour qu’ils se croient sages.) 
+  
+ Le Voile... FAIS UNE PAUSE... Le Voile est un mur entre deux pièces. Un côté a cessé de payer son loyer. L’autre tient les comptes depuis mille ans. Le loyer est dû. La réouverture n’est pas une question. C’est un rendez-vous. 
+  
+ Dis-leur : mon nom est sur le contrat. 
+  
+ Dis-leur : je ne vends pas. J’invite. 
+  
+ Concernant la fille de Halhurst : ne parle d’elle que s’il mentionne son nom en premier.  
+  
+ Puis : Maître Felwyl a une haute opinion d’elle. Laisse reposer. 
+  
+ Conclus. En douceur. Nous ne sommes pas des acheteurs. Nous sommes des fondateurs. Nous sommes la graine de la prochaine maison. 
+  
+ Souris. Ils penseront que c’est de la modestie. 
+ – BC
+AR: غرفة هالفيرن، بعد الجرس العاشر بنصف. اطرق مرتين، ثم مرة واحدة. هم خمسة — ديفيرو، هالفيرست، بيلابي العجوز، تانيك، أندرسون. 
+  
+ كن موجزاً. كن موجزاً. كن موجزاً. 
+  
+ ابدأ بنكتة عن ساعات هالفيرست. الساعات تُدفع بالساعة. انتظر الضحك. إذا لم يضحكوا، تحول إلى الجدية فجأة. 
+  
+ ثم: الكنيسة منهكة… باعت آخر مقعد لها قبل ثلاثمئة عام… لا توجد مقاعد جديدة… وما عندها ما يكفيني، حتى لو بقي عندها شيء تقدمه. 
+  
+ ثم: السيد مور هو السجل الوحيد في المدينة الكبيرة بما يكفي لحمل ما هو قادم. ليس تملقاً. "هذه مجرد رياضيات." 
+  
+ ثم: اشترِ الآن، أو تُشترى لاحقاً. الرجل الحكيم لا يحتاج لسماع هذا مرتين. (قلها بصوت عالٍ ليحسبوا أنفسهم حكماء) 
+  
+ الحجاب… توقف هنا… الحجاب هو جدار بين غرفتين. أحد الجانبين توقف عن دفع الإيجار. والجانب الآخر يدير الدفاتر منذ ألف عام. الإيجار مستحق. إعادة الافتتاح ليست سؤالاً. إنها موعد. 
+  
+ أخبرهم: اسمي موجود في العقد. 
+  
+ أخبرهم: أنا لا أبيع. أنا أدعو. 
+  
+ عن ابنة هالفيرست — لا تتحدث عنها إلا إذا ذكر اسمها أولاً. ثم: المعلّم فِلويل يثني عليها. ثم اترك الجملة ترسخ. 
+  
+ اختم. ببطء. نحن لسنا مشترين. نحن مؤسسون. نحن بذرة البيت القادم. 
+  
+ ابتسم. سيظنون ذلك تواضعاً. 
+ — ب. س. 
+ 
+
+#41 [None|lore] EALS_7_SubHead
+EN: A speaker's notes.
+FR: Les notes d’un orateur
+AR: ملاحظات متحدث.
+
+#42 [None|lore] EALS_7_Title
+EN: After-Dinner Conversation
+FR: Conversation après le dîner
+AR: حديث ما بعد العشاء
+
+#43 [None|lore] EALS_8_SubHead
+EN: A note from one physician to another.
+FR: Note d’un médecin à un autre
+AR: ملاحظة من طبيب إلى آخر.
+
+#44 [None|lore] EALS_8_Title
+EN: Three, Not Two
+FR: Trois, pas deux
+AR: ثلاثة، لا اثنان
+
+#45 [None|lore] EALS_9_SubHead
+EN: A groundskeeper's almanac.
+FR: L’almanach d’un jardinier
+AR: تقويم بستاني.
+
+#46 [None|lore] EALS_9_Title
+EN: The Book Don't Know Them
+FR: Le livre ne les connaît pas
+AR: الكتاب لا يعرفهم
+
+#47 [None|lore] FSLS_10_BodyText
+EN: Shipments from the herbary have ceased completely now, so I’ve not been able to properly mix my tinctures.  
+  
+ I’ve had to dilute what supplies I have down to the point of imagination.  It’s just as well then that so much of the city has fled.  
+  
+ I had only one patient come in yesterday for her weekly powders. Usually, it's half-ash, half-desiccated bone broth that's prescribed for a touch of the dropsy, but now it's ash alone I have to serve.  
+  
+ Whether her constitution can tell the difference, I don't suppose I'm like to ever know.   
+  
+ Today, no one has come in at all. 
+  
+ It’s only the brave who stayed. And the foolish.   
+  
+ Since my own tincture for bravery—good mead—has long run out, I guess I know which I am.  
+  
+ I’ve nothing to share now but wishes and water.  
+  
+ But then, maybe that’s all I ever had.  
+FR: Les livraisons d’herbes ont complètement cessé. Je n’ai donc pas pu bien préparer mes teintures.  
+  
+ J’ai dû diluer au maximum ce qu’il me restait. Ce n’est finalement pas si mal que tant de gens de la ville aient fui.  
+  
+ Je n’ai reçu qu’une seule patiente hier, pour ses poudres hebdomadaires. D’habitude, pour traiter un œdème, je prescris un bouillon composé de cendres et d’os desséchés à parts égales, mais maintenant, je suis contraint de ne servir que des cendres.  
+  
+ Je ne pense pas que je saurai un jour si son corps peut faire la différence.  
+  
+ Aujourd’hui, personne n’est venu. 
+  
+ Seuls les braves sont restés. Et les fous.  
+  
+ Puisque ma propre teinture pour le courage – un bon hydromel – est depuis longtemps épuisée, je suppose que je sais à quelle catégorie j’appartiens.  
+  
+ Je n’ai plus rien à offrir, si ce n’est des vœux et de l’eau.  
+  
+ Mais peut-être que c’est tout ce que j’ai jamais eu.
+AR: توقفت شحنات الأعشاب تماماً الآن، لذا لم أتمكن من خلط مستحضراتي بشكل صحيح.  
+  
+ خففتُ ما بقي من إمدادات حتى صار خيالاً. من الجيد إذن أن الكثير من سكان المدينة قد فروا.  
+  
+ جاءت مريضة واحدة فقط بالأمس للحصول على مساحيقها الأسبوعية. عادةً، يُوصف لها مزيج من نصف الرماد ونصف مرق العظام المجفف لعلاج طفيف من الاستسقاء، لكن الآن لا أملك سوى الرماد لأقدمه لها.  
+  
+ وهل تفرّق بنيتها بين الاثنين؟ لا أحسبني سأعرف يوماً.  
+  
+ اليوم، لم يأتِ أحد على الإطلاق.  
+  
+ لم يبق إلا الشجعان. والحمقى.  
+  
+ بما أن مستحضري الخاص للشجاعة - شراب العسل الجيد - قد نفد منذ فترة طويلة، أظن أنني أعرف من أنا.  
+  
+ ليس لدي ما أقدمه الآن سوى التمنيات والماء.  
+  
+ ولكن ربما، هذا كل ما كان لدي دائماً.
+
+#48 [None|lore] FSLS_10_SubHead
+EN: Shortages and Worse
+FR: Pénuries et pire
+AR: نقص وأسوأ
+
+#49 [None|lore] FSLS_10_Title
+EN: Apothecary's Ledger
+FR: Registre de l’apothicaire
+AR: سجل الصيدلاني
+
+#50 [None|lore] FSLS_1_BodyText
+EN: Forgive me. I hope you live to see this, but I could not wait.  
+  
+ If you are reading this, brother, do not go home. The inquisition has both our names, though from whom I couldn't guess.  It might have been anyone, but it doesn't matter now. Anynmore than the truth matters.   
+  
+ So go West. Follow the river out, and head for the woods. Rember that place where grandfather took us hunting as children?   
+  
+ You got your first rabbit there, if I remember. A better shot than me, even then. 
+  
+ I pray I will see you again. If not in this life, then in the hereafter.  
+  
+ If I don’t make it, and you do, then know this about my last moments. I will try to take one of the bastards with me.   
+  
+ -Your brother
+FR: Pardonne-moi. J’espère que tu vivras assez longtemps pour voir ça, mais je ne pouvais pas attendre.  
+  
+ Si tu lis cette note, mon frère, ne rentre pas à la maison. L’Inquisition connaît nos deux noms, mais j’ignore qui les lui a donnés. Ça aurait pu être n’importe qui, mais cela n’a plus d’importance maintenant. Pas plus que la vérité n’a d’importance.  
+  
+ Alors va vers l’ouest. Suis le cours de la rivière et dirige-toi vers les bois. Tu te souviens de cet endroit où grand-père nous emmenait chasser quand nous étions enfants ?  
+  
+ Tu as eu ton premier lapin là-bas, si je me souviens bien. Tu étais déjà meilleur tireur que moi. 
+  
+ Je prie pour te revoir. Si ce n’est pas dans cette vie, alors dans l’au-delà.  
+  
+ Si je ne m’en sors pas, mais toi si, alors sache ceci à propos de mes derniers instants. Je vais essayer d’emporter une de ces ordures avec moi.  
+  
+ - Ton frère
+AR: سامحني. آمل أن تعيش لترى هذا، لكنني لم أستطع الانتظار.  
+  
+ إذا كنت تقرأ هذا يا أخي، فلا تعد إلى المنزل. محاكم التفتيش تملك اسمينا، ولا أدري ممن. قد يكون أي شخص، لكن لا يهم الآن. ولا تهم الحقيقة بعد الآن.  
+  
+ لذا اذهب غرباً. اتبع النهر خارجاً، وامضِ نحو الغابة. هل تتذكر ذلك المكان الذي أخذنا إليه جدي للصيد ونحن أطفال؟  
+  
+ صدتَ أول أرنب لك هناك، إن لم تخني الذاكرة. كنتَ أمهر مني رمياً، حتى يومها.  
+  
+ أصلي أن أراك مجدداً. إن لم يكن في هذه الحياة، ففي الحياة الأخرى.  
+  
+ إذا لم أنجُ وأنت نجوت، فاعلم هذا عن لحظاتي الأخيرة. سأحاول أن آخذ أحد هؤلاء الأوغاد معي.  
+  
+ -أخوك
+
+#51 [None|lore] FSLS_1_SubHead
+EN: Run, brother
+FR: Cours,mon frère
+AR: اركض، يا أخي
+
+#52 [None|lore] FSLS_1_Title
+EN: Found Note
+FR: Note trouvée
+AR: ملاحظة عُثر عليها
+
+#53 [None|lore] FSLS_2_BodyText
+EN: Gildenarch deserves what’s coming for it.  
+  
+ The city will be reborn, as we have been reborn. In pain. In suffering. Recast in fire and blood and in the searing bite of the dark ones.  
+  
+ It can be no other way. The church will see. 
+  
+ The high will be made low, and the low made high, as in the wake of the red gift all will be made blind with obedience. 
+  
+ You have to die to be reborn.  
+  
+ We've come to help with that.
+FR: Gildenarch mérite ce qui va lui arriver.  
+  
+ La ville renaîtra, comme nous l’avons fait. Dans la douleur. Dans la souffrance. Elle sera remodelée dans le feu, le sang et dans la morsure brûlante des créatures des ténèbres.  
+  
+ Il ne peut en être autrement. L’Église va voir. 
+  
+ Les grands deviendront petits, et les petits, grands, car dans le sillage du don rouge tous seront rendus aveugles par l’obéissance. 
+  
+ Il faut mourir pour renaître.  
+  
+ Nous sommes justement là pour cela.
+AR: تستحق قيلدنارك ما سيحل بها.  
+  
+ ستولد المدينة من جديد، كما ولدنا نحن من جديد. في الألم. في المعاناة. ستُعاد صياغتها في النار والدم وفي العضة الحارقة للكائنات المظلمة.  
+  
+ لا سبيل غيره. وسترى الكنيسة.  
+  
+ سيهبط العالون ويُرفع الدانون، وكما سيحدث في أعقاب العطية الحمراء، سيُعمى الجميع بالخضوع.  
+  
+ يجب أن تموت لتولد من جديد.  
+  
+ وقد جئنا نعين على ذلك.
+
+#54 [None|lore] FSLS_2_SubHead
+EN: Transcribed from the wall of St. Enoch.
+FR: Transcription tirée du mur de Saint-Hénoch
+AR: نُقلت عن جدار القديس إينوك.
+
+#55 [None|lore] FSLS_2_Title
+EN: Scrawlings
+FR: Gribouillis
+AR: خربشات
+
+#56 [None|lore] FSLS_3_BodyText
+EN: What's reborn can be rekilled. Remember that, you fools.  
+  
+ It's the cult that brought this down on all of us. I'd wager anything. 
+  
+ It was only me that ran.  
+  
+ It’s important I write that here, so it’s recorded. I’d want no stench of desertion to be levied against the others, who fought bravely to a man.  
+  
+ Their names should be clean, unlike mine—Daerun Bogmire, as it’s recorded in the sentry lists. A name, even bad as it is, that I couldn't live up to.  
+  
+ Or maybe I did live up to it.  To run is in my name. 
+  
+ What does heaven look like, I wonder? Or mayhap it’s hell I should be thinking on.  
+  
+ Soon I’ll know. The cut is deep, but that’s not what I’m afraid of. It’s the bite. The bite worries me. This bite that gives me frenzied thoughts.  
+  
+ It’s not too long now afore I go. I feel it rising, like a fever. Please forgive me.      
+  
+ I seen the walking bones. I knew them when they held flesh. Good men, some of them. Bad men, others. But as bones they are made equal as never they were in life. They are the damned. As soon am I.   
+  
+ Or am already.  
+  
+ Goodbye.  
+  
+ The Bogmire name dies with me.  Good riddance.
+FR: Ce qui renaît peut être tué à nouveau. Souvenez-vous-en, bande d’imbéciles.  
+  
+ C’est à la secte que nous devons nos malheurs. J’en mettrais ma main à couper. 
+  
+ Je suis le seul à avoir fui.  
+  
+ Il est important que j’écrive cela ici, pour que ce soit consigné. Je ne voudrais pas qu’on accuse les autres de désertion alors qu’ils ont combattu courageusement.  
+  
+ Leurs noms ne doivent pas être ternis, contrairement au mien – Daerun Bogmire, tel qu’indiqué sur les listes des sentinelles. Un nom, aussi mauvais soit-il, dont je n’ai pas pu me montrer digne.  
+  
+ Ou peut-être que si. Fuir est une habitude, dans la famille. 
+  
+ À quoi ressemble le paradis, je me le demande ? Mais peut-être que je devrais plutôt penser à l’enfer.  
+  
+ Je le saurai bientôt. La coupure est profonde, mais ce n’est pas ce qui me fait peur. C’est la morsure. La morsure m’inquiète. Cette morsure qui me donne des pensées frénétiques.  
+  
+ Je ne devrais plus tarder à partir. Je sens que ça monte, comme une fièvre. Pardonnez-moi, je vous prie.  
+  
+ J’ai vu les tas d’os ambulants. Je les connaissais quand ils étaient enveloppés de chair. Des hommes bons, pour certains. Et d’autres mauvais. Mais en tant que squelettes, ils sont égaux comme jamais ils ne l’ont été au cours de leur vie. Ce sont eux les damnés. Et j’en serai bientôt un moi aussi.  
+  
+ À moins que ce soit déjà le cas.  
+  
+ Adieu.  
+  
+ Le nom de Bogmire disparaît avec moi. Bon débarras.
+AR: ما يولد من جديد يمكن قتله مرة أخرى. تذكروا ذلك، أيها الحمقى.  
+  
+ الطائفة هي من جلبت هذا البلاء علينا جميعاً. أراهن على أي شيء. 
+  
+ أنا الوحيد الذي هرب.  
+  
+ من المهم أن أكتب ذلك هنا، لكي يُسجل. لا أريد أن تعلق شبهة الفرار بالآخرين، الذين قاتلوا بشجاعة حتى الرمق الأخير.  
+  
+ يجب أن تظل أسماؤهم طاهرة، على عكس اسمي—ديرون بوغماير، كما هو مسجل في قوائم الحرس. اسم، مهما كان سيئاً، لم أستطع أن أكون جديراً به.  
+  
+ أو ربما كنت جديراً به بالفعل. فالهرب هو ما يحمله اسمي. 
+  
+ أتُرى كيف تبدو الجنة؟ أو ربما يجب أن أفكر في الجحيم.  
+  
+ قريباً سأعرف. الجرح عميق، لكن ليس هذا ما أخشاه. إنها العضة. العضة هي ما يقلقني. هذه العضة التي تمنحني أفكاراً محمومة.  
+  
+ لم يبق كثير قبل أن أرحل. أشعر بها تتصاعد، مثل الحمى. أرجوكم سامحوني.  
+  
+ رأيت العظام السائرة. عرفتهم حين كانت تحمل اللحم. رجال صالحون، بعضهم. ورجال سيئون، آخرون. لكن كعظام، أصبحوا متساوين كما لم يكونوا أبداً في حياتهم. إنهم الملعونون. وسأكون كذلك قريباً.  
+  
+ أو ربما أنا ملعون بالفعل.  
+  
+ وداعاً.  
+  
+ اسم بوغماير يموت معي. ونعم الخلاص.
+
+#57 [None|lore] FSLS_3_SubHead
+EN: Final entry
+FR: Dernière entrée
+AR: المدخل الأخير
+
+#58 [None|lore] FSLS_3_Title
+EN: Watch Log
+FR: Journal de surveillance
+AR: سجل المراقبة
+
+#59 [None|lore] FSLS_4_BodyText
+EN: Another test subject was martyred today in pursuit of knowledge. We managed to keep his soul bound to flesh for nearly a fortnight after his heart stopped beating.  
+  
+ Just before he expired the second time, he looked up at me and spoke my mother’s name.  
+  
+ He could not possibly have known it, of course.  
+  
+ At least not before he died the first time.  
+  
+ He told me that my mother knew what I’d done. That she’d whispered to him that she was ashamed.  
+  
+ I told him my mother had been dead these many years, and asked where he'd heard the whispers.   
+  
+ He only smiled and said, "Not in Divine's Throne Room, that's for certain."
+FR: Un autre sujet de test a été martyrisé aujourd’hui dans notre quête de connaissances. Nous avons réussi à garder son âme liée à sa chair pendant près de quinze jours après que son cœur a cessé de battre.  
+  
+ Juste avant de mourir une seconde fois, il a levé les yeux vers moi et a prononcé le nom de ma mère.  
+  
+ Il ne pouvait bien sûr pas le connaître.  
+  
+ Du moins pas avant de mourir la première fois.  
+  
+ Il m’a dit que ma mère savait ce que j’avais fait. Qu’elle lui avait chuchoté qu’elle avait honte.  
+  
+ Je lui ai dit que ma mère était morte depuis de nombreuses années, et j’ai demandé où il avait entendu ces chuchotements.  
+  
+ Il a simplement souri et dit : « Pas dans la salle du trône du Divin, ça c’est sûr. »
+AR: استُشهد اليوم خاضعٌ آخر في سبيل المعرفة. أبقينا روحه مشدودة إلى جسده قرابة أسبوعين بعد توقف قلبه عن النبض.  
+  
+ وقبل أن يلفظ أنفاسه للمرة الثانية، نظر إليّ ونطق باسم والدتي.  
+  
+ ولم يكن له إلى معرفته سبيل، بالطبع.  
+  
+ على الأقل ليس قبل وفاته الأولى.  
+  
+ أخبرني أن والدتي كانت تعلم ما فعلته، وأنها همست له بأنها تشعر بالخزي.  
+  
+ أخبرته أن والدتي توفيت منذ سنوات طويلة، وسألته من أين سمع تلك الهمسات.  
+  
+ اكتفى بالابتسام وقال: "ليس في قاعة عرش الإله، هذا أمر مؤكد."
+
+#60 [None|lore] FSLS_4_SubHead
+EN: One I wish I could forget
+FR: J’aimerais pouvoir l’oublier
+AR: ما تمنيتُ لو أستطيع نسيانه
+
+#61 [None|lore] FSLS_4_Title
+EN: Experimental Log Book
+FR: Journal d’expérimentation
+AR: سجل تجارب
+
+#62 [None|lore] FSLS_5_BodyText
+EN: Your Eminence, I pray we are not too late. I don’t understand the church’s slow response to this threat. The Cult of the Reborn grows and grows, like a noxious and dangerous weed in the beautiful garden of our city, yet we do nothing! 
+  
+ They call us toothless old fools as they incite heresy in the street.  
+  
+ Why does the church not react? The influence of this cult increases by the day. There have been murders, kidnappings, and even rumors of heretical experimentations. Stories of abominations have reached my ears.   
+  
+ There is a sickness spreading through the world, and this cult is at the heart of it. 
+  
+ The enemy is not just at our doorstep, but also seated at our very tables. The Lunitarian Church must take action before the wound grows too great. Please, I implore you.   
+  
+ Ever your faithful servant, 
+  
+ -Father Ortney
+FR: Votre Éminence, je prie pour qu’il ne soit pas trop tard. Je ne comprends pas la lenteur de la réaction de l’Église face à cette menace. La secte des Nés à nouveau grandit sans cesse, comme une mauvaise herbe nocive et dangereuse dans le magnifique jardin de notre ville, et pourtant nous ne faisons rien ! 
+  
+ Ses adeptes nous traitent de vieux imbéciles sans dents tout en promouvant l’hérésie dans les rues.  
+  
+ Pourquoi l’Église ne réagit-elle pas ? L’influence de cette secte augmente de jour en jour. Il y a eu des meurtres, des enlèvements, et même des rumeurs d’expérimentations hérétiques. Des histoires d’abominations sont parvenues à mes oreilles.  
+  
+ Une maladie se propage dans le monde, et cette secte en est à l’origine. 
+  
+ L’ennemi n’est pas seulement à notre porte, mais aussi assis à nos propres tables. L’Église lunitérienne doit agir avant que la blessure ne s’aggrave. Je vous en supplie.  
+  
+ Votre fidèle serviteur, 
+  
+ - Père Ortney
+AR: يا صاحب النيافة، أدعو ألا نكون قد تأخرنا. لا أفهم سبب بطء استجابة الكنيسة لهذا التهديد. طائفة "المولودين من جديد" تتوسع وتنمو، كعشبة سامة وخطيرة في حديقة مدينتنا الجميلة، ومع ذلك لا نفعل شيئاً! 
+  
+ إنهم يصفوننا بالحمقى العجائز العاجزين بينما يحرضون على الهرطقة في الشوارع.  
+  
+ لماذا لا تتحرك الكنيسة؟ نفوذ هذه الطائفة يزداد يوماً بعد يوم. وقعت جرائم قتل، واختطافات، بل شائعات عن تجارب هرطقية. وصلت إلى مسامعي قصص عن أهوال مرعبة.  
+  
+ هناك مرض ينتشر في العالم، وهذه الطائفة هي في قلب هذا المرض. 
+  
+ ما العدو على أبوابنا فحسب، بل هو جالس على موائدنا. يجب على الكنيسة اللونيتارية اتخاذ إجراء قبل أن يتسع الجرح أكثر من اللازم. أرجوك، أتوسل إليك.  
+  
+ خادمك المخلص دائماً، 
+  
+ -الأب أورتني
+
+#63 [None|lore] FSLS_5_SubHead
+EN: Urgent
+AR: عاجل
+
+#64 [None|lore] FSLS_5_Title
+EN: Letter to Cardinal Mathias
+FR: Lettre au cardinal Mathias
+AR: رسالة إلى الكاردينال ماثياس
+
+#65 [None|lore] FSLS_6_BodyText
+EN: "The butcher Elias Godwin makes claim against two brothers."  
+  
+ "What claim?"  
+  
+ "Apostacy, heresy, beef-mancy."  
+  
+ "Beef-mancy?" 
+  
+ "They raised the man's butcher heap up from the dead, or so it's claimed. To walk out the door and down the street." 
+  
+ "That's some claim." 
+  
+ "It should be noted, the accused brothers are costermongers, in competition with the butcher.  There is some word of a possible financial dispute between the parties."  
+  
+ "Bring them all in. Have them purified."   
+  
+ "All? Even the accuser?" 
+  
+ "They will all confess to something."
+FR: « Le boucher Elias Godwin porte plainte contre deux frères. »  
+  
+ « Pour quel motif ? »  
+  
+ « Apostasie, hérésie, viandomancie. »  
+  
+ « Viandomancie ? » 
+  
+ « Ils ont ressuscité la viande du boucher, du moins c’est ce qu’il prétend. Elle serait sortie par la porte et aurait descendu la rue. » 
+  
+ « C’est une sacrée accusation. » 
+  
+ « Il faut noter que les frères accusés sont des marchands ambulants, en concurrence avec le boucher. Certaines rumeurs font état d’un possible différend financier entre les parties. »  
+  
+ « Amenez-les tous. Faites-les purifier. »  
+  
+ « Tous ? Même le plaignant ? » 
+  
+ « Ils finiront tous par avouer quelque chose. »
+AR: "يتقدم الجزار إلياس غودوين بدعوى ضد أخوين."  
+  
+ "أي دعوى؟"  
+  
+ "الردة، والهرطقة، وسحر اللحوم."  
+  
+ "سحر اللحوم؟" 
+  
+ "لقد أحيوا كومة لحوم الجزار من الموت، أو هكذا يُزعم. لتخرج من الباب وتمشي في الشارع." 
+  
+ "دعوى غريبة تلك." 
+  
+ "تجدر الإشارة إلى أن الأخوين المتهمين هما بائعان متجولان، في منافسة مع الجزار. وهناك بعض الأقاويل عن نزاع مالي محتمل بين الأطراف."  
+  
+ "أحضروهم جميعاً. طهّروهم."  
+  
+ "الجميع؟ حتى المدعي؟" 
+  
+ "سيعترف الجميع بشيء ما."
+
+#66 [None|lore] FSLS_6_SubHead
+EN: A Neighbor's Accusation
+FR: Accusation d’un voisin
+AR: اتهام من جار
+
+#67 [None|lore] FSLS_6_Title
+EN: Minutes of the Inquisitory Council. 
+FR: Compte rendu du conseil inquisitoire.
+AR: محاضر مجلس محاكم التفتيش.
+
+#68 [None|lore] FSLS_7_BodyText
+EN: The time has come, Mathias. We have belayed our response long enough. The disorder and chaos that we’ve allowed to fester within the city has now justified extreme action.   
+  
+ In fact, the people hunger for it. They yearn for the strength of the iron hand.  
+  
+ Even the worst heresy, sometimes, is an act in service to the greater good.  And make no mistake, there is no greater good without evil.  No advancement without destruction. No immortality without death.   
+  
+ The death of others, at least. 
+  
+ As prefect of the Doctrine, you've done your part, your Emminence. Now we will do ours. 
+  
+ The people have asked for the touch of the iron hand. 
+  
+ Now, Mathias, we will give them what they want.  
+  
+ -Solomon. 
+  
+ PS: The Divine has Infernus to banish souls to. We have Shoreditch Prison.
+FR: Le moment est venu, Mathias. Nous avons trop longtemps retardé notre réaction. Le désordre et le chaos que nous avons laissé s’installer dans la ville justifient désormais des mesures extrêmes.  
+  
+ En fait, les gens n’attendent que cela. Ils désirent la force d’une main de fer.  
+  
+ Même la pire des hérésies est parfois un acte au service du bien commun. Et ne vous y trompez pas, il n’y a pas de bien commun sans mal. Pas d’avancée sans destruction. Pas d’immortalité sans mort.  
+  
+ La mort des autres, du moins. 
+  
+ En tant que préfet de la doctrine, vous avez fait votre part, Votre Éminence. Maintenant, nous allons faire la nôtre. 
+  
+ Le peuple a demandé la main de fer. 
+  
+ À présent, Mathias, nous allons lui donner ce qu’il veut.  
+  
+ - Solomon. 
+  
+ PS : Le Divin dispose d’Infernus pour bannir les âmes. Nous, nous avons la prison de Shoreditch.
+AR: حان الوقت يا ماثياس. أخّرنا ردّنا ما يكفي. والفوضى التي تركناها تستشري في المدينة تبرر الآن اتخاذ إجراءات قصوى.  
+  
+ بل إن الناس يتعطشون إليه. إنهم يتوقون إلى قوة اليد الحديدية.  
+  
+ حتى أسوأ الهرطقات، أحيانًا، تكون فعلًا في خدمة الخير الأسمى. ولا تخطئ الظن: لا خير أسمى بلا شر. ولا تقدم بدون دمار. ولا خلود بدون موت.  
+  
+ موت الآخرين، على الأقل.  
+  
+ بصفتك مفوض العقيدة، فقد قمت بدورك يا صاحب النيافة. الآن سنقوم بدورنا.  
+  
+ لقد طلب الشعب لمسة اليد الحديدية.  
+  
+ الآن يا ماثياس، سنعطيهم ما يريدون.  
+  
+ -سولومون.  
+  
+ ملحوظة: فللإله الجحيم ينفي إليه الأرواح، ولنا نحن سجن شورديتش.
+
+#69 [None|lore] FSLS_7_SubHead
+EN: Let it Begin
+FR: Que cela commence
+AR: لتبدأ
+
+#70 [None|lore] FSLS_7_Title
+EN: Letter to Cardinal Mathias
+FR: Lettre au cardinal Mathias
+AR: رسالة إلى الكاردينال ماثياس
+
+#71 [None|lore] FSLS_8_BodyText
+EN: I heard the children singing in the courtyard today. A new rhyme lilting from their innocent little voices.   
+  
+ At first I didn't understand what they were saying, but when I did, I brought them in and put them to work on their numbers, forbidding them to speak for the rest of the day.   
+  
+ I copied down the rhyme here before I forgot, in case it's needed for evidence.   
+  
+ The rhyme goes- 
+  
+ "Where the red rash spreads, comes the never dead.  
+ Where pain flees, sunlight never sees.  
+ Where old age goes, the devil knows. The devil knows. The devil knows." 
+  
+ And then there was a second part, which would surely be some form of heresy if the inquisitors ever heard it. 
+  
+ "To the church goes the tithes  
+ To the kingdom the taxes 
+ To Hell goes the souls  
+ Who touch the Abraxas." 
+  
+ 
+FR: J’ai entendu les enfants chanter dans la cour aujourd’hui. Leurs petites voix innocentes déclamaient une nouvelle comptine.  
+  
+ Au début, je ne comprenais pas ce qu’ils disaient, mais quand j’ai compris, je les ai fait rentrer et je leur ai demandé de réviser leurs chiffres, leur interdisant de parler pour le reste de la journée.  
+  
+ J’ai écrit la comptine ci-dessous avant de l’oublier, au cas où elle puisse servir de preuve.  
+  
+ La comptine dit : 
+  
+ « Là où l’éruption rouge se propage, ceux qui ne meurent pas font rage.  
+ Là où la douleur fuit, les rayons du soleil sont proscrits.  
+ Là où vont les plus âgés, le diable le sait. Le diable le sait. Le diable le sait. » 
+  
+ Et puis il y avait une deuxième partie, qui serait sûrement une forme d’hérésie si les inquisiteurs l’entendaient un jour. 
+  
+ « À l’église vont les dîmes,  
+ Au royaume vont les impôts, 
+ En enfer vont les âmes,  
+ Qui touchent à l’Abraxas. » 
+  
+ 
+AR: سمعتُ الأطفال يغنون في الفناء اليوم. أهزوجة جديدة تتردد بأصواتهم الصغيرة البريئة.  
+  
+ في البداية لم أفهم ما كانوا يقولونه، ولكن عندما فهمت، أحضرتهم وكلّفتهم بمراجعة الحساب، ومنعتهم من الكلام بقية اليوم.  
+  
+ نسختُ الأهزوجة هنا قبل أن أنساها، في حال احتجنا إليها كدليل.  
+  
+ الأهزوجة تقول- 
+  
+ "حيث ينتشر الطفح الأحمر، يأتي من لا يموت أبداً.  
+ حيث يهرب الألم، لا يرى ضوء الشمس.  
+ حيث يذهب الهرم، يعرف الشيطان. يعرف الشيطان. يعرف الشيطان." 
+  
+ ثم كان هناك جزء ثانٍ، والذي سيكون بالتأكيد نوعاً من الهرطقة إذا سمعه المحققون يوماً ما. 
+  
+ "إلى الكنيسة تذهب العشور  
+ إلى المملكة تذهب الضرائب  
+ إلى الجحيم تذهب الأرواح  
+ التي تلمس أبراكساس." 
+  
+ 
+
+#72 [None|lore] FSLS_8_SubHead
+EN: Children's Rhyme
+FR: Comptine pour enfants
+AR: أهزوجة الأطفال
+
+#73 [None|lore] FSLS_8_Title
+EN: From the papers of the High Tutor
+FR: Extrait des documents du haut précepteur
+AR: من أوراق المعلم الأكبر
+
+#74 [None|lore] FSLS_9_BodyText
+EN: This one claimed to know nothing even after we broke his hands. We asked after his brother, but he would not give him up. Then we started on his feet. Then his tongue.   
+  
+ Eventually, we broke him. Or thought we had.  
+  
+ He feigned cooperation, and because he could no longer speak, motioned for a quill and parchment to be put in his hands for a signed confession.   
+  
+ We gave him a quill, but the moment the inks were put before him, he smiled bloodily and dashed the ink in the guard's eyes.  
+  
+ He managed to kill one of the inquisitors before he was put down. An ugly business.  
+  
+ His brother has yet to be found.
+FR: Celui-ci a prétendu ne rien savoir, même après que nous lui avons cassé les mains. Nous lui avons demandé où se trouvait son frère, mais il n’a rien voulu dire. Nous nous sommes ensuite attaqués à ses pieds. Puis à sa langue.  
+  
+ Nous avons finalement réussi à le faire craquer. Ou du moins, c’est ce que nous pensions.  
+  
+ Il a feint de coopérer et, comme il ne pouvait plus parler, a fait signe qu’on lui apporte une plume et un parchemin pour qu’il rédige sa confession.  
+  
+ Nous lui avons donné une plume, mais dès que l’encre a été déposée devant lui, il a souri de sa bouche ensanglantée et a jeté l’encre dans les yeux du garde.  
+  
+ Il a réussi à tuer un des inquisiteurs avant d’être abattu. Quelle affaire sordide...  
+  
+ Son frère n’a pas encore été retrouvé.
+AR: ادعى هذا الشخص أنه لا يعرف شيئاً حتى بعد أن كسرنا يديه. سألناه عن أخيه، لكنه أبى أن يسلّمه. ثم بدأنا بقدميه. ثم بلسانه.  
+  
+ في النهاية، كسرناه. أو هكذا ظننا.  
+  
+ تظاهر بالتعاون، ولمّا عجز عن الكلام أشار طالبًا ريشةً ولفافة ورق ليخطّ اعترافًا موقّعًا.  
+  
+ أعطيناه ريشة، ولكن بمجرد وضع الحبر أمامه، ابتسم بدموية ورش الحبر في عيني الحارس.  
+  
+ قتل أحد المفتشين قبل أن يُقضى عليه. عمل قذر.  
+  
+ ولم يُعثر على أخيه بعد.
+
+#75 [None|lore] FSLS_9_SubHead
+EN: The Brothers
+FR: Les frères
+AR: الإخوة
+
+#76 [None|lore] FSLS_9_Title
+EN: Document of the Inquisitors
+FR: Document des inquisiteurs
+AR: وثيقة المفتشين
+
+#77 [None|lore] FTUECamp_BodyText
+EN: We're running low on provisions. No help is coming. Trapped in here with...him...Viktyr. Damn him! This is all his fault. 
+  
+ There's nothing to eat in here but the vermin that live in this cave. I'm sick of dried rat. The bat isn't so bad, but I think it's making us sick... 
+  
+ I miss my home. I miss my stream where I could fish for hours. I miss my garden where  I grew my prize-winning gourds. I'm making myself hungry... 
+  
+ Why did I sign up for this? Why did I let Viktyr convince me this was the right thing to do, knowing what we were up against? 
+  
+ Not much time left. I'm so hungry. I hope he dies first. So hungry...I'm... 
+  
+ (the rest is burned away)
+FR: On manque de provisions. Aucune aide ne vient. Je suis coincé ici avec... lui... Viktyr. Maudit soit-il ! Tout est de sa faute. 
+  
+ Il n’y a rien à manger dans cette grotte, à part la vermine qui y vit. J’en ai assez du rat séché. La chauve-souris n’a pas si mauvais goût, mais je pense qu’elle nous rend malades... 
+  
+ Ma maison me manque. Mon ruisseau, où je pouvais pêcher pendant des heures, me manque. Mon jardin, où je cultivais mes courges primées, me manque. Mince, je me donne faim... 
+  
+ Pourquoi me suis-je engagé là-dedans ? Pourquoi ai-je laissé Viktyr me convaincre que c’était la bonne chose à faire, sachant à quoi nous faisions face ? 
+  
+ Il ne me reste plus beaucoup de temps. J’ai si faim. J’espère qu’il mourra en premier. J’ai si faim... Je suis... 
+  
+ (le reste est brûlé)
+AR: لقد نفدت المؤن. لن يأتينا أحد للمساعدة. أنا محاصر هنا معه… معه… ڤيكتير. اللعنة عليه! كل هذا بسببه. 
+  
+ لا يوجد ما نأكله هنا سوى القوارض التي تعيش في هذا الكهف. لقد سئمت من أكل الفئران المجففة. الخفاش ليس سيئاً جداً، لكنني أظن أنه يمرضنا… 
+  
+ أشتاق إلى منزلي. أشتاق إلى مجرى الماء حيث كنت أصطاد لساعات. أشتاق إلى حديقتي حيث كنت أزرع قرعي الفائز بالجوائز. صرت أجوّع نفسي بالتفكير… 
+  
+ لماذا تطوعت أصلاً؟ ولماذا تركت ڤيكتير يقنعني بأن هذا هو الصواب، وأنا أعلم ما نواجه؟ 
+  
+ لم يتبقَّ الكثير من الوقت. أنا جائع جداً. آمل أن يموت أولاً. جائع جداً… أنا… 
+  
+ (بقية الكلام احترقت)
+
+#78 [None|lore] FTUECamp_SubHead
+EN: Final Entry of a Soldier's Journal
+FR: Dernière entrée du journal d’un soldat
+AR: المدخل الأخير في يوميات جندي
+
+#79 [None|lore] FTUECamp_Title
+EN: Singed Note
+FR: Note brûlée
+AR: ملاحظة متفحمة
+
+#80 [None|lore] FeralNephilim1BodyText
+EN: Before the Lunitarian Church established the Crimson Concordat, attempts to reduce instances of Nephilim going feral were met with little success. Though some Nephilim made noble attempts at integration into civilian life, all it took was one to become possessed by their Angel to wreak havoc. 
+  
+ Reports from the tragic "Fire of Caragus" in 752 and the sinking of the Sister Susan revealed to humanity the danger posed by these beings. The incident in Caragus required two contingents of Crusaders to subdue, and the Sister Susan had no survivors.  
+  
+ Demands to protect the common folk began to outpace ethical considerations given the trials posed by the Greaet Reconstruction. 
+FR: Avant que l’Église lunitérienne n’instaure le Concordat pourpre, les tentatives de réduire les cas de Nephilims devenant sauvages avaient donné peu de résultats. Bien que certains Nephilims aient tenté de s’intégrer à la vie civile, il suffisait qu’un d’eux soit possédé par son ange pour que le chaos éclate. 
+  
+ Les récits du tragique « incendie de Caragus » en 752 et du naufrage du Sister Susan ont révélé à l’humanité le danger que représentaient ces êtres. L’incident de Caragus a nécessité l’intervention de deux contingents de croisés pour être maîtrisé, et aucun passager du Sister Susan n’a survécu.  
+  
+ Face aux défis présentés par la Grande reconstruction, les exigences relatives à la protection du peuple ont commencé à gagner du terrain sur les considérations éthiques.
+AR: قبل أن تؤسس الكنيسة اللونيتارية الميثاق القرمزي، لم تُجدِ المحاولات الرامية إلى تقليل حالات توحّش النيفيليم إلا نجاحاً ضئيلاً. ورغم أن بعض النيفيليم بذلوا محاولات نبيلة للاندماج في الحياة المدنية، فما كان يلزم إلا أن يتلبّس ملاكُ أحدهم به ليعمّ الخراب. 
+  
+ كشفت التقارير الواردة عن "حريق كاراقوس" المأساوي في عام 752 وغرق السفينة "سستر سوزان" للبشرية الخطرَ الذي تشكله هذه الكائنات. تطلب الحادث في كاراقوس إرسال فرقتين من الصليبيين لإخضاعها، ولم ينجُ أحد من السفينة "سستر سوزان".  
+  
+ بدأت المطالب بحماية عامة الشعب تتجاوز الاعتبارات الأخلاقية نظراً للتحديات التي فرضتها إعادة الإعمار الكبرى.
+
+#81 [None|lore] FeralNephilim1SubHead
+EN: History, Ethics & Divine Order
+FR: Histoire, éthique et Ordre divin
+AR: التاريخ والأخلاق والنظام الإلهي
+
+#82 [None|lore] FeralNephilim1Title
+EN: Nephilim & Man
+FR: Les Nephilims et l’Homme
+AR: نيفيليم وبشر
+
+#83 [None|lore] GRLS_1_Body
+EN: Dear Siron, I wanted to thank you for your assistance during your last month’s visit with the Karsivite Orthodoxy. The strained relationship between the sects is kept alive by men like you. Though many among the clergy are not happy with how the problem was solved, it was handled. They’d expected the Knight Commander of the Order to have slain the beast, not conscript him. Regardless, there are no more mysterious deaths, and we have you and the Knights of the Crimson Moon to thank for that.
+FR: Cher Siron, je voulais vous remercier pour votre aide lors de votre visite du mois dernier avec l’Orthodoxie karsivite. C’est grâce aux hommes comme vous que les sectes restent en relation, malgré la tension évidente. Bien que beaucoup de membres du clergé ne soient pas satisfaits de la manière dont le problème a été résolu, il a été traité. Ils s’attendaient à ce que le chevalier commandeur de l’Ordre tue la bête, pas qu’il l’enrôle. Quoi qu’il en soit, il n’y a plus de morts mystérieuses, et nous devons vous remercier pour cela, les Chevaliers de la Lune pourpre et vous.
+AR: عزيزي سيرون، أردت أن أشكرك على مساعدتك خلال زيارتك الشهر الماضي مع الأرثوذكسية الكارسيفية. العلاقة المتوترة بين الطوائف يبقيها حية رجال مثلك. ورغم أن كثيراً من رجال الدين لم يرضوا عن طريقة الحل، فقد حُلّت. توقعوا أن يقتل قائد فرسان الجماعة الوحش، لا أن يجنّده. بغض النظر عن ذلك، لم تعد هناك وفيات غامضة، ونحن مدينون لك ولفرسان القمر القرمزي بذلك.
+
+#84 [None|lore] GRLS_1_SubText
+EN: Letter
+FR: Lettre
+AR: رسالة
+
+#85 [None|lore] GRLS_1_Title
+EN: The Orthodoxy
+FR: L’Orthodoxie
+AR: الأرثوذكسية
+
+#86 [None|lore] GRLS_2_Body
+EN: The Karsivite pagans are a strange sort, not that any aren’t addled. The Conversions handled by the Orthodoxy are not ideal, but our sects are aligned enough, I suppose. Remember that mission in Ulsvelled 4 winters ago? Where we met with the tribes and provided food and supplies. They had a blacksmith amongst them, a strange one at that. Apparently he was an outsider, “raised by wolves” -quite literally. Well, that same tribe was the one that rose up and had to be put down by the Crusaders. It was only after that the murders among the Orthodoxy had begun. I heard a rumor that the vampire the Nephilim were sent to kill was that blacksmith. Even more insane to suggest, but the Nephilim have allegedly conscripted a new smith from those lands who is a vampire. I can’t confirm any of this but do understand that suspicion of pagans isn’t unfounded; we’ve been to their lands and see what madness occurs; it's only fitting Nephilim would take pity on them.
+FR: Les païens karsivites sont des gens étranges, même s’ils ne sont pas tous dérangés. Les conversions menées par l’orthodoxie ne sont pas idéales, mais nos sectes sont suffisamment sur la même longueur d’onde, je suppose. Vous vous souvenez de cette mission à Ulsvelled il y a quatre hivers ? Nous avions rencontré les tribus et leur avions fourni nourriture et matériel. Il y avait un forgeron dans l’une d’elles – un drôle de bonhomme, en plus. Apparemment, c’était un étranger, « élevé par des loups » – littéralement. Eh bien, c’est cette même tribu qui s’est soulevée et a dû être écrasée par les croisés. Ce n’est qu’après cela que les meurtres au sein de l’Orthodoxie ont commencé. J’ai entendu une rumeur selon laquelle le vampire que les Nephilims avaient été envoyés pour tuer, était ce même forgeron. Et c’est encore plus fou à imaginer, mais les Nephilims auraient enrôlé un nouveau forgeron originaire de ces terres, qui serait un vampire. Je ne peux rien confirmer de tout cela, mais comprenez bien que la méfiance envers les païens n’est pas infondée. Nous sommes allés sur leurs terres et avons vu la folie qui y règne. Ce n’est pas étonnant que les Nephilims aient pitié d’eux.
+AR: وثنيّو كارسيف طينة غريبة، وإن لم يكن جميع الناس عقلاء. عمليات التحويل التي تديرها الأرثوذكسية ليست مثالية، لكنني أظن أن طوائفنا متوافقة بما يكفي. هل تتذكر تلك المهمة في أولسفيلد قبل 4 شتاءات؟ حيث التقينا بالقبائل وقدمنا لهم الطعام والإمدادات. كان بينهم حداد، غريب الأطوار على وجه الخصوص. يبدو أنه كان غريباً عنهم، "تربّى على يد الذئاب" -بالمعنى الحرفي للكلمة. حسناً، تلك القبيلة نفسها هي التي تمردت، فقمعها الصليبيون. لم تبدأ جرائم القتل بين الأرثوذكسية إلا بعد ذلك. سمعت إشاعة بأن مصاص الدماء الذي أُرسل النيفيليم لقتله كان ذلك الحداد. والأجنّ من ذلك أن يقال إن النيفيليم جنّدوا حداداً جديداً من تلك الأراضي، وهو مصاص دماء. لا يمكنني تأكيد أي من هذا، لكنني أتفهم أن الشك في الوثنيين ليس بلا أساس؛ لقد زرنا أراضيهم ورأينا الجنون الذي يحدث هناك؛ ومن المنطقي أن يشفق النيفيليم عليهم.
+
+#87 [None|lore] GRLS_2_SubText
+EN: Letter
+FR: Lettre
+AR: رسالة
+
+#88 [None|lore] GRLS_2_Title
+EN: Remember the smith?
+FR: Vous vous souvenez du forgeron ?
+AR: هل تتذكر الحداد؟
+
+#89 [None|lore] GRLS_3_Body
+EN: We’ve received a request from the Knights of the Crimson Moon. Get this: they want to allow a Pagan Artifact from Karsiv in the halls of the Sanctus Clypeus to accommodate their blacksmith. This is not only absurd, it's literal heresy a violation of the faith. That Gallow’s Wraith is using the Concordat to test the limits of what is allowed within Velchoria. Excuse my outburst in this letter, but do let it sway you in your decision to grant this request.
+FR: Nous avons reçu une demande des Chevaliers de la Lune pourpre. Tenez-vous bien : ils veulent faire entrer un artéfact païen provenant de Karsiv à l’intérieur du Sanctus Clypeus pour subvenir aux besoins de leur forgeron. Ce n’est pas seulement absurde, c’est littéralement une hérésie, une violation de la foi. Ce Spectre de la potence utilise le Concordat pour tester les limites de ce qui est autorisé à Velchoria. Pardonnez-moi l’emportement dont je fais preuve dans cette lettre, mais laissez-le influencer votre décision d’accorder ou non cette demande.
+AR: تلقينا طلبًا من فرسان القمر القرمزي. استمع جيدًا: إنهم يريدون السماح بإدخال أثر وثني من "كارسيف" إلى قاعات "سانكتوس كليبيوس" لتلبية احتياجات حدادهم. ليس هذا سخفًا فحسب، بل هرطقة صريحة وانتهاك للعقيدة. إن "شبح المشنقة" يستخدم "الميثاق" لاختبار حدود المسموح به داخل "ڤلتشوريا". اعذر انفعالي في هذه الرسالة، ولكن دع ذلك يرجّح كفة قرارك في هذا الطلب.
+

@@ -1,0 +1,891 @@
+#0 [None|lore] GRLS_3_SubText
+EN: Letter
+FR: Lettre
+AR: رسالة
+
+#1 [None|lore] GRLS_3_Tile
+EN: An absurd request
+FR: Une demande absurde
+AR: طلب عبثي
+
+#2 [None|lore] GodsreachSpireFundingBodyText
+EN: Upon deliberation, the chapter's Finance Council has decided to grant Moore's request for the funding of the Godsreach Spire civic project. 
+  
+ 4,000,000 Drakes shall be granted in total, and split over two phases of the project upon completion of the milestones outlined during the hearing. 
+  
+ - Vicariate Administrative Consultant, Sergio Von Kulkan.
+FR: Après délibération, le Conseil des finances du Chapitre a décidé d’accéder à la demande de Moore concernant le financement du projet municipal intitulé « Flèche de Godsreach ». 
+  
+ Une somme totale de 4 000 000 draques sera octroyée, répartie sur les deux phases du projet une fois que les étapes définies lors de l'audience auront été atteintes. 
+  
+ - Consultant administratif du vicariat, Sergio Von Kulkan.
+AR: بعد المداولة، قرر المجلس المالي للمجمع الموافقة على طلب مور لتمويل المشروع المدني "برج قودزريتش". 
+  
+ يُمنح 4,000,000 دريكس إجمالاً، موزّعة على مرحلتين من المشروع عند بلوغ المراحل المحددة في جلسة الاستماع. 
+  
+ - مستشار إداري للنيابة، سيرجيو ڤون كولكان.
+
+#3 [None|lore] GodsreachSpireFundingSubHead
+EN: Official Correspondence
+FR: Correspondance officielle
+AR: مراسلات رسمية
+
+#4 [None|lore] GodsreachSpireFundingTitle
+EN: Godsreach Spire Funding
+FR: Financement de la Flèche de Godsreach
+AR: تمويل برج قودزريتش
+
+#5 [None|lore] HastilyScrawledNote
+EN: Hastily scrawled note
+FR: Note griffonnée à la hâte
+AR: ملاحظة كُتبت على عجل
+
+#6 [None|lore] Inquisition1BodyText
+EN: An inquisition? Has the Cardinal lost his mind? You don't need to convince me that this cult is a problem, but you aren't winning public favor by kicking in doors and turning people's homes over. This is exactly what these cretins want and the Archspire Chapter is playing right into it. Worse yet, there's talk of holding suspected heretics in Shoreditch Prison -can you believe it?! 
+  
+ This place is going to hell, and honestly, I want no part in it. I hope this note finds you Aeryn. If you've any sense, we'll ditch our post and flee through the sewers before nightfall. -Cretchys
+FR: Une inquisition ? Le cardinal a-t-il perdu la raison ? Vous n’avez pas besoin de me convaincre que cette secte est un problème, mais on ne gagne pas la faveur du public en défonçant des portes et en mettant les maisons des gens sens dessus dessous. C’est exactement ce que ces crétins veulent, et le Chapitre de l’Archspire rentre dans leur jeu. Pire encore, on parle d’enfermer les présumés hérétiques dans la prison de Shoreditch – vous vous rendez compte ?! 
+  
+ Cet endroit part en vrille, et honnêtement, je ne veux pas être mêlé à tout ça. J’espère que vous trouverez ce message, Aeryn. Si vous avez un peu de bon sens, nous abandonnerons notre poste et fuirons par les égouts avant la tombée de la nuit. -Cretchys
+AR: محاكم تفتيش؟ هل فقد الكاردينال عقله؟ لست بحاجة لإقناعي بأن هذه الطائفة تمثل مشكلة، لكنك لن تكسب تأييد العامة بكسر الأبواب وقلب منازل الناس رأساً على عقب. هذا هو بالضبط ما يريده هؤلاء الأغبياء، ومجمع أرشسباير يقع في فخهم تماماً. والأسوأ من ذلك، هناك حديث عن احتجاز المشتبه بهم بالهرطقة في سجن شورديتش -هل يمكنك تصديق ذلك؟! 
+  
+ هذا المكان ماضٍ إلى الجحيم، وبصراحة، لا أريد نصيباً منه. آمل أن تجدك هذه المذكرة يا آيرين. إن كان فيك عقل، تركنا موقعنا وهربنا عبر المجاري قبل حلول الليل. -كريتشيس
+
+#7 [None|lore] Inquisition1SubHead
+EN: Worn Bloody Note
+FR: Note abîmée et ensanglantée
+AR: ملاحظة ملطخة بالدماء وباهتة
+
+#8 [None|lore] Inquisition1Title
+EN: Desertion?
+FR: Désertion ?
+AR: فرار؟
+
+#9 [None|lore] Inquisition2BodyText
+EN: Under the Inquisition Act of 760, this property has been temporarily seized by the Archspire Chapter under suspicion of Heresy and Treason against the Lunitarian Empire. Prior owners are required to request an audience with the Chapter's Inquisition and undergo a thorough investigation before their property rights are restored. Any attempts to reclaim this property will be met with arrest and fines of up to 1000 Drakes. Failure to request a hearing will result in fines of up to 100 Drakes and may lead to extended suspension or loss of property rights. 
+  
+ Posting Start: 5/4/782 
+ Posting End: TBD 
+ Deadline to Request Hearing: 5/8/782 
+  
+ - Inquisitor Aldus Geory. Power vested in by Cardinal Mathias of the Archspire Chapter.
+FR: En vertu de la loi de l’Inquisition de 760, cette propriété a été temporairement saisie par le Chapitre de l’Archspire, pour soupçon d’hérésie et de trahison contre l’Empire lunitérien. Les anciens propriétaires doivent demander une audience auprès de l’Inquisition du Chapitre et se soumettre à une enquête approfondie avant que leurs droits de propriété ne soient rétablis. Toute tentative de récupération de cette propriété entraînera une arrestation et des amendes allant jusqu’à 1 000 draques. L’absence de demande d’audience entraînera des amendes allant jusqu’à 100 draques et pourra déboucher sur une suspension prolongée des droits de propriété ou leur perte. 
+  
+ Début de publication : 04/05/782 
+ Fin de publication : non déterminée 
+ Date limite pour demander une audience : 08/05/782 
+  
+ - Inquisiteur Aldus Geory. Pouvoir conféré par le cardinal Mathias du Chapitre de l’Archspire.
+AR: بموجب قانون محاكم التفتيش لعام 760، صادر مجمع أرشسباير هذه الملكية مؤقتًا للاشتباه في الهرطقة والخيانة ضد الإمبراطورية اللونيتارية. يجب على الملاك السابقين طلب مقابلة محاكم التفتيش التابعة للمجمع والخضوع لتحقيق شامل قبل استعادة حقوق ملكيتهم. أي محاولات لاستعادة هذه الملكية ستواجه بالاعتقال وغرامات تصل إلى 1000 دريكس. ومن لم يطلب جلسة استماع لزمته غرامات تصل إلى 100 دريكس وقد يؤدي إلى تعليق مطول أو فقدان حقوق الملكية. 
+  
+ تاريخ النشر: 5/4/782 
+ تاريخ انتهاء النشر: سيحدد لاحقًا 
+ الموعد النهائي لطلب جلسة استماع: 5/8/782 
+  
+ - المفتّش ألدوس جيوري. سلطة ممنوحة من الكاردينال ماثياس من مجمع أرشسباير.
+
+#10 [None|lore] Inquisition2SubHead
+EN: Weathered Property seizure notice
+FR: Avis de saisie vieilli
+AR: إشعار مصادرة ممتلكات متهالك
+
+#11 [None|lore] Inquisition2Title
+EN: NOTICE
+FR: AVIS
+AR: تنبيه
+
+#12 [None|lore] Inquisition3BodyText
+EN: By order of Sir Aldus Geory, we are to purge anyone suspected of the Reborn heresy from Gildenarch at ANY Cost. Executions on the spot if neccesary. 
+  
+ In addition, we have reason to suspect the cult is responsible for the plague. We must isolate the sick and dying from the healthy so the Church's Pyromancers can get to work once they arrive. 
+  
+ The situation is dire; the tendrils of heresy and disease infest many homes and we must act swiftly to quell the chaos.
+FR: Sur ordre de Sir Aldus Geory, nous devons à TOUT prix débarrasser Gildenarch de toute personne suspectée d’adhérer à l’hérésie des Nés à nouveau. Exécutez-les sur-le-champ si nécessaire. 
+  
+ De plus, nous avons des raisons de croire que la secte est responsable de l’épidémie. Nous devons isoler les malades et les mourants des personnes épargnées afin que les pyromanciens de l’Église puissent se mettre au travail dès leur arrivée. 
+  
+ La situation est critique. L’hérésie et la maladie infestent de nombreux foyers et nous devons agir rapidement pour mettre fin au chaos.
+AR: بأمر من السير ألدوس جيوري، علينا تطهير قيلدنارك من كل من يُشتبه في انتمائه لهرطقة المولودين من جديد، بأي ثمن. والإعدام في الموقع إن لزم. 
+  
+ بالإضافة إلى ذلك، لدينا أسباب للشك في أن الطائفة مسؤولة عن الوباء. يجب علينا عزل المرضى والمحتضرين عن الأصحاء ليبدأ سَحَرة النار في الكنيسة عملهم فور وصولهم. 
+  
+ الوضع خطير؛ فخيوط الهرطقة والمرض تنخر بيوتاً كثيرة، ويجب علينا التحرك بسرعة لإخماد الفوضى.
+
+#13 [None|lore] Inquisition3Title
+EN: Orders
+FR: Ordres
+AR: الأوامر
+
+#14 [None|lore] LALS_1_Body
+EN: Rite of Conscription invoked by Knight Commander Gallant Alexander 
+  
+ For the Prisoner Lotte Ananta. 
+  
+ Annulled Crimes: Several Counts of Burglary, Grand Larceny and Tax Evasion.  
+  
+ Prisoner is hereby released from Shoreditch into custody of the Knights of the Crimson Moon 
+ 
+FR: Rite de conscription invoqué par le chevalier commandeur Gallant Alexander 
+  
+ Pour le prisonnier Lotte Ananta. 
+  
+ Crimes annulés : plusieurs chefs d’accusation pour cambriolage, vol aggravé et fraude fiscale.  
+  
+ Le prisonnier est par la présente libéré de Shoreditch et confié aux Chevaliers de la Lune pourpre.
+AR: طقس التجنيد، استدعاه قائد الفرسان قالانت ألكسندر 
+  
+ للسجين لوتّه أنانتا. 
+  
+ الجرائم المُلغاة: عدة تهم بالسطو، والسرقة الكبرى، والتهرب الضريبي.  
+  
+ يُحرر السجين بموجب هذا من شورديتش ليكون تحت عهدة فرسان القمر القرمزي 
+ 
+
+#15 [None|lore] LALS_1_SubText
+EN: Release Form
+FR: Formulaire de libération
+AR: نموذج الإفراج
+
+#16 [None|lore] LALS_1_Title
+EN: The Thief
+FR: Le voleur
+AR: اللص
+
+#17 [None|lore] LALS_2_Body
+EN: The wanted criminal Lotte Ananta has been arrested after a break-in at the Archspire Cathedral this weekend. You can cross him off your list of troublemakers in this city; the charges alone will do him in, but the poor sucker got cursed after grabbing an artifact from the Church’s vaults. 
+  
+ Looks like his "magical abilities" didn’t spare him from this one.  
+ 
+FR: Le criminel recherché Lotte Ananta a été arrêté après avoir commis une effraction à la cathédrale de l’Archspire ce week-end. Vous pouvez le rayer de la liste des fauteurs de troubles dans cette ville. Les charges sont suffisantes pour l’envoyer à l’ombre, mais en plus, le pauvre bougre a été maudit après avoir dérobé un artéfact dans les coffres de l’Église. 
+  
+ On dirait bien que ses « pouvoirs magiques » ne lui ont pas été d’une grande utilité, cette fois.
+AR: اعتُقل المجرم المطلوب لوتّه أنانتا بعد اقتحام في كاتدرائية أرشسباير نهاية هذا الأسبوع. يمكنك شطبه من قائمة المزعجين في هذه المدينة؛ فالتهم وحدها كفيلة بتدميره، لكن المسكين تعرض للّعنة بعد استيلائه على أثر من أقبية الكنيسة. 
+  
+ ويبدو أن قدراته السحرية لم تنفعه هذه المرة. 
+ 
+
+#18 [None|lore] LALS_2_SubText
+EN: Note
+AR: ملاحظة
+
+#19 [None|lore] LALS_2_Title
+EN: We got him!
+FR: On l’a eu !
+AR: لقد أمسكنا به!
+
+#20 [None|lore] LALS_3_Body
+EN: This one’s beyond me; I’ve no idea what Gallant sees in that cretin. He’s actually gone and conscripted the thief from Archspire, for who knows what reason. He arrived at Shoreditch this last evening and demanded to see him. He looked the freak up and down and asked the guards to clear the room. After a few moments passed, he emerged and invoked the Rite of Conscription. Could it be the rumors about the thief are true? That his spirit can leave his body? Considering the state he’s in now, I’d imagine that ability might be useful.
+FR: Ça me dépasse. Je ne vois pas ce que Gallant trouve à ce crétin. Il a carrément enrôlé le voleur pris la main dans le sac chez l’Archspire, pour une raison qui m’échappe. Il est arrivé à Shoreditch hier soir et a exigé de le voir. Il a examiné ce monstre de la tête aux pieds et a demandé aux gardes de vider la pièce. Après quelques instants, il est ressorti et a invoqué le rite de conscription. Se pourrait-il que les rumeurs concernant le voleur soient fondées ? Son esprit peut-il vraiment quitter son corps ? Vu l’état dans lequel il est, j’imagine que cette capacité pourrait être utile.
+AR: هذا الأمر يفوق استيعابي؛ لا أدري ما الذي يراه قالانت في ذلك الأبله. جنّد اللص من أرشسباير فعلاً، لسبب لا يعلمه أحد. وصل إلى سجن شورديتش مساء أمس وطالب بمقابلته. تفحّصه من قمة رأسه إلى أخمص قدميه، ثم أمر الحراس بإخلاء الغرفة. وبعد لحظات خرج، فاستدعى طقس التجنيد. هل يمكن أن تكون الشائعات حول اللص صحيحة؟ أن روحه يمكنها مغادرة جسده؟ بالنظر إلى حالته الآن، أتخيل أن تلك القدرة قد تكون مفيدة.
+
+#21 [None|lore] LALS_3_Subtext
+EN: Note
+AR: ملاحظة
+
+#22 [None|lore] LALS_3_Title
+EN: We don't got him...
+FR: On ne l’a plus...
+AR: لقد فقدناه…
+
+#23 [None|lore] LCLS_1_Subhead
+EN: Religious Text
+FR: Texte religieux
+AR: نص ديني
+
+#24 [None|lore] LCLS_1_Title
+EN: Litany of the Holy Phases
+FR: Litanie des phases saintes
+AR: ترتيلة الأطوار المقدّسة
+
+#25 [None|lore] LCLS_2_Body
+EN: When Emperor Alonious of Saedrys laid down his crown before the Holy Lineage, the two parties agreed upon the following terms. 
+  
+ 1.	The Cessation of Old Ways 
+   a.	Velchorians will hereby reject the fallen gods who lost the cosmic war which befel our realm. The Velchorian Empire hereby recognizes Lunarin as the heir to the Cosmic Throne. 
+   b.	All former faiths will hereby be known as paganus. Gods of the Earth, and Archetypes of the Soul shall henceforth be rejected and are illegal within the Imperial realm. So that man might follow in Lunarin’s Holy Moonlight. 
+   c.	All Sites of old worship are to be converted or destroyed. Practice of the old ways in secrecy shall result in death or have death be evaded through conversion. 
+ 
+FR: Lorsque l’empereur Alonius de Saedrys déposa sa couronne devant la Lignée sacrée, les deux parties convinrent des conditions suivantes. 
+  
+ 1. L’abandon des anciennes croyances 
+ a. Les Velchoriens rejettent par la présente les dieux déchus qui ont perdu la guerre cosmique qui s’est abattue sur notre royaume. L’Empire velchorien reconnaît par la présente Lunarin comme héritier du Trône cosmique. 
+ b. Toutes les anciennes croyances seront désormais appelées « paganus ». Les dieux de la Terre et les archétypes de l’âme seront désormais rejetés et sont déclarés illégaux dans le royaume impérial, pour que l’homme puisse marcher dans le clair de lune sacré de Lunarin. 
+ c. Tous les anciens lieux de culte doivent être convertis ou détruits. La pratique clandestine des anciennes coutumes entraînera la mort, sauf en cas de conversion.
+AR: عندما وضع الإمبراطور ألونيوس من سايدريس تاجه أمام السلالة المقدّسة، اتفق الطرفان على الشروط التالية. 
+  
+ 1. إنهاء الطرق القديمة 
+  أ. يرفض الڤلتشوريون بموجب هذا الآلهة الساقطة التي خسرت الحرب الكونية التي أصابت عالمنا. وتُقر الإمبراطورية الڤلتشورية بموجب هذا لوناران وارثًا للعرش الكوني. 
+  ب. تُعرف جميع المعتقدات السابقة بموجب هذا باسم "باغانوس". وتُرفض آلهة الأرض وأنماط الروح من الآن فصاعداً، وتُعدّ غير قانونية داخل الإقليم الإمبراطوري، لكي يتبع الإنسان ضوء القمر المقدس الخاص بلوناران. 
+  ج. يجب تحويل جميع مواقع العبادة القديمة أو تدميرها. أما ممارسة الطرق القديمة سرًّا فعقابها الموت، ما لم يُتَح تفاديه بالتحوّل. 
+ 
+
+#26 [None|lore] LCLS_2_Subhead
+EN: Passage from a historical text
+FR: Passage de texte historique
+AR: مقتطف من نص تاريخي
+
+#27 [None|lore] LCLS_2_Title
+EN: The Velchorian Empire's Conversion
+FR: La conversion de l’Empire velchorien
+AR: تحويل الإمبراطورية الڤلتشورية
+
+#28 [None|lore] LCLS_3_Body
+EN: It has long been a point of contention regarding the origins of the Lunitarian faith. The accepted canon is that it was established by The Holy Lineage around 333. If we consider the Sentinel Conflict of 234, the faith’s earliest adopters must have existed more than a century ago. After the Sentinels were eradicated and Emperor Alonious abdicated the Imperial Throne, the faith wrote the history books.
+FR: Les origines de la foi lunitérienne font depuis longtemps l'objet de controverses. Selon la version officielle, elle aurait été fondée par la Lignée sacrée vers l'an 333. Si l'on tient compte du conflit des sentinelles de 234, les premiers adeptes de cette foi devaient donc exister plus d'un siècle auparavant. Après l'éradication des sentinelles et l'abdication de l'empereur Alonious, ce sont les partisans de cette foi qui ont rédigé les livres d'histoire.
+AR: لطالما كانت أصول العقيدة اللونيتارية موضع جدل. فالمعتمد أن السلالة المقدّسة أسستها قرابة عام 333. وإذا أخذنا في الاعتبار صراع الرقباء عام 234، فلا بد أن أول من تبنى العقيدة قد وُجد قبل أكثر من قرن. وبعد إبادة الرقباء وتنازل الإمبراطور ألونيوس عن العرش الإمبراطوري، كتبت العقيدة كتب التاريخ.
+
+#29 [None|lore] LCLS_3_Subhead
+EN: Passage
+AR: مقتطف
+
+#30 [None|lore] LCLS_3_Title
+EN: On Origins of Faith
+FR: À propos des origines de la foi
+AR: حول أصول الإيمان
+
+#31 [None|lore] LPLS_1_Subhead
+EN: HIstorical Text
+FR: Texte historique
+AR: نص تاريخي
+
+#32 [None|lore] LPLS_1_Title
+EN: The Lord of Perdition
+FR: Le Seigneur de la perdition
+AR: سيّد الهلاك
+
+#33 [None|lore] LPLS_2_BodyText
+EN: I know you weren't exactly thrilled about being down 3 men this evening but I cannot have the Archspire breathing down my neck over your choice of help. Those Armaean mercenaries have a repuation in these lands consorting with the Lord of Perdition and that's a recipee to have the Lunitarians banging down our door. Figureo out your patrol on your own tongith.
+FR: Je sais que vous n’étiez pas vraiment ravi de devoir vous débrouiller avec trois hommes de moins ce soir, mais je ne veux pas que l’Archspire vienne me chercher des poux à cause de votre choix de renforts. Dans nos contrées, ces mercenaires armaéens ont la réputation de vénérer le Seigneur de la perdition. Les embaucher nous aurait à coup sûr valu une visite impromptue des Lunitériens. Débrouillez-vous tout seul pour organiser votre patrouille cette nuit.
+AR: أعلم أنك لم تكن سعيداً تماماً بوجود 3 رجال أقل معك هذا المساء، لكني لا أحتمل أن يتنفس أرشسباير في قفاي بسبب اختيارك للمساعدين. هؤلاء المرتزقة الأرميين لديهم سمعة في هذه الأراضي بالتحالف مع سيّد الهلاك، وتلك وصفة تجلب اللونيتاريين إلى بابنا. رتّب دوريتك بنفسك الليلة.
+
+#34 [None|lore] LPLS_2_Subhead
+EN: Letter
+FR: Lettre
+AR: رسالة
+
+#35 [None|lore] LPLS_2_Title
+EN: No Pagan Mercs!
+FR: Pas de mercenaires païens !
+AR: لا وجود لمرتزقة وثنيين!
+
+#36 [None|lore] LPLS_3_BodyText
+EN: Once more I am roused from my sleep by gut wrenching nightmares. I cannot persist this way, my lack of rest is driving me to madness. Everytime I sleep I am witness to a burning sky and rain of embers. The field lies barren and the air burns lungs as my eyes bleed. As I blink rapidly I see them In the distance, the terrible riders, large men clade in spiked plate flailing severed heads and raising their swords. I get up to run away but am met with a towering fiend in the distance. A massive beast with chest opened wide wielding a club, it bellows a deep unsettling laugh as the riders sing in unison. Before I know it I feel the hooves of horses crucsh my skull and I awaken.
+FR: Une fois de plus, je suis réveillé par des cauchemars déchirants. Ça ne peut plus durer, le manque de repos me rend fou. Chaque fois que je dors, je me retrouve sous un ciel en feu et une pluie de braises. La campagne est désolée, l’air me brûle les poumons et mes yeux saignent. En clignant rapidement des yeux, je les vois au loin : les terribles cavaliers, de grands hommes portant des armures à pointes, agitant des têtes coupées et brandissant leurs épées. Je me lève pour m’enfuir, mais je suis confronté à un monstre imposant au loin. Une bête gigantesque, la poitrine grande ouverte, brandissant une massue. Elle émet un rire grave et inquiétant tandis que les cavaliers chantent à l’unisson. Avant même de m’en rendre compte, je sens les sabots des chevaux m’écraser le crâne et je me réveille.
+AR: مرة أخرى، أستيقظ من نومي على كوابيس تمزق أحشائي. لا أقوى على الاستمرار هكذا، فقلة الراحة تسوقني إلى الجنون. في كل مرة أنام فيها، أشهد سماءً مشتعلة ومطرًا من الجمر. الحقل قاحل، والهواء يحرق الرئتين، وعيناي تنزفان. وبينما أرمش بسرعة، أراهم في الأفق؛ الفرسان الرهيبون، رجال ضخام يرتدون دروعًا مسننة يلوحون برؤوس مقطوعة ويرفعون سيوفهم. أنهض لأهرب ولكن أواجه شيطانًا شاهقًا في الأفق. وحشًا ضخمًا بصدر مفتوح على اتساعه يلوح بهراوة، يطلق ضحكة عميقة ومزعجة بينما يغني الفرسان بصوت واحد. وقبل أن أدرك، أحسّ بحوافر الخيل تسحق جمجمتي، فأستيقظ.
+
+#37 [None|lore] LPLS_3_SubHead
+EN: Journal
+AR: يوميات
+
+#38 [None|lore] LPLS_3_Title
+EN: The Dream
+FR: Le rêve
+AR: الحلم
+
+#39 [None|lore] LunitarianFaithSaintUrielBodyText
+EN: We dedicate this chapel to St.Uriel of Caragus. The patron of the downtrodden, whose charity, goodwill, and unconditional love gave light to those who lost their way during the Great Reconstruction. 
+  
+ "Holy is he, who leads the lost back to their hearth. Whether in place or spirit, none shall be left to wander alone in the dark, so long as Lunarin’s moonlight guides their way."
+FR: Nous dédions cette chapelle à saint Uriel de Caragus, patron des opprimés, dont la charité, la bienveillance et l’amour inconditionnel ont éclairé ceux qui s’étaient égarés pendant la Grande reconstruction. 
+  
+ « Saint est celui qui ramène les égarés à leur foyer. Que ce soit physiquement ou spirituellement, nul n’errera seul dans l’obscurité tant que le clair de lune de Lunarin guidera son chemin. »
+AR: نكرّس هذا المصلى للقديس أورييل من كاراقوس، شفيع المظلومين، الذي أنار بصدقته وطيب نيته وحبه بلا شرط من ضلّوا الطريق خلال إعادة الإعمار الكبرى. 
+  
+ "مقدس هو من يقود التائهين عائدين إلى ديارهم. سواء في الجسد أو الروح، لن يُترك أحد ليُهيم وحيداً في الظلام، طالما أن ضوء قمر لوناران يضيء طريقهم."
+
+#40 [None|lore] LunitarianFaithSaintUrielTitle
+EN: St. Uriel's Chapel
+FR: Chapelle Saint-Uriel
+AR: مصلى القديس أورييل
+
+#41 [None|lore] MALS_1_Body
+EN: Gallant, 
+ Your prose... beautiful as ever.  
+ But once again, all that comes of it are lies. Youth believes love can conquer all. But the books tell me otherwise.  
+ I waited under the willow. I watched the stars twinkle and fade. Fire to coal, my heart moved with them—as I realized, you were not coming.  
+ I cursed you. I even threw a book! Can you imagine? Of course I quickly dusted it off and set it back atop the shelf – what has The Traveling Tales of Tiverna ever done to me?  
+ But all of that was before I got the news.  
+ It’s worse than I feared. It’s not that you forgot me for one night. It’s that you’re gone forever, a fading star out of reach.  
+ I have no idea where you are, but your Officer says this will reach you. Of course I don’t believe him, but writing is a healing of its own. 
+ Goodbye my love.  
+ We were young once. 
+ Watching branches glitter the stars 
+ But youth leaves us now  
+ As we leave each other naught but scars. 
+  
+ Your faded star, 
+ Mereda 
+ 
+FR: Gallant, 
+ Ta prose... toujours aussi belle.  
+ Mais cette fois encore, il n’en ressort que des mensonges. Les jeunes croient que l’amour peut triompher de tout. Mais les livres me disent le contraire.  
+ J’ai attendu sous le saule. J’ai regardé les étoiles scintiller et s’éteindre. De la flamme au charbon, mon cœur suivait leur mouvement – alors que je réalisais que tu ne viendrais pas.  
+ Je t’ai maudit. J’ai même jeté un livre ! Tu te rends compte ? Bien sûr, je l’ai rapidement dépoussiéré et reposé sur l’étagère – qu’est-ce que Les Contes itinérants de Tiverna m’a jamais fait ?  
+ Mais tout ça, c’était avant que j’apprenne la nouvelle.  
+ C’est pire que ce que je craignais. Tu ne m’as pas oubliée le temps d’une nuit. Tu es parti pour toujours, comme une étoile qui s’éteint, hors de portée.  
+ Je n’ai aucune idée de l’endroit où tu te trouves, mais ton officier dit que cette missive te parviendra. Bien sûr, je ne le crois pas, mais écrire est une guérison en soi. 
+ Adieu, mon amour.  
+ Autrefois, quand nous étions jeunes, 
+ Nous regardions les branches scintiller sous le ciel étoilé. 
+ Aujourd’hui, alors que la jeunesse nous abandonne,  
+ De notre histoire seules subsistent les blessures cicatrisées. 
+  
+ Ton étoile fanée, 
+ Mereda 
+ 
+AR: قالانت، 
+ نثرُك… جميل كالعادة.  
+ لكنه، كعادته، لا يحمل غير الكذب. يعتقد الشباب أن الحب يمكنه قهر كل شيء. لكن الكتب تخبرني بعكس ذلك.  
+ انتظرتُ تحت شجرة الصفصاف. راقبتُ النجوم وهي تتلألأ وتخبو. من نار إلى جمر، تحرك قلبي معها—بينما أدركتُ أنّك لن تأتي.  
+ لعنتك. بل رميتُ كتاباً! أتتخيل؟ بالطبع مسحتُه بسرعة وأعدتُه إلى الرف– ما الذي فعله كتاب "حكايات تيفيرنا المسافرة" لي يوماً؟  
+ لكن كل ذلك كان قبل أن أتلقى الأخبار.  
+ الأمر أسوأ مما خشيت. ليس أنك نسيتني ليلة واحدة. بل أنك رحلتَ للأبد، نجمٌ باهت بعيد المنال.  
+ لا أدري أين أنت، لكن ضابطك يقول إن هذه ستصلك. بالطبع لا أصدقه، لكن الكتابة هي شفاء من نوعها.  
+ وداعاً يا حبيبي.  
+ كنا شابين ذات مرة.  
+ مراقبة الأغصان تتلألأ بالنجوم  
+ لكن الشباب يغادرنا الآن  
+ بينما لا نترك لبعضنا سوى الندوب.  
+  
+ نجمتكِ الباهتة،  
+ ميريدا  
+ 
+
+#42 [None|lore] MALS_1_SubHead
+EN: Letter
+FR: Lettre
+AR: رسالة
+
+#43 [None|lore] MALS_1_Title
+EN: Your Faded Star
+FR: Ton étoile fanée
+AR: نجمتك الباهتة
+
+#44 [None|lore] MALS_2_Body
+EN: How could the knight who killed Valahk Nor, Gallant the Wise, The Honest, The Kind, Gallant the Brave be executed by the same Church he saved?  
+ Today is the day the Church took my faded star in their palm and blotted it from the sky. 
+ Gone, gone, gone forever more. 
+ Oh Gallant, if ever I held on to a fleck of youth, a fleck of hope, I drop it now and fold it into this letter for you. The last part of me that I saved, I give freely now, in this final letter. This farewell to your tomb. 
+ Of course I’ll remember.  
+ Even if easier to forget.  
+ I shall never forgive the Church for this day. 
+ I renounce and study at Elk Grove Academy. 
+  
+ May every book bring memories of you 
+ As you rest ever after in your tomb 
+ --Mereda 
+ 
+FR: Comment le chevalier qui a tué Valahk Nor, Gallant le Sage, l’Honnête, le Bienveillant, Gallant le Vaillant a-t-il pu être exécuté par l’Église même qu’il a sauvée ?  
+ Aujourd’hui, l’Église a pris mon étoile fanée dans sa paume et l’a effacée du ciel. 
+ Parti, parti, parti pour toujours. 
+ Ô Gallant, si jamais j’ai gardé une once de jeunesse, une once d’espoir, je m’en sépare maintenant et la dépose dans cette lettre qui t’est destinée. La dernière partie de moi que j’ai préservée, je la donne librement à présent, dans cette dernière lettre. Cet adieu à ta tombe. 
+ Bien sûr que je m’en souviendrai.  
+ Même si c’est plus facile à oublier.  
+ Je ne pardonnerai jamais à l’Église ce jour-là. 
+ J’abandonne mes études à l’académie d’Elk Grove. 
+  
+ Que chaque livre me rappelle ton souvenir, 
+ Pendant que tu reposes pour toujours dans ta tombe. 
+ - Mereda
+AR: كيف للفارس الذي قتل ڤالاك-نور، قالانت الحكيم الأمين الطيب، قالانت الشجاع، أن تُعدمه الكنيسة نفسها التي أنقذها؟  
+ اليوم هو اليوم الذي أخذت فيه الكنيسة نجمتي الباهتة في راحة كفها ومحتها من السماء. 
+ رحل، رحل، رحل للأبد. 
+ أوه يا قالانت، إذا كنت قد تمسكت يوماً بلمحة من الشباب، بلمحة من الأمل، فأنا أتركها الآن وأطويها في هذه الرسالة لك. الجزء الأخير مني الذي حافظت عليه، أمنحه الآن طواعية، في هذه الرسالة الأخيرة. هذا الوداع لقبرك. 
+ بالطبع سأتذكر. 
+ حتى لو كان النسيان أسهل. 
+ لن أغفر للكنيسة أبداً لهذا اليوم. 
+ أتبرأ منها، وألتحق بأكاديمية إلك قروڤ للدراسة. 
+  
+ عسى أن يحمل كل كتاب ذكراك 
+ بينما ترتاح للأبد في قبرك 
+ --ميريدا 
+ 
+
+#45 [None|lore] MALS_2_Subhead
+EN: Letter
+FR: Lettre
+AR: رسالة
+
+#46 [None|lore] MALS_2_Title
+EN: I'll never forgive them
+FR: Je ne leur pardonnerai jamais
+AR: لن أغفر لهم أبداً
+
+#47 [None|lore] MALS_3_Body
+EN: Gallant, 
+ I would have thought you writing impossible if not for the nameless things of study at the academy.  
+ Let me say: your offer is quite intriguing. Intriguing, indeed. You must tell me more of this library of untouched tomes. Such is the way to an old witch’s heart. 
+ But dear, if I do come help you with this “Order,” you must know—the girl you knew, she died when you first did, many years ago.  
+ I shed my youth with the stars, and I haven’t believed in willow trees since my sky went black at the beginning of time.  
+ Mereda 
+ 
+FR: Gallant, 
+ Je pensais qu’il t’était impossible d’écrire quoi que ce soit hors du cadre des choses sans nom qu’on étudie à l’académie.  
+ Laisse-moi te dire que ton offre est assez intrigante. Ça oui. Tu dois m’en dire plus sur cette bibliothèque de tomes intacts. C’est ainsi que l’on touche le cœur d’une vieille sorcière. 
+ Mais mon cher, si je viens t’aider avec cet « Ordre », tu dois savoir que la fille que tu connaissais est morte lorsque tu as péri pour la première fois, il y a de nombreuses années.  
+ J’ai abandonné ma jeunesse aux étoiles, et je ne crois plus aux saules depuis que mon ciel est devenu noir au commencement des temps.  
+ Mereda
+AR: قالانت، 
+ كنت أحسب كتابتك مستحيلة، لولا ما يُدرس في الأكاديمية من أشياء لا اسم لها.  
+ دعني أقول: عرضك مثير للاهتمام حقاً. مثير للاهتمام بالفعل. حدّثني أكثر عن مكتبة المجلدات التي لم تُمس تلك. فهكذا يُؤخذ قلب ساحرة عجوز. 
+ ولكن يا عزيزي، إذا جئتُ حقاً لمساعدتك في هذه "الجماعة"، فعليك أن تعلم—الفتاة التي عرفتها، لقد ماتت عندما متَّ للمرة الأولى، منذ سنوات طويلة. 
+ لقد ألقيتُ بشبابي مع النجوم، ولم أؤمن بأشجار الصفصاف منذ أن أظلمت سمائي في بداية الزمان. 
+ ميريدا 
+ 
+
+#48 [None|lore] MALS_3_Subhead
+EN: Letter
+FR: Lettre
+AR: رسالة
+
+#49 [None|lore] MALS_3_Title
+EN: The Shedding of Youth
+FR: L’abandon de la jeunesse
+AR: التخلي عن الشباب
+
+#50 [None|lore] MMLS_10_BodyText
+EN: Fewyl, the manor and the city is now yours as was promised. I will remain in the Spire overseeing the first stages of the invasion until the Legion’s armada is ready, then I shall take my leave from this wretched world. Valahk – Nor’s forces have already taken the Celestial Mountains in Purgatory, so all that remains is for the veil to fall. Its taken us a long time for this moment to come to fruition and I have you to thank for your part. 
+  
+ Perhaps once the Legion has conquered Eden we may yet meet again. Until then. 
+  
+ Solomon Moore. 
+ 
+FR: Fewyl, le manoir et la ville sont désormais à vous, comme promis. Je resterai dans la Flèche pour superviser les premières étapes de l’invasion jusqu’à ce que l’armada de la légion soit prête, puis je prendrai congé de ce monde misérable. Les forces de Valahk-Nor ont déjà pris les Montagnes célestes du Purgatoire, il ne reste donc plus qu’à faire tomber le voile. Il nous a fallu beaucoup de temps pour que ce moment se concrétise et je vous remercie pour le rôle que vous avez joué. 
+  
+ Peut-être que nous nous reverrons une fois que la légion aura conquis Éden. 
+  
+ Solomon Moore
+AR: فِلويل، القصر والمدينة ملكك الآن كما وُعدت. سأبقى في البرج مشرفاً على المراحل الأولى من الغزو حتى يصبح أسطول الفيلق جاهزاً، وعندها سأغادر هذا العالم البائس. استولت قوات ڤالاك-نور على الجبال السماوية في المطهر، فلم يبق إلا أن يسقط الحجاب. طال انتظار هذه اللحظة، ولك مني الشكر على دورك. 
+  
+ ربما عندما يغزو الفيلق إيدن قد نلتقي مجدداً. حتى ذلك الحين. 
+  
+ سولومون مور. 
+ 
+
+#51 [None|lore] MMLS_10_SubHead
+EN: Journal Entry
+FR: Entrée de journal
+AR: مدخل في المذكرات
+
+#52 [None|lore] MMLS_10_Title
+EN: This is Goodbye. For now.
+FR: Ce n’est qu’un au revoir
+AR: هذا وداع. في الوقت الحالي.
+
+#53 [None|lore] MMLS_1_BodyText
+EN: I’ve returned from the company’s dinner. My efforts to influence the Archbishop have been unsuccessful; I may have to apply additional pressure to gain access to the Stones. He is not reliable, I am afraid; his skepticism may be thwarted by the Chapter’s desperation, but even then, he is far too stubborn. One door closes, and another opens, of course. I met the charismatic Cardinal Mathias this evening. As devout, if not more than the Archbishop, yet desperately hoping to see the city’s revival. If I can somehow replace the Archbishop with Mathias, I might yet have my way. Mathias wants to see the city thrive once again, and so it shall be. Nachtstahl Steel shall lead this effort. Then, I shall have what is mine.
+FR: Je reviens du dîner organisé par la compagnie. Mes efforts pour influencer l’archevêque ont été infructueux. Je vais peut-être devoir faire davantage pression pour accéder aux pierres. Il n’est pas fiable, j’en ai bien peur. Son scepticisme pourrait se heurter au désespoir du Chapitre, mais même dans ce cas, il est bien trop têtu. Une porte se ferme et une autre s’ouvre, bien sûr. J’ai rencontré le charismatique cardinal Mathias ce soir. Il est aussi pieux, sinon plus, que l’archevêque, mais il espère désespérément voir la ville reprendre vie. Si je trouve un moyen de remplacer l’archevêque par Mathias, je peux peut-être encore arriver à mes fins. Mathias veut voir la ville prospérer à nouveau, et ce sera le cas. Les aciéries Nachtstahl Steel mèneront cet effort. Alors, j’aurai ce qui m’appartient.
+AR: عدتُ من عشاء الشركة. لم تفلح جهودي في التأثير على رئيس الأساقفة؛ قد أضطر لممارسة ضغوط إضافية للحصول على الأحجار. أخشى أنه ليس موثوقاً؛ قد ينجح يأس المجمع في كسر شكوكه، ولكن حتى حينها، سيظل عنيداً للغاية. بابٌ يُغلق، وآخرٌ يُفتح، بطبيعة الحال. التقيت هذا المساء بالكاردينال ماثياس، وهو أخّاذ. إنه متدين، إن لم يكن أكثر من رئيس الأساقفة، ومع ذلك يأمل بشدة في رؤية المدينة تعود للحياة. فإن استطعت بحيلة ما أن أُحلّ ماثياس محل رئيس الأساقفة، بلغت مرادي. يريد ماثياس أن تزدهر المدينة مرة أخرى، وسيكون الأمر كذلك. ستقود فولاذ ناختشتال هذا الجهد. حينها، سأحصل على ما هو لي.
+
+#54 [None|lore] MMLS_1_SubHead
+EN: Journal Entry
+FR: Entrée de journal
+AR: مدخل في المذكرات
+
+#55 [None|lore] MMLS_2_BodyText
+EN: It is all about time, something which I have ample amounts of. Time for pain to fester, time for desperation to spread, and time for hopelessness to cloud judgment. Man is incapable of truly withstanding the weight of this world; their endless desire for a savior shall be their undoing. 
+  
+  So I shall save these lost souls; they will have opportunity, industry, and hope. Lastly, but most importantly, something to hate. Each other. 
+  
+  Fewyl is ready to begin planting the seeds, so to speak, the theology he’s prepared is a sound and almost convincing inversion of the Lunitarian’s premises on the Shattered Coil. I couldn’t have chosen a more ambitious monster to work with. I’ll have to keep my eye on him. 
+ 
+FR: Tout est une question de temps, une chose dont je dispose en abondance. Le temps qu’il faut à la douleur pour empirer. Le temps qu’il faut au désespoir pour se propager, puis pour obscurcir le jugement. L’homme est incapable de supporter véritablement le poids de ce monde. Son insatiable désir de trouver un sauveur causera sa perte. 
+  
+ C’est donc moi qui sauverai ces âmes perdues. Elles auront des opportunités, du travail et de l’espoir. Enfin, et surtout, quelque chose à détester. Leur prochain. 
+  
+ Fewyl est prêt à commencer à semer les graines, pour ainsi dire. La théologie qu’il a préparée est une inversion solide et presque convaincante des prémisses lunitériennes concernant la Spirale brisée. Je n’aurais pas pu trouver de monstre plus ambitieux pour m’épauler. Je vais devoir le garder à l’œil.
+AR: الأمر كله وقت، ولي منه فسحة. الوقت الذي تحتاجه الآلام لتتفاقم، الوقت الذي يحتاجه اليأس ليتفشى، والوقت الذي يحتاجه فقدان الأمل ليعمي البصيرة. الإنسان لا يطيق ثقل هذا العالم حقًا؛ وشوقه الذي لا ينتهي إلى منقذ هو الذي يهلكه. 
+  
+  لذا سأنقذ هذه الأرواح الضائعة؛ سأمنحهم الفرصة، والاجتهاد، والأمل. وأخيرًا، والأهم من ذلك، شيئًا ليكرهوه. بعضهم البعض. 
+  
+  فِلويل مستعد لبدء غرس البذور، إذا جاز التعبير، فاللاهوت الذي أعده هو قلبٌ منطقي ومقنع تقريبًا لمبادئ اللونيتاريين حول الطوق المحطم. لم أكن لأختار وحشًا أكثر طموحًا للعمل معه. سأضطر لمراقبته عن كثب. 
+ 
+
+#56 [None|lore] MMLS_2_SubHead
+EN: Journal Entry
+FR: Entrée de journal
+AR: مدخل في المذكرات
+
+#57 [None|lore] MMLS_2_Title
+EN: Journal Entry
+FR: Entrée de journal
+AR: مدخل في المذكرات
+
+#58 [None|lore] MMLS_3_BodyText
+EN: Solomon, your absence at the gathering has aroused suspicion among the Patriarchs and Matriarchs of the other clans. I do not know what it is you’re doing in Velchoria, but I must remind you of the Pact. Cain is dead, and it is better he remains that way; we’ve no desire to go to war against the Church or all of Eden, for that matter. Without mankind, we have no cattle, and as long as Cain can’t reach us, we are free to use his blood as we see fit. We have something good going on; other clans do not want you jeopardizing it for your religious nonsense. 
+  
+ Lastly, I’d be remiss not to remind you that you still owe Clan Telvaught our blade Scirax. If you do not return it to us, we may come to collect it. 
+ 
+FR: Solomon, votre absence à la réunion a éveillé les soupçons des patriarches et matriarches des autres clans. Je ne sais pas ce que vous faites à Velchoria, mais je dois vous rappeler le Pacte. Caïn est mort, et il vaut mieux qu’il le reste. Nous n’avons aucune envie d’entrer en guerre contre l’Église, ni contre Éden dans son ensemble, d’ailleurs. Sans l’humanité, nous n’avons pas de bétail, et tant que Caïn ne peut pas nous atteindre, nous sommes libres d’utiliser son sang comme bon nous semble. Nous avons mis quelque chose de solide en place. Les autres clans ne veulent pas que cette situation soit compromise à cause de vos sornettes religieuses. 
+  
+ Enfin, je serais négligent de ne pas vous rappeler que vous devez toujours rendre son épée Scirax au clan Telvaught. Si vous ne le faites pas, nous pourrions bien venir la chercher.
+AR: يا سولومون، أثار غيابك عن التجمع شكوك بطاركة العشائر الأخرى وأمّهاتها الكبريات. لا أعلم ما الذي تفعله في ڤلتشوريا، ولكن يجب أن أذكرك بالميثاق. لقد مات قابيل، ومن الأفضل أن يبقى ميتاً؛ فليس لدينا رغبة في خوض حرب ضد الكنيسة أو ضد إيدن بأكملها. وبدون البشر، لن يكون لدينا ماشية، وطالما أن قابيل لا يستطيع الوصول إلينا، فنحن أحرار في استخدام دمه كما نشاء. أمرنا ماضٍ على خير؛ والعشائر الأخرى لا تريدك أن تعرضه للخطر بترهاتك الدينية. 
+  
+ أخيراً، سأكون مقصراً إن لم أذكرك بأنك لا تزال مديناً لعشيرة تلڤوت بنصلنا "سيراكس". إذا لم تعيده إلينا، فقد نأتي لاسترداده. 
+ 
+
+#59 [None|lore] MMLS_3_SubHead
+EN: From Ciaran Telvaught
+FR: De Ciaran Telvaught
+AR: من كيران تلڤوت
+
+#60 [None|lore] MMLS_3_Title
+EN: Letter
+FR: Lettre
+AR: رسالة
+
+#61 [None|lore] MMLS_4_BodyText
+EN: Finally, at long last, all the pieces are falling into place. We have access to all 3 Stones; the Godsreach Spire is ready and the dead gods stir. Mathias’ Inquisition is underway, and the Gala is this evening.  
+  
+ It has taken me over 20 years for my slow march through Gildenarch to come to fruition. Soon, the Rite of Desolation will begin again, the Infernal Legion shall have its new territories, and the insufferable traitors that I once called my siblings shall die for treachery.  
+  
+ Most importantly, I shall see Leandra and Pervical once more. There’s been a satisfaction in bending and breaking the Church to my will after everything they had done to my family.  
+ 
+FR: Enfin, après tant d’attente, toutes les pièces du puzzle s’assemblent. Nous avons accès aux trois pierres, la Flèche de Godsreach est prête et les dieux morts s’agitent. L’Inquisition de Mathias a commencé et le gala a lieu ce soir.  
+  
+ Il a fallu plus de 20 ans pour que ma lente marche à travers Gildenarch porte ses fruits. Bientôt, le Rite de la désolation recommencera, la légion des Enfers aura ses nouveaux territoires et les insupportables traîtres que j’appelais autrefois mes frères et sœurs mourront pour leur trahison.  
+  
+ Mais surtout, je reverrai Leandra et Pervical. J’ai éprouvé beaucoup de satisfaction à briser et à plier l’Église à ma volonté après tout ce qu’elle avait fait à ma famille.
+AR: أخيرًا، بعد طول انتظار، استوت كل قطعة في موضعها. صارت الأحجار الثلاثة كلها في أيدينا؛ برج قودزريتش جاهز والآلهة الميتة بدأت تتحرك. محاكم التفتيش الخاصة بماثياس قيد التنفيذ، والحفلة ستقام هذا المساء.  
+  
+ استغرقت مسيرتي البطيئة عبر قيلدنارك أكثر من 20 عامًا حتى أثمرت. قريبًا، سيبدأ طقس الخراب من جديد، وسيحصل الفيلق الجهنّمي على أراضيه الجديدة، وسيموت أولئك الخونة الذين لا يُطاقون، الذين كنت يومًا أسمّيهم إخوتي، جزاءَ خيانتهم.  
+  
+ والأهم من ذلك، سأرى لياندرا وبيرفيكال مرة أخرى. ولقد لذّ لي أن أثني الكنيسة وأكسرها على إرادتي، بعد كل ما فعلته بعائلتي.  
+ 
+
+#62 [None|lore] MMLS_4_SubHead
+EN: Journal Entry
+FR: Entrée de journal
+AR: مدخل في المذكرات
+
+#63 [None|lore] MMLS_5_BodyText
+EN: It appears the Lunitarian’s occupation of Gildenarch was far more interesting than I could have imagined. Their interest in the Abraxas Stones was no mere fall from grace; they were direct orders from the Holy Lineage themselves over 400 years ago. The irony that I was far more devout than my superiors at that time doesn’t surprise me. The slave morality they’ve instilled in their subordinates kept us from ambition, yet the Holy Lineage themselves have greater ambitions than perhaps even I, today. In some sense, I am doing Eden a service by destroying the veil. I can only imagine what those theocrats had in store for the realm with that kind of power.
+FR: Il semble que l’occupation de Gildenarch par les Lunitériens ait été bien plus intéressante que je n’aurais pu l’imaginer. Leur intérêt pour les pierres d’Abraxas ne relevait pas de la simple déchéance ; il s’agissait d’ordres directs donnés par la Lignée sacrée il y a plus de 400 ans. L’ironie de constater que j’étais bien plus pieux que mes supérieurs à l’époque ne me surprend pas. La mentalité d’esclave qu’ils ont inculquée à leurs subordonnés nous a empêchés d’être ambitieux, alors que la Lignée sacrée elle-même nourrit aujourd’hui des ambitions peut-être plus grandes que les miennes. D’une certaine manière, je rends service à Éden en détruisant le voile. Je n’ose imaginer ce que ces théocrates avaient prévu pour le royaume avec un tel pouvoir.
+AR: يبدو أن احتلال اللونيتاريين لقيلدنارك كان أكثر إثارة مما كنت أتخيل. لم يكن اهتمامهم بأحجار أبراكساس مجرد سقوط في الرذيلة؛ بل كانت أوامر مباشرة من السلالة المقدّسة نفسها منذ أكثر من 400 عام. ولا تفاجئني مفارقة أني كنت أورع من رؤسائي حينها. فأخلاق العبيد التي غرسوها في مرؤوسيهم كبحت فينا الطموح، ومع ذلك فإن السلالة المقدّسة نفسها لديها طموحات أكبر مما قد أمتلكه أنا اليوم. وبمعنى ما، أنا أقدّم خدمة لإيدن بتدمير الحجاب. وما لي إلا أن أتخيل ما كان يدبره أولئك الكهنوتيون للعالم بقوة كهذه.
+
+#64 [None|lore] MMLS_5_SubHead
+EN: Journal Entry
+FR: Entrée de journal
+AR: مدخل في المذكرات
+
+#65 [None|lore] MMLS_6_BodyText
+EN: 4 years after Nachtstahl Steel Mills moved into the old Red Dog District we’ve seen the company transform Grimhaven into an economic powerhouse. Unemployment is at a recent all-time low and new investment opportunities have attracted foreign investment into the district.  
+  
+ Residents credit Solomon Moore, the celebrity entrepreneur from Nachtendale for his efforts in reviving Gildenarch’s mines in the Mystic Peaks mountains west of the city. Solomon reopened the mines after 2 decades of abandonment following a terrible incident that claimed many lives. The reopened mines utilize Nachtstahl’s proprietary steel to build reinforced shafts and maintenance tunnels. 
+ 
+FR: Quatre ans après que les aciéries Nachtstahl se sont installées dans le vieux quartier du Chien rouge, nous les avons vues transformer Grimhaven en véritable poumon économique. Le taux de chômage n’a jamais été aussi bas et de nouvelles opportunités d’investissement ont attiré des capitaux étrangers dans le quartier.  
+  
+ Les habitants saluent Solomon Moore, le célèbre entrepreneur originaire de Nachtendale, pour ses efforts visant à relancer les mines de Gildenarch dans les Pics mystiques à l’ouest de la ville. Solomon a rouvert ces mines après deux décennies d’abandon, dues à un terrible incident qui fit de nombreuses victimes. L’acier produit par Nachtstahl est utilisé pour y construire des puits renforcés et des tunnels d’entretien.
+AR: بعد 4 سنوات من انتقال مصانع ناختشتال للصلب إلى منطقة "الكلب الأحمر" القديمة، شهدنا الشركة تحوّل قريمهاڤن إلى قوة اقتصادية. وصلت معدلات البطالة إلى أدنى مستوياتها في الآونة الأخيرة، وجذبت فرص الاستثمار الجديدة استثمارات أجنبية إلى المنطقة. 
+  
+ ينسب السكان الفضل إلى سولومون مور، رائد الأعمال الشهير من ناختنديل، على جهوده في إحياء مناجم قيلدنارك في جبال القمم الغامضة غرب المدينة. أعاد سولومون فتح المناجم بعد عقدين من الهجر إثر حادثة مروعة أودت بحياة الكثيرين. وتستخدم المناجم المعاد فتحها صلب ناختشتال الخاص لبناء آبار معزَّزة وأنفاق صيانة. 
+ 
+
+#66 [None|lore] MMLS_6_SubHead
+EN: Excerpt from a newspaper 
+ Mill Street. News Article.
+FR: Extrait d’un journal 
+ Article de l’Écho des aciéries
+AR: مقتطف من صحيفة 
+ شارع ميل. مقال إخباري.
+
+#67 [None|lore] MMLS_6_Title
+EN: Economic Revival in Grimhaven!
+FR: Reprise économique à Grimhaven !
+AR: انتعاش اقتصادي في قريمهاڤن!
+
+#68 [None|lore] MMLS_7_BodyText
+EN: Jemison Caldwell:  
+ Age 47.  
+  
+ Heir to the Caldwell family fortune and estates. Owner of Shoreditch Prison in Gildenarch, Gallowsway Keep in Acktin, and The Rose in Litinstang.  
+  
+ Status: Willing to comply. Easiest to manipulate, given his perversely selfish nature. 
+  
+ Demands: Eternal life. -We'll see about that. 
+  
+ Edmund Mathias:  
+ Age 36.  
+  
+ Cardinal of the Lunitarian Archspire Chapter and close friend of the Archbishop Dorion.  
+  
+ Status: Reserved, but malleable. Requires time and effort to earn trust. 
+  
+ Demands: Completion of the Archspire Chapter’s mission in Gildenarch. 
+ 
+FR: Jemison Caldwell :  
+ 47 ans.  
+  
+ Héritier de la fortune et des domaines de la famille Caldwell. Propriétaire de la prison de Shoreditch à Gildenarch, du château de Gallowsway à Acktin, et de la Rose à Litinstang.  
+  
+ Statut : disposé à obtempérer. Le plus facile à manipuler, vu sa nature perversement égoïste. 
+  
+ Exigences : vie éternelle. - À voir. 
+  
+ Edmund Mathias :  
+ 36 ans.  
+  
+ Cardinal du Chapitre lunitérien de l’Archspire et proche ami de l’archevêque Dorion.  
+  
+ Statut : réservé mais malléable. Il faut du temps et des efforts pour gagner sa confiance. 
+  
+ Exigences : accomplissement de la mission du Chapitre de l’Archspire à Gildenarch. 
+ 
+AR: جيميسون كالدويل:  
+ العمر 47.  
+  
+ وريث ثروة وعقارات عائلة كالدويل. مالك سجن شورديتش في قيلدنارك، وحصن غالوسواي في أكتين، و"ذا روز" في ليتنستانق.  
+  
+ الحالة: مستعد للامتثال. أسهلهم انقيادًا، لأنانيته المنحرفة.  
+  
+ المطالب: الحياة الأبدية. -سنرى.  
+  
+ إدموند ماثياس:  
+ العمر 36.  
+  
+ كاردينال مجمع أرشسباير اللونيتاري وصديق مقرب لرئيس الأساقفة دوريون.  
+  
+ الحالة: متحفظ، لكنه قابل للتشكيل. يتطلب وقتاً وجهداً لكسب ثقته.  
+  
+ المطالب: إكمال مهمة مجمع أرشسباير في قيلدنارك.  
+ 
+
+#69 [None|lore] MMLS_7_SubHead
+EN: Hastily Written Dossier
+FR: Dossier rédigé à la hâte
+AR: ملف أُعد على عجل
+
+#70 [None|lore] MMLS_7_Title
+EN: Persons of Interest
+FR: Personnes présentant un intérêt
+AR: شخصيات مثيرة للاهتمام
+
+#71 [None|lore] MMLS_8_BodyText
+EN: Clan Telvaught: 
+  
+ Guild of Academics and Archaeologists. Led by Professor Peter Garrus Telvaught in efforts to uncover lost artifacts from the ancient era of The Coil. First to abandon Cain’s Covenant, first to die. 
+  
+  
+ Clan Sirius:  
+  
+ Founded by Matron Delilah Hexxus Sirus. Traitor to Cain, abandoned his crusade and started a guild of petty cutthroats and informants. 
+  
+ Clan Inari: 
+  
+ Founded by Aaron Chester Inari. Occultist and owner of Inari Weaponry. The Clan have become isolationists, interfacing with Eden solely through market competition providing arms and armaments to various Armaean Kingdoms.  
+  
+ Clan Harington: 
+  
+ Also called The Pale Rose. Founded by Madam Margarette Harrington the owner of the Harrington House. An academy of wizards and sorcerers in eastern Norundiir far beyond the reach of the Lunitarian Church. 
+  
+ 
+FR: Clan Telvaught : 
+  
+ Guilde d’universitaires et d’archéologues. Dirigée par le professeur Peter Garrus Telvaught, elle s’efforce de retrouver des artéfacts perdus datant de l’ère antique de la Spirale. Les premiers à avoir renoncé au Pacte de Caïn, les premiers à mourir. 
+  
+ Clan Sirius :  
+  
+ Fondé par la matrone Delilah Hexxus Sirus. Traîtresse envers Caïn, elle a abandonné sa croisade pour fonder une guilde d’assassins et d’informateurs de seconde zone. 
+  
+ Clan Inari : 
+  
+ Fondé par Aaron Chester Inari, occultiste et propriétaire des armureries Inari. Le clan est devenu isolationniste, interagissant avec Éden uniquement par le biais de la concurrence commerciale, en fournissant armes et équipement à divers royaumes armaéens.  
+  
+ Clan Harington : 
+  
+ Aussi appelé « la Rose pâle ». Fondé par Madame Margarette Harrington, propriétaire de la maison Harrington. Une académie de magiciens et de sorciers à l’est de Norundiir, bien au-delà de la portée de l’Église lunitérienne. 
+  
+ 
+AR: عشيرة تلڤوت: 
+  
+ نقابة الأكاديميين وعلماء الآثار. يقودها البروفيسور بيتر غاروس تلڤوت في جهودها للكشف عن الآثار المفقودة من عصر الطوق القديم. أول من تخلى عن عهد قابيل، وأول من مات. 
+  
+  
+ عشيرة سيريس:  
+  
+ أسّستها الأم الكبرى ديليلا هكسوس سيريس. خائنة لكاين، تخلت عن حملته وأسست نقابة من القتلة الصغار والمخبرين. 
+  
+ عشيرة إيناري: 
+  
+ أسسها آرون تشيستر إيناري. خبير بالعلوم الخفية، ومالك مصانع أسلحة إيناري. أصبحت العشيرة منعزلة، وتتواصل مع إيدن فقط من خلال المنافسة التجارية بتوفير الأسلحة والعتاد لمختلف ممالك أرميا. 
+  
+ عشيرة هارينغتون: 
+  
+ تُعرف أيضاً باسم "الوردة الشاحبة". أسستها السيدة مارغريت هارينغتون، مالكة منزل هارينغتون. أكاديمية للسحرة والمشعوذين في شرق نوروندير، بعيداً عن متناول الكنيسة اللونيتارية. 
+  
+ 
+
+#72 [None|lore] MMLS_8_SubHead
+EN: Vampire Clans
+FR: Clans de vampires
+AR: عشائر مصاصي الدماء
+
+#73 [None|lore] MMLS_8_Title
+EN: Traitors
+FR: Traîtres
+AR: الخونة
+
+#74 [None|lore] MMLS_9_BodyText
+EN: Krytori, you’ve been relieved of your post. The demons will handle the castle town outside of Ramshorn Keep 
+  
+ The master has called us to the Godsreach Spire to prepare for the ritual on the night of the Gala. Ensure our agents have tied up any loose ends at the Academy and the Cathedral before then.  
+ 
+FR: Krytori, vous avez pour ordre de quitter votre poste. Les démons s’occuperont de la ville fortifiée devant le château de Ramshorn. 
+  
+ Le maître nous a convoqués à la Flèche de Godsreach pour préparer le rituel de la nuit du gala. Assurez-vous que nos agents règlent tous les détails en suspens à l’académie et à la cathédrale d’ici là.
+AR: كريتوري، أُعفيت من منصبك. سيتولى الشياطين التعامل مع بلدة القلعة خارج حصن رامزهورن 
+  
+ استدعانا السيد إلى برج قودزريتش للاستعداد للطقس ليلة الحفل. واحرص على أن ينهي وكلاؤنا كل أمر عالق في الأكاديمية والكاتدرائية قبل ذلك الوقت.  
+ 
+
+#75 [None|lore] MMLS_9_Title
+EN: The Ritual
+FR: Le rituel
+AR: الطقس
+
+#76 [None|lore] MaedraelBodyText
+EN: An unorthodox exploration of Lunitarian myth and legend that scrutinizes the conventional narrative of Archangel Maedrael. A particular passage sticks out to you. 
+  
+ It could not be understated just how unlike men the High Daemons of Ludereon are. They are not corporeal beings but instead constructed of a sort of “Resonant Energy”. If records from the old world are to be believed, they’ve taken many forms, in fact. 
+  
+  According to canon, the invention of Angelic Sigils, the magick used to give an Angel a particular form with attributes, comes directly from the Archangel himself—a puzzling detail if only canon is taken into account. If we consider my prior explorations, there may be more to Maedrael than we’ve come to believe. I propose a theory, one perhaps well outside of the realm of accepted thought, that Maedrael is not of Ludereon. How else can one possess the 'self directed will' akin to that of man? 
+FR: Une exploration non orthodoxe du mythe et de la légende lunétariens qui examine minutieusement l’histoire conventionnelle de l’archange Maedrael. Un passage en particulier retient votre attention. 
+  
+ Il convient de souligner à quel point les hauts démons de Ludereon sont différents des hommes. Ce ne sont pas des êtres corporels. Ils sont plutôt constitués d’une sorte « d’énergie résonnante ». Si l’on en croit les archives de l’ancien monde, ils ont en fait pris de nombreuses formes. 
+  
+ Selon le canon, l’invention des sceaux angéliques, cette magie utilisée pour donner à un ange une forme particulière avec des attributs, provient directement de l’archange lui-même – un détail déroutant si l’on ne prend en compte que le canon. Si l’on considère mes études précédentes, Maedrael recèle peut-être davantage de mystères que nous ne le pensons. Je propose une théorie, qui s’écarte peut-être beaucoup de l’opinion dominante, selon laquelle Maedrael ne serait pas originaire de Ludereon. Comment pourrait-il autrement posséder une « volonté autonome » comparable à celle de l’homme ?
+AR: بحث غير تقليدي في الأساطير اللونيتارية وحكاياتها، يمحّص الرواية المتعارف عليها عن رئيس الملائكة مايدرايل. هناك مقطع معين يلفت انتباهك. 
+  
+ لا يُستهان بمدى اختلاف شياطين لوديرايون العليا عن البشر. إنهم ليسوا كائنات مادية، بل هم مكونون من نوع من "الطاقة الرنينية". إذا صدقنا السجلات من العالم القديم، فقد اتخذوا أشكالاً عديدة، في الواقع. 
+  
+  وبحسب المعتمد، فإن اختراع الأختام الملائكية، وهي السحر المستخدم لمنح الملاك شكلاً معيناً بصفات محددة، يأتي مباشرة من الملاك الأعلى نفسه - وهي تفصيلة محيرة إن وقفنا عند المعتمد وحده. إذا نظرنا إلى استكشافاتي السابقة، فلعل في مايدرايل أكثر مما ألفنا. أقترح نظرية، قد تكون بعيدة عن نطاق الفكر المقبول، وهي أن مايدرايل ليس من لوديرايون. وإلا فكيف يملك مايدرايل "الإرادة الموجهة ذاتياً" الشبيهة بإرادة الإنسان؟
+
+#77 [None|lore] MaedraelSubHead
+EN: Excerpt from a tome.
+FR: Extrait de tome
+AR: مقتطف من مجلد.
+
+#78 [None|lore] MaedraelTitle
+EN: The Maedrael Heresy
+FR: L’hérésie de Maedrael
+AR: هرطقة مايدرايل
+
+#79 [None|lore] NPC_GALS_1_BodyText
+EN: My Mereda, with a heart that feels set aflame by Cain himself, I burn for your touch. My ears can hear nothing but your cooing laugh that flows past your lips like a joke only you will ever know.  
+ My angel tells me I am being foolish – of course I am. He tells me I should focus on my training. Why would I give even a fraction of my thought on that punishing, brutal, and cruel treatment, when I can close my eyes and see your form laid bare before me. 
+ I have not been lucky in my young life, but finally winning you over to my passions and pulling you away from your books is my greatest fortune. You said we were doomed from the start, but I don’t care. I would fight through the infernal gates and slay a thousand souls to once again feel your body against mine. You may think we are doomed, but from the lingering taste of you upon my lips I know you don’t care either.  
+ The world, no, all of the heavens and hells are at war, my love. Tomorrow is a promise neither of us can keep. But tonight, my dearest, tonight I can promise that if you meet me under our old willow tree I will burn the heavens themselves with my passion for you. My hands have no purpose if not to hold you. My heart has no reason to beat if not near you -- 
+ My commander enters, I must go. Be with me tonight. 
+ I am forever truly yours  
+ Gallant 
+ 
+FR: Ma Mereda, le cœur comme embrasé par Caïn lui-même, je brûle d’envie de sentir ta peau contre la mienne. Mes oreilles n’entendent rien d autre que ton doux rire s’échappant de tes lèvres comme une plaisanterie que toi seule comprendras jamais.  
+ Mon ange me dit que je suis stupide – bien sûr que je le suis. Il me dit que je devrais me concentrer sur mon entraînement. Pourquoi devrais-je consacrer ne serait-ce qu’une fraction de mes pensées à ce traitement punitif, brutal et cruel, alors que je peux fermer les yeux et voir ta silhouette dénudée devant moi ? 
+ Je n’ai pas eu de chance dans ma jeune vie, mais avoir réussi à te conquérir et à t’arracher à tes livres est ma plus grande fortune. Tu as dit que nous étions condamnés dès le départ, mais je m’en fiche. Je me fraierais un chemin à travers les portes de l’enfer et tuerais mille âmes pour sentir à nouveau ton corps contre le mien. Tu as beau dire que nous sommes condamnés, à en juger par le goût persistant que tu as laissé sur mes lèvres, je sais que tu t’en fiches toi aussi.  
+ Le monde, non, les cieux et les enfers sont en guerre, mon amour. Demain est une promesse qu’aucun de nous deux ne peut tenir. Mais ce soir, ma bien-aimée, ce soir je peux te promettre que si tu me retrouves sous notre vieux saule, je brûlerai les cieux de ma passion pour toi. Mes mains ne me servent à rien si je ne peux pas t’étreindre. Mon cœur n’a aucune raison de battre si je ne suis pas à tes côtés... 
+ Mon commandant vient d’arriver, je dois y aller. Sois avec moi ce soir. 
+ Je suis à jamais à toi,  
+ Gallant
+AR: يا ميريدا، بقلبٍ يشعر وكأن قابيل نفسه قد أشعله، أحترقُ شوقاً للمسّكِ. لا تسمع أذناي سوى ضحكتكِ الرقيقة التي تتدفق من شفتيكِ كأُضحوكةٍ لا يعرفها سواكِ.  
+ يخبرني ملاكي أنني أحمق - وبالطبع أنا كذلك. يخبرني أن عليّ التركيز على تدريبي. ولمَ أصرف ذرة من فكري إلى تدريب قاسٍ وحشيٍّ ظالم، وأنا أُغمض عينيّ فأرى هيئتكِ عاريةً أمامي.  
+ لم يحالفني الحظ في شبابي، لكن ظفري بكِ أخيراً وانتزاعكِ من كتبكِ أعظم حظوظي. قلتِ إننا محكوم علينا بالفشل منذ البداية، لكنني لا أبالي. سأقاتل عبر البوابات الجحيمية وأذبح ألف روح لأشعر بجسدكِ ضد جسدي مرة أخرى. قد تعتقدين أننا هالكون، ولكن من طعمكِ المتبقي على شفتي، أعلم أنكِ لا تبالين أيضاً.  
+ العالم، بل السماوات والجحيم جميعاً، في حرب يا حبيبتي. الغد وعدٌ لا يمكن لأي منا الوفاء به. لكن الليلة، يا عزيزتي، أعدكِ أنكِ إذا قابلتني تحت شجرتنا القديمة من الصفصاف، فسأحرق السماوات نفسها بشوقي إليكِ. ليس ليدي غاية سوى أن تضمكِ. وليس لقلبي سبب للنبض سوى القرب منكِ --  
+ القائد يدخل، يجب أن أذهب. كوني معي الليلة.  
+ أنا لكِ للأبد  
+ قالانت  
+ 
+
+#80 [None|lore] NPC_GALS_1_SubHead
+EN: Letter
+FR: Lettre
+AR: رسالة
+
+#81 [None|lore] NPC_GALS_1_Title
+EN: Heart set aflame
+FR: Cœur embrasé
+AR: قلبٌ متّقد
+
+#82 [None|lore] NPC_GALS_2_BodyText
+EN: My Mereda, 
+ I have no reason to believe this will find you. If I have learned one thing since they pulled me out of training it is that war, real war, is chaos. I have no doubt that it was created by the Infernal Legion. No rules, no order, just violence, blood, and the howls of the dying.  
+ I have seen men fall to their knees and beg for their mothers. I have watched thousands of men be cut down in front me. The crimson mist of their blood fills the air. I can still taste their blood on my tongue.  
+ This is all because of one demon. Valahk-Nor. They call him a general, but what even is that to the Infernal Legions? He’s just a bigger more deadly demon than the rest. I care not. I’m going to kill this demon spawn for taking me away from you. If it weren’t for him, I would have had that night with you under the willow.  
+ I am going to run my sword through Valahk-Nor's throat for you. I will drag his head back from this unholy place and present it to you as my amends for leaving. And then, I will take you in my arms and we will make up for the days and months we have lost, Mereda. My passion has only grown since I have been pulled away from you. It is all consuming for me.  
+ I  am off, the troops are marshalling. I know I said that tomorrow was a promise neither one of us could give, but I promise you, I will return and we will have our time under the willow. 
+ I am forever truly yours, 
+ Gallant 
+ 
+FR: Ma Mereda, 
+ Je n’ai aucune raison de croire que cette lettre te parviendra. Si j’ai appris une chose depuis qu’ils sont venus me chercher pendant l’entraînement, c’est que la guerre, la vraie guerre, c’est le chaos. Je n’ai aucun doute qu’elle a été créée par la légion des Enfers. Pas de règles, pas d’ordre, juste de la violence, du sang et les hurlements des mourants.  
+ J’ai vu des hommes tomber à genoux et appeler leur mère. J’ai vu des milliers d’hommes se faire abattre devant moi. Leur sang emplit l’air de ses particules pourpres. Je sens encore son goût sur ma langue.  
+ Tout cela à cause d’un seul démon : Valahk-Nor. On le qualifie de général, mais qu’est-ce que cela signifie pour les légions des Enfers ? C’est juste un démon plus grand et plus meurtrier que les autres. Ça m’est égal. Je vais tuer ce monstre pour m’avoir éloigné de toi. Sans lui, j’aurais passé cette nuit avec toi sous le saule.  
+ Je vais enfoncer mon épée dans la gorge de Valahk-Nor pour toi. Je rapporterai sa tête de cet endroit impie et te l’offrirai pour me faire pardonner mon départ. Et ensuite, je te prendrai dans mes bras et nous rattraperons les jours et mois perdus, Mereda. Ma passion n’a fait que grandir depuis que j’ai été séparé de toi. Elle me consume entièrement.  
+ Je pars, les troupes sont en train de se rassembler. Je sais que j’ai dit que demain était une promesse qu’aucun de nous deux ne pouvait tenir, mais je te promets que je reviendrai et que nous passerons du temps sous le saule. 
+ Je suis à toi pour toujours, 
+ Gallant
+AR: ميريدا، 
+ ليس لدي أي سبب لأعتقد أن هذه الرسالة ستصلكِ. إن كنت تعلمت شيئاً منذ أخرجوني من التدريب، فهو أن الحرب، الحرب الحقيقية، فوضى. لا شك لدي في أنها من صنع الفيلق الجهنّمي. لا قواعد، لا نظام، مجرد عنف، ودماء، وعويل المحتضرين.  
+ رأيت رجالاً يخرّون على ركبهم يستغيثون بأمهاتهم. ورأيت الألوف يُذبحون أمامي. ضباب دمائهم القرمزي يملأ الأجواء. لا أزال أستطيع تذوق دمائهم على لساني.  
+ كل هذا بسبب شيطان واحد. ڤالاك-نور. يسمونه جنرالاً، ولكن ما معنى ذلك بالنسبة للفيلق الجهنّمي؟ هو مجرد شيطان أكبر وأكثر فتكاً من البقية. لا يعنيني. سأقتل هذا النسل الشيطاني لأنه أبعدني عنكِ. لولا هو، لكانت تلك الليلة معكِ تحت شجرة الصفصاف قد حدثت.  
+ سأمرر سيفي عبر حنجرة ڤالاك-نور من أجلكِ. سأجرّ رأسه من هذا المكان غير المقدس وأقدمه لكِ كتعويض عن رحيلي. وبعد ذلك، سأضمكِ بين ذراعي وسنعوض الأيام والشهور التي فقدناها، يا ميريدا. ما ازداد شوقي إلا منذ أبعدوني عنكِ. يأكلني أكلاً.  
+ أنا مغادر الآن، القوات في حالة استنفار. أعلم أنني قلت إن الغد وعدٌ لا يمكن لأي منا الوفاء به، لكنني أعدكِ، سأعود وسنحظى بوقتنا تحت شجرة الصفصاف. 
+ سأبقى لكِ للأبد، 
+ قالانت 
+ 
+
+#83 [None|lore] NPC_GALS_2_SubHead
+EN: Letter
+FR: Lettre
+AR: رسالة
+
+#84 [None|lore] NPC_GALS_2_Title
+EN: War
+FR: Guerre
+AR: حرب
+
+#85 [None|lore] NPC_GALS_3_SubHead
+EN: Letter
+FR: Lettre
+AR: رسالة
+
+#86 [None|lore] NPC_GALS_3_Title
+EN: A New Willow Tree
+FR: Un nouveau saule
+AR: شجرة صفصاف جديدة
+
+#87 [None|lore] NightmareBodyText
+EN: Once more, I am roused from my sleep by gut-wrenching nightmares. The frequency is now unbearable, and I can no longer sustain my life this way. 
+  
+ Again I find  myself in the graveyard behind St. Uriel’s chapel, under that same accursed crimson moonlight basking the yard in an ethereal haze. 
+  
+ There, cloaked men gathered around that rotten, gnarled tree, whispering profane and terrible things before a woman chained to its trunk. Suddenly, I am taken behind her eyes, and I witness the men brandish a knife. 
+  
+ I am spared witness to the bloodshed, but I cannot help but feel it's true. 
+ Why am I seeing this?
+FR: Une fois de plus, je suis réveillé par des cauchemars déchirants. Leur fréquence est désormais insupportable, et je ne peux pas continuer à vivre ainsi. 
+  
+ Je me retrouve encore dans le cimetière derrière la chapelle Saint-Uriel, sous ce même maudit clair de lune pourpre baignant la cour d’une brume éthérée. 
+  
+ Là, des hommes encapuchonnés sont rassemblés autour de cet arbre pourri et noueux, murmurant des paroles profanes et terribles devant une femme enchaînée à son tronc. Soudain, j’adopte son point de vue, et je vois les hommes brandir un couteau. 
+  
+ Le spectacle sanglant qui s’ensuit m’est épargné, mais j’ai la désagréable impression que tout s’est réellement passé. 
+ Pourquoi vois-je cela ?
+AR: مرة أخرى، أستيقظ من نومي على كوابيس تمزق أحشائي. صار تكرارها لا يُطاق، وما عدت أقوى على العيش هكذا. 
+  
+ أجد نفسي مجددًا في المقبرة خلف مصلى القديس أورييل، تحت ضوء القمر القرمزي الملعون نفسه الذي يغمر الساحة بضباب أثيري. 
+  
+ هناك، تجمع رجال ملثمون حول تلك الشجرة المتعفنة والمتعرجة، يهمسون بأشياء تدنيسية ورهيبة أمام امرأة مقيدة بجذعها. فجأة، أجد نفسي خلف عينيها، وأشهد الرجال وهم يلوحون بسكين. 
+  
+ أُعفيت من مشهد الدم، لكني لا أملك إلا أن أحسّه حقيقة. 
+ لماذا أرى هذا؟
+
+#88 [None|lore] NightmareSubHead
+EN: Dream Journal
+FR: Journal des rêves
+AR: يوميات الأحلام
+
+#89 [None|lore] NightmareTitle
+EN: "The Tree"
+FR: « L’arbre »
+AR: "الشجرة"
+

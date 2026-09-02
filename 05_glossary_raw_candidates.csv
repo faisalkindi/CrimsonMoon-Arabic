@@ -1,0 +1,1530 @@
+source_term,type,count,should_translate,approved_ar,status,notes,example
+Nephilim,proper_noun,240,decide,,pending,,"A calcified cluster of Anima, often mistaken for a simple stone. This rock brims with life"
+Gajov,proper_noun,125,decide,,pending,,"Black powder, scrap iron, and Gajov’s contempt for delicate work. "
+Church,proper_noun,115,decide,,pending,,"A cumbersome cuirass, fit only for the toughest Nephilim, designed to stand against a drag"
+Gildenarch,proper_noun,93,decide,,pending,,Quests are acquired from characters across Gildenarch. Interact with Gallant and select Qu
+Gate,proper_noun,54,decide,,pending,,Enter the Gate
+ProbablyMonsters,proper_noun,52,decide,,pending,,Have you played a ProbablyMonsters game before?
+Strike the Core,proper_noun,51,decide,,pending,,Enter the Gate and Strike the Core
+Reward State Text,proper_noun,50,decide,,pending,,Other Reward State Text
+Mereda,proper_noun,49,decide,,pending,,This is the Library. Here you'll be able review found lore and unlock additional quests fr
+Order,proper_noun,49,decide,,pending,,You've been recalled to the Order for your failures.
+Knight,proper_noun,41,decide,,pending,,Haedrik Knight
+Divine,proper_noun,39,decide,,pending,,The cherished life essence of angels who trace their lineage to the almighty Divine. The A
+Faith,proper_noun,39,decide,,pending,,Aegoroth's stone is undone. The Faith has its silence. I cannot find the comfort in it.
+Gallant,proper_noun,37,decide,,pending,,Quests are acquired from characters across Gildenarch. Interact with Gallant and select Qu
+Spire,proper_noun,36,decide,,pending,,"The Spire blast has severely weakened your Nephilim powers.
+
+You now have limited lives. R"
+Hellgrowth,proper_noun,34,decide,,pending,,A pungent fruiting body that sprouts from the decomposing organic material that makes up t
+Solomon,proper_noun,34,decide,,pending,,Defeat Solomon
+Lunitarian,proper_noun,34,decide,,pending,,"Cuirass of the Lunar Sentinel
+
+No symbol is more harrowing to the Lunitarian faith than th"
+Crimson Moon,proper_noun,33,decide,,pending,,"Welcome to our Hub location. 
+
+Please note that this space is still very early in developm"
+Merchant,proper_noun,30,decide,,pending,,<Header>Merchant</>
+It,proper_noun,29,decide,,pending,,The Shepherds have returned with another haul of cattle from the surface. In accordance wi
+Lotte,proper_noun,29,decide,,pending,,"Cheap steel from Lotte’s stall. Light enough to hurl, sharp enough to remind a thing it ca"
+Reborn,proper_noun,28,decide,,pending,,The Reborn taught Gildenarch how easily the faithful burn. This returns the lesson. 
+Velchoria,proper_noun,26,decide,,pending,,"A cuirass designed for the Champions of Litinstang.
+
+The city state of Litinstang in south"
+Eden,proper_noun,24,decide,,pending,,A pungent fruiting body that sprouts from the decomposing organic material that makes up t
+Lunarin,proper_noun,24,decide,,pending,,"Cuirass of the Lunar Sentinel
+
+No symbol is more harrowing to the Lunitarian faith than th"
+Lunitarian Church,proper_noun,24,decide,,pending,,Specially crafted cuirass designed for Nephilim in service to the Knights of the Crimson M
+Lord of Perdition,proper_noun,22,decide,,pending,,A cuirass forged specifically to withstand the punishing blows of the Lord of Perdition. A
+We,proper_noun,22,decide,,pending,,"Alright, Toby, if you’re reading this, then you’ve gotten the key I slipped ya in the meal"
+Abraxas Stone,proper_noun,21,decide,,pending,,An unusual wooden shield etched in runes and imbued with an 'arcane rot' that can poison f
+Nexus Gate,proper_noun,21,decide,,pending,,Each combat area is controlled by a Nexus Gate. 
+Commander,proper_noun,21,decide,,pending,,Knight Commander
+Belwayne,proper_noun,21,decide,,pending,, It’s said that for a thousand years a knight wearing this armor stood vigil at the tower 
+Archspire Cathedral,proper_noun,20,decide,,pending,,Complete Archspire Cathedral to Unlock.
+Ramshorn Keep,proper_noun,20,decide,,pending,,Complete Ramshorn Keep to Unlock.
+Archspire,proper_noun,19,decide,,pending,,"A theory so bizarre it may at least hold a glimmer of truth. Allegedly, one of the Archspi"
+Resistance,proper_noun,18,decide,,pending,,'Element' Resistance
+Abraxas Stones,proper_noun,18,decide,,pending,,"Before you are the Abraxas Stones, that bind the souls of powerful beings known as the Dea"
+War Table,proper_noun,17,decide,,pending,,Complete misisons to unlock alternative routes at the War Table
+Librarian,proper_noun,16,decide,,pending,,<Header>Librarian</>
+Art,proper_noun,16,decide,,pending,,Weapon Art 1
+Cardinal Mathias,proper_noun,16,decide,,pending,,"Under the Inquisition Act of 760, this property has been temporarily seized by the Archspi"
+Garden,proper_noun,16,decide,,pending,,"Find us beneath the roses
+
+Join us in the Garden whose weeds reach beyond the coil’s remai"
+Dry Rot King,proper_noun,16,decide,,pending,,"The Dry Rot King, his people called it before the name was the last word any of them could"
+Angel Ascension,proper_noun,15,decide,,pending,,<Header>Angel Ascension</>
+Blacksmith,proper_noun,15,decide,,pending,,<Header>Blacksmith</>
+Heavy Attack,proper_noun,15,decide,,pending,,<Header>Heavy Attack</>
+Parry,proper_noun,15,decide,,pending,,<Header>Parry and Unblockable Attacks</>
+Quests,proper_noun,15,decide,,pending,,<Header>Quests</>
+Crimson Oath,proper_noun,15,decide,,pending,,A ring granting the boons of the Crimson Oath
+Stamina,proper_noun,15,decide,,pending,,Certain actions cost Stamina. Your Stamina is depicted by the green bar.
+Elk Grove Academy,proper_noun,15,decide,,pending,,Complete Elk Grove Academy to Unlock.
+Felwyl,proper_noun,15,decide,,pending,,Defeat Felwyl
+Cathedral,proper_noun,15,decide,,pending,,Archsipre Cathedral
+Church's,proper_noun,15,decide,,pending,,"A variant of Crimson Oath Armor, bestowed upon Nephilim who take The Oath of the Moonlight"
+Crimson Concordat,proper_noun,15,decide,,pending,,Specially crafted cuirass designed for Nephilim in service to the Knights of the Crimson M
+Mathias,proper_noun,15,decide,,pending,,Cardinal Mathias
+Godsreach Spire,proper_noun,15,decide,,pending,,"Before you are the Abraxas Stones, that bind the souls of powerful beings known as the Dea"
+Aegoroth,proper_noun,15,decide,,pending,,Dreams of Aegoroth
+Apostate Hunts,proper_noun,15,decide,,pending,,The Apostate Hunts
+Knight Commander,proper_noun,14,decide,,pending,,- the Knight Commander
+Souls,proper_noun,14,decide,,pending,,<Header>Gold and Souls</>
+Greaves,proper_noun,14,decide,,pending,,Armaean Greaves
+Holy Lineage,proper_noun,14,decide,,pending,,"A variant of Crimson Oath armor, bestowed upon Nephilim who take The Oath of the Divine.
+
+"
+Angels,proper_noun,14,decide,,pending,,Nephilim can call upon the power of their Angelic Lineage to transform and unleash a deves
+Mana,proper_noun,13,decide,,pending,,"A vial of ""Lunar Water"", used to restore one's link to magick. The transmutation of water "
+Gauntlets,proper_noun,13,decide,,pending,,Armaean Gauntlets
+Helmet,proper_noun,13,decide,,pending,,Armaean Helmet
+Angel,proper_noun,13,decide,,pending,,New Angel : Aegis
+ButtonText,proper_noun,13,decide,,pending,,{ButtonText}
+Knights of ,proper_noun,13,decide,,pending,,"A variant of Crimson Oath armor, bestowed upon Nephilim who take The Keeper's Oath.
+
+Knigh"
+Southern Ward,proper_noun,13,decide,,pending,,"Lotte sources the venom from “a guy in the Southern Ward.” He doesn’t ask, you shouldn’t e"
+Soul Energy,proper_noun,13,decide,,pending,,"Dear Archbishop Dorion, I’ve written to you to follow up on our discussion at Felwyl’s din"
+Infernal Legion,proper_noun,13,decide,,pending,,"Finally, at long last, all the pieces are falling into place. We have access to all 3 Ston"
+Angelic Grace,proper_noun,12,decide,,pending,,<Header>Angelic Grace</>
+Unlock,proper_noun,12,decide,,pending,,Acquire Two Abraxas Stones to Unlock.
+The Dry Rot King,proper_noun,12,decide,,pending,,Defeat The Dry Rot King 
+Warden,proper_noun,12,decide,,pending,,Defeat the Warden 
+Forsaken Streets,proper_noun,12,decide,,pending,,The Forsaken Streets
+Armaea,proper_noun,12,decide,,pending,,"A cuirass designed for the Champions of Litinstang.
+
+The city state of Litinstang in south"
+The Oath,proper_noun,12,decide,,pending,,"A variant of Crimson Oath Armor, bestowed upon Nephilim who take The Oath of the Moonlight"
+Cuirass,proper_noun,12,decide,,pending,,Apostate Cuirass
+Nachtendale,proper_noun,12,decide,,pending,,"Cuirass belonging to the Sentries of Nachtendale's Sovereign.
+
+Nachtendale has been the mo"
+In,proper_noun,12,decide,,pending,,Named in honor of a revenant spirit who stood in protection over the crypts of Gildeus lon
+Perdition,proper_noun,12,decide,,pending,,"Mahkteah, The Lord of Perdition"
+Shoreditch,proper_noun,12,decide,,pending,,"Like myself, the Akyrians who occupy these halls show a callous disregard for human life, "
+Skulls,proper_noun,12,decide,,pending,,Kill Felwyl The Ascended on 3 Skulls.
+Max Health,proper_noun,11,decide,,pending,,+10 Max Health
+Max Mana,proper_noun,11,decide,,pending,,+3 Max Mana
+Loadout,proper_noun,11,decide,,pending,,<Header>Loadout</>
+Quest,proper_noun,11,decide,,pending,,Bounty Quest: Death Knights
+Archspire Chapter,proper_noun,11,decide,,pending,,An inquisition? Has the Cardinal lost his mind? You don't need to convince me that this cu
+The Holy Lineage,proper_noun,11,decide,,pending,,I am unable to rest easy with this talk of Infernal Magick circulating among the others. W
+Max Stamina,proper_noun,10,decide,,pending,,+3 Max Stamina
+Light Attack,proper_noun,10,decide,,pending,,<Header>Light Attack</>
+Flask,proper_noun,10,decide,,pending,,Blue Flask
+Moore Manor,proper_noun,10,decide,,pending,,Complete Moore Manor to Unlock.
+Boss,proper_noun,10,decide,,pending,,Dragon Boss
+Shoreditch Prison,proper_noun,10,decide,,pending,,Complete Shoreditch Prison
+Lunarin's,proper_noun,10,decide,,pending,,"Cuirass of the Lunar Sentinel
+
+No symbol is more harrowing to the Lunitarian faith than th"
+Dead God,proper_noun,10,decide,,pending,,Gauntlets forged specifically to battle the Lord of Perdition. You'll need a strong grip o
+Stones,proper_noun,10,decide,,pending,,Abraxas Stones & Plot
+Dead Gods,proper_noun,10,decide,,pending,,"Before you are the Abraxas Stones, that bind the souls of powerful beings known as the Dea"
+Throne,proper_noun,10,decide,,pending,,"- The Holy Phases -
+
+New Moon: Cleansing. Quiet Renewal and Planning.
+
+Waxing: Celebration"
+Legion,proper_noun,10,decide,,pending,,"Fewyl, the manor and the city is now yours as was promised. I will remain in the Spire ove"
+Velchorian,proper_noun,10,decide,,pending,,The South Bed. Asters opened on the eleventh of the Fifth Month. Last year was the twentie
+Statement,proper_noun,10,decide,,pending,,"Last Updated: February 3, 2026
+
+Your privacy is important to us. This Privacy Statement (“"
+Undead Captains,proper_noun,9,decide,,pending,,A Bounty for Undead Captains
+Grace,proper_noun,9,decide,,pending,,Angelic Grace
+The Area,proper_noun,9,decide,,pending,,Clear The Area
+Weapon,proper_noun,9,decide,,pending,,Cursed Weapon
+Table,proper_noun,9,decide,,pending,,War Table
+Weapon Art,proper_noun,9,decide,,pending,,"You have a Weapon Art. Use <IA_WeaponArts_Option1/> to unleash it.
+
+Weapon Arts cost Mana."
+Frame Generation,proper_noun,9,decide,,pending,,DLSS Frame Generation
+Litinstang,proper_noun,9,decide,,pending,,"A cuirass designed for the Champions of Litinstang.
+
+The city state of Litinstang in south"
+Paladins,proper_noun,9,decide,,pending,,"A variant of Crimson Oath Armor, bestowed upon Nephilim who take The Oath of the Moonlight"
+Lunar Sentinels,proper_noun,9,decide,,pending,,"An intimidating cuirass forged for the Sanctus Zealot. 
+
+Legend tells of the first interfa"
+Rite of Desolation,proper_noun,9,decide,,pending,,"Cuirass belonging to the Sentries of Nachtendale's Sovereign.
+
+Nachtendale has been the mo"
+Lunar Sentinel,proper_noun,9,decide,,pending,,"Cuirass of the Lunar Sentinel
+
+No symbol is more harrowing to the Lunitarian faith than th"
+He,proper_noun,9,decide,,pending,,"Lotte sources the venom from “a guy in the Southern Ward.” He doesn’t ask, you shouldn’t e"
+Lunitarians,proper_noun,9,decide,,pending,,"- The Holy Phases -
+
+New Moon: Cleansing. Quiet Renewal and Planning.
+
+Waxing: Celebration"
+Gala,proper_noun,9,decide,,pending,,"Asher,
+
+The bolt on my study door is a brass thing of poor manufacture, three-pin tumbler,"
+Cain,proper_noun,9,decide,,pending,,"Clan Telvaught:
+
+Guild of Academics and Archaeologists. Led by Professor Peter Garrus Telv"
+Coil,proper_noun,9,decide,,pending,,"Dear Archbishop Dorion, I’ve written to you to follow up on our discussion at Felwyl’s din"
+Entry,proper_noun,9,decide,,pending,,Diary Entry.
+Archbishop,proper_noun,9,decide,,pending,,I’ve returned from the company’s dinner. My efforts to influence the Archbishop have been 
+Legendary Scraps,proper_noun,9,decide,,pending,,Collect Legendary Scraps across Gildenarch.
+Feral Vampires,proper_noun,8,decide,,pending,,A Bounty for Feral Vampires
+Anima,proper_noun,8,decide,,pending,,"A calcified cluster of Anima, often mistaken for a simple stone. This rock brims with life"
+Relics,proper_noun,8,decide,,pending,,Collect Relics
+Oath Cuirass,proper_noun,8,decide,,pending,,Divine Oath Cuirass
+Oath Gauntlets,proper_noun,8,decide,,pending,,Divine Oath Gauntlets
+Oath Greaves,proper_noun,8,decide,,pending,,Divine Oath Greaves
+Oath Helmet,proper_noun,8,decide,,pending,,Divine Oath Helmet
+No,proper_noun,8,decide,,pending,,Do you want to apply these changes? Selecting No will restore previous settings.
+St,proper_noun,8,decide,,pending,,Key to the St. Lucious Graveyard House.
+Attributes,proper_noun,8,decide,,pending,,Player Attributes
+Ward,proper_noun,8,decide,,pending,,Southern Ward
+Lives,proper_noun,8,decide,,pending,,Starting Lives +1
+Infernal Flora,proper_noun,8,decide,,pending,,The Shepherds have returned with another haul of cattle from the surface. In accordance wi
+Please,proper_noun,8,decide,,pending,,"Welcome to our Hub location. 
+
+Please note that this space is still very early in developm"
+Mahkteah's,proper_noun,8,decide,,pending,,A cuirass forged specifically to withstand the punishing blows of the Lord of Perdition. A
+Moonlight,proper_noun,8,decide,,pending,,"A variant of Crimson Oath Armor, bestowed upon Nephilim who take The Oath of the Moonlight"
+Oath of ,proper_noun,8,decide,,pending,,"A variant of Crimson Oath Armor, bestowed upon Nephilim who take The Oath of the Moonlight"
+Order of ,proper_noun,8,decide,,pending,,Crude gauntlets worn by Nephilim Apostates. Designed to invert and mock the Order of the C
+Gildeus,proper_noun,8,decide,,pending,,Named in honor of a revenant spirit who stood in protection over the crypts of Gildeus lon
+Note,proper_noun,8,decide,,pending,,Bloody Note
+Abyss,proper_noun,8,decide,,pending,,"In the hunt for Aegoroth, Eye of the Abyss, I grow closer. A resident from the Inn claims "
+Academy,proper_noun,8,decide,,pending,,"Krytori, you’ve been relieved of your post. The demons will handle the castle town outside"
+Challenge,proper_noun,8,decide,,pending,,Complete Challenge: Cardinal Mathias
+Shield,proper_noun,8,decide,,pending,,Apostate's Shield
+Undead,proper_noun,8,decide,,pending,,Abominations and Undead detected.
+Knights,proper_noun,8,decide,,pending,,Death Knights.
+Sanctus Clypeus,proper_noun,7,decide,,pending,,(HOLD) Return to Sanctus Clypeus
+Death Knights,proper_noun,7,decide,,pending,,A Bounty for Death Knights
+Undead Brutes,proper_noun,7,decide,,pending,,A Bounty for Undead Brutes
+Infernus,proper_noun,7,decide,,pending,,An invasive red flower native to the infernal realm. In the years since Spire's activation
+Mahkteah,proper_noun,7,decide,,pending,,Defeat Mahkteah
+Alexander,proper_noun,7,decide,,pending,,Gallant Alexander
+Cost,proper_noun,7,decide,,pending,,Mana Cost
+Health Flask,proper_noun,7,decide,,pending,,More to Upgrade to Health Flask
+Items,proper_noun,7,decide,,pending,,Purified Items discovered 
+Shepherds,proper_noun,7,decide,,pending,,The Shepherds have returned with another haul of cattle from the surface. In accordance wi
+Blacksmith Items,proper_noun,7,decide,,pending,,Unlocked: Blacksmith Items - Lvl 10
+Merchant Items,proper_noun,7,decide,,pending,,Unlocked: Merchant Items - Lvl 2
+Demiurge,proper_noun,7,decide,,pending,,"A cumbersome helmet, sure to strain the necks of mortal men, designed to protect a Nephili"
+The Order,proper_noun,7,decide,,pending,,Specially crafted cuirass designed for Nephilim in service to the Knights of the Crimson M
+Charge,proper_noun,7,decide,,pending,,Frostbound Charge
+Fallen,proper_noun,7,decide,,pending,,Trial of the Fallen
+Demons,proper_noun,7,decide,,pending,,"A theory so bizarre it may at least hold a glimmer of truth. Allegedly, one of the Archspi"
+Inquisition,proper_noun,7,decide,,pending,,"Finally, at long last, all the pieces are falling into place. We have access to all 3 Ston"
+Eye of ,proper_noun,7,decide,,pending,,"In the hunt for Aegoroth, Eye of the Abyss, I grow closer. A resident from the Inn claims "
+Mahkteah The Lord,proper_noun,7,decide,,pending,,Acquire lore on Mahkteah The Lord of Perdition.
+Divine Ember,proper_noun,7,decide,,pending,,Acquire the Divine Ember.
+Tyrigon,proper_noun,7,decide,,pending,,Complete Challenge: Tyrigon
+Crescent Tags,proper_noun,7,decide,,pending,,Find the Crescent Tags of the Fallen Crusaders.
+Privacy Statement,proper_noun,7,decide,,pending,,I accept the End User License Agreement and understand ProbablyMonsters’ Privacy Statement
+Gajov's,proper_noun,7,decide,,pending,,"Come, enjoy Gajov's forge."
+Objective Text,proper_noun,6,decide,,pending,,Active Objective Text
+Ascension,proper_noun,6,decide,,pending,,Angel Ascension
+Quality,proper_noun,6,decide,,pending,,Auto Quality
+Notes,proper_noun,6,decide,,pending,,Build Notes
+Boon,proper_noun,6,decide,,pending,,Buy Boon
+Tome,proper_noun,6,decide,,pending,,Collect Tome
+Knight Terrors,proper_noun,6,decide,,pending,,Complete: Knight Terrors.
+Save,proper_noun,6,decide,,pending,,Delete Save
+Glory,proper_noun,6,decide,,pending,,Elixir of Glory
+Hellrift,proper_noun,6,decide,,pending,,Enter the Hellrift 
+But,proper_noun,6,decide,,pending,,"Fetched these off a marauder's pack.  They're not fancy - big hefty shotputs, they are, an"
+Online,proper_noun,6,decide,,pending,,Join Online
+Online Game,proper_noun,6,decide,,pending,,Join Online Game
+Paladin,proper_noun,6,decide,,pending,,Phoenix Paladin
+Item,proper_noun,6,decide,,pending,,Purify Item
+Offline Game,proper_noun,6,decide,,pending,,Start Offline Game
+Resolution,proper_noun,6,decide,,pending,,Texture Resolution
+Should,proper_noun,6,decide,,pending,,The Shepherds have returned with another haul of cattle from the surface. In accordance wi
+Corruption,proper_noun,6,decide,,pending,,World Corruption 0
+Weapon Arts,proper_noun,6,decide,,pending,,"You have a Weapon Art. Use <IA_WeaponArts_Option1/> to unleash it.
+
+Weapon Arts cost Mana."
+Streamline,proper_noun,6,decide,,pending,,The Operating System is outdated. The Streamline feature requires a supported operating sy
+Intel,proper_noun,6,decide,,pending,,Failed to initialize Intel® Xe Low Latency. This feature requires D3D12 or Vulkan RHI and 
+Dragon Assassins,proper_noun,6,decide,,pending,,"A cumbersome cuirass, fit only for the toughest Nephilim, designed to stand against a drag"
+There,proper_noun,6,decide,,pending,,"A cumbersome helmet, sure to strain the necks of mortal men, designed to protect a Nephili"
+Sovereign Sentries,proper_noun,6,decide,,pending,,"Cuirass belonging to the Sentries of Nachtendale's Sovereign.
+
+Nachtendale has been the mo"
+Physical Damage,proper_noun,6,decide,,pending,,+5% Physical Damage per 1000 Souls held (max +50%).
+Target,proper_noun,6,decide,,pending,,"After 3 hits on a single Target within 3 seconds, you gain Rage."
+Kill,proper_noun,6,decide,,pending,,"When you Kill an enemy, all enemies within 7 meters of you suffer Sunderance."
+Sprint Attack,proper_noun,6,decide,,pending,,"When you hit an enemy with a Sprint Attack, they take 1000 Bleed."
+To,proper_noun,6,decide,,pending,,"Before you are the Abraxas Stones, that bind the souls of powerful beings known as the Dea"
+Armory,proper_noun,6,decide,,pending,,"Once your business in the Armory is completed, proceed through the portal to begin your Ru"
+Drakes,proper_noun,6,decide,,pending,,"Under the Inquisition Act of 760, this property has been temporarily seized by the Archspi"
+So,proper_noun,6,decide,,pending,,"
+The Scribe’s disciplinary action has kept me from a night’s rest for some time. I pored o"
+Sentinels,proper_noun,6,decide,,pending,,"A leather bound journal detailing a broken translation of the ""Last Will and Testament of "
+She,proper_noun,6,decide,,pending,,Day 1 — Subject seventeen takes the seed without protest. Felwyl says the willing ones blo
+Lord,proper_noun,6,decide,,pending,,"I have a strange paralysis. Like I don’t know where to start. 
+It tingles really as it tak"
+Cain's,proper_noun,6,decide,,pending,,Our lord's Gala in Elk Grove Academy is tonight. We must prepare to cleanse the mortal fil
+General Valahk-Nor,proper_noun,6,decide,,pending,,"Sending 8 persons
+3 Men 
+5 Women
+2 Men uninfected
+1 partially infected
+3 Women fully uninf"
+Artifacts,proper_noun,6,decide,,pending,,"Siron, excuse my apparent lack of enthusiasm for our esteemed philanthropist at the gather"
+Elite Cultists,proper_noun,6,decide,,pending,,Complete: Elite Cultists
+Lotte's,proper_noun,6,decide,,pending,,Find Lotte's missing locket.
+Merchant's,proper_noun,6,decide,,pending,,Search the Archspire Cathedral for the Merchant's missing locket and retrieve it for him.
+Vessel's Soul,proper_noun,6,decide,,pending,,Speak to Gajov about forging a weapon from the Vessel's Soul.
+Vessel,proper_noun,6,decide,,pending,,Speak to Gajov about the Vessel.
+Service,proper_noun,6,decide,,pending,,"Last Updated: February 3, 2026
+
+Your privacy is important to us. This Privacy Statement (“"
+Platform Terms,proper_noun,6,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+PlayStation,proper_noun,6,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Arbitration,proper_noun,6,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Forged,proper_noun,6,decide,,pending,,"A round aegis of gold and silver, two phoenix wings spread around a central sunburst.
+
+For"
+Soul Siphon,proper_noun,6,decide,,pending,,"Nephilim, a moment. I must confess. Since the Soul Siphon, I've felt part of me slowly mer"
+Fire Damage,proper_noun,5,decide,,pending,,+3 Fire Damage
+Collection,proper_noun,5,decide,,pending,,<Header>Collection</>
+Bounty,proper_noun,5,decide,,pending,,A Bounty for Death Knights
+Last Light,proper_noun,5,decide,,pending,,A ring granting the Last Light
+Seal of Flame,proper_noun,5,decide,,pending,,A ring granting the Seal of Flame and Scorching Verdict Boons.
+Flame,proper_noun,5,decide,,pending,,A ring granting the Trial by Flame and Last Light boons.
+Spire's,proper_noun,5,decide,,pending,,An invasive red flower native to the infernal realm. In the years since Spire's activation
+Calcified Anima,proper_noun,5,decide,,pending,,"An unstable mote of Calcified Anima, burns hot to the touch. This rock radiates with life "
+Elite,proper_noun,5,decide,,pending,,Burgundian Elite
+Sensitivity,proper_noun,5,decide,,pending,,Camera Sensitivity
+Difficulty,proper_noun,5,decide,,pending,,Challenging Difficulty
+Mission,proper_noun,5,decide,,pending,,Choose a Mission
+Crown,proper_noun,5,decide,,pending,,Collect Crown
+Treveyan Highlands,proper_noun,5,decide,,pending,,Common herbs found within the Treveyan Highlands that are used in various alchemical and c
+Bloom,proper_noun,5,decide,,pending,,"Controls visual effects like Depth of Field, Bloom, and Color Grading. Higher settings imp"
+Egregore,proper_noun,5,decide,,pending,,Defeat the Egregore 
+Variant,proper_noun,5,decide,,pending,,Enemy Variant: Bleed
+Fire,proper_noun,5,decide,,pending,,Enemy Variant: Fire
+Code,proper_noun,5,decide,,pending,,Enter Code
+Length,proper_noun,5,decide,,pending,,Focal Length
+Knight Gauntlets,proper_noun,5,decide,,pending,,Haedrik Knight Gauntlets
+Knight Greaves,proper_noun,5,decide,,pending,,Haedrik Knight Greaves
+Knight Helmet,proper_noun,5,decide,,pending,,Haedrik Knight Helmet
+Elixir,proper_noun,5,decide,,pending,,Hardening Elixir
+Pawn,proper_noun,5,decide,,pending,,Hero Pawn
+Boons,proper_noun,5,decide,,pending,,Librarian Boons
+Ring,proper_noun,5,decide,,pending,,Lotte's Ring
+Route Option Unlocked,proper_noun,5,decide,,pending,,New Route Option Unlocked
+State,proper_noun,5,decide,,pending,,Other State
+Sword,proper_noun,5,decide,,pending,,Ring of Sword
+Quality Mode,proper_noun,5,decide,,pending,,Select the desired upscaler Quality Mode.
+Consumable,proper_noun,5,decide,,pending,,Use Consumable
+GeForce,proper_noun,5,decide,,pending,,Frame Generation boosts frame rates by using AI to render additional frames. 2X is support
+Time,proper_noun,5,decide,,pending,,Platform Not Supported At Build Time
+Keep,proper_noun,5,decide,,pending,,Ramshorn Keep
+Acktin,proper_noun,5,decide,,pending,,"A distinct red helmet belonging the Vermillion Knight of Belwayne.
+
+The Alemendral's eldes"
+Nachtstahl Steel Mills,proper_noun,5,decide,,pending,,A gorgeous winged helmet worn by Belwayne's fierce defenders. Adorned in their phoenix her
+Illuminar,proper_noun,5,decide,,pending,,"A variant of Crimson Oath armor, bestowed upon Nephilim who take The Oath of the Divine.
+
+"
+Bleeding,proper_noun,5,decide,,pending,,Backstab inflicts Bleeding.
+Strike,proper_noun,5,decide,,pending,,Graceful Strike
+In the ,proper_noun,5,decide,,pending,,"
+The Scribe’s disciplinary action has kept me from a night’s rest for some time. I pored o"
+Solomon Moore,proper_noun,5,decide,,pending,,4 years after Nachtstahl Steel Mills moved into the old Red Dog District we’ve seen the co
+Magda,proper_noun,5,decide,,pending,,"Alright, Toby, if you’re reading this, then you’ve gotten the key I slipped ya in the meal"
+Hux,proper_noun,5,decide,,pending,,"Alright, Toby, if you’re reading this, then you’ve gotten the key I slipped ya in the meal"
+Master Felwyl,proper_noun,5,decide,,pending,,"Asher,
+
+The bolt on my study door is a brass thing of poor manufacture, three-pin tumbler,"
+Elk Grove,proper_noun,5,decide,,pending,,"Asher,
+
+The bolt on my study door is a brass thing of poor manufacture, three-pin tumbler,"
+Renault,proper_noun,5,decide,,pending,,"At last we have results! It’s taken much longer and more bodies…than I’d have liked, but t"
+My,proper_noun,5,decide,,pending,,"At last we have results! It’s taken much longer and more bodies…than I’d have liked, but t"
+If,proper_noun,5,decide,,pending,,"Forgive me. I hope you live to see this, but I could not wait. 
+
+If you are reading this, "
+War of ,proper_noun,5,decide,,pending,,"He was the god of war, and he wanted nothing else but to be in conflict with a blade in hi"
+Gods,proper_noun,5,decide,,pending,,"He was the god of war, and he wanted nothing else but to be in conflict with a blade in hi"
+Where,proper_noun,5,decide,,pending,,"I have a strange paralysis. Like I don’t know where to start. 
+It tingles really as it tak"
+Red Bloom,proper_noun,5,decide,,pending,,"Lord Felwyl,
+Sincerest apologies my Lord, as I know you are very busy. Very busy, indeed. "
+Velchorian Empire,proper_noun,5,decide,,pending,,"Preamble
+
+In the name of Lunarin, our Holy Divine, and the joint authorities of The Holy L"
+Gallant Alexander,proper_noun,5,decide,,pending,,"Preamble
+
+In the name of Lunarin, our Holy Divine, and the joint authorities of The Holy L"
+Felwyl The Withered,proper_noun,5,decide,,pending,,Complete Challenge: Felwyl The Withered
+The Warden,proper_noun,5,decide,,pending,,Complete Challenge: The Warden
+Demon Brutes,proper_noun,5,decide,,pending,,Complete: Demon Brutes
+Elite Death Knights,proper_noun,5,decide,,pending,,Complete: Elite Death Knights
+Elite Demon Imps,proper_noun,5,decide,,pending,,Complete: Elite Demon Imps
+Elite Knight Terrors,proper_noun,5,decide,,pending,,Complete: Elite Knight Terrors
+Elite Undead Brutes,proper_noun,5,decide,,pending,,Complete: Elite Undead Brutes.
+Elite Undead Captains,proper_noun,5,decide,,pending,,Complete: Elite Undead Captains
+Felwyl The Ascended,proper_noun,5,decide,,pending,,Defeat Felwyl The Ascended.
+Cultists,proper_noun,5,decide,,pending,,Kill Cultists.
+End User License Agreement,proper_noun,5,decide,,pending,,I accept the End User License Agreement and understand ProbablyMonsters’ Privacy Statement
+United States,proper_noun,5,decide,,pending,,"Last Updated: February 3, 2026
+
+Your privacy is important to us. This Privacy Statement (“"
+Vodor,proper_noun,5,decide,,pending,,Totem of Vodor
+Eden's,proper_noun,5,decide,,pending,,"A long-hafted halberd carried by the foot soldiers of Eden's vampire clans.
+
+The blades ar"
+Behemoth,proper_noun,4,decide,,pending,,"""Behemoth, Behemoth, Behemoth"""
+Store,proper_noun,4,decide,,pending,,(HOLD) Store
+Max Lives,proper_noun,4,decide,,pending,,+1 Max Lives
+Duration,proper_noun,4,decide,,pending,,0:{Duration}
+Bounty Quests,proper_noun,4,decide,,pending,,<Header>Bounty Quests</>
+Hall of Valor,proper_noun,4,decide,,pending,,<Header>Hall of Valor</>
+Look,proper_noun,4,decide,,pending,,<Header>Move and Look</>
+Aegis of Frost,proper_noun,4,decide,,pending,,A ring granting the Aegis of Frost and Guard of Grace boons.
+Scorching Verdict,proper_noun,4,decide,,pending,,A ring granting the Brand of Judgement and Scorching Verdict boons.
+Chalice of Conquest,proper_noun,4,decide,,pending,,A ring granting the Chalice of Conquest and Hunter's Strike boons.
+Hunter's Strike,proper_noun,4,decide,,pending,,A ring granting the Chalice of Conquest and Hunter's Strike boons.
+Divine Focus,proper_noun,4,decide,,pending,,A ring granting the Divine Focus and Frostbrand Seal boons.
+Nephilim's,proper_noun,4,decide,,pending,,A substantial amount of Sanctified Blood crystalized into a Crimson Tear. Can be used to e
+Water,proper_noun,4,decide,,pending,,"A vial of ""Lunar Water"", used to restore one's link to magick. The transmutation of water "
+These,proper_noun,4,decide,,pending,,"Ah!  I see you're interested in my more rarified stock.  These are deadly, bloody knives, "
+Upgrade,proper_noun,4,decide,,pending,,Blacksmith Upgrade: Epic
+Player,proper_noun,4,decide,,pending,,Block Player
+Info,proper_noun,4,decide,,pending,,Change Info
+Windowed,proper_noun,4,decide,,pending,,Choose how the game window behaves. Fullscreen Windowed: easy app switching. Windowed: res
+Demon Blood,proper_noun,4,decide,,pending,,Collect Demon Blood
+Holy Water,proper_noun,4,decide,,pending,,Collect Holy Water
+Arena,proper_noun,4,decide,,pending,,Combat Arena
+Description,proper_noun,4,decide,,pending,,Description Description Description Description Description Description 
+Failed,proper_noun,4,decide,,pending,,District Failed
+Scraps,proper_noun,4,decide,,pending,,Enchantment Scraps
+Player Name,proper_noun,4,decide,,pending,,Enter Player Name
+Sound Effects,proper_noun,4,decide,,pending,,Environmental Sound Effects
+Supplies,proper_noun,4,decide,,pending,,Food & Supplies
+Flask Potency Lv,proper_noun,4,decide,,pending,,Health Flask Potency Lv. 2
+Session Code,proper_noun,4,decide,,pending,,Host Session Code
+Herba,proper_noun,4,decide,,pending,,"If you have a surplus, the alchemists always have a need for Herba"
+Orthodoxy,proper_noun,4,decide,,pending,,Karsivite Orthodoxy
+Power,proper_noun,4,decide,,pending,,Knowledge is Power
+Left,proper_noun,4,decide,,pending,,"Lives
+Left"
+Right,proper_noun,4,decide,,pending,,Move Right
+Aegis,proper_noun,4,decide,,pending,,New Angel : Aegis
+Start,proper_noun,4,decide,,pending,,Press Start
+Momentum,proper_noun,4,decide,,pending,,Relentless Momentum
+Slot,proper_noun,4,decide,,pending,,Save Slot {slot}
+Attacks,proper_noun,4,decide,,pending,,Sprint Attacks deal +20% Damage
+Library,proper_noun,4,decide,,pending,,This is the Library. Here you'll be able review found lore and unlock additional quests fr
+Bonus Attack Power,proper_noun,4,decide,,pending,,You apply oil to your weapon. The next 5 Heavy Attacks gain (+33% Bonus Attack Power). Las
+Count,proper_noun,4,decide,,pending,,x{Count}
+Series,proper_noun,4,decide,,pending,,Frame Generation boosts frame rates by using AI to render additional frames. 2X is support
+Upscaling,proper_noun,4,decide,,pending,,AMD FSR™ Upscaling
+Vulkan,proper_noun,4,decide,,pending,,AMD FSR™ Upscaling requires D3D12 or Vulkan RHI.
+Xe Low Latency,proper_noun,4,decide,,pending,,Failed to initialize Intel® Xe Low Latency. This feature requires D3D12 or Vulkan RHI and 
+Stone of Rot,proper_noun,4,decide,,pending,,Abraxas Stone of Rot
+Slayer,proper_noun,4,decide,,pending,,Infernal Slayer
+Cleric's Covenant,proper_noun,4,decide,,pending,,"A beautiful cuirass forged in honor of the Cleric's Covenant. 
+
+This was the covenant that"
+Zehamaic,proper_noun,4,decide,,pending,,"A beautiful cuirass forged in honor of the Cleric's Covenant. 
+
+This was the covenant that"
+Champions of Litinstang,proper_noun,4,decide,,pending,,"A cuirass designed for the Champions of Litinstang.
+
+The city state of Litinstang in south"
+Sir Camden,proper_noun,4,decide,,pending,,"A distinct red helmet belonging the Vermillion Knight of Belwayne.
+
+The Alemendral's eldes"
+Captain,proper_noun,4,decide,,pending,,"A distinct red helmet belonging the Vermillion Knight of Belwayne.
+
+The Alemendral's eldes"
+White Armor,proper_noun,4,decide,,pending,,"A gorgeous helmet belonging to an infamous traitor.
+
+White Armor in reference to the fable"
+White Phoenix,proper_noun,4,decide,,pending,,"A gorgeous helmet belonging to an infamous traitor.
+
+White Armor in reference to the fable"
+Prosperity,proper_noun,4,decide,,pending,,"A gorgeous helmet belonging to an infamous traitor.
+
+White Armor in reference to the fable"
+Avian,proper_noun,4,decide,,pending,,"A gorgeous helmet belonging to an infamous traitor.
+
+White Armor in reference to the fable"
+Belwayne's,proper_noun,4,decide,,pending,,A gorgeous winged helmet worn by Belwayne's fierce defenders. Adorned in their phoenix her
+Threatened,proper_noun,4,decide,,pending,,A gorgeous winged helmet worn by Belwayne's fierce defenders. Adorned in their phoenix her
+Alemendrals,proper_noun,4,decide,,pending,,A gorgeous winged helmet worn by Belwayne's fierce defenders. Adorned in their phoenix her
+Gilded,proper_noun,4,decide,,pending,,A gorgeous winged helmet worn by Belwayne's fierce defenders. Adorned in their phoenix her
+Mill Wards,proper_noun,4,decide,,pending,,A gorgeous winged helmet worn by Belwayne's fierce defenders. Adorned in their phoenix her
+Dragon,proper_noun,4,decide,,pending,,"A heavy helmet, sure to strain the necks of mortal man.
+
+According to fanciful legend, the"
+Nephilim Apostates,proper_noun,4,decide,,pending,,A mournful hooded helmet worn by Nephilim Apostates.
+Spectres,proper_noun,4,decide,,pending,,"A variant of Crimson Oath Armor, bestowed upon Nephilim who take The Oath of the Moonlight"
+The Keeper's Oath,proper_noun,4,decide,,pending,,"A variant of Crimson Oath armor, bestowed upon Nephilim who take The Keeper's Oath.
+
+Knigh"
+Keeper's Oath,proper_noun,4,decide,,pending,,"A variant of Crimson Oath armor, bestowed upon Nephilim who take The Keeper's Oath.
+
+Knigh"
+Keepers,proper_noun,4,decide,,pending,,"A variant of Crimson Oath armor, bestowed upon Nephilim who take The Keeper's Oath.
+
+Knigh"
+Midnight,proper_noun,4,decide,,pending,,"A variant of Crimson Oath armor, bestowed upon Nephilim who take The Oath of Midnight.
+
+Pa"
+Paladins of ,proper_noun,4,decide,,pending,,"A variant of Crimson Oath armor, bestowed upon Nephilim who take The Oath of Midnight.
+
+Pa"
+Oath of Midnight,proper_noun,4,decide,,pending,,"A variant of Crimson Oath armor, bestowed upon Nephilim who take The Oath of Midnight.
+
+Pa"
+Black Hoods,proper_noun,4,decide,,pending,,"A variant of Crimson Oath armor, bestowed upon Nephilim who take The Oath of Midnight.
+
+Pa"
+Gold Hoods,proper_noun,4,decide,,pending,,"A variant of Crimson Oath armor, bestowed upon Nephilim who take The Oath of the Divine.
+
+"
+Hoods,proper_noun,4,decide,,pending,,"A variant of Crimson Oath armor, bestowed upon Nephilim who take The Oath of the Divine.
+
+"
+Illuminar's,proper_noun,4,decide,,pending,,"A variant of Crimson Oath armor, bestowed upon Nephilim who take The Oath of the Divine.
+
+"
+Sanctus Zealot,proper_noun,4,decide,,pending,,"An intimidating cuirass forged for the Sanctus Zealot. 
+
+Legend tells of the first interfa"
+Legend,proper_noun,4,decide,,pending,,"An intimidating cuirass forged for the Sanctus Zealot. 
+
+Legend tells of the first interfa"
+Lunitarians Sanctus Zealots,proper_noun,4,decide,,pending,,"An intimidating cuirass forged for the Sanctus Zealot. 
+
+Legend tells of the first interfa"
+House Haedrik,proper_noun,4,decide,,pending,,An ornate cuirass once belonging to a knight in service to House Haedrik from the western 
+The Haedriks,proper_noun,4,decide,,pending,,An ornate cuirass once belonging to a knight in service to House Haedrik from the western 
+Armaen,proper_noun,4,decide,,pending,,An ornate cuirass once belonging to a knight in service to House Haedrik from the western 
+Sonai,proper_noun,4,decide,,pending,,As bright and colorful as the banners that hang above the high office of the Sonai magistr
+Knight Cuirass,proper_noun,4,decide,,pending,,Belwayne Knight Cuirass
+Sentries of Nachtendale's Sovereign,proper_noun,4,decide,,pending,,"Cuirass belonging to the Sentries of Nachtendale's Sovereign.
+
+Nachtendale has been the mo"
+Drakfeld Steppes,proper_noun,4,decide,,pending,,"Forged from thrice-cursed steel by the fabled hexalalurgists of the Drakfeld Steppes, the "
+Here,proper_noun,4,decide,,pending,,"Greaves designed for the Champions of Litinstang.
+
+The city state of Litinstang in souther"
+Valiant,proper_noun,4,decide,,pending,,"Only the Valiant may wear this strange and prickly armor, for to wear it is to risk a view"
+Cain's Dark Crusade,proper_noun,4,decide,,pending,,Specially crafted cuirass designed for Nephilim in service to the Knights of the Crimson M
+Sages of Clan Telvaught,proper_noun,4,decide,,pending,,"The Sages of Clan Telvaught have had centuries to perfect their craft, weaving magic into "
+Excoriator's of ,proper_noun,4,decide,,pending,,"Worn by the Excoriator's of the Telvaught Clan, this armor is unknown to the world as thos"
+Telvaught Clan,proper_noun,4,decide,,pending,,"Worn by the Excoriator's of the Telvaught Clan, this armor is unknown to the world as thos"
+Angelic Grace Recovery,proper_noun,4,decide,,pending,,+15% Angelic Grace Recovery.
+Elemental Damage,proper_noun,4,decide,,pending,,+20% Elemental Damage.
+Poisoned,proper_noun,4,decide,,pending,,Being Poisoned no longer Damages you.
+Sunderance,proper_noun,4,decide,,pending,,Light Attack hits have a 50% chance to apply Sunderance.
+Weapon Attacks,proper_noun,4,decide,,pending,,"When you Enter Angel Ascension, Poison all enemies within 5 meters, Weapon Attacks in Ange"
+Enraged,proper_noun,4,decide,,pending,,"When you hit an enemy with a Light Attack while Enraged, you gain Rage."
+Valahk,proper_noun,4,decide,,pending,,General Valahk - Nor
+The Lord,proper_noun,4,decide,,pending,,"Mahkteah, The Lord of Perdition"
+Journal,proper_noun,4,decide,,pending,,Dream Journal
+Heresy,proper_noun,4,decide,,pending,,"Under the Inquisition Act of 760, this property has been temporarily seized by the Archspi"
+Then,proper_noun,4,decide,,pending,,"- The Holy Phases -
+
+New Moon: Cleansing. Quiet Renewal and Planning.
+
+Waxing: Celebration"
+Day of Harvest,proper_noun,4,decide,,pending,,"3rd Day of Harvest, Morning Watch
+All quiet upon the tower. Dardin relieved on time, store"
+Clan Moore,proper_noun,4,decide,,pending,,Ensure the research here reaches the representative from Clan Moore. We've managed to synt
+Luminar,proper_noun,4,decide,,pending,,For the Holy Lineage in Luminar
+City,proper_noun,4,decide,,pending,,"Greetings, upon the Eve of the New Moon.
+
+By the Grace of the Lunitarian Faith, the Indust"
+Even,proper_noun,4,decide,,pending,,"How could the knight who killed Valahk Nor, Gallant the Wise, The Honest, The Kind, Gallan"
+What,proper_noun,4,decide,,pending,,I must now take my leave of Gildenarch. When the Archspire finds Renault’s smoldering corp
+Lower,proper_noun,4,decide,,pending,,"Quarterly intake, Block C - 47 souls, billed. 
+
+Quarterly intake, Block D - 102 souls, bil"
+Knight Commander Gallant Alexander,proper_noun,4,decide,,pending,,"Rite of Conscription invoked by Knight Commander Gallant Alexander
+
+For the Prisoner Lotte"
+Karsivite,proper_noun,4,decide,,pending,,"The Karsivite pagans are a strange sort, not that any aren’t addled. The Conversions handl"
+Karsiv,proper_noun,4,decide,,pending,,"The period following the establishment of the Crimson Concordat was tumultuous, as it was "
+Empire,proper_noun,4,decide,,pending,,"The period following the establishment of the Crimson Concordat was tumultuous, as it was "
+Tongue,proper_noun,4,decide,,pending,,"William Crowlich — Murder x2 — Arms (2), Legs (2), Spine: ✓ all 
+
+Vktor Hall — Heresy — To"
+Bloody Note,proper_noun,4,decide,,pending,,Worn Bloody Note
+Some,proper_noun,4,decide,,pending,,"An incursion on normal difficulty
+Some elites and special monsters
+Uncommon to rare gear, "
+Infernal Energy,proper_noun,4,decide,,pending,,Acquire Infernal Energy from a Hellrift.
+Order's,proper_noun,4,decide,,pending,,Continue the Order's mission until Mereda has need of you.
+Chalice,proper_noun,4,decide,,pending,,Find the Chalice in Elk Grove Academy and bring it back to the merchant.
+Elite Demon Brutes,proper_noun,4,decide,,pending,,Kill Elite Demon Brutes.
+Elite Feral Vampires,proper_noun,4,decide,,pending,,Kill Elite Feral Vampires.
+Lost Soul,proper_noun,4,decide,,pending,,Kill the Lost Soul in the Southern Ward
+Information,proper_noun,4,decide,,pending,,"Last Updated: February 3, 2026
+
+Your privacy is important to us. This Privacy Statement (“"
+Cookies,proper_noun,4,decide,,pending,,"Last Updated: February 3, 2026
+
+Your privacy is important to us. This Privacy Statement (“"
+Global Privacy Control,proper_noun,4,decide,,pending,,"Last Updated: February 3, 2026
+
+Your privacy is important to us. This Privacy Statement (“"
+Term,proper_noun,4,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Nintendo Terms,proper_noun,4,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Network Terms,proper_noun,4,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+User Agreement,proper_noun,4,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Any,proper_noun,4,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Law,proper_noun,4,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Venue,proper_noun,4,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Beast,proper_noun,4,decide,,pending,,A Beast in The Garden
+Into The Fray,proper_noun,4,decide,,pending,,Back Into The Fray
+Saintess Reliqua,proper_noun,4,decide,,pending,,Prayers are offered to Saintess Reliqua in hopes of resolution.
+Legion's,proper_noun,4,decide,,pending,,This is a staging ground. The Reborn are not so numerous to go to war with all of Eden. Th
+Sanctus,proper_noun,4,decide,,pending,,Another night the Sanctus is not the front line.
+Knight's,proper_noun,4,decide,,pending,,I touched the Knight's gauntlet at vigil last night.
+Archy,proper_noun,4,decide,,pending,,"Hey Chap, you’ve done me a nice turn with that Locket. Perhaps I’ll trouble you again? I w"
+Return,proper_noun,3,decide,,pending,,(HOLD) Return to Sanctus Clypeus
+Slashing Damage,proper_noun,3,decide,,pending,,+2 Slashing Damage
+Rewards Earned,proper_noun,3,decide,,pending,,1 / 6 Rewards Earned
+Angel Sense,proper_noun,3,decide,,pending,,<Header>Angel Sense</>
+Consumables,proper_noun,3,decide,,pending,,<Header>Consumables and Throwables</>
+Gold,proper_noun,3,decide,,pending,,<Header>Gold and Souls</>
+Status Effects,proper_noun,3,decide,,pending,,<Header>Status Effects</>
+Brand of Judgement,proper_noun,3,decide,,pending,,A ring granting the Brand of Judgement and Scorching Verdict boons.
+Blood,proper_noun,3,decide,,pending,,"A vial of ""Sanctified Blood"", designed to restore a Nephilim's wounds. The transmutation o"
+Cleared,proper_noun,3,decide,,pending,,AI Cleared
+Friend Invite,proper_noun,3,decide,,pending,,Accept Friend Invite
+Angel Unlocked,proper_noun,3,decide,,pending,,Aegis Angel Unlocked
+Uncommon,proper_noun,3,decide,,pending,,"An incursion on normal difficulty
+Few elites and special monsters
+Uncommon gear, uncommon "
+Wild,proper_noun,3,decide,,pending,,An unusual wooden shield etched in runes and imbued with an 'arcane rot' that can poison f
+Armor Unlocked,proper_noun,3,decide,,pending,,Apostate Armor Unlocked!
+Settings,proper_noun,3,decide,,pending,,Apply Settings
+Rare,proper_noun,3,decide,,pending,,Blacksmith Upgrade: Rare
+Type,proper_noun,3,decide,,pending,,Border Type
+Title,proper_noun,3,decide,,pending,,Character Title
+One,proper_noun,3,decide,,pending,,Choose One
+Shoreditch Wall Tower,proper_noun,3,decide,,pending,,Complete Shoreditch Wall Tower to Unlock.
+The Forsaken Streets,proper_noun,3,decide,,pending,,Complete The Forsaken Streets to Unlock.
+Warning,proper_noun,3,decide,,pending,,Content Warning
+Bindings,proper_noun,3,decide,,pending,,Controller Bindings
+Profile,proper_noun,3,decide,,pending,,Controller Profile
+Vibration,proper_noun,3,decide,,pending,,Controller Vibration
+New Character Failed,proper_noun,3,decide,,pending,,Creating New Character Failed
+Dragon Assassin Greaves,proper_noun,3,decide,,pending,,Crimson Dragon Assassin Greaves
+Might,proper_noun,3,decide,,pending,,Crusader's Might
+Journal Excerpt,proper_noun,3,decide,,pending,,Cultist's Journal Excerpt
+General Valahk,proper_noun,3,decide,,pending,,Defeat General Valahk 
+Growths,proper_noun,3,decide,,pending,,Destroy Growths
+Vow,proper_noun,3,decide,,pending,,Enduring Vow
+Remaining,proper_noun,3,decide,,pending,,Enemies Remaining: 2
+Ice,proper_noun,3,decide,,pending,,Enemy Variant: Ice
+Hub,proper_noun,3,decide,,pending,,Exit to Hub
+Co-Op,proper_noun,3,decide,,pending,,Filters: Co-Op
+Rebuke Elixir,proper_noun,3,decide,,pending,,Flaming Rebuke Elixir
+Experience Points,proper_noun,3,decide,,pending,,Grants Experience Points when consumed.
+Fire Power,proper_noun,3,decide,,pending,,Grants tempoary Fire Power when consumed.
+Flask Refill,proper_noun,3,decide,,pending,,Health Flask Refill
+Axis,proper_noun,3,decide,,pending,,Invert Y Axis
+Sent,proper_noun,3,decide,,pending,,Invite Sent
+Deathknights,proper_noun,3,decide,,pending,,Kill Deathknights
+Siphon,proper_noun,3,decide,,pending,,Mana Siphon
+Keyboard,proper_noun,3,decide,,pending,,Mouse & Keyboard
+Character,proper_noun,3,decide,,pending,,New Character
+Privilege Check Failed,proper_noun,3,decide,,pending,,Online Privilege Check Failed
+Parry Duration,proper_noun,3,decide,,pending,,Perfect Parry Duration
+Name Is Empty,proper_noun,3,decide,,pending,,"Player Name Is Empty, please enter name"
+Quest Quest Quest Quest,proper_noun,3,decide,,pending,,Quest Quest Quest Quest Quest Quest
+Match,proper_noun,3,decide,,pending,,Quick Match
+Test,proper_noun,3,decide,,pending,,Quick Test A
+Changed,proper_noun,3,decide,,pending,,Settings Changed
+Value,proper_noun,3,decide,,pending,,Target Y Value
+Wooden Shield,proper_noun,3,decide,,pending,,Tarnished Wooden Shield
+Lord Felwil,proper_noun,3,decide,,pending,,The Shepherds have returned with another haul of cattle from the surface. In accordance wi
+Growth Hormone,proper_noun,3,decide,,pending,,The Shepherds have returned with another haul of cattle from the surface. In accordance wi
+Felwil,proper_noun,3,decide,,pending,,The Shepherds have returned with another haul of cattle from the surface. In accordance wi
+New Librarian Items,proper_noun,3,decide,,pending,,Unlocked: New Librarian Items
+Arts,proper_noun,3,decide,,pending,,Weapon Arts
+First Playable,proper_noun,3,decide,,pending,,"Welcome to our Hub location. 
+
+Please note that this space is still very early in developm"
+District,proper_noun,3,decide,,pending,,"Welcome to the Summer Build for Crimson Moon, which represents the current state of Crimso"
+Burn,proper_noun,3,decide,,pending,,"You and Enemy attacks can apply many Status Effects such as Burn, Poison, Marked, Frost, a"
+Found,proper_noun,3,decide,,pending,,[GA_PlayerParrying] - AchievementsSubsystem not Found
+Local,proper_noun,3,decide,,pending,,"Downloading will overwrite the local save in slot {0} with the cloud save.
+
+Cloud save: {1"
+Super Resolution,proper_noun,3,decide,,pending,,DLSS Super Resolution
+Windows,proper_noun,3,decide,,pending,,"DLSS requires at least Windows 10 Fall 2017 Creators Update 64-bit, (v1709, build 16299)."
+Reflex Low Latency,proper_noun,3,decide,,pending,,NVIDIA Reflex Low Latency
+Required,proper_noun,3,decide,,pending,,Restart Required.
+Arc,proper_noun,3,decide,,pending,,Intel® XeSS Frame Generation technology uses AI to generate interpolated frames to signifi
+Stone of Arcana,proper_noun,3,decide,,pending,,Abraxas Stone of Arcana
+Stone of War,proper_noun,3,decide,,pending,,Abraxas Stone of War
+Prologue,proper_noun,3,decide,,pending,,Complete the Prologue mission in death or victory
+Vermillion Knight,proper_noun,3,decide,,pending,,"A distinct red helmet belonging the Vermillion Knight of Belwayne.
+
+The Alemendral's eldes"
+The Alemendral's,proper_noun,3,decide,,pending,,"A distinct red helmet belonging the Vermillion Knight of Belwayne.
+
+The Alemendral's eldes"
+According,proper_noun,3,decide,,pending,,"A heavy helmet, sure to strain the necks of mortal man.
+
+According to fanciful legend, the"
+Speed,proper_noun,3,decide,,pending,,Attack Speed
+Staggered,proper_noun,3,decide,,pending,,"When you hit a Staggered enemy, they become Marked."
+Light,proper_noun,3,decide,,pending,,Font of Light
+Many,proper_noun,3,decide,,pending,,Shield of Many
+Strikes,proper_noun,3,decide,,pending,,Sundering Strikes
+Faithful,proper_noun,3,decide,,pending,,Zeal of the Faithful
+The Withered,proper_noun,3,decide,,pending,,"Felwyl, The Withered"
+Nachtstahl,proper_noun,3,decide,,pending,,Pitch and slag from the Nachtstahl mills. Hellgrowth burns just like any other weed.
+Your Run,proper_noun,3,decide,,pending,,"Are you sure you want to leave the current session?
+
+Your Run progress, souls, and equipme"
+Cardinal,proper_noun,3,decide,,pending,,An inquisition? Has the Cardinal lost his mind? You don't need to convince me that this cu
+Lotte Ananta,proper_noun,3,decide,,pending,,"Here you can purchase items from the Merchant to assist in your Runs.
+
+The home of Lotte A"
+Sigil,proper_noun,3,decide,,pending,,Nephilim can call upon the power of their Angelic Lineage to transform and unleash a deves
+Transmitorium,proper_noun,3,decide,,pending,,Nephilim can call upon the power of their Angelic Lineage to transform and unleash a deves
+Why,proper_noun,3,decide,,pending,,"Once more, I am roused from my sleep by gut-wrenching nightmares. The frequency is now unb"
+By,proper_noun,3,decide,,pending,,This exotic piece of divine technology inscribes Angelic Sigils into the flesh of Nephilim
+Once,proper_noun,3,decide,,pending,,"This is the Armory.
+
+Here you can select and manage your Loadouts, stat allocation, and An"
+Stamina Cost,proper_noun,3,decide,,pending,,Backstab Stamina Cost
+Those,proper_noun,3,decide,,pending,,"
+The Scribe’s disciplinary action has kept me from a night’s rest for some time. I pored o"
+Grimhaven,proper_noun,3,decide,,pending,,4 years after Nachtstahl Steel Mills moved into the old Red Dog District we’ve seen the co
+Soul Torn Beast,proper_noun,3,decide,,pending,,"A leather bound journal detailing a broken translation of the ""Last Will and Testament of "
+Toby,proper_noun,3,decide,,pending,,"Alright, Toby, if you’re reading this, then you’ve gotten the key I slipped ya in the meal"
+Castle Town,proper_noun,3,decide,,pending,,"Alright, Toby, if you’re reading this, then you’ve gotten the key I slipped ya in the meal"
+Ramshorn,proper_noun,3,decide,,pending,,"Alright, Toby, if you’re reading this, then you’ve gotten the key I slipped ya in the meal"
+Crusaders,proper_noun,3,decide,,pending,,"Before the Lunitarian Church established the Crimson Concordat, attempts to reduce instanc"
+Demands,proper_noun,3,decide,,pending,,"Before the Lunitarian Church established the Crimson Concordat, attempts to reduce instanc"
+Nachtstahl Steel Mill,proper_noun,3,decide,,pending,,"Dear Archbishop Dorion, I’ve written to you to follow up on our discussion at Felwyl’s din"
+Moore's,proper_noun,3,decide,,pending,,"Dear Mathias
+
+ We’ve followed Moore's lead on the cult, and what we’ve found is quite trou"
+Purgatory,proper_noun,3,decide,,pending,,"Fewyl, the manor and the city is now yours as was promised. I will remain in the Spire ove"
+Most,proper_noun,3,decide,,pending,,"Finally, at long last, all the pieces are falling into place. We have access to all 3 Ston"
+Let,proper_noun,3,decide,,pending,,"Gallant,
+I would have thought you writing impossible if not for the nameless things of stu"
+As,proper_noun,3,decide,,pending,,"Gallant,
+Your prose... beautiful as ever. 
+But once again, all that comes of it are lies. "
+Rumor,proper_noun,3,decide,,pending,,Garrison Rumor
+Mr,proper_noun,3,decide,,pending,,"Halvern Room, half past the Tenth Bell. Knock twice, then once. Five of them — Devereaux, "
+Tell,proper_noun,3,decide,,pending,,"Halvern Room, half past the Tenth Bell. Knock twice, then once. Five of them — Devereaux, "
+God,proper_noun,3,decide,,pending,,"He was the god of war, and he wanted nothing else but to be in conflict with a blade in hi"
+Infernal Magick,proper_noun,3,decide,,pending,,I am unable to rest easy with this talk of Infernal Magick circulating among the others. W
+Armaean,proper_noun,3,decide,,pending,,I know you weren't exactly thrilled about being down 3 men this evening but I cannot have 
+Helene,proper_noun,3,decide,,pending,,"I thought they was just takin’ the ones got sick at the tavern.
+Piling ‘em in the streets."
+Faithfully,proper_noun,3,decide,,pending,,"Mathias. 
+
+I implore you to heed my warnings about these heretics. No longer can we stand "
+Scholar,proper_noun,3,decide,,pending,,Missing Scholar’s Notes 
+Tuesday,proper_noun,3,decide,,pending,,Monday. Fitting at Madame Auvern's at the Sixth Bell. Tea at Reverence Hall. The Devereaux
+Seminary Hold,proper_noun,3,decide,,pending,,Our lord's Gala in Elk Grove Academy is tonight. We must prepare to cleanse the mortal fil
+Clan Telvaught,proper_noun,3,decide,,pending,,"Solomon, your absence at the gathering has aroused suspicion among the Patriarchs and Matr"
+Hunt,proper_noun,3,decide,,pending,,The Hunt for Aegoroth 
+Saedrys,proper_noun,3,decide,,pending,,"The period following the establishment of the Crimson Concordat was tumultuous, as it was "
+Archspire's,proper_noun,3,decide,,pending,,"Truly, I couldn't be more impressed with our recent discoveries on the science of Soul Ene"
+Notice,proper_noun,3,decide,,pending,,Urgent Notice
+An,proper_noun,3,decide,,pending,,"Vauron —
+
+I am sending this to your townhouse, and I trust you will read it in your dressi"
+Concordat,proper_noun,3,decide,,pending,,We’ve received a request from the Knights of the Crimson Moon. Get this: they want to allo
+Imperial,proper_noun,3,decide,,pending,,"When Emperor Alonious of Saedrys laid down his crown before the Holy Lineage, the two part"
+Eyes,proper_noun,3,decide,,pending,,"William Crowlich — Murder x2 — Arms (2), Legs (2), Spine: ✓ all 
+
+Vktor Hall — Heresy — To"
+Heart,proper_noun,3,decide,,pending,,"William Crowlich — Murder x2 — Arms (2), Legs (2), Spine: ✓ all 
+
+Vktor Hall — Heresy — To"
+Angelic Choir,proper_noun,3,decide,,pending,,Acquire lore on the Angelic Choir.
+Blacksmith Gajov Resnyk,proper_noun,3,decide,,pending,,Acquire lore on the Blacksmith Gajov Resnyk.
+Shoreditch Walltower,proper_noun,3,decide,,pending,,Collect Legendary Scraps from the Shoreditch Walltower.
+Flesh-Wrought Egregore,proper_noun,3,decide,,pending,,Complete Challenge: Flesh-Wrought Egregore
+The Flesh-Wrought Egregore,proper_noun,3,decide,,pending,,Defeat The Flesh-Wrought Egregore
+Aleria,proper_noun,3,decide,,pending,,Find information on Aleria.
+Knight Captain Rendaen,proper_noun,3,decide,,pending,,Find the Knight Captain Rendaen.
+Revenant Crown,proper_noun,3,decide,,pending,,Find the Revenant Crown in the depths of Gildenarch.
+ProbablyMonsters Inc,proper_noun,3,decide,,pending,,"Last Updated: February 3, 2026
+
+Your privacy is important to us. This Privacy Statement (“"
+Data,proper_noun,3,decide,,pending,,"Last Updated: February 3, 2026
+
+Your privacy is important to us. This Privacy Statement (“"
+Choice,proper_noun,3,decide,,pending,,"Last Updated: February 3, 2026
+
+Your privacy is important to us. This Privacy Statement (“"
+Contact,proper_noun,3,decide,,pending,,"Last Updated: February 3, 2026
+
+Your privacy is important to us. This Privacy Statement (“"
+Game Invite,proper_noun,3,decide,,pending,,Accept Game Invite
+Ember,proper_noun,3,decide,,pending,,Divine Ember
+Locket,proper_noun,3,decide,,pending,,Somber Locket
+Advocate,proper_noun,3,decide,,pending,,An entity in the Hellgrowth calling himself the Advocate wants you to kill the last remain
+Fallen Nephilim,proper_noun,3,decide,,pending,,Avenge the Fallen Nephilim
+Bone,proper_noun,3,decide,,pending,,God Slayer: Of Rot and Bone.
+Excursions,proper_noun,3,decide,,pending,,Perilous Excursions I: The Shifting Mirror
+Akyreon,proper_noun,3,decide,,pending,,Remnants of Akyreon
+Stricken Testament,proper_noun,3,decide,,pending,,The Stricken Testament I
+Crusader,proper_noun,3,decide,,pending,,"A heater shield carried by Covenant Clerics, the warrior-priests of the Crusader corps.
+
+T"
+Carried,proper_noun,3,decide,,pending,,"A tower shield bearing the heron of the Velchorian throne.
+
+Carried by Sovereign Sentries "
+Signet,proper_noun,3,decide,,pending,,Empyrean Signet
+Amulet,proper_noun,3,decide,,pending,,Frostbitten Amulet
+Long,proper_noun,3,decide,,pending,,"Grants the Font of Light boon.
+
+Long have there been legends of ancient relicts, used by t"
+Quorum,proper_noun,3,decide,,pending,,"Grants the Hardened Fury boon.
+
+Around the doomed churches of Quorum were placed special g"
+Treveyan,proper_noun,3,decide,,pending,,"Grants the Last Bastion boon.
+
+Once used as currency when gold was scarce, bricks from the"
+Gildenarch's,proper_noun,3,decide,,pending,,The Industrial Heart of Grimhaven was central to Gildenarch's revival and its demise. Weap
+Projectiles,proper_noun,3,decide,,pending,,Bleed Projectiles
+Trail,proper_noun,3,decide,,pending,,Fire Trail
+The Order's,proper_noun,3,decide,,pending,,"A glaive grown from Hellgrowth, its blade still warm to the touch.
+
+Cut from raw biomass b"
+Divine's,proper_noun,3,decide,,pending,,An ancient sword imbued with the Divine's holy moonlight. Its edge delivers immense Holy d
+Gallant's,proper_noun,3,decide,,pending,,I served as a novice under Gallant's command
+Withered,proper_noun,3,decide,,pending,,"Felwyl the Withered. Lich. Wanker. Good luck, friend."
+Emphasize,proper_noun,2,decide,,pending,,"""Lorem <Emphasize>ipsum dolor sit amet, consectetur</> adipiscing elit. Integer gravida <E"
+Bag Slots Unlocked,proper_noun,2,decide,,pending,,+2 Bag Slots Unlocked!
+Crushing Damage,proper_noun,2,decide,,pending,,+2 Crushing Damage
+Seconds,proper_noun,2,decide,,pending,,+40 Fire Attack. Lasts for 30 Seconds.
+Consumable Max Carry,proper_noun,2,decide,,pending,,+Consumable Max Carry
+Throwable Max Carry,proper_noun,2,decide,,pending,,+Throwable Max Carry
+Restores,proper_noun,2,decide,,pending,,- Restores health
+Backstab,proper_noun,2,decide,,pending,,<Header>Backstab</>
+Boon Sigils,proper_noun,2,decide,,pending,,<Header>Boon Sigils</>
+Throwables,proper_noun,2,decide,,pending,,<Header>Consumables and Throwables</>
+Difficulty Levels,proper_noun,2,decide,,pending,,<Header>Difficulty Levels</>
+Downed,proper_noun,2,decide,,pending,,<Header>Downed</>
+Jump,proper_noun,2,decide,,pending,,<Header>Jump</>
+Move,proper_noun,2,decide,,pending,,<Header>Move and Look</>
+Nexus Gate Objectives,proper_noun,2,decide,,pending,,<Header>Nexus Gate Objectives</>
+Purified Items,proper_noun,2,decide,,pending,,<Header>Purified Items</>
+Sprint,proper_noun,2,decide,,pending,,<Header>Sprint</>
+Revive,proper_noun,2,decide,,pending,,<IA_DownSkip/> Die and Revive 
+Corpse Bloom,proper_noun,2,decide,,pending,,A Corpse Bloom affected by residual cursed energy.
+Guard of Grace,proper_noun,2,decide,,pending,,A ring granting the Aegis of Frost and Guard of Grace boons.
+Frostbrand Seal,proper_noun,2,decide,,pending,,A ring granting the Divine Focus and Frostbrand Seal boons.
+Seal of Blight,proper_noun,2,decide,,pending,,A ring granting the Seal of Flame and Seal of Blight boons.
+Trial,proper_noun,2,decide,,pending,,A ring granting the Trial by Flame and Last Light boons.
+Haedrik Knight,proper_noun,2,decide,,pending,,A ring granting the boons of the Haedrik Knight
+Phoenix Paladin,proper_noun,2,decide,,pending,,A ring granting the boons of the Phoenix Paladin
+Sanctified Blood,proper_noun,2,decide,,pending,,A substantial amount of Sanctified Blood crystalized into a Crimson Tear. Can be used to e
+Experiences,proper_noun,2,decide,,pending,,Additional Experiences
+Ashes,proper_noun,2,decide,,pending,,Aetheral Ashes
+Tongue Unlocked,proper_noun,2,decide,,pending,,Akyreon's Tongue Unlocked!
+Purified,proper_noun,2,decide,,pending,,"All equipment and items brought back to the Sanctus Clypeus become Purified, and added to "
+Down,proper_noun,2,decide,,pending,,Alt Down
+Few,proper_noun,2,decide,,pending,,"An incursion on normal difficulty
+Few elites and special monsters
+Uncommon gear, uncommon "
+Only,proper_noun,2,decide,,pending,,Angel Ascension UI Only
+Demo,proper_noun,2,decide,,pending,,Art Demo
+Elvenelk's,proper_noun,2,decide,,pending,,Ashes of an Elvenelk's shed antler. Used in advanced alchemical and crafting recipes.
+EquipmentName,proper_noun,2,decide,,pending,,Attach to {EquipmentName}
+Capacity,proper_noun,2,decide,,pending,,Bag Capacity 1
+Epic,proper_noun,2,decide,,pending,,Blacksmith Upgrade: Epic
+Upgrades,proper_noun,2,decide,,pending,,Blacksmith Upgrades
+Upgrades Unlocked,proper_noun,2,decide,,pending,,Blacksmith Upgrades Unlocked!
+Accord Unlocked,proper_noun,2,decide,,pending,,Blasphemous Accord Unlocked!
+Moon,proper_noun,2,decide,,pending,,Blood Moon
+Blades,proper_noun,2,decide,,pending,,Bloodseeker Blades
+Dust,proper_noun,2,decide,,pending,,Bone Dust
+Defeated,proper_noun,2,decide,,pending,,Brute Defeated
+Heart Unlocked,proper_noun,2,decide,,pending,,Burning Heart Unlocked!
+Dead Zone,proper_noun,2,decide,,pending,,Camera Dead Zone
+Changes,proper_noun,2,decide,,pending,,Cancel Changes
+Stats,proper_noun,2,decide,,pending,,Character Stats
+Gate Reached,proper_noun,2,decide,,pending,,City Gate Reached
+Enemies,proper_noun,2,decide,,pending,,Clear Enemies. Left: 
+Invalid,proper_noun,2,decide,,pending,,Code Invalid
+Artifact,proper_noun,2,decide,,pending,,Collect Artifact
+Throwing Knife,proper_noun,2,decide,,pending,,Common Throwing Knife
+Dragon Assassin Cuirass,proper_noun,2,decide,,pending,,Crimson Dragon Assassin Cuirass
+Dragon Assassin Gauntlets,proper_noun,2,decide,,pending,,Crimson Dragon Assassin Gauntlets
+Dragon Assassin Helmet,proper_noun,2,decide,,pending,,Crimson Dragon Assassin Helmet
+Exp,proper_noun,2,decide,,pending,,Current Exp:
+Nephelim Level,proper_noun,2,decide,,pending,,Current Nephelim Level: {1}
+Armor,proper_noun,2,decide,,pending,,Cursed Armor
+Falls,proper_noun,2,decide,,pending,,Darkness Falls
+Night,proper_noun,2,decide,,pending,,Dead of Night
+World Bosses,proper_noun,2,decide,,pending,,Defeat both World Bosses to unlock the Final Boss
+Final Boss,proper_noun,2,decide,,pending,,Defeat both World Bosses to unlock the Final Boss
+Night Unlocked,proper_noun,2,decide,,pending,,Defiled Night Unlocked!
+Mode,proper_noun,2,decide,,pending,,Display Mode
+Complete,proper_noun,2,decide,,pending,,District Complete
+Assassin Broadsword Unlocked,proper_noun,2,decide,,pending,,Dragon Assassin Broadsword Unlocked!
+Sense,proper_noun,2,decide,,pending,,Dual Sense
+Nexus,proper_noun,2,decide,,pending,,"Each combat area is controlled by a Nexus Gate. 
+
+Each gate has an objective that must be "
+Nexus Gates,proper_noun,2,decide,,pending,,"Earn XP from clearning Nexus Gates, quests, and special actions. Leveling up gives permane"
+Dodge,proper_noun,2,decide,,pending,,"Enemies flash red when they are doing Unblockable attacks.
+
+You can overcome unblockable a"
+Debug,proper_noun,2,decide,,pending,,Enemy Debug
+Moonlight Oath Gauntlets,proper_noun,2,decide,,pending,,Epic Moonlight Oath Gauntlets
+Moonlight Oath Greaves,proper_noun,2,decide,,pending,,Epic Moonlight Oath Greaves
+Bombs,proper_noun,2,decide,,pending,,Explosive Bombs
+Bombs For Sale,proper_noun,2,decide,,pending,,Explosive Bombs For Sale!
+Sample,proper_noun,2,decide,,pending,,Float Sample
+Resnyk,proper_noun,2,decide,,pending,,Gajov Resnyk
+Glory Unlocked,proper_noun,2,decide,,pending,,Gildenarch's Glory Unlocked!
+Team,proper_noun,2,decide,,pending,,Go to HUB as Team
+Coins,proper_noun,2,decide,,pending,,Gold Coins
+Throw,proper_noun,2,decide,,pending,,Gouging Throw
+Physical Power,proper_noun,2,decide,,pending,,Grants temporary Physical Power when consumed.
+Key,proper_noun,2,decide,,pending,,Graveyard Key
+Oil,proper_noun,2,decide,,pending,,Hardening Oil
+Potion,proper_noun,2,decide,,pending,,Health Potion
+Restore,proper_noun,2,decide,,pending,,Health Restore
+Attack Release,proper_noun,2,decide,,pending,,Heavy Attack Release
+Weights,proper_noun,2,decide,,pending,,Heavy Weights
+Rift,proper_noun,2,decide,,pending,,Hell Rift
+Aura,proper_noun,2,decide,,pending,,Holy Aura
+Request,proper_noun,2,decide,,pending,,Invalid Request
+Received,proper_noun,2,decide,,pending,,Invite Received
+Name Here,proper_noun,2,decide,,pending,,Item Name Here
+Elite Leaders,proper_noun,2,decide,,pending,,Kill the Elite Leaders
+Party,proper_noun,2,decide,,pending,,Leave Party
+On,proper_noun,2,decide,,pending,,Lock-On <IA_Targeting/> then press <IA_Attack/> to Backstab an enemy from behind.
+Ananta,proper_noun,2,decide,,pending,,Lotte Ananta
+Forward,proper_noun,2,decide,,pending,,Move Forward
+More,proper_noun,2,decide,,pending,,Need More
+Controller,proper_noun,2,decide,,pending,,New Controller
+Tab,proper_noun,2,decide,,pending,,Next Tab
+Now,proper_noun,2,decide,,pending,,Not Now
+Up,proper_noun,2,decide,,pending,,Pick Up
+Beta,proper_noun,2,decide,,pending,,Post Beta
+Moonlight Oath Cuirass,proper_noun,2,decide,,pending,,Rare Moonlight Oath Cuirass
+Moonlight Oath Helmet,proper_noun,2,decide,,pending,,Rare Moonlight Oath Helmet
+Obsidian Shard,proper_noun,2,decide,,pending,,Rare Obsidian Shard
+Diary,proper_noun,2,decide,,pending,,Ratto's Diary
+The City Gate,proper_noun,2,decide,,pending,,Reach The City Gate
+Close,proper_noun,2,decide,,pending,,Really Close
+Your Code,proper_noun,2,decide,,pending,,Redeem Your Code
+Search,proper_noun,2,decide,,pending,,Refresh Search
+Scale,proper_noun,2,decide,,pending,,Resolution Scale
+Death Ward,proper_noun,2,decide,,pending,,Ring of Death Ward
+Embers,proper_noun,2,decide,,pending,,Ring of Embers
+Oathbound Arts,proper_noun,2,decide,,pending,,Ring of Oathbound Arts
+Thorn Unlocked,proper_noun,2,decide,,pending,,Rotkin's Thorn Unlocked!
+Ash,proper_noun,2,decide,,pending,,Sacred Ash
+Slice Ring Available,proper_noun,2,decide,,pending,,Sanguine Slice Ring Available!
+Class,proper_noun,2,decide,,pending,,Select Class
+Create,proper_noun,2,decide,,pending,,Sesson Create
+Cinematic,proper_noun,2,decide,,pending,,Skip Cinematic awdj oajwdo i
+Dialogue,proper_noun,2,decide,,pending,,Skip Dialogue
+Drain,proper_noun,2,decide,,pending,,Soul Drain
+Default,proper_noun,2,decide,,pending,,System Default
+Iconostein,proper_noun,2,decide,,pending,,The Shepherds have returned with another haul of cattle from the surface. In accordance wi
+Knife,proper_noun,2,decide,,pending,,Throwing Knife
+Hammer,proper_noun,2,decide,,pending,,Uncommon Hammer 03
+Sharpness,proper_noun,2,decide,,pending,,Upscaler Sharpness
+Browser,proper_noun,2,decide,,pending,,Verbals Browser
+On Host,proper_noun,2,decide,,pending,,Waiting On Host
+Art Name,proper_noun,2,decide,,pending,,Weapon Art Name
+Thank,proper_noun,2,decide,,pending,,"Welcome to the Crimson Moon's Summer Build!
+
+This demo reflects the current state of team'"
+Heavy Attacks,proper_noun,2,decide,,pending,,You apply oil to your weapon. The next 5 Heavy Attacks gain (+33% Bonus Attack Power). Las
+Slashing,proper_noun,2,decide,,pending,,You apply oil to your weapon/shield. You gain 75% Bonus to Slashing/Piercing/Crushing Defe
+Piercing,proper_noun,2,decide,,pending,,You apply oil to your weapon/shield. You gain 75% Bonus to Slashing/Piercing/Crushing Defe
+Crushing Defense,proper_noun,2,decide,,pending,,You apply oil to your weapon/shield. You gain 75% Bonus to Slashing/Piercing/Crushing Defe
+AchievementsSubsystem,proper_noun,2,decide,,pending,,[GA_PlayerParrying] - AchievementsSubsystem not Found
+Empower Altar,proper_noun,2,decide,,pending,,to Empower Altar
+Button,proper_noun,2,decide,,pending,,{ Button label text }
+Action,proper_noun,2,decide,,pending,,{Action}
+Charges,proper_noun,2,decide,,pending,,{Count}/{Charges}
+Dist,proper_noun,2,decide,,pending,,{Dist}CM
+Total,proper_noun,2,decide,,pending,,{Pure}/{Total}
+Out of Date,proper_noun,2,decide,,pending,,Driver Out of Date
+Generator Levels,proper_noun,2,decide,,pending,,Frame Generator Levels
+Capture Tool Active,proper_noun,2,decide,,pending,,Incompatible API Capture Tool Active
+Hardware,proper_noun,2,decide,,pending,,Incompatible Hardware
+Supported,proper_noun,2,decide,,pending,,Not Supported
+System Out,proper_noun,2,decide,,pending,,Operating System Out of Date
+Date,proper_noun,2,decide,,pending,,Operating System Out of Date
+Not Supported At Build,proper_noun,2,decide,,pending,,Platform Not Supported At Build Time
+Not Supported,proper_noun,2,decide,,pending,,AMD AntiLag2 Not Supported.
+Frame Generator,proper_noun,2,decide,,pending,,AMD FSR Frame Generator is Not Supported.
+Radeon,proper_noun,2,decide,,pending,,AMD FSR Frame Generator is not supported by your hardware minimum requirements AMD Radeon™
+Ryzen,proper_noun,2,decide,,pending,,AMD FSR Frame Generator is not supported by your hardware minimum requirements AMD Radeon™
+Radeon Anti-Lag,proper_noun,2,decide,,pending,,AMD Radeon Anti-Lag 2 reduces the system latency (the time between user inputs and visual 
+Performance,proper_noun,2,decide,,pending,,Ultra Performance
+District Mission,proper_noun,2,decide,,pending,,Complete a District Mission on Hellish difficulty or higher
+Grove Academy,proper_noun,2,decide,,pending,,Elk Grove Academy
+Make Strong,proper_noun,2,decide,,pending,,Gajov Make Strong
+Together,proper_noun,2,decide,,pending,,Slay Together
+Ascendence Level,proper_noun,2,decide,,pending,,Aegis: Ascendence Level I
+Angel Frost Level,proper_noun,2,decide,,pending,,Sunder: Angel Frost Level I
+Velchorian Isles,proper_noun,2,decide,,pending,,"A cumbersome cuirass, fit only for the toughest Nephilim, designed to stand against a drag"
+Dragons,proper_noun,2,decide,,pending,,"A cumbersome cuirass, fit only for the toughest Nephilim, designed to stand against a drag"
+Though,proper_noun,2,decide,,pending,,"Burdensome greaves designed for the Nephilim  Dragon Assassins.
+
+Though well-seasoned Drag"
+Norundiir,proper_noun,2,decide,,pending,,"Cumbersome greaves designed to be worn by the mighty Dragon Assassins. 
+
+They trekked the "
+Load,proper_noun,2,decide,,pending,,Equip Load
+Handed Sword,proper_noun,2,decide,,pending,,One Handed Sword
+Sprint Attacks,proper_noun,2,decide,,pending,,+20% Damage from Sprint Attacks.
+Burning Duration,proper_noun,2,decide,,pending,,+25% Burning Duration.
+Enraged Duration,proper_noun,2,decide,,pending,,+25% Enraged Duration.
+Riposte Damage,proper_noun,2,decide,,pending,,+30% Riposte Damage.
+Ally Revive,proper_noun,2,decide,,pending,,+50% Ally Revive speed.
+Mana Flask,proper_noun,2,decide,,pending,,All Health and Mana Flask restoration effects are doubled on the player.
+Damages,proper_noun,2,decide,,pending,,Being Poisoned no longer Damages you.
+Marks,proper_noun,2,decide,,pending,,Executing an enemy Marks all enemies within 7 meters.
+Max Potion,proper_noun,2,decide,,pending,,Gain 1 additional Max Potion.
+Healing,proper_noun,2,decide,,pending,,"If an attack would drop you to 0 Health or lower and you have a Health Flask available, yo"
+Killing,proper_noun,2,decide,,pending,,"On Killing an Elite enemy, you gain Rage."
+Life,proper_noun,2,decide,,pending,,Recover 1 Life in your Life Pool upon accepting.
+Life Pool,proper_noun,2,decide,,pending,,Recover 1 Life in your Life Pool upon accepting.
+Art Auras,proper_noun,2,decide,,pending,,Weapon Art Auras are doubled in size.
+Damage Zones,proper_noun,2,decide,,pending,,Weapon Art attacks that create Damage Zones fire twice.
+Unblocked Melee Attack,proper_noun,2,decide,,pending,,"When an enemy hits you with an Unblocked Melee Attack, you recover 20 Stamina."
+Enter Angel Ascension,proper_noun,2,decide,,pending,,"When you Enter Angel Ascension, Poison all enemies within 5 meters, Weapon Attacks in Ange"
+Enter,proper_noun,2,decide,,pending,,"When you Enter or Exit Angel Ascension, all enemies within 7 meters of you are Marked."
+Exit Angel Ascension,proper_noun,2,decide,,pending,,"When you Enter or Exit Angel Ascension, all enemies within 7 meters of you are Marked."
+Stacks,proper_noun,2,decide,,pending,,"When you Parry an enemy, they suffer Burning (2 Stacks)."
+Angel Mode,proper_noun,2,decide,,pending,,"When you activate Angel Mode, enemies within 5 meters suffer Burning."
+Health Flasks,proper_noun,2,decide,,pending,,"When you have 0 Health Flasks, you will restore a Health Flask after hitting enemies 8 tim"
+Knocked Down,proper_noun,2,decide,,pending,,When you hit a Burning enemy with a Heavy Attack they have a 50% chance to be Knocked Down
+Weapon Attack,proper_noun,2,decide,,pending,,"When you hit an enemy with a Weapon Attack, they have a 25% chance to suffer Burning."
+Charged Heavy Attack,proper_noun,2,decide,,pending,,"When you hit an enemy with a fully Charged Heavy Attack, you recover 3 Angelic Grace."
+Resistances,proper_noun,2,decide,,pending,,While Enraged you gain 20% bonus to all Resistances.
+Reviving,proper_noun,2,decide,,pending,,"While Reviving an Ally, you gain +50% Damage Resistance and +50% Poise Damage Resistance."
+Ally,proper_noun,2,decide,,pending,,"While Reviving an Ally, you gain +50% Damage Resistance and +50% Poise Damage Resistance."
+Damage Resistance,proper_noun,2,decide,,pending,,"While Reviving an Ally, you gain +50% Damage Resistance and +50% Poise Damage Resistance."
+Poise Damage Resistance,proper_noun,2,decide,,pending,,"While Reviving an Ally, you gain +50% Damage Resistance and +50% Poise Damage Resistance."
+Attack Bonus,proper_noun,2,decide,,pending,,"While suffering from (Burn, Frost, Poison, or Bleed), you gain +25% Attack Bonus to all At"
+Stamina Recovery,proper_noun,2,decide,,pending,,"While your Health is at or below 40%, you gain 100% Bonus to Stamina Recovery."
+Physical Defenses,proper_noun,2,decide,,pending,,"While your Health is at or below 40%, you gain a +40 Bonus to Physical Defenses."
+Allies,proper_noun,2,decide,,pending,,You and Allies within 10 meters of you deal (+10% Damage vs Burning enemies).
+Cold Effects,proper_noun,2,decide,,pending,,Your Cold Effects gain +10 power.
+Fire Effects,proper_noun,2,decide,,pending,,Your Fire Effects gain +35 power.
+Technique,proper_noun,2,decide,,pending,,Aftershock Technique
+Strength,proper_noun,2,decide,,pending,,Angelic Strength
+Verdict,proper_noun,2,decide,,pending,,Ashen Verdict
+Pestilence,proper_noun,2,decide,,pending,,Cleansing Pestilence
+Smite,proper_noun,2,decide,,pending,,Crimson Smite
+Cinders,proper_noun,2,decide,,pending,,Crown of Cinders
+Vigor,proper_noun,2,decide,,pending,,Defiant Vigor
+Reservoir,proper_noun,2,decide,,pending,,Divine Reservoir
+Reward,proper_noun,2,decide,,pending,,Executioner's Reward
+Seal,proper_noun,2,decide,,pending,,Frostbrand Seal
+Hands,proper_noun,2,decide,,pending,,Healing Hands
+Burst,proper_noun,2,decide,,pending,,Heavenfire Burst
+Mark,proper_noun,2,decide,,pending,,Judgment's Mark
+Pale Horse,proper_noun,2,decide,,pending,,On A Pale Horse
+Slam,proper_noun,2,decide,,pending,,Sanguine Slam
+Unfaithful,proper_noun,2,decide,,pending,,Scourge of the Unfaithful
+Suffering,proper_noun,2,decide,,pending,,Trial of Suffering
+Pyre,proper_noun,2,decide,,pending,,Unyielding Pyre
+The Ascended,proper_noun,2,decide,,pending,,"Felwyl, The Ascended"
+Wrought Egregore,proper_noun,2,decide,,pending,,Flesh-Wrought Egregore
+Blade,proper_noun,2,decide,,pending,,Bloodseeker Blade
+Bomb,proper_noun,2,decide,,pending,,Explosive Bomb
+Sort,proper_noun,2,decide,,pending,,Cycle Sort
+Gamepad,proper_noun,2,decide,,pending,,Default Gamepad
+Mouse,proper_noun,2,decide,,pending,,Default Keyboard & Mouse
+Tree,proper_noun,2,decide,,pending,,"""The Tree"""
+Windmill,proper_noun,2,decide,,pending,,(Before you is the journal of the Nephilim Irvine Gaertner. Its passages detail reports on
+Aeryn,proper_noun,2,decide,,pending,,An inquisition? Has the Cardinal lost his mind? You don't need to convince me that this cu
+Cretchys,proper_noun,2,decide,,pending,,An inquisition? Has the Cardinal lost his mind? You don't need to convince me that this cu
+Librarian Mereda,proper_noun,2,decide,,pending,,"Here you can Turn in Emergent Quests for valuable resources and access Lore Codices.
+
+This"
+Runs,proper_noun,2,decide,,pending,,"Here you can purchase items from the Merchant to assist in your Runs.
+
+The home of Lotte A"
+Gajov Resnyk,proper_noun,2,decide,,pending,,"Here, you can visit the blacksmith to upgrade and acquire new gear.
+
+The home of the infam"
+Mana Pool,proper_noun,2,decide,,pending,,"Nephilim can perform unique attacks called Weapon Arts.
+
+Weapon Arts are mapped to the top"
+Rest,proper_noun,2,decide,,pending,,"Nephilim can perform unique attacks called Weapon Arts.
+
+Weapon Arts are mapped to the top"
+Again,proper_noun,2,decide,,pending,,"Once more, I am roused from my sleep by gut-wrenching nightmares. The frequency is now unb"
+Angelic Sigils,proper_noun,2,decide,,pending,,This exotic piece of divine technology inscribes Angelic Sigils into the flesh of Nephilim
+Angelic,proper_noun,2,decide,,pending,,This exotic piece of divine technology inscribes Angelic Sigils into the flesh of Nephilim
+Inquisition Act,proper_noun,2,decide,,pending,,"Under the Inquisition Act of 760, this property has been temporarily seized by the Archspi"
+Treason,proper_noun,2,decide,,pending,,"Under the Inquisition Act of 760, this property has been temporarily seized by the Archspi"
+Lunitarian Empire,proper_noun,2,decide,,pending,,"Under the Inquisition Act of 760, this property has been temporarily seized by the Archspi"
+Chapter's Inquisition,proper_noun,2,decide,,pending,,"Under the Inquisition Act of 760, this property has been temporarily seized by the Archspi"
+Posting Start,proper_noun,2,decide,,pending,,"Under the Inquisition Act of 760, this property has been temporarily seized by the Archspi"
+Posting End,proper_noun,2,decide,,pending,,"Under the Inquisition Act of 760, this property has been temporarily seized by the Archspi"
+Deadline,proper_noun,2,decide,,pending,,"Under the Inquisition Act of 760, this property has been temporarily seized by the Archspi"
+Request Hearing,proper_noun,2,decide,,pending,,"Under the Inquisition Act of 760, this property has been temporarily seized by the Archspi"
+Inquisitor Aldus Geory,proper_noun,2,decide,,pending,,"Under the Inquisition Act of 760, this property has been temporarily seized by the Archspi"
+Property,proper_noun,2,decide,,pending,,Weathered Property siezure notice
+Scaling,proper_noun,2,decide,,pending,,Int Scaling
+Log,proper_noun,2,decide,,pending,,Quest Log
+Poise Damage,proper_noun,2,decide,,pending,,Parry Poise Damage
+LoadoutNumber,proper_noun,2,decide,,pending,,+ Loadout {LoadoutNumber}
+Hand,proper_noun,2,decide,,pending,,Off Hand
+The Scribe,proper_noun,2,decide,,pending,,"
+The Scribe’s disciplinary action has kept me from a night’s rest for some time. I pored o"
+Sergio,proper_noun,2,decide,,pending,,"
+The Scribe’s disciplinary action has kept me from a night’s rest for some time. I pored o"
+Metaphysics of Being,proper_noun,2,decide,,pending,,"
+The Scribe’s disciplinary action has kept me from a night’s rest for some time. I pored o"
+Finite,proper_noun,2,decide,,pending,,"
+The Scribe’s disciplinary action has kept me from a night’s rest for some time. I pored o"
+Infinite,proper_noun,2,decide,,pending,,"
+The Scribe’s disciplinary action has kept me from a night’s rest for some time. I pored o"
+Divinity,proper_noun,2,decide,,pending,,"
+The Scribe’s disciplinary action has kept me from a night’s rest for some time. I pored o"
+Consensus,proper_noun,2,decide,,pending,,"
+The Scribe’s disciplinary action has kept me from a night’s rest for some time. I pored o"
+New Moon,proper_noun,2,decide,,pending,,"- The Holy Phases -
+
+New Moon: Cleansing. Quiet Renewal and Planning.
+
+Waxing: Celebration"
+Know,proper_noun,2,decide,,pending,,"- The Holy Phases -
+
+New Moon: Cleansing. Quiet Renewal and Planning.
+
+Waxing: Celebration"
+Sun,proper_noun,2,decide,,pending,,"- The Holy Phases -
+
+New Moon: Cleansing. Quiet Renewal and Planning.
+
+Waxing: Celebration"
+Will,proper_noun,2,decide,,pending,,"A leather bound journal detailing a broken translation of the ""Last Will and Testament of "
+Scribes,proper_noun,2,decide,,pending,,"A theory so bizarre it may at least hold a glimmer of truth. Allegedly, one of the Archspi"
+Silencing,proper_noun,2,decide,,pending,,"A theory so bizarre it may at least hold a glimmer of truth. Allegedly, one of the Archspi"
+Ludereon,proper_noun,2,decide,,pending,,An unorthodox exploration of Lunitarian myth and legend that scrutinizes the conventional 
+Maedrael,proper_noun,2,decide,,pending,,An unorthodox exploration of Lunitarian myth and legend that scrutinizes the conventional 
+Just,proper_noun,2,decide,,pending,,Another test subject was martyred today in pursuit of knowledge. We managed to keep his so
+At,proper_noun,2,decide,,pending,,Another test subject was martyred today in pursuit of knowledge. We managed to keep his so
+Marvenne,proper_noun,2,decide,,pending,,"Asher,
+
+The bolt on my study door is a brass thing of poor manufacture, three-pin tumbler,"
+Yours,proper_noun,2,decide,,pending,,"Asher,
+
+The bolt on my study door is a brass thing of poor manufacture, three-pin tumbler,"
+Caragus,proper_noun,2,decide,,pending,,"Before the Lunitarian Church established the Crimson Concordat, attempts to reduce instanc"
+Sister Susan,proper_noun,2,decide,,pending,,"Before the Lunitarian Church established the Crimson Concordat, attempts to reduce instanc"
+Telvaught,proper_noun,2,decide,,pending,,"Clan Telvaught:
+
+Guild of Academics and Archaeologists. Led by Professor Peter Garrus Telv"
+Covenant,proper_noun,2,decide,,pending,,"Clan Telvaught:
+
+Guild of Academics and Archaeologists. Led by Professor Peter Garrus Telv"
+Founded,proper_noun,2,decide,,pending,,"Clan Telvaught:
+
+Guild of Academics and Archaeologists. Led by Professor Peter Garrus Telv"
+First,proper_noun,2,decide,,pending,,Day 1 — Subject seventeen takes the seed without protest. Felwyl says the willing ones blo
+The Garden,proper_noun,2,decide,,pending,,Day 1 — Subject seventeen takes the seed without protest. Felwyl says the willing ones blo
+Sister,proper_noun,2,decide,,pending,,"Day 12 of the Reaping Moon. Three new ""physicians"" admitted under the Master's seal. None "
+Archbishop Dorion,proper_noun,2,decide,,pending,,"Dear Archbishop Dorion, I’ve written to you to follow up on our discussion at Felwyl’s din"
+Karsivite Orthodoxy,proper_noun,2,decide,,pending,,"Dear Siron, I wanted to thank you for your assistance during your last month’s visit with "
+Tabitha,proper_noun,2,decide,,pending,,Dear Tabitha
+Willing,proper_noun,2,decide,,pending,,Diary of the Willing
+The Reborn,proper_noun,2,decide,,pending,,"Divine have mercy. Solomon was always bold, but bringing Infernal Flora to the Archspire c"
+Inquisitor,proper_noun,2,decide,,pending,,"Divine have mercy. Solomon was always bold, but bringing Infernal Flora to the Archspire c"
+Letter,proper_noun,2,decide,,pending,,Folded Letter
+Spire Funding,proper_noun,2,decide,,pending,,Godsreach Spire Funding
+Completion of ,proper_noun,2,decide,,pending,,"Greetings, upon the Eve of the New Moon.
+
+By the Grace of the Lunitarian Faith, the Indust"
+Doors,proper_noun,2,decide,,pending,,"Greetings, upon the Eve of the New Moon.
+
+By the Grace of the Lunitarian Faith, the Indust"
+Devereaux,proper_noun,2,decide,,pending,,"Halvern Room, half past the Tenth Bell. Knock twice, then once. Five of them — Devereaux, "
+Mahktens,proper_noun,2,decide,,pending,,"He was the god of war, and he wanted nothing else but to be in conflict with a blade in hi"
+Today,proper_noun,2,decide,,pending,,"How could the knight who killed Valahk Nor, Gallant the Wise, The Honest, The Kind, Gallan"
+Chapter's,proper_noun,2,decide,,pending,,I am unable to rest easy with this talk of Infernal Magick circulating among the others. W
+Charles,proper_noun,2,decide,,pending,,"I hate staying home when you’re out.
+It’s to punish you, me choosing not to go.
+But why th"
+Abraxas,proper_noun,2,decide,,pending,,I heard the children singing in the courtyard today. A new rhyme lilting from their innoce
+Apothos,proper_noun,2,decide,,pending,,I must now take my leave of Gildenarch. When the Archspire finds Renault’s smoldering corp
+Knock,proper_noun,2,decide,,pending,,"I thought they was just takin’ the ones got sick at the tavern.
+Piling ‘em in the streets."
+Two,proper_noun,2,decide,,pending,,"I thought they was just takin’ the ones got sick at the tavern.
+Piling ‘em in the streets."
+After the ,proper_noun,2,decide,,pending,,"I was but a boy yesterday, when I accepted the Red Gift. The crowd stirred as the Prophet "
+Emperor Alonious,proper_noun,2,decide,,pending,,It has long been a point of contention regarding the origins of the Lunitarian faith. The 
+Shattered Coil,proper_noun,2,decide,,pending,,"It is all about time, something which I have ample amounts of. Time for pain to fester, ti"
+Tonight,proper_noun,2,decide,,pending,,It is done. The humans have been erradicated. We'll take the tunnels the Spire and meet ou
+Caldwell,proper_noun,2,decide,,pending,,"Jemison Caldwell: 
+Age 47. 
+
+Heir to the Caldwell family fortune and estates. Owner of Sho"
+Age,proper_noun,2,decide,,pending,,"Jemison Caldwell: 
+Age 47. 
+
+Heir to the Caldwell family fortune and estates. Owner of Sho"
+Status,proper_noun,2,decide,,pending,,"Jemison Caldwell: 
+Age 47. 
+
+Heir to the Caldwell family fortune and estates. Owner of Sho"
+Ever,proper_noun,2,decide,,pending,,"Lord Felwyl,
+Sincerest apologies my Lord, as I know you are very busy. Very busy, indeed. "
+The Church,proper_noun,2,decide,,pending,,Lunarin is the Dragon! The Demiurge lives once more through the Church. A Millenia of Lies
+Cathedral Auxiliary,proper_noun,2,decide,,pending,,Monday. Fitting at Madame Auvern's at the Sixth Bell. Tea at Reverence Hall. The Devereaux
+Wednesday,proper_noun,2,decide,,pending,,Monday. Fitting at Madame Auvern's at the Sixth Bell. Tea at Reverence Hall. The Devereaux
+Pontoon Town,proper_noun,2,decide,,pending,,Monday. Fitting at Madame Auvern's at the Sixth Bell. Tea at Reverence Hall. The Devereaux
+Pelham,proper_noun,2,decide,,pending,,"Mr. Calder —
+
+I have your note. I had it twice, in fact, the second hand-delivered, which "
+Lamentation,proper_noun,2,decide,,pending,,My Lamentation
+Oh,proper_noun,2,decide,,pending,,"My Mereda,
+Oh how many times have I tried to write this letter to you? How many times have"
+Last Kingdoms,proper_noun,2,decide,,pending,,"My Mereda,
+Oh how many times have I tried to write this letter to you? How many times have"
+Wraith,proper_noun,2,decide,,pending,,"My Mereda,
+Oh how many times have I tried to write this letter to you? How many times have"
+Father,proper_noun,2,decide,,pending,,"Natalia, please turn back. Do not go inside the house! Mother and Father are not well; the"
+Ensure,proper_noun,2,decide,,pending,,Our lord's Gala in Elk Grove Academy is tonight. We must prepare to cleanse the mortal fil
+The Knights,proper_noun,2,decide,,pending,,"Preamble
+
+In the name of Lunarin, our Holy Divine, and the joint authorities of The Holy L"
+Quarterly,proper_noun,2,decide,,pending,,"Quarterly intake, Block C - 47 souls, billed. 
+
+Quarterly intake, Block D - 102 souls, bil"
+Felwyl's,proper_noun,2,decide,,pending,,"Quarterly intake, Block C - 47 souls, billed. 
+
+Quarterly intake, Block D - 102 souls, bil"
+Form,proper_noun,2,decide,,pending,,Release Form
+Men,proper_noun,2,decide,,pending,,"Sending 8 persons
+3 Men 
+5 Women
+2 Men uninfected
+1 partially infected
+3 Women fully uninf"
+Women,proper_noun,2,decide,,pending,,"Sending 8 persons
+3 Men 
+5 Women
+2 Men uninfected
+1 partially infected
+3 Women fully uninf"
+Additionally,proper_noun,2,decide,,pending,,"Sending 8 persons
+3 Men 
+5 Women
+2 Men uninfected
+1 partially infected
+3 Women fully uninf"
+However,proper_noun,2,decide,,pending,,"Siron, excuse my apparent lack of enthusiasm for our esteemed philanthropist at the gather"
+Scirax,proper_noun,2,decide,,pending,,"Solomon, your absence at the gathering has aroused suspicion among the Patriarchs and Matr"
+Chapel,proper_noun,2,decide,,pending,,St. Uriel's Chapel
+Brothers,proper_noun,2,decide,,pending,,The Brothers
+Lord of ,proper_noun,2,decide,,pending,,The Inquisition brought in someone interesting this last night. They were indeed a heretic
+Specters,proper_noun,2,decide,,pending,,"The period following the establishment of the Crimson Concordat was tumultuous, as it was "
+The Divine,proper_noun,2,decide,,pending,,"The time has come, Mathias. We have belayed our response long enough. The disorder and cha"
+Goodbye,proper_noun,2,decide,,pending,,This is Goodbye. For now.
+The Saints,proper_noun,2,decide,,pending,,"Truly, I couldn't be more impressed with our recent discoveries on the science of Soul Ene"
+Wynn,proper_noun,2,decide,,pending,,"Tuesday. Botanical Studies, third hour. Eight of us, two missing — Wynn says it's the coug"
+Finance Council,proper_noun,2,decide,,pending,,"Upon deliberation, the chapter's Finance Council has decided to grant Moore's request for "
+Vicariate Administrative Consultant,proper_noun,2,decide,,pending,,"Upon deliberation, the chapter's Finance Council has decided to grant Moore's request for "
+Sergio Von Kulkan,proper_noun,2,decide,,pending,,"Upon deliberation, the chapter's Finance Council has decided to grant Moore's request for "
+None,proper_noun,2,decide,,pending,,"Vauron —
+
+I am sending this to your townhouse, and I trust you will read it in your dressi"
+Money,proper_noun,2,decide,,pending,,"Vauron —
+
+I am sending this to your townhouse, and I trust you will read it in your dressi"
+Viktyr,proper_noun,2,decide,,pending,,We're running low on provisions. No help is coming. Trapped in here with...him...Viktyr. D
+Rot,proper_noun,2,decide,,pending,,"What a cruel and undeserved fate, oh beautiful E’frae. Whose green ran through the earth, "
+Their,proper_noun,2,decide,,pending,,"What's reborn can be rekilled. Remember that, you fools. 
+
+It's the cult that brought this"
+Or,proper_noun,2,decide,,pending,,"What's reborn can be rekilled. Remember that, you fools. 
+
+It's the cult that brought this"
+Soul,proper_noun,2,decide,,pending,,"When Emperor Alonious of Saedrys laid down his crown before the Holy Lineage, the two part"
+Holy Moonlight,proper_noun,2,decide,,pending,,"When Emperor Alonious of Saedrys laid down his crown before the Holy Lineage, the two part"
+Spine,proper_noun,2,decide,,pending,,"William Crowlich — Murder x2 — Arms (2), Legs (2), Spine: ✓ all 
+
+Vktor Hall — Heresy — To"
+Third,proper_noun,2,decide,,pending,,"[First layer, careful hand] 
+
+I have been in this box six years under the Caldwells. I mis"
+Merchant Lotte Ananta,proper_noun,2,decide,,pending,,Acquire lore on the Merchant Lotte Ananta.
+First District,proper_noun,2,decide,,pending,,Complete the First District.
+Second District,proper_noun,2,decide,,pending,,Complete the Second District.
+Third District,proper_noun,2,decide,,pending,,Complete the Third District.
+Hux Pennant,proper_noun,2,decide,,pending,,Discover the fate of Hux Pennant
+Magda Rooke,proper_noun,2,decide,,pending,,Discover the fate of Magda Rooke
+Toby Carrick,proper_noun,2,decide,,pending,,Discover the fate of Toby Carrick.
+Fallen Crusaders,proper_noun,2,decide,,pending,,Find the Crescent Tags of the Fallen Crusaders.
+Undead Woman,proper_noun,2,decide,,pending,,Find the ring for the Undead Woman.
+Aleria Hawthorne,proper_noun,2,decide,,pending,,Search Shoreditch Prison for information regarding Aleria Hawthorne.
+Aleria's,proper_noun,2,decide,,pending,,Tell Lotte the news about Aleria's escape.
+Updated,proper_noun,2,decide,,pending,,"Last Updated: February 3, 2026
+
+Your privacy is important to us. This Privacy Statement (“"
+Mobile,proper_noun,2,decide,,pending,,"Last Updated: February 3, 2026
+
+Your privacy is important to us. This Privacy Statement (“"
+Our Disclosure,proper_noun,2,decide,,pending,,"Last Updated: February 3, 2026
+
+Your privacy is important to us. This Privacy Statement (“"
+Personal Data,proper_noun,2,decide,,pending,,"Last Updated: February 3, 2026
+
+Your privacy is important to us. This Privacy Statement (“"
+Product,proper_noun,2,decide,,pending,,"Last Updated: February 3, 2026
+
+Your privacy is important to us. This Privacy Statement (“"
+Communications,proper_noun,2,decide,,pending,,"Last Updated: February 3, 2026
+
+Your privacy is important to us. This Privacy Statement (“"
+Control,proper_noun,2,decide,,pending,,"Last Updated: February 3, 2026
+
+Your privacy is important to us. This Privacy Statement (“"
+Google Analytics,proper_noun,2,decide,,pending,,"Last Updated: February 3, 2026
+
+Your privacy is important to us. This Privacy Statement (“"
+Finally,proper_noun,2,decide,,pending,,"Last Updated: February 3, 2026
+
+Your privacy is important to us. This Privacy Statement (“"
+Discord,proper_noun,2,decide,,pending,,"Last Updated: February 3, 2026
+
+Your privacy is important to us. This Privacy Statement (“"
+Targeted,proper_noun,2,decide,,pending,,"Last Updated: February 3, 2026
+
+Your privacy is important to us. This Privacy Statement (“"
+Canada,proper_noun,2,decide,,pending,,"Last Updated: February 3, 2026
+
+Your privacy is important to us. This Privacy Statement (“"
+Further,proper_noun,2,decide,,pending,,"Last Updated: February 3, 2026
+
+Your privacy is important to us. This Privacy Statement (“"
+California,proper_noun,2,decide,,pending,,"Last Updated: February 3, 2026
+
+Your privacy is important to us. This Privacy Statement (“"
+Do Not Sell,proper_noun,2,decide,,pending,,"Last Updated: February 3, 2026
+
+Your privacy is important to us. This Privacy Statement (“"
+California Customers,proper_noun,2,decide,,pending,,"Last Updated: February 3, 2026
+
+Your privacy is important to us. This Privacy Statement (“"
+European Commission,proper_noun,2,decide,,pending,,"Last Updated: February 3, 2026
+
+Your privacy is important to us. This Privacy Statement (“"
+Out Procedures,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+License,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Nintendo,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Nintendo Purchase,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Subscription Terms,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Users,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Purchase,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Sony Interactive Entertainment America,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Sony Interactive Entertainment Network,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Europe Limited,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Restrictions,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Device,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Microsoft,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Warranty,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Representatives,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Liability,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Export,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Department's,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Specially Designated Nationals,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Commerce Denied Person's List,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Entity List,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Compliance,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Effective Date,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Terms,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Modifications,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Federal Arbitration Act,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Rules,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Severability,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Opt Out Procedures,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+State of Delaware,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Tarrant County,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Texas,proper_noun,2,decide,,pending,,YOU MUST BE OVER THE AGE OF 18 YEARS OR THE AGE OF MAJORITY IN THE COUNTRY OR STATE IN WHI
+Friends,proper_noun,2,decide,,pending,,Add Friends
+Ruin of Kingdoms,proper_noun,2,decide,,pending,,Corroded Ruin of Kingdoms
+Pagan Artifacts,proper_noun,2,decide,,pending,,Find Pagan Artifacts for the Librarian
+Walltower,proper_noun,2,decide,,pending,,"Forge a weapon from the Soul Energy of E'frae The Dry Rot King. Search Forsaken Streets, R"
+Mereda's,proper_noun,2,decide,,pending,,Learn about Mereda's past.
+Cipher,proper_noun,2,decide,,pending,,Mereda is convinced that the document you found her has a secret message encrypted in its 
+Topic,proper_noun,2,decide,,pending,,Quest Topic
+Eye of The Abyss,proper_noun,2,decide,,pending,,The Eye of The Abyss
+Last Altered Ledger,proper_noun,2,decide,,pending,,The Last Altered Ledger
+Covenant Clerics,proper_noun,2,decide,,pending,,"A heater shield carried by Covenant Clerics, the warrior-priests of the Crusader corps.
+
+T"
+Stagkin,proper_noun,2,decide,,pending,,"A shield of woven antler and root, knotted by the Stagkin in better times.
+
+Their god has "
+The Revenant,proper_noun,2,decide,,pending,,"An accursed shield, once thought to be lost to legend.
+
+The Revenant of Gildeus haunted de"
+Champions,proper_noun,2,decide,,pending,,"Shield forged for Champions. Nephilim heroes from the Armaean citystate of Litinstang.
+
+Th"
+Divine Throne,proper_noun,2,decide,,pending,,"The Lunar Sentinels harken to a time before Lunarin's ascendance to the Divine Throne.
+
+An"
+BoonName,proper_noun,2,decide,,pending,,A ring granting the {BoonName} boon.
+Angelic Strength,proper_noun,2,decide,,pending,,Amulet of Angelic Strength
+Cleansing Pestilence,proper_noun,2,decide,,pending,,Amulet of Cleansing Pestilence
+Crusader's Frost,proper_noun,2,decide,,pending,,Amulet of Crusader's Frost
+Crusader's Might,proper_noun,2,decide,,pending,,Amulet of Crusader's Might
+Divine Mandate,proper_noun,2,decide,,pending,,Amulet of Divine Mandate
+Purging Fire,proper_noun,2,decide,,pending,,Amulet of Purging Fire
+Reaper's Respite,proper_noun,2,decide,,pending,,Amulet of Reaper's Respite
+Guardian Angel,proper_noun,2,decide,,pending,,Amulet of the Guardian Angel
+Vow of Retribution,proper_noun,2,decide,,pending,,Amulet of the Vow of Retribution
+Cut,proper_noun,2,decide,,pending,,Cruelest Cut
+Helden Steppes,proper_noun,2,decide,,pending,,"Grants the Death Ward boon.
+
+This gilded phylactory was found in a looted long barrow in t"
+Relict of Recovery,proper_noun,2,decide,,pending,,"Grants the Font of Light boon.
+
+Long have there been legends of ancient relicts, used by t"
+Frozen Vow,proper_noun,2,decide,,pending,,Grants the Frozen Vow boon
+Judgment of Winter,proper_noun,2,decide,,pending,,Grants the Judgment of Winter boon
+Sanctified Rhythm,proper_noun,2,decide,,pending,,Grants the Sanctified Rhythm boon
+Sanguine Strike,proper_noun,2,decide,,pending,,Grants the Sanguine Strike boon
+Sunfire Aegis,proper_noun,2,decide,,pending,,Grants the Sunfire Aegis boon
+Toxic Strike,proper_noun,2,decide,,pending,,Grants the Toxic Strike boon
+Equipment,proper_noun,2,decide,,pending,,Buy Equipment
+World Boss,proper_noun,2,decide,,pending,,Enter Gildenarch and battle through random districts to reach the World Boss and acquire a
+Gilded Ward,proper_noun,2,decide,,pending,,"In the northernmost section of Gildenarch lies the city's Gilded Ward. Where mighty walls,"
+Modifiers,proper_noun,2,decide,,pending,,Mission Modifiers
+Lore Scrolls Found,proper_noun,2,decide,,pending,,X of 10 Lore Scrolls Found.
+Crushing,proper_noun,2,decide,,pending,,Blast forward with your shield and deal Crushing damage.
+Magic,proper_noun,2,decide,,pending,,Fires projectiles in all directions dealing Magic damage and knocking away enemies.
+Blast,proper_noun,2,decide,,pending,,Purifying Blast
+Sanctus Pyre,proper_noun,2,decide,,pending,,"A Sanctus Pyre, its blade hacked to a charred spike and the wielder presumably with it.
+
+T"
+Although,proper_noun,2,decide,,pending,,"A corrupted blade forged from the bones of an ancient beast.
+
+The tragic corruption of the"
+Solomon's,proper_noun,2,decide,,pending,,"A long ceremonial staff carried by Cardinals of the Lunitarian Church, hafted for both rit"
+Broadsword,proper_noun,2,decide,,pending,,Fiery Broadsword
+PlayerName,proper_noun,2,decide,,pending,,{PlayerName} joined the lobby.
+MonsterAccount,proper_noun,2,decide,,pending,,No MonsterAccount for this player
+Rams-horn,proper_noun,2,decide,,pending,,It appears Rams-horn is well fortified.
+Hellrfits,proper_noun,2,decide,,pending,,Keep an eye out for any Hellrfits.
+Valahk-Nor,proper_noun,2,decide,,pending,,Take pleasure in the opportunity to slay Valahk-Nor once more!
+Captain's,proper_noun,2,decide,,pending,,The Captain's dead.
+Cathedral's,proper_noun,2,decide,,pending,,The Cathedral's new inhabitants seek to send a message.
+Archbishop's,proper_noun,2,decide,,pending,,"The concentration of soul energy stems from Archbishop's offices,"
+Archives,proper_noun,2,decide,,pending,,These Archives are known to house some of the
+Pack,proper_noun,2,decide,,pending,,By Vodor and Pack in the sky!
+Karsivites,proper_noun,2,decide,,pending,,Dragon bones were highly sought after by Karsivites.
+Lady Vodor,proper_noun,2,decide,,pending,,Gajov owes Lady Vodor.
+Cardinal's,proper_noun,2,decide,,pending,,Gajov seen many clergy fall victim to vampirism. Many by his own fangs. Hmm. The Cardinal'
+Throne of Flesh,proper_noun,2,decide,,pending,,I've seen him resting upon a Throne of Flesh and Bone.
+Flower Folk,proper_noun,2,decide,,pending,,Started with them Flower Folk.
+Chruch,proper_noun,2,decide,,pending,,"I may be damned, but you have potential to save us all. Show the Chruch that there is noth"
+Dogma of Two Souls,proper_noun,2,decide,,pending,,The Lunitarians feared the Nephilim. Thus we shackled your souls and brainwashed your kind
+Nachstahl Steel,proper_noun,2,decide,,pending,,"Before Nachstahl Steel took over,"
+Caldewels,proper_noun,2,decide,,pending,,"Had a habit of finding myself in this box. Before Nachstahl Steel took over, back when thi"
+Stone,proper_noun,2,decide,,pending,,Excellent work Paladin! Now it's onto the... Is everything alright? You seem... disturbed.
+First Stone,proper_noun,2,decide,,pending,,The First Stone is secured.
+GildedWard,proper_noun,2,decide,,pending,,The GildedWard.
+Legions of Angels,proper_noun,2,decide,,pending,,And he so rests upon the Throne commanding Legions of Angels in service of man's potential
+Dragon's Fire,proper_noun,2,decide,,pending,,And he so rests upon the Throne commanding Legions of Angels in service of man's potential
+Fallen Lords,proper_noun,2,decide,,pending,,"For the Dead Gods cry, and the Fallen Lords lie."
+Faith's,proper_noun,2,decide,,pending,,I am told this is the Order's business and not the Faith's.
+Crusade,proper_noun,2,decide,,pending,,I served as a novice under Gallant's command in the last days of the Crusade.
+Sunday,proper_noun,2,decide,,pending,,The Commander knelt in chapel last Sunday.
+Commander's,proper_noun,2,decide,,pending,,The Knight is much in the Commander's company.
+Killed,proper_noun,2,decide,,pending,,...Killed you? Terribly sorry dear. Sorry indeed.
+Cain's Crusade,proper_noun,2,decide,,pending,,After Cain's Crusade 
+Aemar River,proper_noun,2,decide,,pending,,"Ah... scrolls from the Southern Ward. The oldest quarter of Gildeus, settled long ago alon"
+The Lost Epistles,proper_noun,2,decide,,pending,,"Ahh, The Lost Epistles of the Grey Prophet. Hmm."
+Grey Prophet,proper_noun,2,decide,,pending,,"Ahh, The Lost Epistles of the Grey Prophet. Hmm."
+Lord Cain,proper_noun,2,decide,,pending,,An age that ended when fell Lord Cain
+Valkiel,proper_noun,2,decide,,pending,,"Belonged to Valkiel,"
+Golden Age,proper_noun,2,decide,,pending,,"Long ago, we lived under a Golden Age."
+Crypt,proper_noun,2,decide,,pending,,One in the Cathedral. One in the Crypt.
+Desolation,proper_noun,2,decide,,pending,,What am I reading? You're curious for a Nephilim. 'Tis a story about the Infernal Legion. 
+Lotte'd,proper_noun,2,decide,,pending,,First Abraxas Stone in the bag. Ol' Lotte'd pay good coin to get his hands on a rock like 
+Chap,proper_noun,2,decide,,pending,,"Hey Chap,"
+Ol,proper_noun,2,decide,,pending,,"Hey Chap, you’ve done me a nice turn with that Locket. Perhaps I’ll trouble you again? I w"
+Aleria Hawthorn,proper_noun,2,decide,,pending,,In Shoreditch there should be some information on where a woman named Aleria Hawthorn was 
+Toffs Elk Grove,proper_noun,2,decide,,pending,,Its Rumor is some Toffs Elk Grove last had it.
+Hellrifts,proper_noun,2,decide,,pending,,"Spendin' a lot of time in Hellrifts,"
+Archspire-grade,proper_noun,2,decide,,pending,,That's Archspire-grade work right there.
+Well,proper_noun,2,decide,,pending,,(laughs) Well done!
+The Dead Gods Cry,proper_noun,2,decide,,pending,,For The Dead Gods Cry and the Fallen Lords Lie.
+Fallen Lords Lie,proper_noun,2,decide,,pending,,For The Dead Gods Cry and the Fallen Lords Lie.
+Saint Uriel,proper_noun,2,decide,,pending,,I know the Church's secrets well because I was once a member of the cloth long ago. I was 
+Kind,proper_noun,2,decide,,pending,,I know the Church's secrets well because I was once a member of the cloth long ago. I was 
+Virtue,proper_noun,2,decide,,pending,,I know the Church's secrets well because I was once a member of the cloth long ago. I was 
+Deliliah,proper_noun,2,decide,,pending,,My faith died on the pyre with my dearest Deliliah.
+Suffering of Two Souls,proper_noun,2,decide,,pending,,The Suffering of Two Souls.
+Greaves,mechanic,53,translate,,pending,,
+Helmet,mechanic,50,translate,,pending,,
+Gauntlets,mechanic,49,translate,,pending,,
+Divine,mechanic,48,translate,,pending,,
+Mana,mechanic,47,translate,,pending,,
+Cuirass,mechanic,46,translate,,pending,,
+Stamina,mechanic,42,translate,,pending,,
+Parry,mechanic,35,translate,,pending,,
+Bounty,mechanic,34,translate,,pending,,
+Weapon Art,mechanic,32,translate,,pending,,
+Mission,mechanic,31,translate,,pending,,
+Heavy Attack,mechanic,26,translate,,pending,,
+Angelic Grace,mechanic,24,translate,,pending,,
+Angel Ascension,mechanic,23,translate,,pending,,
+Nexus Gate,mechanic,22,translate,,pending,,
+War Table,mechanic,22,translate,,pending,,
+Light Attack,mechanic,21,translate,,pending,,
+Holy,mechanic,20,translate,,pending,,
+Loadout,mechanic,14,translate,,pending,,
+Abraxas Stone,mechanic,14,translate,,pending,,
+Max Health,mechanic,13,translate,,pending,,
+Hellgrowth,mechanic,12,translate,,pending,,
+Skulls,mechanic,12,translate,,pending,,
+Soul Energy,mechanic,12,translate,,pending,,
+Boon,mechanic,10,translate,,pending,,
+Dodge,mechanic,10,translate,,pending,,
+Boons,mechanic,9,translate,,pending,,
+Corruption,mechanic,8,translate,,pending,,
+Hellrift,mechanic,8,translate,,pending,,
+Weapon Arts,mechanic,8,translate,,pending,,
+Purified,mechanic,7,translate,,pending,,
+Abraxas Stones,mechanic,7,translate,,pending,,
+Grace,mechanic,6,translate,,pending,,
+Trinket,mechanic,6,translate,,pending,,
+Sigils,mechanic,5,translate,,pending,,
+Sigil,mechanic,5,translate,,pending,,
+Purify,mechanic,4,translate,,pending,,
+Infernal Energy,mechanic,4,translate,,pending,,
+Angel Sense,mechanic,3,translate,,pending,,
+Bounties,mechanic,3,translate,,pending,,
+Trinkets,mechanic,3,translate,,pending,,
+Aether,mechanic,1,translate,,pending,,
+Purifier,mechanic,1,translate,,pending,,
+Excursion,mechanic,1,translate,,pending,,
+Skull,mechanic,1,translate,,pending,,
+Purifying,mechanic,1,translate,,pending,,
