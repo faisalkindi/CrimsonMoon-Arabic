@@ -1,8 +1,8 @@
 <p align="center"><a href="https://ko-fi.com/kindiboy"><img src="https://img.shields.io/badge/Ko--fi-%D8%A3%D8%B9%D8%AC%D8%A8%D9%83%20%D8%A7%D9%84%D8%AA%D8%B9%D8%B1%D9%8A%D8%A8%D8%9F%20%D8%A7%D8%AF%D8%B9%D9%85%D9%86%D9%8A%20%D8%B9%D9%84%D9%89%20Ko--fi-ff5f5f?style=for-the-badge&logo=kofi&logoColor=white" alt="Support on Ko-fi"></a></p>
 
-<p align="center"><img src="release/media/01_header_1400x400.jpg" alt="Crimson Moon — التعريب العربي الكامل" width="100%"></p>
+<p align="center"><img src="release/media/01_header_1400x400.jpg" alt="Crimson Moon — التعريب الكامل" width="100%"></p>
 
-<h1 align="center">Crimson Moon — التعريب العربي الكامل</h1>
+<h1 align="center">Crimson Moon — التعريب الكامل</h1>
 <p align="center">Complete Arabic localization for <b>Crimson Moon</b> (Steam) · تعريب كامل للعبة</p>
 
 <p align="center">

@@ -295,7 +295,7 @@ namespace CrimsonMoonArabic
 
             var subtitle = new Label
             {
-                Text = "التعريب العربي الكامل", Font = Ui.F(18f, FontStyle.Bold), ForeColor = Ui.Gold,
+                Text = "التعريب الكامل", Font = Ui.F(18f, FontStyle.Bold), ForeColor = Ui.Gold,
                 AutoSize = false, UseCompatibleTextRendering = true, TextAlign = ContentAlignment.MiddleCenter,
                 Size = new Size(ClientSize.Width, 58), Location = new Point(0, 242), BackColor = Color.Transparent
             };

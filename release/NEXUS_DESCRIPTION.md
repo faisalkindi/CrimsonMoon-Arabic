@@ -1,4 +1,4 @@
-# Crimson Moon — Arabic Localization / التعريب العربي الكامل
+# Crimson Moon — Arabic Localization / التعريب الكامل
 
 ## العربية
 
